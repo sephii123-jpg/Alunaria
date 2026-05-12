@@ -1,0 +1,616 @@
+{
+  "Credit": {
+    "name": "Credit",
+    "category": "Currency",
+    "description": "The universal digital currency used across all major civilizations. Credits are stored on encrypted chits, transferred through neural link transactions, or tracked on personal datapads",
+    "bonuses": []
+  },
+  "Tactical Jumpsuit": {
+    "name": "Tactical Jumpsuit",
+    "category": "Armor",
+    "description": "A fitted synthetic-weave bodysuit with reinforced panels at vital points. Light enough to wear under other clothing, tough enough to stop a glancing blade.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Tactical Visor": {
+    "name": "Tactical Visor",
+    "category": "Armor",
+    "description": "A lightweight heads-up display visor with low-light amplification and basic threat highlighting. Straps adjust for any head shape including muzzles and antennae.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Combat Gloves": {
+    "name": "Combat Gloves",
+    "category": "Armor",
+    "description": "Reinforced knuckle plating over flexible synthetic mesh. Touchscreen-compatible fingertips. Grip pads on palms and fingers.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Tactical Pants": {
+    "name": "Tactical Pants",
+    "category": "Armor",
+    "description": "Reinforced trousers with knee padding, cargo pockets, and abrasion-resistant weave at stress points. Cut to allow full range of movement.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Combat Boots": {
+    "name": "Combat Boots",
+    "category": "Armor",
+    "description": "Ankle-supporting boots with composite toe caps, treaded soles, and sealed seams. Standard issue across every military in the galaxy.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Utility Harness": {
+    "name": "Utility Harness",
+    "category": "Armor",
+    "description": "A modular chest and shoulder harness with attachment points for pouches, holsters, and equipment clips. Distributes carried weight across the torso.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Composite Vest": {
+    "name": "Composite Vest",
+    "category": "Armor",
+    "description": "Layered composite plating over ballistic mesh covering torso and upper arms. Absorbs gauss rounds and diffuses energy weapon hits. Standard military protection.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 5
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "body"
+  },
+  "Ballistic Helmet": {
+    "name": "Ballistic Helmet",
+    "category": "Armor",
+    "description": "A full-coverage combat helmet with integrated comms, visor display, and composite shell rated for small arms fire. Padding adjusts for most species.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "head"
+  },
+  "Armored Gauntlets": {
+    "name": "Armored Gauntlets",
+    "category": "Armor",
+    "description": "Forearm-length gauntlets with composite plating over the back of the hand and wrist. Articulated finger joints maintain full dexterity.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "hands"
+  },
+  "Armored Leggings": {
+    "name": "Armored Leggings",
+    "category": "Armor",
+    "description": "Composite shin and thigh plates mounted on ballistic-weave trousers. Knee joints are reinforced but articulated for mobility.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "legs"
+  },
+  "Armored Boots": {
+    "name": "Armored Boots",
+    "category": "Armor",
+    "description": "Heavy-soled boots with composite plating over the ankle and shin. Magnetic clamp option for zero-g environments.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "feet"
+  },
+  "Tactical Cloak": {
+    "name": "Tactical Cloak",
+    "category": "Armor",
+    "description": "A treated fabric cloak with thermal dampening weave that reduces infrared signature. Doubles as a shelter half in the field.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "cloak"
+  },
+  "Powered Cuirass": {
+    "name": "Powered Cuirass",
+    "category": "Armor",
+    "description": "A servo-assisted torso shell of layered composite and reactive plating. Powered joints compensate for weight but the bulk is unmistakable. Rated for sustained gauss fire and glancing mech-grade impacts.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 9
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -3
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -3
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "body"
+  },
+  "Powered Helm": {
+    "name": "Powered Helm",
+    "category": "Armor",
+    "description": "A sealed full-face helmet with filtered air, enhanced optics, integrated comms suite, and composite shell rated for direct hits. Field of view is restricted.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "head"
+  },
+  "Powered Gauntlets": {
+    "name": "Powered Gauntlets",
+    "category": "Armor",
+    "description": "Servo-assisted armored gauntlets that amplify grip strength and protect the hands with layered composite. Bulky but devastating in a fistfight.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "hands"
+  },
+  "Powered Greaves": {
+    "name": "Powered Greaves",
+    "category": "Armor",
+    "description": "Full leg enclosure from hip to ankle with servo-assisted knee and hip joints. Composite plating over reactive underlayer absorbs explosive fragmentation.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "legs"
+  },
+  "Powered Boots": {
+    "name": "Powered Boots",
+    "category": "Armor",
+    "description": "Mag-locked heavy boots with composite armor, servo-assisted ankles, and treads that grip any surface. The footfall is audible from two corridors away.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "feet"
+  },
+  "Siege Harness": {
+    "name": "Siege Harness",
+    "category": "Armor",
+    "description": "A back-mounted support frame distributing the weight of powered armor across the spine and hips. Includes mounting points for heavy weapon stabilization.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 1
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "cloak"
+  },
+  "Gauss Rifle": {
+    "name": "Gauss Rifle",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Piercing\n\nA magnetic accelerator rifle firing ferromagnetic slugs at hypersonic velocity. Standard infantry weapon across all major militaries. Reliable, accurate at medium range, and simple to maintain. The recoil is sharp but predictable.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Gauss Pistol": {
+    "name": "Gauss Pistol",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Piercing\n\nA compact magnetic accelerator sidearm. Lower velocity than a rifle but concealable and quick to draw. The universal backup weapon -- everyone from officers to mechanics carries one.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Laser Rifle": {
+    "name": "Laser Rifle",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Laser\n\nA directed-energy weapon firing concentrated light pulses that burn through armor at the point of impact. No recoil, no ammunition -- but the power cell depletes under sustained fire and heat buildup limits rate of fire.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Laser Pistol": {
+    "name": "Laser Pistol",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Laser\n\nA compact directed-energy sidearm. Clean, quiet, and accurate at close range. Limited by power cell capacity and inability to penetrate heavy armor. Popular with officers and civilians who value discretion.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Rocket Launcher": {
+    "name": "Rocket Launcher",
+    "category": "Weapon",
+    "description": "Primary Skill: Heavy Weapons (Strength)\n\nDamage Type: Explosive\n\nA shoulder-fired guided missile launcher carrying two tubes of anti-armor warheads. The backblast clears a cone behind the shooter. Devastating against vehicles and fortifications, impractical in confined spaces.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Squad Automatic Gauss": {
+    "name": "Squad Automatic Gauss",
+    "category": "Weapon",
+    "description": "Primary Skill: Heavy Weapons (Strength)\n\nDamage Type: Piercing\n\nA belt-fed magnetic accelerator designed for sustained suppressive fire. Heavy enough to require a bipod or powered armor mount for accurate sustained use. Chews through ammunition and eardrums in equal measure.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Vibroblade": {
+    "name": "Vibroblade",
+    "category": "Weapon",
+    "description": "Primary Skill: Martial Weapons (Strength)\n\nDamage Type: Slashing\n\nA single-edged blade with a high-frequency oscillator in the hilt that vibrates the edge thousands of times per second, allowing it to cut through materials far tougher than a conventional edge could manage. Standard-issue melee sidearm for Dominion infantry.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Combat Baton": {
+    "name": "Combat Baton",
+    "category": "Weapon",
+    "description": "Primary Skill: Martial Weapons (Strength)\n\nDamage Type: Bludgeoning\n\nA reinforced alloy baton with a weighted striking head. No moving parts, no power cells, nothing to break. Used by security forces, military police, and anyone who needs to put someone down without killing them.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Chainsword": {
+    "name": "Chainsword",
+    "category": "Weapon",
+    "description": "Primary Skill: Great Weapons (Strength)\n\nDamage Type: Slashing\n\nA two-handed blade housing a loop of motorized serrated teeth that tear through armor and flesh with grinding mechanical violence. Loud, heavy, and unmistakable. The weapon of choice for boarding actions and close-quarters specialists who want the other side to hear them coming.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Power Hammer": {
+    "name": "Power Hammer",
+    "category": "Weapon",
+    "description": "Primary Skill: Great Weapons (Strength)\n\nDamage Type: Bludgeoning\n\nA two-handed maul with a kinetic discharge head that stores impact energy and releases it on contact in a concussive blast. Shatters composite plating and throws targets off their feet. Slow to swing but nothing it hits gets up quickly.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Mono-Knife": {
+    "name": "Mono-Knife",
+    "category": "Weapon",
+    "description": "Primary Skill: Agile Weapons (Dexterity)\n\nDamage Type: Piercing\n\nA combat knife with a monomolecular edge that cuts on a molecular level. Light, fast, and capable of slicing through body armor at joints and weak points. The preferred sidearm of scouts and special operators.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Shock Dagger": {
+    "name": "Shock Dagger",
+    "category": "Weapon",
+    "description": "Primary Skill: Agile Weapons (Dexterity)\n\nDamage Type: Lightning\n\nA short blade with an integrated capacitor that delivers a disabling electrical discharge on contact. The shock interrupts muscle control and neural links. Effective against both biological targets and lightly shielded electronics.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Power Knuckles": {
+    "name": "Power Knuckles",
+    "category": "Weapon",
+    "description": "Primary Skill: Brawling (Strength)\n\nDamage Type: Bludgeoning\n\nReinforced alloy knuckles with kinetic discharge pads that amplify punch force with a concussive burst on impact. The discharge cracks composite armor and sends unarmored targets sprawling. Simple, brutal, and effective.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Resonance Blade": {
+    "name": "Resonance Blade",
+    "category": "Weapon",
+    "description": "Primary Skill: Magitech (Intelligence)\n\nDamage Type: Arcane\n\nA Lunarian-designed sword with crystalline conduits woven through the blade that channel arcane energy into every strike. The edge glows with contained magical force that bypasses conventional shielding. Requires magical aptitude to activate.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Magitech Pistol": {
+    "name": "Magitech Pistol",
+    "category": "Weapon",
+    "description": "Primary Skill: Magitech (Intelligence)\n\nDamage Type: Arcane\n\nA compact Lunarian sidearm that fires focused bolts of arcane energy. No ammunition -- powered by the wielder's magical resonance channeled through a crystalline lens array. Accurate, elegant, and useless in non-magical hands.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Arcane Focus": {
+    "name": "Arcane Focus",
+    "category": "Weapon",
+    "description": "Primary Skill: Magic (Intelligence)\n\nDamage Type: Arcane\n\nA crystalline rod attuned to the wielder's bioelectric field, amplifying and focusing magical energy into directed effects. Essential equipment for any practicing mage. The crystal resonates visibly when channeling power.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Ethereal Focus": {
+    "name": "Ethereal Focus",
+    "category": "Weapon",
+    "description": "Primary Skill: Ethereal Arts (Intelligence)\n\nDamage Type: Arcane\n\nA translucent crystalline orb that pulses with inner light, serving as a conduit for ethereal dimensional energy. The orb responds to the wielder's emotional state, glowing brighter with focused intent. Useless to anyone without ethereal attunement.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Frag Grenade": {
+    "name": "Frag Grenade",
+    "category": "Consumable",
+    "description": "A standard fragmentation grenade that detonates into a sphere of high-velocity metal shrapnel. Lethal within five meters, dangerous at ten. Pull pin, throw, find cover.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Flashbang": {
+    "name": "Flashbang",
+    "category": "Consumable",
+    "description": "A non-lethal grenade producing a blinding flash and deafening concussive blast designed to disorient targets. Effective against biological and optical sensor systems alike.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Smoke Grenade": {
+    "name": "Smoke Grenade",
+    "category": "Consumable",
+    "description": "A canister that deploys a dense cloud of opaque particulate obscuring visual and infrared detection. Provides concealment for movement or retreat. Lasts approximately thirty seconds.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "EMP Grenade": {
+    "name": "EMP Grenade",
+    "category": "Consumable",
+    "description": "An electromagnetic pulse device that disables unshielded electronics, scrambles targeting systems, and temporarily disrupts neural link connections within its blast radius. Expensive and restricted.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Gauss Carbine": {
+    "name": "Gauss Carbine",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Piercing\n\nA shortened magnetic accelerator optimized for close-quarters engagements and shipboard combat. Sacrifices range and muzzle velocity for faster handling, lighter weight, and better maneuverability in confined spaces. Preferred by boarding teams and vehicle crews.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Gauss Sniper": {
+    "name": "Gauss Sniper",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Piercing\n\nA long-barreled precision magnetic accelerator with enhanced optics and stabilization systems. Fires heavy ferromagnetic penetrators at extreme velocity. Effective at ranges where standard gauss rifles lose accuracy. Slow to cycle and impractical inside buildings.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Plasma Pistol": {
+    "name": "Plasma Pistol",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Plasma\n\nA compact sidearm firing contained plasma bolts that burn through armor on contact. Short effective range due to plasma coherence decay. Each shot drains the power cell significantly, limiting sustained fire. Officers and specialists carry these when stopping power matters more than ammunition count.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Plasma Rifle": {
+    "name": "Plasma Rifle",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Plasma\n\nA shoulder-fired plasma weapon delivering superheated bolts that melt through composite armor and energy shields alike. Heavier and slower to fire than gauss weapons but devastating against armored targets. Power cell capacity limits sustained use. The Hegemony fields more plasma rifles than any other faction.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Laser Carbine": {
+    "name": "Laser Carbine",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Laser\n\nA compact directed-energy weapon with a shortened barrel and reduced power cell. Faster pulse rate than a full laser rifle but reduced range and penetration. Silent, recoilless, and light enough for extended carry. Popular with scouts and covert operators.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Scatter Pistol": {
+    "name": "Scatter Pistol",
+    "category": "Weapon",
+    "description": "Primary Skill: Small Arms (Dexterity)\n\nDamage Type: Piercing\n\nA short-barreled gauss weapon firing a spread of micro-flechettes in a wide cone. Devastating at point-blank range against unarmored targets, nearly useless beyond ten meters. The weapon of choice for close-quarters ambushes and desperate last stands.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Grenade Launcher": {
+    "name": "Grenade Launcher",
+    "category": "Weapon",
+    "description": "Primary Skill: Heavy Weapons (Strength)\n\nDamage Type: Explosive\n\nA revolving-cylinder launcher firing programmable grenades at medium range -- fragmentation, incendiary, smoke, or EMP depending on loaded munitions. Versatile area-denial weapon effective against infantry concentrations and light vehicles. Bulky and slow to reload.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Anti-Material Rifle": {
+    "name": "Anti-Material Rifle",
+    "category": "Weapon",
+    "description": "Primary Skill: Heavy Weapons (Strength)\n\nDamage Type: Piercing\n\nA massive magnetic accelerator firing armor-piercing penetrators designed to defeat vehicle-grade composite plating. Effective against APCs, light mechs, and fortified positions at extreme range. The recoil requires prone firing position or powered armor stabilization. Single-shot cycling. Not an infantry weapon -- this kills what infantry cannot.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Plasma Cutter": {
+    "name": "Plasma Cutter",
+    "category": "Weapon",
+    "description": "Primary Skill: Heavy Weapons (Strength)\n\nDamage Type: Plasma\n\nAn industrial cutting tool repurposed for combat -- fires a short-range stream of plasma that melts through armor, bulkheads, and anything else in its path. Effective range under five meters. Originally designed for ship hull maintenance, it found a second career in boarding operations where doors and walls are just suggestions.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Arc Blade": {
+    "name": "Arc Blade",
+    "category": "Weapon",
+    "description": "Primary Skill: Agile Weapons (Dexterity)\n\nDamage Type: Lightning\n\nA slim curved blade with an integrated arc generator that sheathes the cutting edge in crackling electrical discharge. Cuts flesh and shorts electronics simultaneously. Lighter than a vibroblade, faster to draw, and the electrical component disrupts neural links and cybernetic systems on contact.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Thermal Lance": {
+    "name": "Thermal Lance",
+    "category": "Weapon",
+    "description": "Primary Skill: Great Weapons (Strength)\n\nDamage Type: Plasma\n\nA two-handed polearm weapon with a plasma-edged head that generates a sustained cutting beam hot enough to slice through mech armor. Slow and unwieldy but nothing short of a starship hull stops the blade. Requires a backpack power unit. Used by heavy assault specialists in boarding actions.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Magitech Rifle": {
+    "name": "Magitech Rifle",
+    "category": "Weapon",
+    "description": "Primary Skill: Magitech (Intelligence)\n\nDamage Type: Arcane\n\nA Lunarian-designed long-barreled weapon channeling arcane energy through a crystalline lens array into focused bolts at medium to long range. More powerful and accurate than the magitech pistol but requires both hands and sustained magical resonance from the wielder. The crystalline barrel glows brighter with each shot.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Plasma Grenade": {
+    "name": "Plasma Grenade",
+    "category": "Consumable",
+    "description": "A heavy magnetic-containment grenade that releases a short-lived plasma burst on detonation. The blast fuses metal, melts composite armor, and incinerates anything biological within the radius. Priced and regulated like a weapon of war -- restricted to military forces and licensed mercenary companies in most jurisdictions. A single grenade will cripple a light mech if it lands clean.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Krak Grenade": {
+    "name": "Krak Grenade",
+    "category": "Consumable",
+    "description": "A shaped-charge anti-armor grenade designed to be thrown, stuck, or placed against a hard surface before detonation. The directed blast punches through vehicle plating, bulkheads, and reinforced doors. Largely wasted on infantry targets -- the blast is narrow and forward-focused. Standard breaching tool for boarding actions and armored engagements.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Field Stimpak": {
+    "name": "Field Stimpak",
+    "category": "Consumable",
+    "description": "A single-use auto-injector the size of a pen, loaded with coagulants, synthetic platelets, and a mild pain blocker. Pressed against exposed skin and triggered with a thumb-click, it seals small cuts, stops bleeding from shallow wounds, and dulls the edge of minor burns. Standard loadout for every trooper, dockhand, and smart civilian in a rough neighborhood. Restores 20% of maximum health.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Combat Stimpak": {
+    "name": "Combat Stimpak",
+    "category": "Consumable",
+    "description": "A heavier auto-injector carrying a military-grade cocktail of rapid-bonding synthskin, broad-spectrum antibiotics, and a neural painkiller calibrated for combat use. Will close a gunshot channel, stabilize a broken rib, or bring someone back from shock long enough to keep fighting. Issued to frontline infantry across every major military. Restores 30% of maximum health.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Trauma Stimpak": {
+    "name": "Trauma Stimpak",
+    "category": "Consumable",
+    "description": "A thick injector loaded with surgical-grade nanite sealant, bone-knitting catalysts, and a layered stimulant-and-analgesic blend that flushes a serious casualty back toward functional in under a minute. Intended for severe penetrating wounds, shrapnel trauma, and deep burns -- the kind of injury that would put an untreated fighter down for weeks. Expensive enough that quartermasters count them by the unit. Restores 40% of maximum health.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Combat Medikit": {
+    "name": "Combat Medikit",
+    "category": "Consumable",
+    "description": "A full trauma kit carried in a hard-shell case the size of a thick paperback. Contains synthetic blood, organ stabilizers, a powered bone setter, broad-spectrum nanite gel, a surgical stapler, and a diagnostic scanner that talks the user through the procedure. With a steady hand and five clear minutes, it will pull someone back from wounds that should have killed them -- chest cavities, severed limbs, critical burns. Standard issue to medics and pilots expected to operate far from facilities. Restores 70% of maximum health.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Stimulant Patch": {
+    "name": "Stimulant Patch",
+    "category": "Consumable",
+    "description": "An adhesive dermal patch that feeds a controlled blend of stimulants and muscle-oxygen enhancers through the skin over several minutes. Clears fatigue, restores breath, and sharpens reflexes without the crash of stronger compounds. Legal, cheap, and common -- athletes use them, truckers use them, soldiers use them. Restores 20% of maximum stamina.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Combat Stimulant": {
+    "name": "Combat Stimulant",
+    "category": "Consumable",
+    "description": "A self-injecting ampule loaded with military-grade synthetic adrenaline, glucose boosters, and a reflex accelerant. Hits the bloodstream in seconds. The user's pulse spikes, pupils dilate, and muscle fatigue drops away as if it never existed. Hands shake for an hour afterward and the comedown is ugly, but for the length of a firefight the user is at peak. Restores 30% of maximum stamina.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Hyperstim Injector": {
+    "name": "Hyperstim Injector",
+    "category": "Consumable",
+    "description": "A heavy auto-injector carrying a layered cocktail of synthetic adrenaline, muscle-oxygen saturators, lactate scrubbers, and neural accelerants. Developed for special forces and mech pilots facing sustained engagements where ordinary stims are not enough. The rush is violent and the crash afterward is brutal -- users report a full day of exhaustion, tremors, and sleeplessness once it wears off. Restores 40% of maximum stamina.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Focus Patch": {
+    "name": "Focus Patch",
+    "category": "Consumable",
+    "description": "An adhesive dermal patch that feeds a calibrated blend of nootropics and arcane-reactive compounds into the bloodstream, easing mental fatigue and restoring spent focus reserves. Developed through joint Lunarian and Dominion research into sustaining magical operators in the field. Slow-release, gentle, no significant side effects. Restores 20% of maximum mana.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Focus Injector": {
+    "name": "Focus Injector",
+    "category": "Consumable",
+    "description": "A military-grade auto-injector containing a refined neurogenic compound that rapidly replenishes arcane reserves. Standard issue to combat mages and magitech operators who burn through focus in sustained engagements. Works fast -- within a breath the user feels their reserves filling back up. Leaves a sharp metallic taste in the mouth that lingers for hours. Restores 30% of maximum mana.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Neurogenic Overcharger": {
+    "name": "Neurogenic Overcharger",
+    "category": "Consumable",
+    "description": "A restricted-issue cortical injector loaded with concentrated neurogenic catalyst and arcane-active biopolymers. Floods the caster's system with focus-restoring compounds that push the nervous system well past safe operational limits. Effective, unmistakable, dangerous -- extended use damages neural tissue and in many jurisdictions civilian possession is a felony. Restores 40% of maximum mana.",
+    "bonuses": [],
+    "slot": "Consumable"
+  }
+}

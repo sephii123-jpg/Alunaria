@@ -1,0 +1,34 @@
+{
+  "attributeNames": [
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma"
+  ],
+  "lowAttributeTraits": {},
+  "maxStartingAttribute": 16,
+  "lowAttributeThreshold": 5,
+  "attributeBonusModifier": 3,
+  "attributeStatModifiers": {
+    "strength": {
+      "variable": "health",
+      "amount": 1
+    },
+    "dexterity": {
+      "variable": "stamina",
+      "amount": 1
+    },
+    "constitution": {
+      "variable": "health",
+      "amount": 1
+    },
+    "charisma": {
+      "variable": "stamina",
+      "amount": 1
+    }
+  },
+  "startingAttributeValue": 10,
+  "startingAttributePoints": 16
+}

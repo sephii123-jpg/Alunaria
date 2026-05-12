@@ -1,0 +1,158 @@
+{
+  "vehicle_enter": {
+    "name": "vehicle_enter",
+    "recurring": true,
+    "conditions": [
+      {
+        "type": "read-boolean",
+        "key": "isPiloting",
+        "operator": "notEquals",
+        "value": true
+      },
+      {
+        "type": "action",
+        "query": "The player character's direct input action expresses entering, boarding, climbing into, mounting, taking the controls of, taking the commander seat of, getting into the cockpit of, or neural-linking with any kind of combat vehicle. This includes: mechs of any class, tanks of any class, armored personnel carriers (APCs), or flying combat craft such as gunships, strike fighters, attack aircraft, interceptors, dropships, or aerospace mechs. Also includes virtual reality training simulations where the player is piloting any of the above. Does NOT include: entering civilian vehicles, entering capital starships as crew (frigates, cruisers, carriers, dreadnoughts), entering buildings, or mounting animals.",
+        "embeddingId": "mWY_su7x"
+      }
+    ],
+    "script": "var story = check({ type: 'story-text' })\nvar mechs = ['Claymore','Wraith','Bastion','Longbow','Valkyrie','Seraph','Mirage','Aegis','Tempest','Duskwing','Fang','Shade','Flash','Ranger','Bulwark','Tyrant','Ravager','Scourge','Ironscale','Warden','Specter','Phantom','Eclipse','Prism','Revenant','Harvester','Annihilator','Stalker','Corruptor','Swarm-Mother','Sentinel','Interceptor','Guardian','Citadel','Paladin','Silver Rose']\nvar vType = null\nif (/\\bmech\\b/i.test(story)) vType = 'Mech'\nelse if (/\\btank\\b|turret.*tracked|main gun|rail cannon|gunner seat|hull hatch/i.test(story)) vType = 'Tank'\nelse if (/\\bAPC\\b|armou?red personnel|troop compartment|infantry carrier|deployment ramp/i.test(story)) vType = 'APC'\nelse if (/\\bfighter\\b|\\bgunship\\b|\\baircraft\\b|\\bjet\\b|flight controls|\\binterceptor\\b|\\bbomber\\b|\\bdropship\\b|strike fighter|\\bVTOL\\b|\\baerial\\b/i.test(story)) vType = 'Aircraft'\nif (!vType) {\n  for (var k = 0; k < mechs.length; k++) {\n    if (new RegExp('\\\\b' + mechs[k] + '\\\\b', 'i').test(story)) { vType = 'Mech'; break }\n  }\n}\nif (!vType) {\n  skip = true\n  log('Vehicle entry detected but type unclear from story text')\n} else {\n  effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + vType })\n  effects.push({ type: 'player-resource', resource: 'mech health', operator: 'set', value: 250 })\n  if (vType === 'Mech') {\n    effects.push({ type: 'player-resource', resource: 'link', operator: 'set', value: 100 })\n    var found = null\n    for (var i = 0; i < mechs.length; i++) {\n      var m = mechs[i]\n      var prox = new RegExp('(your|into|board|cockpit|pilot|mount|link)\\\\W{0,20}' + m + '|' + m + '\\\\W{0,20}(cockpit|controls|neural|your)', 'i')\n      if (prox.test(story)) { found = m; break }\n    }\n    if (!found) {\n      for (var j = 0; j < mechs.length; j++) {\n        if (new RegExp('\\\\b' + mechs[j] + '\\\\b', 'i').test(story)) { found = mechs[j]; break }\n      }\n    }\n    if (found) {\n      effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + found })\n      storage.currentMech = found\n      log('Mech class detected: ' + found)\n    } else {\n      storage.currentMech = ''\n      log('Mech entry confirmed but class not identified in story text')\n    }\n  }\n  storage.vehicleType = vType\n  log('Vehicle entry: ' + vType)\n}",
+    "effects": [
+      {
+        "type": "write-boolean",
+        "key": "isPiloting",
+        "operator": "set",
+        "value": true
+      }
+    ]
+  },
+  "vehicle_enter_failsafe": {
+    "name": "vehicle_enter_failsafe",
+    "recurring": true,
+    "conditions": [
+      {
+        "type": "read-boolean",
+        "key": "isPiloting",
+        "operator": "notEquals",
+        "value": true
+      },
+      {
+        "type": "story",
+        "query": "The player character is currently piloting, operating, crewing, or riding inside a combat vehicle right now. They are actively at the controls or seated inside the machine. This includes: mechs of any class (bipedal war machines 12-35m tall controlled by neural link), tanks (tracked armored vehicles with turrets), armored personnel carriers (APCs), or flying combat craft (gunships, strike fighters, interceptors, dropships, bombers, VTOL craft). Also includes being inside a virtual reality training simulation of any of the above. Does NOT include: civilian vehicles, capital starships as crew, buildings, or animals. Does NOT match if the player is standing outside the vehicle, looking at it, talking about it, or has already exited.",
+        "embeddingId": "RZOylyN_"
+      }
+    ],
+    "script": "if (storage.vehicleType) {\n  skip = true\n} else {\n  var story = check({ type: 'story-text' })\n  var mechs = ['Claymore','Wraith','Bastion','Longbow','Valkyrie','Seraph','Mirage','Aegis','Tempest','Duskwing','Fang','Shade','Flash','Ranger','Bulwark','Tyrant','Ravager','Scourge','Ironscale','Warden','Specter','Phantom','Eclipse','Prism','Revenant','Harvester','Annihilator','Stalker','Corruptor','Swarm-Mother','Sentinel','Interceptor','Guardian','Citadel','Paladin','Silver Rose']\n  var vType = null\n  if (/\\bmech\\b/i.test(story)) vType = 'Mech'\n  else if (/\\btank\\b|turret.*tracked|main gun|rail cannon|gunner seat|hull hatch/i.test(story)) vType = 'Tank'\n  else if (/\\bAPC\\b|armou?red personnel|troop compartment|infantry carrier|deployment ramp/i.test(story)) vType = 'APC'\n  else if (/\\bfighter\\b|\\bgunship\\b|\\baircraft\\b|\\bjet\\b|flight controls|\\binterceptor\\b|\\bbomber\\b|\\bdropship\\b|strike fighter|\\bVTOL\\b|\\baerial\\b/i.test(story)) vType = 'Aircraft'\n  if (!vType) {\n    for (var k = 0; k < mechs.length; k++) {\n      if (new RegExp('\\\\b' + mechs[k] + '\\\\b', 'i').test(story)) { vType = 'Mech'; break }\n    }\n  }\n  if (!vType) {\n    skip = true\n    log('Failsafe: vehicle entry in story but type unclear')\n  } else {\n    effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + vType })\n    effects.push({ type: 'player-resource', resource: 'mech health', operator: 'set', value: 250 })\n    if (vType === 'Mech') {\n      effects.push({ type: 'player-resource', resource: 'link', operator: 'set', value: 100 })\n      var found = null\n      for (var i = 0; i < mechs.length; i++) {\n        var m = mechs[i]\n        var prox = new RegExp('(your|into|board|cockpit|pilot|mount|link)\\\\W{0,20}' + m + '|' + m + '\\\\W{0,20}(cockpit|controls|neural|your)', 'i')\n        if (prox.test(story)) { found = m; break }\n      }\n      if (!found) {\n        for (var j = 0; j < mechs.length; j++) {\n          if (new RegExp('\\\\b' + mechs[j] + '\\\\b', 'i').test(story)) { found = mechs[j]; break }\n        }\n      }\n      if (found) {\n        effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + found })\n        storage.currentMech = found\n        log('Failsafe: mech class detected: ' + found)\n      } else {\n        storage.currentMech = ''\n        log('Failsafe: mech entry confirmed but class not identified')\n      }\n    }\n    storage.vehicleType = vType\n    log('Failsafe: vehicle entry: ' + vType)\n  }\n}",
+    "effects": [
+      {
+        "type": "write-boolean",
+        "key": "isPiloting",
+        "operator": "set",
+        "value": true
+      }
+    ]
+  },
+  "vehicle_type_retry": {
+    "name": "vehicle_type_retry",
+    "recurring": true,
+    "conditions": [
+      {
+        "type": "read-boolean",
+        "key": "isPiloting",
+        "operator": "equals",
+        "value": true
+      }
+    ],
+    "script": "if (storage.vehicleType) {\n  skip = true\n} else {\n  var story = check({ type: 'story-text' })\n  var mechs = ['Claymore','Wraith','Bastion','Longbow','Valkyrie','Seraph','Mirage','Aegis','Tempest','Duskwing','Fang','Shade','Flash','Ranger','Bulwark','Tyrant','Ravager','Scourge','Ironscale','Warden','Specter','Phantom','Eclipse','Prism','Revenant','Harvester','Annihilator','Stalker','Corruptor','Swarm-Mother','Sentinel','Interceptor','Guardian','Citadel','Paladin','Silver Rose']\n  var vType = null\n  if (/\\bmech\\b/i.test(story)) vType = 'Mech'\n  else if (/\\btank\\b|turret.*tracked|main gun|rail cannon|gunner seat|hull hatch/i.test(story)) vType = 'Tank'\n  else if (/\\bAPC\\b|armou?red personnel|troop compartment|infantry carrier|deployment ramp/i.test(story)) vType = 'APC'\n  else if (/\\bfighter\\b|\\bgunship\\b|\\baircraft\\b|\\bjet\\b|flight controls|\\binterceptor\\b|\\bbomber\\b|\\bdropship\\b|strike fighter|\\bVTOL\\b|\\baerial\\b/i.test(story)) vType = 'Aircraft'\n  if (!vType) {\n    for (var k = 0; k < mechs.length; k++) {\n      if (new RegExp('\\\\b' + mechs[k] + '\\\\b', 'i').test(story)) { vType = 'Mech'; break }\n    }\n  }\n  if (!vType) {\n    skip = true\n  } else {\n    effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + vType })\n    effects.push({ type: 'player-resource', resource: 'mech health', operator: 'set', value: 250 })\n    if (vType === 'Mech') {\n      effects.push({ type: 'player-resource', resource: 'link', operator: 'set', value: 100 })\n      var found = null\n      for (var i = 0; i < mechs.length; i++) {\n        var m = mechs[i]\n        var prox = new RegExp('(your|into|board|cockpit|pilot|mount|link)\\\\W{0,20}' + m + '|' + m + '\\\\W{0,20}(cockpit|controls|neural|your)', 'i')\n        if (prox.test(story)) { found = m; break }\n      }\n      if (!found) {\n        for (var j = 0; j < mechs.length; j++) {\n          if (new RegExp('\\\\b' + mechs[j] + '\\\\b', 'i').test(story)) { found = mechs[j]; break }\n        }\n      }\n      if (found) {\n        effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + found })\n        storage.currentMech = found\n        log('Type retry: mech class detected: ' + found)\n      } else {\n        storage.currentMech = ''\n        log('Type retry: mech confirmed but class not identified')\n      }\n    }\n    storage.vehicleType = vType\n    log('Type retry: vehicle type resolved: ' + vType)\n  }\n}",
+    "effects": []
+  },
+  "mech_class_retry": {
+    "name": "mech_class_retry",
+    "recurring": true,
+    "conditions": [
+      {
+        "type": "player-traits",
+        "operator": "contains",
+        "value": "Piloting Mech"
+      }
+    ],
+    "script": "if (storage.currentMech) {\n  skip = true\n} else {\n  var story = check({ type: 'story-text' })\n  var mechs = ['Claymore','Wraith','Bastion','Longbow','Valkyrie','Seraph','Mirage','Aegis','Tempest','Duskwing','Fang','Shade','Flash','Ranger','Bulwark','Tyrant','Ravager','Scourge','Ironscale','Warden','Specter','Phantom','Eclipse','Prism','Revenant','Harvester','Annihilator','Stalker','Corruptor','Swarm-Mother','Sentinel','Interceptor','Guardian','Citadel','Paladin','Silver Rose']\n  var found = null\n  for (var i = 0; i < mechs.length; i++) {\n    if (new RegExp('\\\\b' + mechs[i] + '\\\\b', 'i').test(story)) { found = mechs[i]; break }\n  }\n  if (found) {\n    effects.push({ type: 'player-traits', operator: 'add', value: 'Piloting ' + found })\n    storage.currentMech = found\n    log('Mech class retry succeeded: ' + found)\n  } else {\n    skip = true\n  }\n}",
+    "effects": []
+  },
+  "vehicle_exit": {
+    "name": "vehicle_exit",
+    "recurring": true,
+    "conditions": [
+      {
+        "type": "read-boolean",
+        "key": "isPiloting",
+        "operator": "equals",
+        "value": true
+      },
+      {
+        "type": "story",
+        "query": "The player character is no longer piloting, commanding, or crewing their combat vehicle. They have ejected, climbed out, dismounted, powered down and left, or the vehicle was destroyed or disabled. The neural link may have been severed, the player knocked out of the vehicle, or a VR simulation ended. The player is NO LONGER inside the vehicle and no longer controlling it. Does NOT match if the player is still inside and the vehicle is still operational, even if heavily damaged.",
+        "embeddingId": "tARhb0vN"
+      }
+    ],
+    "script": "var vType = storage.vehicleType\nif (vType) {\n  effects.push({ type: 'player-traits', operator: 'remove', value: 'Piloting ' + vType })\n}\nif (storage.currentMech) {\n  effects.push({ type: 'player-traits', operator: 'remove', value: 'Piloting ' + storage.currentMech })\n  storage.currentMech = ''\n}\neffects.push({ type: 'player-resource', resource: 'mech health', operator: 'set', value: 0 })\nif (vType === 'Mech') {\n  effects.push({ type: 'player-resource', resource: 'link', operator: 'set', value: 0 })\n}\nstorage.vehicleType = ''\nlog('Vehicle exit: ' + (vType || 'unknown'))",
+    "effects": [
+      {
+        "type": "write-boolean",
+        "key": "isPiloting",
+        "operator": "set",
+        "value": false
+      }
+    ]
+  },
+  "silver_rose_pilot_init": {
+    "name": "silver_rose_pilot_init",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "game-tick",
+        "operator": "equals",
+        "value": 0
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "Silver Bay"
+      }
+    ],
+    "effects": [
+      {
+        "type": "player-traits",
+        "operator": "add",
+        "value": "Silver Rose Pilot"
+      }
+    ]
+  },
+  "new_garden_op_init": {
+    "name": "new_garden_op_init",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "game-tick",
+        "operator": "equals",
+        "value": 0
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Canopy"
+      }
+    ],
+    "effects": [
+      {
+        "type": "player-traits",
+        "operator": "add",
+        "value": "Piloting Mech"
+      },
+      {
+        "type": "player-traits",
+        "operator": "add",
+        "value": "Garden Operative"
+      }
+    ]
+  }
+}

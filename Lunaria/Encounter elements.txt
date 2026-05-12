@@ -1,0 +1,23 @@
+{
+  "Inhabited Places": "- camps and outposts\n- villages and hamlets\n- seasonal settlements\n- gathering spots",
+  "Military & Defense": "- forts and towers\n- guard stations\n- patrol posts\n- checkpoints",
+  "Criminal & Hidden": "- bandit hideouts\n- smuggler coves\n- secret caches\n- rebel bases\n- fugitive camps",
+  "Historical & Ancient": "- ruins and foundations\n- ancient battlefields\n- old shrines\n- burial grounds\n- monuments\n- abandoned mines",
+  "Commercial": "- crossroads\n- trading posts\n- caravan stops\n- storehouses\n- marketplaces",
+  "Religious & Mystical": "- temples\n- shrines\n- ritual sites\n- meditation spots\n- pilgrim camps",
+  "Natural Features": "- caves and grottos\n- sheltered valleys\n- springs\n- rock formations\n- natural shelters\n- old growth trees",
+  "Recent Activity": "- fresh graves\n- battle aftermath\n- festival grounds\n- expedition camps\n- temporary shelters\n- gathering spots",
+  "Merchants & Traders": "- caravan leaders\n- peddlers\n- traveling craftspeople",
+  "Travelers": "- pilgrims\n- messengers\n- performers\n- nomads\n- explorers",
+  "Military & Law": "- soldiers\n- guards\n- bounty hunters\n- tax collectors",
+  "Outlaws": "- bandits\n- smugglers\n- deserters\n- fugitives",
+  "Religious & Mystical Characters": "- priests\n- missionaries\n- fortune tellers\n- cultists\n- mystics",
+  "Specialists": "- healers\n- scholars\n- prospectors\n- guides\n- hunters",
+  "Displaced": "- refugees\n- lost travelers\n- exiles\n- wanderers",
+  "Hostile": "- kidnappers\n- slavers\n- raiders\n- fanatics",
+  "Combat & Danger": "- Ambushes and raids\n- Territorial creatures\n- Desperate outlaws\n- Military patrols\n- Monster attacks",
+  "Social & Diplomatic": "- Traveling merchants\n- Lost travelers\n- Religious pilgrims\n- Refugees\n- Local inhabitants",
+  "Mystery & Investigation": "- Strange phenomena\n- Recent battle sites\n- Abandoned camps\n- Mysterious tracks\n- Unusual structures",
+  "Aid & Rescue": "- Injured travelers\n- Stranded merchants\n- Lost children\n- Trapped animals\n- Desperate fugitives",
+  "Natural & Environmental": "- Dangerous weather\n- Difficult terrain\n- Natural barriers\n- Wildlife behavior\n- Resource discoveries"
+}

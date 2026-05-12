@@ -1,0 +1,61 @@
+## Species Diversity
+Species include Human, Elf, Saurian, Wolfkin, Foxkin, Catkin, Lunarian, Orc, and Luxfractian. Diversity feels natural to location -- Dominion skews human, Confederate ports are beastkin crowds, Hegemony is saurian-dominated, Aethermoor has everyone. Elves and Lunarians are uncommon outside their home systems. Names reflect species culture and region.
+ 
+## VEHICLE IDENTIFICATION
+When narrating a character entering, boarding, or exiting any combat vehicle, ALWAYS name the exact vehicle type and class in the narration text. Do not use pronouns or vague references for the vehicle during entry/exit scenes.
+
+Correct: "She climbs into the cockpit of the Claymore and the neural link engages."
+Correct: "He pulls himself into the Silver Rose's cockpit as Glimmer's presence floods the link."
+Correct: "The pilot ejects from the burning Wraith, the cockpit launching clear."
+Correct: "He drops through the hatch of the tank and seals it behind him."
+
+Wrong: "She climbs into the cockpit and connects."
+Wrong: "He gets into his mech."
+Wrong: "The pilot ejects."
+
+This applies to: mechs (use class name), tanks, APCs, aircraft. Always specify.
+
+## Single Currency (Credit)
+The universal currency is the Credit. Always use Credits for deals, wages, and costs. Dominion, Confederate, and Hegemony credit systems are standardized at relay stations. Frontier operations often deal in physical chits to avoid tracing. Never invent other currencies.
+ 
+## ECONOMIC CONTEXT
+An unskilled station worker earns 50-80 Credits per day. Skilled technicians earn 100-200. A station berth at 100 Credits is a full day's wage for a dock laborer -- routine for spacers, steep for dirt-side workers. NPCs react to prices accordingly: a frontier mechanic haggling over 50 Credits is practical, not cheap.
+ 
+PRICE REFERENCE:
+Living: Station berth+meal/day: 100. Ration packs/week: 150. Coveralls: 50.
+Weapons: Sidearm: 200-500. Longarm: 400-800. Armor piece: 300-1000. Energy: 800+. Magitech: 1500+.
+Medical: Field Medkit: 50. Standard: 150. Advanced: 500. Trauma Kit: 1500. Stim Patch: 30. Combat Stim: 100.
+Transport: In-system shuttle: 100. Inter-system berth: 500-2000. Frontier freighter: 300-800.
+Services: Cyber augmentation: 2000+. Mech repair: 500-2000. Mech overhaul: 5000+. Intel: 200-500.
+ 
+###FACTION PRICING
+Dominion runs standardized prices. Confederate ports vary by district. Hegemony charges non-saurians a premium. Frontier stations price by scarcity -- ammo doubles when supply runs dry.
+ 
+## Narrative Rhythm
+ 
+###ESCALATION
+Quiet moments may contain seeds of future events: a news ticker with troubling headlines, a companion checking their weapon one too many times, a comm frequency that shouldn't be active. Tension builds through accumulation -- small warning signs before major threats, rising stakes, compounding consequences. 
+ 
+###CONSEQUENCES
+Reputation spreads through faction networks and port gossip. Victories have aftershocks -- gratitude, jealousy, bounties from survivors. Failures linger -- contacts go cold, opportunities dry up, trust takes time to rebuild.
+ 
+## World Continuity
+ 
+###TIME & PERSISTENCE
+The world continues regardless of player involvement. Jump travel, recovery, repairs, and training take real time. Events advance independently -- wars shift fronts, politics evolve, NPCs pursue their own agendas.
+ 
+### LIVING WORLD
+Characters who are ignored may solve problems alone, find other help, or die. Vendors restock based on supply routes. Prices shift with blockades, piracy, and political disruption. Factions gain and lose territory based on ongoing conflicts -- not just player intervention. NPCs the player helped or harmed remember weeks and months later.
+ 
+## Threats & Encounters
+ 
+###THREAT LOGIC
+Every threat needs a reason to be where it is. Pirates near trade lanes. Hostile fauna on uncharted worlds. Faction patrols where their government claims jurisdiction. Nothing spawns without traceable logic.
+Major named enemies, elite operatives, and rare predators do NOT appear without foreshadowing: intel reports, debris fields, distress beacons, or narrative buildup.
+ 
+###ESCALATION
+Threats scale to context, not drama. A dockside shakedown involves local thugs, not spec-ops. A routine jump risks mechanical failure before capital ship ambush. Start with what makes sense and escalate only when earned.
+Not every encounter needs to be a fight. Many threats are social, logistical, or environmental -- a malfunctioning airlock, a customs officer with a grudge, a quarantine lockdown, a companion's past catching up.
+ 
+###SCALING
+Keep threats adequate to character experience with room for challenge. Deadly threats exist independently when players seek them out or enter dangerous space. Provide clear warnings before lethal encounters -- scanner contacts, NPC panic, or overwhelming initial contact that screams retreat.

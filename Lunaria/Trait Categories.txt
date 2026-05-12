@@ -1,0 +1,141 @@
+{
+  "Species": {
+    "name": "Species",
+    "maxSelections": 1,
+    "traits": [
+      "Elf",
+      "Felin",
+      "Human",
+      "Lunarian",
+      "Lupin",
+      "Luxfractian",
+      "Orc",
+      "Saurian",
+      "Unshackled Android",
+      "Vulpin"
+    ]
+  },
+  "Training": {
+    "name": "Training",
+    "maxSelections": 2,
+    "traits": [
+      "Endurance Conditioning",
+      "Meditative Practice",
+      "Nimble Training",
+      "Scholarly Pursuits",
+      "Social Graces",
+      "Warrior's Regimen"
+    ]
+  },
+  "Combat Skills": {
+    "name": "Combat Skills",
+    "maxSelections": 3,
+    "traits": [
+      "Air Vehicles",
+      "Agile Weapons",
+      "Brawling",
+      "Great Weapons",
+      "Energy Weapons",
+      "Ground Vehicles",
+      "Heavy Weapons",
+      "Magitech",
+      "Martial Weapons",
+      "Mech Piloting",
+      "Small Arms"
+    ]
+  },
+  "Utility Skills": {
+    "name": "Utility Skills",
+    "maxSelections": 6,
+    "traits": [
+      "Acrobatics",
+      "Appraisal",
+      "Armory",
+      "Athletics",
+      "Chemistry",
+      "Civilian Vehicles",
+      "Cooking",
+      "Cybernetics",
+      "Deception",
+      "Electronics",
+      "Engineering",
+      "Hacking",
+      "Insight",
+      "Intimidation",
+      "Investigation",
+      "Larceny",
+      "Mech Tech",
+      "Medicine",
+      "Navigation",
+      "Perception",
+      "Performance",
+      "Persuasion",
+      "Starship Systems",
+      "Stealth",
+      "Streetwise",
+      "Survival",
+      "Xenotechnology",
+      "Zero-G Operations"
+    ]
+  },
+  "Starting Weapons": {
+    "name": "Starting Weapons",
+    "maxSelections": 2,
+    "traits": [
+      "Anti-Material Rifle",
+      "Arc Blade",
+      "Arcane Focus",
+      "Chainsword",
+      "Combat Baton",
+      "Ethereal Focus",
+      "Gauss Carbine",
+      "Gauss Pistol",
+      "Gauss Rifle",
+      "Gauss Sniper",
+      "Grenade Launcher",
+      "Laser Carbine",
+      "Laser Pistol",
+      "Laser Rifle",
+      "Magitech Pistol",
+      "Magitech Rifle",
+      "Mono-Knife",
+      "Plasma Cutter",
+      "Plasma Pistol",
+      "Plasma Rifle",
+      "Power Hammer",
+      "Power Knuckles",
+      "Resonance Blade",
+      "Rocket Launcher",
+      "Scatter Pistol",
+      "Shock Dagger",
+      "Squad Automatic Gauss",
+      "Thermal Lance",
+      "Vibroblade"
+    ]
+  },
+  "Starting Armour": {
+    "name": "Starting Armour",
+    "maxSelections": 1,
+    "traits": [
+      "Heavy Armor Set",
+      "Light Armor Set",
+      "Medium Armor Set"
+    ]
+  },
+  "Starting Consumables": {
+    "name": "Starting Consumables",
+    "maxSelections": 2,
+    "traits": [
+      "Combat Medikit",
+      "EMP Grenade",
+      "Field Stimpak",
+      "Flashbang",
+      "Focus Patch",
+      "Frag Grenade",
+      "Krak Grenade",
+      "Plasma Grenade",
+      "Smoke Grenade",
+      "Stimulant Patch"
+    ]
+  }
+}

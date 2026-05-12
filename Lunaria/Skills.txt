@@ -1,0 +1,282 @@
+{
+  "acrobatics": {
+    "name": "acrobatics",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nAcrobatics covers agile movement -- tumbling, balancing, contorting through tight spaces, landing safely from falls, and any feat demanding coordination over brute force. Rolling to break a fall, vaulting a low barrier, or keeping balance on a shifting surface are relatively easy; flipping over an opponent mid-combat, running along a narrow maintenance beam, or tumbling through a closing blast door represents moderate difficulty; while chaining acrobatic movements across scaffolding without breaking stride, escaping fully bound restraints through contortion, or performing aerial maneuvers in variable gravity that seem to bend physics represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "athletics": {
+    "name": "athletics",
+    "type": "utility",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nAthletics covers raw physical exertion -- sprinting, climbing, jumping, swimming, forcing open doors, and any feat demanding strength and endurance. Hauling yourself over a wall, swimming across calm water, or forcing open a stuck hatch are relatively easy; breaking free from a grapple, leaping across a wide gap, or climbing a rain-slicked hull represents moderate difficulty; while tearing restraints from their mountings, swimming against emergency venting currents, or sustaining maximum physical output in hostile atmospheric conditions represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "intimidation": {
+    "name": "intimidation",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nIntimidation is the weaponization of presence -- making others feel small, afraid, and cooperative without drawing a weapon. Silencing a belligerent drunk, making a vendor reconsider a bad deal, or scattering a group of thugs with a look are relatively easy; breaking the nerve of a trained soldier, forcing a confession from a hardened criminal, or cowing a hostile creature into submission represents moderate difficulty; while halting a charging crowd with a single word, making a veteran commander doubt their own orders, or projecting such controlled menace that an armed opponent cannot bring themselves to pull the trigger represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "investigation": {
+    "name": "investigation",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nInvestigation is the active search for answers -- examining evidence, connecting data, analyzing scenes, researching databases, and piecing together what happened from what was left behind. Noticing a terminal was recently accessed, identifying which access card fits a reader, or spotting a forged document are relatively easy; reconstructing events from physical evidence, finding hidden data on a wiped drive, or detecting evidence tampering represents moderate difficulty; while unraveling elaborate conspiracies from scattered data points, identifying a perpetrator from microscopic trace evidence, or piecing together the function of an unknown system from fragmentary records represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "performance": {
+    "name": "performance",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nPerformance covers any deliberate display -- music, acting, oratory, dance, or commanding attention. Entertaining a small crowd in a station bar, delivering a convincing dramatic monologue, or keeping rhythm with a band are relatively easy; moving an audience to tears or fury, improvising a flawless performance in an unfamiliar style, or maintaining a captivating act while under genuine threat represents moderate difficulty; while inciting a station concourse to action with a single speech, performing so convincingly that enemies hesitate to act, or weaving a performance so absorbing that onlookers fail to notice an operation unfolding behind them represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "persuasion": {
+    "name": "persuasion",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nPersuasion is the art of making others want to agree with you -- finding the words, tone, and framing that move people without force or deception. Haggling a fair price, convincing a guard to overlook a minor issue, or calming a frightened civilian are relatively easy; negotiating a truce between hostile parties, talking a suspicious officer into granting access, or swaying a tribunal's verdict represents moderate difficulty; while convincing a senior commander to change strategy in a private meeting, brokering cooperation between rival factions, or talking an armed enemy into surrendering mid-engagement represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "survival": {
+    "name": "survival",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nSurvival is the gritty wisdom of enduring where others perish -- reading terrain for threats, finding shelter and sustenance, and staying alive on worlds that want you dead. Building a basic shelter, foraging in familiar terrain, or following a fresh trail are relatively easy; tracking a cautious target across rocky ground, constructing effective traps, or navigating through a blizzard without losing direction represents moderate difficulty; while tracking a week-old trail through hostile conditions, surviving indefinitely in the harshest environments with minimal equipment, or reading alien ecosystems well enough to identify food, threats, and shelter on a world you have never visited represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "small arms": {
+    "name": "small arms",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nSmall arms proficiency covers personal kinetic and ballistic ranged weapons -- gauss rifles, gauss pistols, carbines, sniper rifles, scatter pistols, and sidearms of all types that fire physical projectiles. Hitting a stationary target at moderate range, compensating for recoil, or performing field maintenance on a gauss rifle are relatively easy; landing accurate shots while moving under fire, threading a shot through a narrow gap in cover, or clearing a weapon jam under combat pressure represents moderate difficulty; while placing shots with lethal precision from extreme range, firing with deadly accuracy during a full sprint, or reading a firefight so instinctively that every shot finds the target that matters most -- the one about to flank your ally, the one reaching for the alarm, the one you cannot afford to miss represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "heavy weapons": {
+    "name": "heavy weapons",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nHeavy weapons proficiency covers man-portable ordnance and crew-served weapons -- plasma rifles, rocket launchers, grenade launchers, mounted gauss cannons, demolition charges, and any weapon that trades portability for devastating firepower. Firing a braced heavy weapon at a visible target, arming a standard explosive charge, or managing the sustained recoil of a rotary gauss cannon are relatively easy; placing explosive ordnance with precision timing, maintaining accuracy with a shoulder-fired launcher while under fire, or coordinating sustained suppressive fire that pins an entire formation represents moderate difficulty; while threading a guided rocket through a closing blast door, improvising explosive devices from available materials under combat conditions, or delivering sustained heavy fire with such discipline that ammunition expenditure and suppression coverage are simultaneously optimized represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "martial weapons": {
+    "name": "martial weapons",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nMartial weapons proficiency covers one-handed and versatile melee weapons -- vibro blades, combat knives, shock batons, monomolecular swords, and any conventional melee weapon swung or thrust with committed force. Delivering a solid strike, maintaining proper guard, or drawing a blade under pressure are relatively easy; chaining strikes that flow from one angle to another without losing momentum, exploiting weapon properties to counter different fighting styles, or fighting effectively in zero-gravity with a blade represents moderate difficulty; while cleaving through armored targets with devastating precision, fighting with such fluid brutality that each swing sets up the next in an unbroken cascade, or maintaining lethal effectiveness in the confined corridors of a boarded starship represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "great weapons": {
+    "name": "great weapons",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nGreat weapons proficiency covers oversized two-handed melee weapons -- heavy vibro swords, powered warhammers, breaching axes, and industrial tools repurposed for violence. Delivering a powerful overhead strike, using reach to keep enemies at bay, or cleaving through an unarmored target are relatively easy; redirecting a missed swing into a follow-up strike, controlling arc and angle to avoid allies in close quarters, or shattering a reinforced bulkhead with a calculated blow represents moderate difficulty; while cleaving through multiple enemies in a single arc, breaching mech-grade armor plating with sustained strikes, or wielding the weapon with such terrifying speed that enemies see only a blur before the impact represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "agile weapons": {
+    "name": "agile weapons",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nAgile weapons proficiency covers light precision melee weapons -- mono-daggers, fencing blades, stilettos, dual-wielded knives, and any weapon that rewards quick reflexes and exact placement over raw force. Landing a clean thrust at an exposed joint, parrying a heavier weapon with proper timing, or placing a thrown knife at close range are relatively easy; threading a blade through a gap in armor faster than the opponent can react, fighting with both hands independently, or throwing accurately without breaking stride represents moderate difficulty; while striking with such speed that opponents cannot distinguish feint from killing blow, placing a thrown blade in an eye slit from across a crowded compartment, or dismantling an armored opponent through targeted joint strikes without ever engaging their plating represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "brawling": {
+    "name": "brawling",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nBrawling covers unarmed combat, powered gauntlets, grappling, and dirty fighting -- headbutts, joint locks, improvised weapons, and hitting someone with whatever is closest. Throwing a solid punch, shoving an opponent off balance, or breaking free from a loose hold are relatively easy; grappling an armed opponent into submission, fighting effectively while pinned, or using an improvised weapon with lethal efficiency represents moderate difficulty; while crushing reinforced plating with augmented fists, wrestling opponents twice your size into submission, or delivering strikes with enough force to stagger powered armor represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "mech piloting": {
+    "name": "mech piloting",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nMech piloting covers neural link operation, mech-scale combat, weapons management, ASAC coordination, and movement under fire. Walking the mech through open terrain, firing primary weapons at a visible target, or following ASAC targeting recommendations are relatively easy; executing complex maneuvers while managing heat and link strain, engaging multiple targets simultaneously using different weapon systems, or fighting effectively with damaged actuators represents moderate difficulty; while overriding the ASAC to execute maneuvers it flags as unsafe, maintaining combat effectiveness while the neural link degrades, or coordinating mech movement with infantry and vehicle support across a dynamic battlefield represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "magitech": {
+    "name": "magitech",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nMagitech is the Lunarian discipline of fusing arcane energy with technology -- augmenting weapons with magical acceleration, channeling spells through engineered circuits, and operating hybrid systems that blend neural link precision with arcane perception. Firing a magitech-augmented weapon, activating a standard magitech device, or reading arcane sensor data alongside conventional readouts are relatively easy; switching between a weapon's technological and arcane modes mid-combat, using magitech sensors to detect threats invisible to conventional instruments, or channeling magic through damaged systems without causing feedback represents moderate difficulty; while overcharging magitech weapons beyond rated specifications, improvising magitech solutions from mixed conventional and arcane components, or operating resonance synchronization systems at the absolute edge of pilot endurance represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "deception": {
+    "name": "deception",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nDeception covers lies, disguises, false identities, forged documents, and the ability to say something completely untrue with total conviction. Telling a convincing white lie, feigning ignorance, or copying a simple document in someone else's style are relatively easy; maintaining a false identity under questioning, forging official credentials with proper formatting and encryption, or delivering a fabricated story so seamlessly that skeptics accept it represents moderate difficulty; while sustaining elaborate false identities for months, forging military orders indistinguishable from genuine articles, or weaving deceptions so layered that uncovering one lie only reveals another deeper falsehood represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "insight": {
+    "name": "insight",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nInsight is the ability to read truth behind the mask -- catching microexpressions, hesitations, and contradictions that betray what words try to conceal. Noticing when someone is obviously nervous, reading basic body language, or sensing when a story does not add up are relatively easy; detecting a practiced liar's tells, understanding the true motivation behind a generous offer, or predicting how someone will react under pressure represents moderate difficulty; while reading entire power dynamics in a room at a glance, unraveling a person's deepest insecurities from a brief conversation, or anticipating betrayal before the betrayer has consciously decided to act represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "streetwise": {
+    "name": "streetwise",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nStreetwise is knowing how the underside of civilization works -- black markets, criminal networks, unspoken rules, and the economies that run on whispers. Identifying dangerous station sectors, finding a cheap berth without getting robbed, or recognizing common scams are relatively easy; locating a black market fence, reading gang territory markers on an unfamiliar station, or finding a safehouse through underworld contacts represents moderate difficulty; while navigating politics between rival criminal organizations, brokering introductions to figures who can move contraband across jump routes, or building an informant network so extensive that nothing moves through a station's underworld without word reaching you represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "stealth": {
+    "name": "stealth",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nStealth is the discipline of silence, shadow, and misdirection -- being exactly where no one thinks to look. Moving quietly through a station corridor, hiding behind adequate cover, or tailing someone through a crowd are relatively easy; crossing an open sensor-monitored area undetected, remaining motionless while a search team passes within arm's reach, or silently neutralizing a guard without alerting nearby patrols represents moderate difficulty; while infiltrating heavily secured facilities without tripping a single alarm, moving through sensor-rich environments using blind spots and timing, or shadowing a paranoid target across multiple stations without once being detected represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "zero-g operations": {
+    "name": "zero-g operations",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nZero-g operations covers movement, combat, and work in microgravity and vacuum -- EVA maneuvers, void combat, hull traversal, and operating without a floor or a consistent sense of direction. Orienting yourself after gravity loss, using magnetic boots on a hull surface, or performing basic tasks while floating are relatively easy; fighting effectively in zero-g without losing spatial orientation, performing precision EVA work on a ship exterior, or transitioning between gravity zones without stumbling represents moderate difficulty; while executing zero-g combat maneuvers that exploit three-dimensional movement against gravity-trained opponents, performing hull breaching operations under fire, or operating for extended periods in hard vacuum with full combat effectiveness represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "engineering": {
+    "name": "engineering",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nEngineering covers mechanical repair, structural work, power systems, vehicle maintenance, and conventional technology. Repairing a broken mechanism, rerouting power through a junction box, or performing routine maintenance on a vehicle are relatively easy; rebuilding a damaged reactor subsystem, improvising structural repairs with salvaged materials, or diagnosing intermittent faults in complex machinery represents moderate difficulty; while performing emergency reactor stabilization under combat conditions, engineering solutions from incompatible parts that should not work together, or designing and building functional systems from scrap under time pressure represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "hacking": {
+    "name": "hacking",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nHacking covers electronic intrusion, data extraction, system exploitation, encryption breaking, and AI manipulation. Bypassing a civilian-grade door lock, accessing an unprotected terminal, or recovering deleted files from a standard system are relatively easy; cracking military encryption, infiltrating a secured network without triggering alerts, or spoofing identity credentials that pass automated verification represents moderate difficulty; while penetrating military-grade AI firewalls, exploiting Singularity Protocol constraints to manipulate a shackled AI's behavior within its own rules, or conducting electronic warfare against an enemy vessel's systems during active combat represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "medicine": {
+    "name": "medicine",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nMedicine covers biological treatment -- trauma care, surgery, diagnostics, pharmacology, and keeping people alive when their bodies are failing. Cleaning and dressing a wound, recognizing symptoms of common conditions, or setting a fracture are relatively easy; performing field surgery to extract shrapnel, diagnosing a rare condition from subtle symptoms, or stabilizing a critically injured patient with limited equipment represents moderate difficulty; while performing surgery under combat conditions with improvised tools, identifying and counteracting an unknown toxin from physiological effects alone, or treating species whose biology you have only studied theoretically represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "cybernetics": {
+    "name": "cybernetics",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nCybernetics covers augmentation repair, neural link maintenance, implant installation, prosthetic calibration, and the intersection of biology and machine. Performing routine maintenance on a standard neural port, recalibrating a prosthetic limb, or diagnosing a basic implant malfunction are relatively easy; repairing a damaged neural link in the field, installing a new augmentation without a surgical suite, or troubleshooting compatibility issues between implants from different manufacturers represents moderate difficulty; while restoring function to a catastrophically damaged neural interface, reverse-engineering proprietary augmentation systems, or performing emergency cybernetic surgery on a species whose augmentation architecture you have never worked on represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "starship systems": {
+    "name": "starship systems",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nStarship systems covers operating shipboard stations -- sensors, communications, shield management, weapons targeting, electronic warfare, and life support from a crew position. Running a routine sensor sweep, managing comms traffic, or monitoring shield status during patrol are relatively easy; coordinating sensor data to track multiple contacts through interference, optimizing shield coverage against concentrated fire, or managing electronic countermeasures during engagement represents moderate difficulty; while operating multiple crew stations simultaneously during a crisis, conducting electronic warfare against a technologically superior opponent, or coaxing functional performance from battle-damaged systems that should have failed represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "mech tech": {
+    "name": "mech tech",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nMech tech covers mech maintenance, field repair, loadout modification, ASAC calibration, neural link hardware diagnostics, and reactor servicing. Performing routine maintenance checks, replacing standard worn components, or running ASAC diagnostic cycles are relatively easy; conducting field repairs on damaged actuators under time pressure, recalibrating a neural link after pilot burnout, or swapping weapon loadouts without a dedicated maintenance bay represents moderate difficulty; while restoring combat capability to a critically damaged mech with salvaged parts, tuning an ASAC's behavioral parameters for a specific pilot's combat style, or diagnosing and repairing exotic magitech integration systems on Lunarian platforms represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "armory": {
+    "name": "armory",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nArmory covers weapons and armor modification, maintenance, ammunition crafting, and equipment optimization. Field-stripping and cleaning a gauss rifle, replacing worn barrel coils, or fitting standard armor plates are relatively easy; modifying a weapon's firing characteristics, crafting specialized ammunition for a specific target type, or fitting custom armor to a non-standard body type represents moderate difficulty; while building functional weapons from salvaged components, optimizing a loadout so precisely that it exceeds factory specifications, or working with exotic materials that require techniques outside standard manufacturing represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "electronics": {
+    "name": "electronics",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nElectronics covers fabrication and repair of devices, sensors, communication equipment, and small-scale circuitry. Soldering a broken connection, replacing a damaged sensor module, or assembling a device from a kit are relatively easy; building a signal jammer from scrap components, repairing encrypted comms equipment without manufacturer tools, or diagnosing faults in proprietary systems you have no documentation for represents moderate difficulty; while fabricating custom sensors tuned to detect specific signatures, building electronic countermeasures that defeat military-grade systems, or reverse-engineering a device well enough to reproduce it from memory represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "chemistry": {
+    "name": "chemistry",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nChemistry covers pharmaceuticals, compound synthesis, explosive fabrication, fuel refinement, toxicology, and material analysis. Mixing a standard field anesthetic, identifying a common compound by its properties, or following a synthesis procedure from documentation are relatively easy; crafting custom pharmaceuticals for a specific medical condition, fabricating stable explosives from industrial chemicals, or identifying an unknown substance from its chemical behavior represents moderate difficulty; while synthesizing compounds that require precision measured in molecules, engineering drugs tailored to alien biochemistry, or improvising chemical solutions to problems that have no established procedure represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "xenotechnology": {
+    "name": "xenotechnology",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nXenotechnology covers identification, analysis, reverse-engineering, and safe handling of non-human technology -- Tyrmarch adaptive metamaterials, Luxfracta exotic alloys, Eirenarch defense systems, and ancient Progenitor artifacts. Recognizing xeno-tech by visual characteristics, following established safety protocols for known alien devices, or identifying which civilization produced an artifact are relatively easy; determining the function of an unfamiliar alien device through careful analysis, safely activating dormant xeno-tech systems, or interfacing human equipment with alien technology represents moderate difficulty; while reverse-engineering xeno-tech operating principles well enough to adapt them, predicting the behavior of technology built on physics you do not fully understand, or handling Tyrmarch or Luxfracta technology whose active defense systems make careless examination fatal represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "perception": {
+    "name": "perception",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nPerception is the discipline of heightened awareness -- training your senses to catch what others overlook. Noticing an unlocked access panel, hearing footsteps approaching from behind a bulkhead, or spotting an obvious ambush position are relatively easy; detecting a hidden figure in deep shadow, hearing a whispered conversation through a partition, or noticing a subtle atmospheric anomaly that indicates a hull breach are moderate difficulty; while sensing a cloaked presence by minute environmental displacement, detecting a trap by microscopic irregularities in construction, or maintaining complete situational awareness across an entire chaotic engagement simultaneously represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "navigation": {
+    "name": "navigation",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nNavigation covers route planning across all scales -- planetary pathfinding, interstellar jump route plotting, reading star charts, and maintaining orientation in environments designed to confuse. Following a well-marked route, using standard navigation software, or orienting by visible stellar landmarks are relatively easy; plotting efficient jump routes through multiple systems, navigating through sensor-disrupting phenomena, or finding your way through an unfamiliar station during a power failure represents moderate difficulty; while charting new jump routes through unsurveyed space, navigating through actively hostile electronic warfare that corrupts navigation data, or maintaining perfect orientation in environments where conventional reference points do not exist represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "appraisal": {
+    "name": "appraisal",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nAppraisal covers evaluating the worth, quality, authenticity, and origin of goods. Estimating the value of standard trade goods, recognizing counterfeit components, or judging weapon quality by inspection are relatively easy; accurately pricing rare technology, detecting cleverly disguised counterfeits, or assessing the true value of salvaged xeno-tech represents moderate difficulty; while appraising an entire cargo at a glance, identifying the origin and provenance of artifacts from lost civilizations, or spotting the single genuine piece hidden among expert forgeries represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "cooking": {
+    "name": "cooking",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nCooking covers preparing food that people want to eat -- from ration improvisation and field cooking to proper meals that restore morale and health. Preparing a filling meal from standard rations, roasting protein evenly, or preserving food for travel are relatively easy; crafting a quality meal from limited or unfamiliar ingredients, cooking for a large crew without sacrificing quality, or improvising nutrition from alien-world foraged ingredients represents moderate difficulty; while preparing meals that provide tangible restorative benefits beyond nourishment, identifying and neutralizing toxins in contaminated food by taste, or creating dishes from multi-species ingredients that satisfy the nutritional and cultural requirements of every species at the table represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "magic": {
+    "name": "magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nMagic channels innate arcane energy into direct manipulation of forces beyond conventional physics -- shaping raw power through focused will and practiced technique. Creating a brief telekinetic push, generating a flash of light, or sensing magical energy nearby are relatively easy; launching bolts of concentrated arcane energy, raising protective barriers, or manipulating elements with sufficient force to alter a battlefield represents moderate difficulty; while channeling devastating elemental effects across wide areas, weaving multiple simultaneous magical effects, or shaping arcane forces with such precision that you can disable technology or unravel other magical effects at their source represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "larceny": {
+    "name": "larceny",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nLarceny is the invisible art of taking what is not yours and going where you are not welcome -- nimble fingers that pick locks, lift objects, crack safes, and bypass physical security. Palming a small object, opening a simple mechanical lock, or slipping something into your pocket unnoticed are relatively easy; pickpocketing a key from a guarded individual, bypassing a trapped lock without triggering its mechanism, or planting evidence on someone during a handshake represents moderate difficulty; while defeating high-security physical locks designed to resist tampering, stealing a worn item from a suspicious target in plain sight, or opening any physical security so quickly and quietly that bystanders never realize anything happened represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "energy weapons": {
+    "name": "energy weapons",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nEnergy weapons proficiency covers directed-energy personal weapons -- laser rifles, plasma pistols, arc-casters, and any weapon that converts stored power into a destructive beam, bolt, or pulse. Understanding power cell management, thermal cycling, and beam coherence separates effective operators from those who just pull the trigger. Firing a laser rifle at a stationary target, managing basic power cell discipline, or switching between fire modes are relatively easy; maintaining beam coherence at extreme range, managing thermal buildup during sustained engagement, or adjusting output frequency to defeat specific armor compositions represents moderate difficulty; while threading a precision laser through a narrow viewport at maximum range, managing power distribution across multiple energy weapon systems simultaneously, or tuning a plasma weapon's containment field on the fly to penetrate shielding that should stop it represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "ground vehicles": {
+    "name": "ground vehicles",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nGround vehicles covers combat operation of armored ground platforms -- tanks, APCs, IFVs, and any tracked or wheeled combat vehicle fought through crew coordination and neural-assist targeting. Reading terrain for tactical advantage, managing turret systems, coordinating crew, and fighting from inside an armored shell where the view is narrow and every decision is measured in crew lives. Firing the main gun at a visible stationary target, maintaining formation during movement, or executing a standard tactical halt are relatively easy; engaging multiple targets while maneuvering through urban terrain, coordinating fire with infantry dismounts, or reading ground conditions to avoid immobilization represents moderate difficulty; while managing a running engagement across broken terrain against peer armor, coordinating a combined-arms assault from the commander's hatch, or fighting through an ambush that has already disabled your lead vehicle represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "air vehicles": {
+    "name": "air vehicles",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nAir vehicles covers combat operation of atmospheric and near-space strike craft -- fighters, interceptors, gunships, and attack aircraft. Dogfighting, strafing runs, ordnance delivery, and combat maneuvering in three dimensions where speed is armor and energy state is life. Executing a standard strafing pass on a marked target, maintaining formation during patrol, or following guidance to an intercept point are relatively easy; engaging in a sustained dogfight against a peer opponent, delivering precision ordnance under ground fire, or executing evasive maneuvers against multiple missile tracks simultaneously represents moderate difficulty; while fighting through contested airspace against superior numbers, placing ordnance on a moving target during high-G maneuvering, or managing a damaged aircraft through combat while maintaining offensive effectiveness represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "civilian vehicles": {
+    "name": "civilian vehicles",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nCivilian vehicles covers non-combat operation of civilian and transport vehicles -- shuttles, freighters, ground cars, cargo trucks, construction vehicles, mining rigs, and any vehicle driven or flown outside of active combat. Docking a shuttle at a well-equipped station, driving a cargo truck on maintained roads, or following a standard atmospheric approach are relatively easy; landing a shuttle in adverse weather, threading a freighter through orbital debris, or handling a heavy transport on unpaved frontier roads represents moderate difficulty; while performing a blind atmospheric entry with damaged instruments, navigating a cargo hauler through a collapsing mineshaft, or piloting a civilian vessel through conditions so extreme that the margins between survival and destruction are measured in meters and milliseconds represents hard or greater difficulty.",
+    "startingItems": []
+  }
+}

@@ -1,0 +1,2801 @@
+{
+  "Smooth Talker": {
+    "name": "Smooth Talker",
+    "type": "utility",
+    "description": "Your social instincts engage as you naturally match their tone, read their reactions, and adjust your approach on the fly. Slightly increases the effectiveness of your next persuasion action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Silver Tongue": {
+    "name": "Silver Tongue",
+    "type": "utility",
+    "description": "Words come to you before you need them, your mind running two conversations at once -- the one they hear and the one steering it. Moderately increases the effectiveness of your next persuasion action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Irresistible Argument": {
+    "name": "Irresistible Argument",
+    "type": "utility",
+    "description": "Logic, empathy, and instinct align into a single persuasive force as you see exactly what they need to hear and how to deliver it. Significantly increases the effectiveness of your next persuasion action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Absolute Conviction": {
+    "name": "Absolute Conviction",
+    "type": "utility",
+    "description": "You enter a state of total communicative mastery where your certainty becomes contagious, your presence undeniable, and your words the only thing that feels true. Greatly increases the effectiveness of your next persuasion action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Poker Face": {
+    "name": "Poker Face",
+    "type": "utility",
+    "description": "Your expression settles into whatever the moment needs, your body suppressing every tell that might betray the truth behind your words. Slightly increases the effectiveness of your next deception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Convincing Liar": {
+    "name": "Convincing Liar",
+    "type": "utility",
+    "description": "The lie feels true because you believe it first, your mind constructing a version of reality so complete that your body language follows without being told. Moderately increases the effectiveness of your next deception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Web of Lies": {
+    "name": "Web of Lies",
+    "type": "utility",
+    "description": "Multiple fabrications layer and reinforce each other in your mind, each lie supporting the others so naturally that the whole structure feels like memory rather than invention. Significantly increases the effectiveness of your next deception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Master of Masks": {
+    "name": "Master of Masks",
+    "type": "utility",
+    "description": "Truth and falsehood become tools of equal weight in your hands, deployed with such precision that even you choose when to remember which is which. Greatly increases the effectiveness of your next deception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Hard Stare": {
+    "name": "Hard Stare",
+    "type": "utility",
+    "description": "Your posture shifts and your expression empties of everything except focused attention, the kind that makes people suddenly aware of their own vulnerability. Slightly increases the effectiveness of your next intimidation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "intimidation",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Voice of Authority": {
+    "name": "Voice of Authority",
+    "type": "utility",
+    "description": "Your voice drops into a register that bypasses thought and hits instinct, the tone of someone accustomed to obedience who will not ask twice. Moderately increases the effectiveness of your next intimidation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "intimidation",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Dread Presence": {
+    "name": "Dread Presence",
+    "type": "utility",
+    "description": "You project menace so controlled and specific that it feels less like anger and more like certainty -- the certainty that things will go badly for them if they do not comply. Significantly increases the effectiveness of your next intimidation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "intimidation",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Breaking Point": {
+    "name": "Breaking Point",
+    "type": "utility",
+    "description": "Your presence becomes an unbearable weight, every micro-expression and measured silence communicating with absolute clarity that you are the most dangerous thing in this room. Greatly increases the effectiveness of your next intimidation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "intimidation",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Read People": {
+    "name": "Read People",
+    "type": "utility",
+    "description": "Your attention sharpens on the small things -- a shift in weight, a half-second too long before answering, the hand that moves to cover nothing. Slightly increases the effectiveness of your next insight action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "insight",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Keen Observer": {
+    "name": "Keen Observer",
+    "type": "utility",
+    "description": "Patterns in behavior become legible before conscious analysis catches up, your instincts flagging inconsistencies that your mind processes a moment later. Moderately increases the effectiveness of your next insight action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "insight",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Deep Perception": {
+    "name": "Deep Perception",
+    "type": "utility",
+    "description": "You read the architecture behind the performance -- not just what they are hiding but why, and what it would take to make them stop. Significantly increases the effectiveness of your next insight action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "insight",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Soul Reader": {
+    "name": "Soul Reader",
+    "type": "utility",
+    "description": "People become transparent, their words a thin layer over intentions you perceive with such clarity that deception feels like watching someone lie badly in slow motion. Greatly increases the effectiveness of your next insight action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "insight",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Crowd Warmer": {
+    "name": "Crowd Warmer",
+    "type": "utility",
+    "description": "Your timing adjusts to the room before you consciously read it, your voice and presence calibrating to what this specific audience needs to hear. Slightly increases the effectiveness of your next performance action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Show Stopper": {
+    "name": "Show Stopper",
+    "type": "utility",
+    "description": "The performance takes on its own momentum as you stop thinking about technique and start channeling something that feels larger than preparation. Moderately increases the effectiveness of your next performance action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Heart Strings": {
+    "name": "Heart Strings",
+    "type": "utility",
+    "description": "You find the emotional frequency of the room and play it with surgical precision, pulling responses from the audience that surprise even them. Significantly increases the effectiveness of your next performance action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Magnum Opus": {
+    "name": "Magnum Opus",
+    "type": "utility",
+    "description": "Everything aligns -- voice, presence, timing, and truth -- into a performance that transcends skill and becomes something the audience will remember for years. Greatly increases the effectiveness of your next performance action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Street Smarts": {
+    "name": "Street Smarts",
+    "type": "utility",
+    "description": "Your awareness shifts to the signals most people miss -- who watches the exits, whose shoes do not match their story, which vendor pays protection to whom. Slightly increases the effectiveness of your next streetwise action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "streetwise",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Connected": {
+    "name": "Connected",
+    "type": "utility",
+    "description": "Names and networks surface from memory as the social map of this place assembles itself from fragments you collected without realizing it. Moderately increases the effectiveness of your next streetwise action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "streetwise",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Underworld Fluency": {
+    "name": "Underworld Fluency",
+    "type": "utility",
+    "description": "You speak the unwritten language of criminal enterprise so naturally that doors open, prices drop, and people tell you things they would never tell a stranger. Significantly increases the effectiveness of your next streetwise action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "streetwise",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Kingpin's Intuition": {
+    "name": "Kingpin's Intuition",
+    "type": "utility",
+    "description": "The underworld operates on rules as rigid as any government, and you read its power structures, rivalries, and opportunities with the clarity of someone who wrote half of them. Greatly increases the effectiveness of your next streetwise action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "streetwise",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Brute Force": {
+    "name": "Brute Force",
+    "type": "utility",
+    "description": "Your stance widens and your weight drops, trained physical discipline overriding hesitation before your conscious mind can interfere. Slightly increases the effectiveness of your next athletics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "athletics",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Power Surge": {
+    "name": "Power Surge",
+    "type": "utility",
+    "description": "Your body reads the effort required and commits along the optimal line before conscious thought catches up, experience converting intent into coordinated force. Moderately increases the effectiveness of your next athletics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "athletics",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Titan's Grip": {
+    "name": "Titan's Grip",
+    "type": "utility",
+    "description": "Training and instinct merge into a single focused effort, every muscle firing in sequence as strength flows from core outward without wasted motion. Significantly increases the effectiveness of your next athletics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "athletics",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Unstoppable": {
+    "name": "Unstoppable",
+    "type": "utility",
+    "description": "Your body enters a state of total physical commitment where limitations stop registering and raw power flows as naturally as breathing. Greatly increases the effectiveness of your next athletics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "athletics",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Trained Reflexes": {
+    "name": "Trained Reflexes",
+    "type": "utility",
+    "description": "Your body responds to momentum and balance before your mind processes the movement, trained muscle memory handling the mechanics of motion. Slightly increases the effectiveness of your next acrobatics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "acrobatics",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Second Nature": {
+    "name": "Second Nature",
+    "type": "utility",
+    "description": "Complex movements simplify into fluid sequences as your body stops thinking about technique and starts executing it as naturally as walking. Moderately increases the effectiveness of your next acrobatics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "acrobatics",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Perfect Form": {
+    "name": "Perfect Form",
+    "type": "utility",
+    "description": "Every motion executes with mechanical precision, your body flowing through complex sequences with the effortless accuracy of something rehearsed ten thousand times. Significantly increases the effectiveness of your next acrobatics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "acrobatics",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Transcendent Grace": {
+    "name": "Transcendent Grace",
+    "type": "utility",
+    "description": "Physics becomes a suggestion as your body moves with such refined coordination that observers cannot identify the point where one movement ends and the next begins. Greatly increases the effectiveness of your next acrobatics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "acrobatics",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Soft Step": {
+    "name": "Soft Step",
+    "type": "utility",
+    "description": "Your weight distribution shifts automatically, each footfall placed for minimum noise as trained movement patterns suppress the instinct to rush. Slightly increases the effectiveness of your next stealth action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Shadow Meld": {
+    "name": "Shadow Meld",
+    "type": "utility",
+    "description": "Your presence contracts as awareness of cover, shadow, and sightlines becomes intuitive, your body adjusting position to exploit concealment without conscious planning. Moderately increases the effectiveness of your next stealth action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Ghost Walk": {
+    "name": "Ghost Walk",
+    "type": "utility",
+    "description": "Your presence shrinks to almost nothing, sound, movement, and silhouette suppressed by a coordination of body and awareness that feels effortless. Significantly increases the effectiveness of your next stealth action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Invisible": {
+    "name": "Invisible",
+    "type": "utility",
+    "description": "You cease to exist in any perceptible way, your body and mind operating in a state of total concealment that borders on supernatural. Greatly increases the effectiveness of your next stealth action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Wilderness Sense": {
+    "name": "Wilderness Sense",
+    "type": "utility",
+    "description": "Your field training surfaces as you start reading the environment automatically, noticing signs of weather, water, and danger before you consciously look for them. Slightly increases the effectiveness of your next survival action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Wasteland Veteran": {
+    "name": "Wasteland Veteran",
+    "type": "utility",
+    "description": "Hard-won experience sharpens your senses as the terrain's patterns become legible, its threats predictable, its hidden resources visible. Moderately increases the effectiveness of your next survival action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Apex Survivor": {
+    "name": "Apex Survivor",
+    "type": "utility",
+    "description": "Knowledge and instinct fuse into a single survival engine, processing terrain, weather, and threat simultaneously without slowing down. Significantly increases the effectiveness of your next survival action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "One With the Waste": {
+    "name": "One With the Waste",
+    "type": "utility",
+    "description": "The environment stops being hostile and becomes home, every sense attuned, every instinct firing, your body and mind operating as one with the land around you. Greatly increases the effectiveness of your next survival action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Void Legs": {
+    "name": "Void Legs",
+    "type": "utility",
+    "description": "Your body adapts to the absence of gravity, spatial orientation stabilizing as trained reflexes compensate for the missing reference frame. Slightly increases the effectiveness of your next zero-g operations action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "zero-g operations",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Drift Control": {
+    "name": "Drift Control",
+    "type": "utility",
+    "description": "Movement in zero-g becomes intuitive as your body learns to think in vectors rather than directions, every push and pivot calculated without conscious effort. Moderately increases the effectiveness of your next zero-g operations action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "zero-g operations",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Void Walker": {
+    "name": "Void Walker",
+    "type": "utility",
+    "description": "Three-dimensional space becomes your natural environment, your body exploiting microgravity for maneuvers that gravity-trained opponents cannot predict or counter. Significantly increases the effectiveness of your next zero-g operations action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "zero-g operations",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Void Sovereign": {
+    "name": "Void Sovereign",
+    "type": "utility",
+    "description": "You operate in zero-g with such fluid mastery that observers cannot tell whether you were born in gravity or in the black -- every movement precise, efficient, and effortless. Greatly increases the effectiveness of your next zero-g operations action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "zero-g operations",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Quick Fix": {
+    "name": "Quick Fix",
+    "type": "utility",
+    "description": "Your hands find the problem before your mind finishes diagnosing it, trained muscle memory guiding your tools to the most likely failure point. Slightly increases the effectiveness of your next engineering action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "engineering",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Jury Rigger": {
+    "name": "Jury Rigger",
+    "type": "utility",
+    "description": "Improvisation becomes second nature as your understanding of systems lets you see functional equivalents in scrap, spares, and components never designed for this purpose. Moderately increases the effectiveness of your next engineering action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "engineering",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Systems Mastery": {
+    "name": "Systems Mastery",
+    "type": "utility",
+    "description": "Your comprehension of mechanical and electrical systems reaches the level where troubleshooting feels like conversation -- the machine tells you what is wrong. Significantly increases the effectiveness of your next engineering action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "engineering",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Engineering Genius": {
+    "name": "Engineering Genius",
+    "type": "utility",
+    "description": "Every system is transparent to you, every failure mode predictable, every solution obvious -- you see the machine not as it is but as it should be and know how to close the gap. Greatly increases the effectiveness of your next engineering action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "engineering",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Script Kiddie": {
+    "name": "Script Kiddie",
+    "type": "utility",
+    "description": "Basic intrusion patterns execute with practiced ease, your fingers moving through standard exploit sequences while your mind watches for the system's response. Slightly increases the effectiveness of your next hacking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "hacking",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "System Cracker": {
+    "name": "System Cracker",
+    "type": "utility",
+    "description": "Security architectures become readable as your experience maps common design patterns, your mind identifying probable vulnerabilities before testing confirms them. Moderately increases the effectiveness of your next hacking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "hacking",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Ghost in the Machine": {
+    "name": "Ghost in the Machine",
+    "type": "utility",
+    "description": "You move through systems like someone who built them, anticipating security responses, exploiting timing windows, and leaving traces so subtle that forensic analysis finds nothing. Significantly increases the effectiveness of your next hacking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "hacking",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Zero Day": {
+    "name": "Zero Day",
+    "type": "utility",
+    "description": "Every system has a door it does not know about, and you see them all -- vulnerabilities that exist in the gap between design intention and implementation reality. Greatly increases the effectiveness of your next hacking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "hacking",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Triage Training": {
+    "name": "Triage Training",
+    "type": "utility",
+    "description": "Your hands move with a calm, practiced routine, assessing damage and prioritizing treatment with the steady confidence that comes from drilling the fundamentals. Slightly increases the effectiveness of your next medicine action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "medicine",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Clinical Eye": {
+    "name": "Clinical Eye",
+    "type": "utility",
+    "description": "Symptoms assemble into diagnoses before conscious analysis completes, your experience pattern-matching faster than deliberate reasoning. Moderately increases the effectiveness of your next medicine action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "medicine",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Surgeon's Precision": {
+    "name": "Surgeon's Precision",
+    "type": "utility",
+    "description": "Your hands achieve the steadiness and exactness that separates competent treatment from work that saves lives others would lose. Significantly increases the effectiveness of your next medicine action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "medicine",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Miracle Worker": {
+    "name": "Miracle Worker",
+    "type": "utility",
+    "description": "Medicine becomes intuition as your understanding of biology reaches the level where you see solutions invisible to lesser practitioners and execute them flawlessly. Greatly increases the effectiveness of your next medicine action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "medicine",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Port Check": {
+    "name": "Port Check",
+    "type": "utility",
+    "description": "Your hands find the interface points and diagnostic connections automatically, trained familiarity with standard augmentation architectures guiding your tools. Slightly increases the effectiveness of your next cybernetics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cybernetics",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Neural Calibrator": {
+    "name": "Neural Calibrator",
+    "type": "utility",
+    "description": "The interplay between biological and cybernetic systems becomes legible as your experience reveals the subtle patterns of integration, rejection, and drift. Moderately increases the effectiveness of your next cybernetics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cybernetics",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Augmentation Specialist": {
+    "name": "Augmentation Specialist",
+    "type": "utility",
+    "description": "You understand the conversation between flesh and machine well enough to optimize it, tuning implants to individual biology with precision manufacturers cannot match. Significantly increases the effectiveness of your next cybernetics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cybernetics",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Cybernetic Virtuoso": {
+    "name": "Cybernetic Virtuoso",
+    "type": "utility",
+    "description": "Augmentation systems become transparent to you -- every interaction between nerve and circuit, every compatibility constraint and optimization opportunity visible at a glance. Greatly increases the effectiveness of your next cybernetics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cybernetics",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Steady Approach": {
+    "name": "Steady Approach",
+    "type": "utility",
+    "description": "Your hands settle on the controls with trained confidence, spatial awareness and instrument reading synchronizing into the calm focus that makes smooth flying automatic. Slightly increases the effectiveness of your next civilian vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "civilian vehicles",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Instinctive Corrections": {
+    "name": "Instinctive Corrections",
+    "type": "utility",
+    "description": "Course adjustments happen before conscious thought as your reflexes process drift, attitude, and closing speed faster than deliberate calculation. Moderately increases the effectiveness of your next civilian vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "civilian vehicles",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Ace Pilot": {
+    "name": "Ace Pilot",
+    "type": "utility",
+    "description": "The vessel becomes an extension of your body, its capabilities and limitations felt as naturally as your own limbs, every maneuver executed at the edge of what the frame allows. Significantly increases the effectiveness of your next civilian vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "civilian vehicles",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Legendary Stick": {
+    "name": "Legendary Stick",
+    "type": "utility",
+    "description": "Flying transcends skill and becomes art -- you extract performance from any vessel that its designers did not know it possessed, and you do it without thinking. Greatly increases the effectiveness of your next civilian vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "civilian vehicles",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Station Operator": {
+    "name": "Station Operator",
+    "type": "utility",
+    "description": "Your attention distributes across readouts and displays with trained efficiency, prioritizing data streams and flagging anomalies before they become problems. Slightly increases the effectiveness of your next starship systems action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "starship systems",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Systems Coordinator": {
+    "name": "Systems Coordinator",
+    "type": "utility",
+    "description": "Multiple station responsibilities layer without overwhelming as your experience lets you process sensor data, manage shields, and coordinate comms simultaneously. Moderately increases the effectiveness of your next starship systems action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "starship systems",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Bridge Officer": {
+    "name": "Bridge Officer",
+    "type": "utility",
+    "description": "The ship's systems become a unified picture in your mind, every subsystem's status tracked and managed with the fluid awareness of someone who thinks at fleet scale. Significantly increases the effectiveness of your next starship systems action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "starship systems",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Fleet Mind": {
+    "name": "Fleet Mind",
+    "type": "utility",
+    "description": "You operate the ship's systems with such comprehensive mastery that you effectively function as a human extension of the vessel's computing architecture. Greatly increases the effectiveness of your next starship systems action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "starship systems",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Wrench Monkey": {
+    "name": "Wrench Monkey",
+    "type": "utility",
+    "description": "Your hands know the standard maintenance sequences, moving through diagnostic checks and component replacements with the steady rhythm of trained routine. Slightly increases the effectiveness of your next mech tech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech tech",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Field Mechanic": {
+    "name": "Field Mechanic",
+    "type": "utility",
+    "description": "Damage assessment becomes instinctive as your experience reads the symptoms of mechanical failure -- the sound of a stressed actuator, the vibration of a misaligned joint. Moderately increases the effectiveness of your next mech tech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech tech",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Master Technician": {
+    "name": "Master Technician",
+    "type": "utility",
+    "description": "You understand each mech as an individual machine with its own personality, its own wear patterns, and its own optimal settings that factory specifications never capture. Significantly increases the effectiveness of your next mech tech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech tech",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Mech Whisperer": {
+    "name": "Mech Whisperer",
+    "type": "utility",
+    "description": "The mech tells you what it needs through vibration, sound, and performance data that you read the way a doctor reads a heartbeat -- every fault diagnosed, every optimization found. Greatly increases the effectiveness of your next mech tech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech tech",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Field Strip": {
+    "name": "Field Strip",
+    "type": "utility",
+    "description": "Your hands disassemble and reassemble weapon components with the automatic confidence of someone who has done it a thousand times in the dark. Slightly increases the effectiveness of your next armory action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "armory",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Ballistic Intuition": {
+    "name": "Ballistic Intuition",
+    "type": "utility",
+    "description": "Weapon behavior becomes predictable as your understanding of materials, tolerances, and wear patterns lets you anticipate performance before testing confirms it. Moderately increases the effectiveness of your next armory action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "armory",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Master Gunsmith": {
+    "name": "Master Gunsmith",
+    "type": "utility",
+    "description": "Weapons yield their secrets to your expertise -- every component's purpose transparent, every modification's consequence predicted, every optimization achievable. Significantly increases the effectiveness of your next armory action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "armory",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Legendary Armorer": {
+    "name": "Legendary Armorer",
+    "type": "utility",
+    "description": "You craft and modify weapons and armor at a level where your work becomes recognizable by quality alone -- performance that exceeds factory specifications through sheer expertise. Greatly increases the effectiveness of your next armory action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "armory",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Steady Solder": {
+    "name": "Steady Solder",
+    "type": "utility",
+    "description": "Your hands find the right connection points and your tools deliver clean joins, trained dexterity handling the small-scale precision that electronics demand. Slightly increases the effectiveness of your next electronics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "electronics",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Circuit Intuition": {
+    "name": "Circuit Intuition",
+    "type": "utility",
+    "description": "Signal paths and component relationships become readable as your experience maps common design patterns, letting you trace faults and improvise solutions. Moderately increases the effectiveness of your next electronics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "electronics",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Device Architect": {
+    "name": "Device Architect",
+    "type": "utility",
+    "description": "You see electronics not as assemblies of parts but as systems of intent, understanding what the designer wanted well enough to improve on it. Significantly increases the effectiveness of your next electronics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "electronics",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Master Fabricator": {
+    "name": "Master Fabricator",
+    "type": "utility",
+    "description": "Any electronic system becomes buildable, repairable, and improvable in your hands -- you work at the level where the distinction between engineer and artist disappears. Greatly increases the effectiveness of your next electronics action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "electronics",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Measured Pour": {
+    "name": "Measured Pour",
+    "type": "utility",
+    "description": "Your hands maintain the steady control and precise measurement that separates useful compounds from dangerous waste, trained routine guiding each step. Slightly increases the effectiveness of your next chemistry action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "chemistry",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Reaction Sense": {
+    "name": "Reaction Sense",
+    "type": "utility",
+    "description": "Chemical behavior becomes predictable as your experience reads temperature, color, and timing cues that tell you what the compound will do before it does it. Moderately increases the effectiveness of your next chemistry action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "chemistry",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Master Chemist": {
+    "name": "Master Chemist",
+    "type": "utility",
+    "description": "Synthesis becomes intuitive as your understanding of molecular interaction lets you predict results, adjust formulations, and improvise alternatives from available materials. Significantly increases the effectiveness of your next chemistry action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "chemistry",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Molecular Architect": {
+    "name": "Molecular Architect",
+    "type": "utility",
+    "description": "Chemistry opens completely -- every compound a puzzle with a visible solution, every reaction a tool to be directed, every material a resource waiting to be transformed. Greatly increases the effectiveness of your next chemistry action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "chemistry",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Careful Hands": {
+    "name": "Careful Hands",
+    "type": "utility",
+    "description": "Your training overrides curiosity as established safety protocols guide your approach to unfamiliar technology, minimizing risk while maximizing observation. Slightly increases the effectiveness of your next xenotechnology action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "xenotechnology",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Anomaly Reader": {
+    "name": "Anomaly Reader",
+    "type": "utility",
+    "description": "Patterns emerge in alien engineering as your experience with non-standard technology lets you identify functional analogues and probable operating principles. Moderately increases the effectiveness of your next xenotechnology action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "xenotechnology",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Xeno-Engineer": {
+    "name": "Xeno-Engineer",
+    "type": "utility",
+    "description": "Alien technology becomes less alien as your accumulated understanding reveals the universal principles beneath species-specific implementation -- every civilization solves the same problems. Significantly increases the effectiveness of your next xenotechnology action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "xenotechnology",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Rosetta Mind": {
+    "name": "Rosetta Mind",
+    "type": "utility",
+    "description": "Xenotechnology becomes comprehensible at the design-philosophy level, letting you intuit function, predict failure modes, and identify integration opportunities across civilizational boundaries. Greatly increases the effectiveness of your next xenotechnology action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "xenotechnology",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Keen Senses": {
+    "name": "Keen Senses",
+    "type": "utility",
+    "description": "Your awareness sharpens as trained attention catches details that passive observation would miss -- a sound out of place, a shadow that moves wrong. Slightly increases the effectiveness of your next perception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "perception",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Heightened Awareness": {
+    "name": "Heightened Awareness",
+    "type": "utility",
+    "description": "Your senses operate at a level where the environment provides a continuous stream of information, threats and details registering before conscious focus finds them. Moderately increases the effectiveness of your next perception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "perception",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Predator's Focus": {
+    "name": "Predator's Focus",
+    "type": "utility",
+    "description": "Nothing in your environment escapes your notice, every sense operating at peak capacity and feeding a unified awareness that processes the entire space simultaneously. Significantly increases the effectiveness of your next perception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "perception",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Omniscient Eye": {
+    "name": "Omniscient Eye",
+    "type": "utility",
+    "description": "Awareness becomes total -- you perceive everything within range with such comprehensive clarity that surprising you requires either extraordinary skill or extraordinary luck. Greatly increases the effectiveness of your next perception action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "perception",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Careful Eye": {
+    "name": "Careful Eye",
+    "type": "utility",
+    "description": "Your attention shifts to evidence mode, trained observation patterns guiding your eyes to the details that matter -- what was moved, what was cleaned, what does not belong. Slightly increases the effectiveness of your next investigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "investigation",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Connect the Dots": {
+    "name": "Connect the Dots",
+    "type": "utility",
+    "description": "Evidence assembles into narrative as your mind draws connections between scattered data points faster than deliberate analysis could achieve. Moderately increases the effectiveness of your next investigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "investigation",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Forensic Mind": {
+    "name": "Forensic Mind",
+    "type": "utility",
+    "description": "Crime scenes and data trails become stories written in physical evidence, each detail a word in a sentence your training lets you read. Significantly increases the effectiveness of your next investigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "investigation",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Revelation": {
+    "name": "Revelation",
+    "type": "utility",
+    "description": "Investigation becomes revelation as your analytical capacity reaches the level where a single anomalous detail can unravel an entire concealment, the truth emerging from the pattern of what someone tried to hide. Greatly increases the effectiveness of your next investigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "investigation",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Trailwise": {
+    "name": "Trailwise",
+    "type": "utility",
+    "description": "Your sense of direction engages automatically, spatial awareness anchoring your position relative to landmarks, stellar reference points, and route markers. Slightly increases the effectiveness of your next navigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "navigation",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Wayfinder's Instinct": {
+    "name": "Wayfinder's Instinct",
+    "type": "utility",
+    "description": "Routes optimize themselves in your mind as your experience with terrain, traffic patterns, and jump route logistics produces efficient paths without deliberate calculation. Moderately increases the effectiveness of your next navigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "navigation",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "True Bearing": {
+    "name": "True Bearing",
+    "type": "utility",
+    "description": "Navigation becomes instinctive as your spatial awareness operates continuously, maintaining orientation and route awareness even in environments designed to confuse. Significantly increases the effectiveness of your next navigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "navigation",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Unerring Path": {
+    "name": "Unerring Path",
+    "type": "utility",
+    "description": "You always know where you are, where you have been, and the optimal route to where you need to go -- disorientation becomes a concept that no longer applies to you. Greatly increases the effectiveness of your next navigation action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "navigation",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Quick Assessment": {
+    "name": "Quick Assessment",
+    "type": "utility",
+    "description": "Your trained eye estimates value, quality, and authenticity with a glance, baseline knowledge providing rough but reliable first impressions. Slightly increases the effectiveness of your next appraisal action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "appraisal",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Market Knowledge": {
+    "name": "Market Knowledge",
+    "type": "utility",
+    "description": "Context enriches assessment as your understanding of markets, rarity, and provenance adds layers of information to raw quality evaluation. Moderately increases the effectiveness of your next appraisal action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "appraisal",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Expert Valuation": {
+    "name": "Expert Valuation",
+    "type": "utility",
+    "description": "Nothing passes your examination without revealing its true nature -- every counterfeit betrays itself, every genuine article confirms its quality under your scrutiny. Significantly increases the effectiveness of your next appraisal action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "appraisal",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Master Appraiser": {
+    "name": "Master Appraiser",
+    "type": "utility",
+    "description": "Value becomes transparent -- you see not just what something is worth but why, who would pay the most, and what the seller does not realize they have. Greatly increases the effectiveness of your next appraisal action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "appraisal",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Simple Seasoning": {
+    "name": "Simple Seasoning",
+    "type": "utility",
+    "description": "Your sense of timing and proportion engages, the fundamentals of heat, salt, and fat combining into the steady competence that produces reliably edible results. Slightly increases the effectiveness of your next cooking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cooking",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Flavor Alchemist": {
+    "name": "Flavor Alchemist",
+    "type": "utility",
+    "description": "Ingredients reveal their potential as your experience lets you taste the finished dish before you start, adjusting technique and combination to match the result you want. Moderately increases the effectiveness of your next cooking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cooking",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Master Chef": {
+    "name": "Master Chef",
+    "type": "utility",
+    "description": "Cooking becomes expression as your technical mastery frees you to improvise, substitute, and innovate without risking the quality that makes food worth eating. Significantly increases the effectiveness of your next cooking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cooking",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Culinary Transcendence": {
+    "name": "Culinary Transcendence",
+    "type": "utility",
+    "description": "Food becomes medicine, diplomacy, and comfort in your hands -- every meal calibrated to nourish, heal, or delight with a precision that transforms eating into experience. Greatly increases the effectiveness of your next cooking action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "cooking",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Light Fingers": {
+    "name": "Light Fingers",
+    "type": "utility",
+    "description": "Your hands develop the unconscious gentleness and spatial awareness that lets you touch without being felt and take without being noticed. Slightly increases the effectiveness of your next larceny action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "larceny",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Practiced Touch": {
+    "name": "Practiced Touch",
+    "type": "utility",
+    "description": "Locks, pockets, and security mechanisms become familiar as your fingers read their construction through contact, finding the path of least resistance. Moderately increases the effectiveness of your next larceny action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "larceny",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 3
+  },
+  "Invisible Hand": {
+    "name": "Invisible Hand",
+    "type": "utility",
+    "description": "Theft becomes invisible as your coordination of timing, distraction, and manual dexterity operates so smoothly that witnesses see nothing because there is nothing to see. Significantly increases the effectiveness of your next larceny action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "larceny",
+        "amount": 20
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Master Thief": {
+    "name": "Master Thief",
+    "type": "utility",
+    "description": "Security becomes a suggestion as your expertise renders any physical protection a temporary inconvenience -- locks open, pockets empty, and safes yield without protest. Greatly increases the effectiveness of your next larceny action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "larceny",
+        "amount": 30
+      }
+    ],
+    "bonus": 17,
+    "cooldown": 10
+  },
+  "Steady Aim": {
+    "name": "Steady Aim",
+    "type": "combat",
+    "description": "Your breathing slows and your grip settles as trained marksmanship fundamentals override adrenaline, aligning barrel to target with practiced confidence. Slightly increases the effectiveness of your next small arms action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Moment of Focus": {
+    "name": "Moment of Focus",
+    "type": "combat",
+    "description": "The battlefield narrows to sight picture and trigger as your mind filters out everything except the shot, experience compensating for movement and distance automatically. Moderately increases the effectiveness of your next small arms action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Controlled Breathing": {
+    "name": "Controlled Breathing",
+    "type": "combat",
+    "description": "You regulate your breathing and heart rate between engagements, converting the brief pause in fire into recovered energy and steadier hands. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Find the Gap": {
+    "name": "Find the Gap",
+    "type": "combat",
+    "description": "You identify the weak point in your target's protection and place your shot precisely where armor fails. Your next small arms action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Power Shot": {
+    "name": "Power Shot",
+    "type": "combat",
+    "description": "You brace, commit, and fire with everything behind the trigger -- accuracy sacrificed for devastating impact. Your next small arms action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Dead Eye": {
+    "name": "Dead Eye",
+    "type": "combat",
+    "description": "Target acquisition and trigger control merge into a single fluid action as your training eliminates the gap between seeing the shot and taking it. Significantly increases the effectiveness of your next small arms action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "True Shot": {
+    "name": "True Shot",
+    "type": "combat",
+    "description": "Everything aligns -- position, breathing, timing, and instinct -- into marksmanship so precise that the shot arrives exactly where your mind placed it before your finger moved. Greatly increases the effectiveness of your next small arms action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "small arms",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Weapon Set": {
+    "name": "Weapon Set",
+    "type": "combat",
+    "description": "Your body braces into the correct firing stance, weight distributed to absorb recoil as trained heavy weapons handling takes over. Slightly increases the effectiveness of your next heavy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Sustained Discipline": {
+    "name": "Sustained Discipline",
+    "type": "combat",
+    "description": "Recoil management and target tracking synchronize as your experience with heavy platforms converts raw firepower into directed destruction. Moderately increases the effectiveness of your next heavy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Reload Breath": {
+    "name": "Reload Breath",
+    "type": "combat",
+    "description": "You use the pause between magazines or charge cycles to reset your breathing and recover composure, converting downtime into restored readiness. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Penetrating Blast": {
+    "name": "Penetrating Blast",
+    "type": "combat",
+    "description": "You identify the structural weakness and place your ordnance exactly where protection is thinnest. Your next heavy weapons action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Full Payload": {
+    "name": "Full Payload",
+    "type": "combat",
+    "description": "You commit maximum output -- sustained burst, full charge, or point-blank detonation. Your next heavy weapons action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Ordnance Timing": {
+    "name": "Ordnance Timing",
+    "type": "combat",
+    "description": "Heavy weapons handling becomes instinctive as your body learns to ride recoil, track targets through blast effects, and maintain fire discipline under pressure. Significantly increases the effectiveness of your next heavy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Walking Apocalypse": {
+    "name": "Walking Apocalypse",
+    "type": "combat",
+    "description": "Every round finds a target, every detonation lands where it hurts most, and the weapon in your hands stops being equipment and becomes an extension of your will to destroy. Greatly increases the effectiveness of your next heavy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "heavy weapons",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Siege Protocol": {
+    "name": "Siege Protocol",
+    "type": "combat",
+    "description": "You coordinate a sustained engagement sequence that pushes the vehicle and crew to maximum output -- main gun firing at peak rate, all secondary systems active, targeting solutions computed before the previous round lands. The vehicle becomes a fortress of concentrated destruction. Your next ground vehicles action deals devastating damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 40
+      }
+    ],
+    "bonus": 30,
+    "cooldown": 10
+  },
+  "Trained Edge": {
+    "name": "Trained Edge",
+    "type": "combat",
+    "description": "Drilled footwork and striking patterns guide your stance before the first blow lands. Your grip settles into a position rehearsed a thousand times. Slightly increases the effectiveness of your next martial weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Tempered Aggression": {
+    "name": "Tempered Aggression",
+    "type": "combat",
+    "description": "Your body reads the distance and timing before your mind catches up, the weapon already moving along the right line. Moderately increases the effectiveness of your next martial weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Martial Recovery": {
+    "name": "Martial Recovery",
+    "type": "combat",
+    "description": "You reset your stance and regulate your breathing, converting the brief pause between exchanges into recovered energy. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Sundering Strike": {
+    "name": "Sundering Strike",
+    "type": "combat",
+    "description": "You target the weakest point in your opponent's defense, driving your weapon through the gap where protection fails. Your next martial weapons action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Devastating Blow": {
+    "name": "Devastating Blow",
+    "type": "combat",
+    "description": "You plant your feet and commit everything into a single ruinous strike, trading endurance for destruction. Your next martial weapons action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Killing Intent": {
+    "name": "Killing Intent",
+    "type": "combat",
+    "description": "Training and instinct merge into a single sharp focus. The weapon moves with the certainty of drilled technique and the speed of reflex combined. Significantly increases the effectiveness of your next martial weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Battle Mastery": {
+    "name": "Battle Mastery",
+    "type": "combat",
+    "description": "Everything you have learned with a blade in hand comes together. Every angle calculated, every opening answered, technique and instinct indistinguishable from one another. Greatly increases the effectiveness of your next martial weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "martial weapons",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Measured Swing": {
+    "name": "Measured Swing",
+    "type": "combat",
+    "description": "Your weight shifts into the weapon's arc, momentum and balance aligning through trained stance before the strike begins. Slightly increases the effectiveness of your next great weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Committed Momentum": {
+    "name": "Committed Momentum",
+    "type": "combat",
+    "description": "Each swing sets up the next as your body learns to ride the weapon's weight rather than fight it, turning mass from burden into devastating advantage. Moderately increases the effectiveness of your next great weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Steel Breathing": {
+    "name": "Steel Breathing",
+    "type": "combat",
+    "description": "You plant the weapon and use the brief recovery window to steady your breathing and restore your rhythm between exchanges. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Sundering Blow": {
+    "name": "Sundering Blow",
+    "type": "combat",
+    "description": "You read the fault line in your opponent's protection and drive the weapon through it with everything you have. Your next great weapons action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Overhead Commit": {
+    "name": "Overhead Commit",
+    "type": "combat",
+    "description": "You put your full weight behind a single overhead strike, sacrificing endurance for catastrophic impact. Your next great weapons action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Crushing Timing": {
+    "name": "Crushing Timing",
+    "type": "combat",
+    "description": "The weapon arrives at the exact moment the target cannot evade, your sense of timing and distance eliminating the gap between opportunity and impact. Significantly increases the effectiveness of your next great weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Perfect Impact": {
+    "name": "Perfect Impact",
+    "type": "combat",
+    "description": "Everything you have learned about weight, leverage, and follow-through comes together. Nothing is wasted, and everything connects. Greatly increases the effectiveness of your next great weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "great weapons",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Measured Poise": {
+    "name": "Measured Poise",
+    "type": "combat",
+    "description": "Your weight shifts to the balls of your feet and your blade hand loosens, trained reflexes settling into the patient, balanced readiness of a fighter who strikes second. Slightly increases the effectiveness of your next agile weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Viper's Patience": {
+    "name": "Viper's Patience",
+    "type": "combat",
+    "description": "Your awareness narrows to the space between you and your opponent. The micro-tells that precede every movement become legible before you think about them. Moderately increases the effectiveness of your next agile weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Fluid Recovery": {
+    "name": "Fluid Recovery",
+    "type": "combat",
+    "description": "You disengage with a smooth backstep and use the distance to regulate your breathing and restore your rhythm. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Exploit Opening": {
+    "name": "Exploit Opening",
+    "type": "combat",
+    "description": "You read the gap the instant it appears and thread your blade through before the opening closes. Your next agile weapons action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Flurry of Steel": {
+    "name": "Flurry of Steel",
+    "type": "combat",
+    "description": "You commit to a rapid sequence of strikes, burning energy for overwhelming speed. Your next agile weapons action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Razor Instinct": {
+    "name": "Razor Instinct",
+    "type": "combat",
+    "description": "Your blade finds the path of least resistance before your mind consciously identifies it, reflex and training producing strikes that bypass defense through pure speed. Significantly increases the effectiveness of your next agile weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Lethal Precision": {
+    "name": "Lethal Precision",
+    "type": "combat",
+    "description": "Every movement is a killing stroke. Every feint is indistinguishable from a real attack. Your blade arrives where it needs to be with the inevitability of a closing door. Greatly increases the effectiveness of your next agile weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "agile weapons",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Committed Strike": {
+    "name": "Committed Strike",
+    "type": "combat",
+    "description": "You put your full weight behind the blow, trained posture and balance squeezing every ounce of power from your frame. Slightly increases the effectiveness of your next brawling action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Killer Instinct": {
+    "name": "Killer Instinct",
+    "type": "combat",
+    "description": "Your body reads the opponent's movement and commits before your mind catches up, acting on reflex sharpened by countless fights. Moderately increases the effectiveness of your next brawling action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Second Wind": {
+    "name": "Second Wind",
+    "type": "combat",
+    "description": "You push through pain and exhaustion, drawing on grit and conditioning to recover your breath. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Break Guard": {
+    "name": "Break Guard",
+    "type": "combat",
+    "description": "You drive your fist through the weakest point of your opponent's stance, battering past blocks through raw structural precision. Your next brawling action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Overcommit": {
+    "name": "Overcommit",
+    "type": "combat",
+    "description": "You put reckless force behind the blow, sacrificing endurance for devastating impact. Your next brawling action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Predatory Focus": {
+    "name": "Predatory Focus",
+    "type": "combat",
+    "description": "Combat sharpens into pure reaction as your body stops distinguishing between offense and defense, every movement serving both purposes simultaneously. Significantly increases the effectiveness of your next brawling action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Apex Predator": {
+    "name": "Apex Predator",
+    "type": "combat",
+    "description": "You fight with the efficiency of something that has never needed a weapon. Every strike lands with purpose, every movement creates the next opening, and nothing is wasted. Greatly increases the effectiveness of your next brawling action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "brawling",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Neural Sync": {
+    "name": "Neural Sync",
+    "type": "combat",
+    "description": "Your awareness settles into the link as the mech's sensor data stops feeling like information and starts feeling like perception, trained sync protocols smoothing the transition. Slightly increases the effectiveness of your next mech piloting action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Combat Integration": {
+    "name": "Combat Integration",
+    "type": "combat",
+    "description": "Pilot and machine blur as your neural link deepens, weapons systems responding to targeting instinct and movement executing through thought rather than command. Moderately increases the effectiveness of your next mech piloting action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Link Recovery": {
+    "name": "Link Recovery",
+    "type": "combat",
+    "description": "You pull back from active engagement and let the ASAC handle baseline operations, giving your neural pathways time to recover from sustained combat strain. Restores a moderate amount of link.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Weak Point Targeting": {
+    "name": "Weak Point Targeting",
+    "type": "combat",
+    "description": "The ASAC highlights structural vulnerabilities and you thread your fire through them with link-assisted precision. Your next mech piloting action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Neural Overclock": {
+    "name": "Neural Overclock",
+    "type": "combat",
+    "description": "You push the link past safe parameters, flooding your nervous system with combat data for devastating effect. Your next mech piloting action costs additional link but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Perfect Synchronization": {
+    "name": "Perfect Synchronization",
+    "type": "combat",
+    "description": "The mech stops being a vehicle and becomes your body -- every actuator an extension of muscle, every sensor an extension of sense, every weapon an extension of intent. Significantly increases the effectiveness of your next mech piloting action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Ace Protocol": {
+    "name": "Ace Protocol",
+    "type": "combat",
+    "description": "You operate the mech at the absolute limit of neural link capability, achieving reaction times and tactical awareness that the ASAC cannot calculate because no pilot was supposed to reach this level. Greatly increases the effectiveness of your next mech piloting action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "mech piloting",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Apex Drive": {
+    "name": "Apex Drive",
+    "type": "combat",
+    "description": "You push the aircraft past every rated envelope -- speed, G-loading, weapons cycle rate -- in a sustained assault that transforms the cockpit into the center of a personal storm of violence and precision. Your next air vehicles action deals devastating damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 40
+      }
+    ],
+    "bonus": 30,
+    "cooldown": 10
+  },
+  "Arcane Focus": {
+    "name": "Arcane Focus",
+    "type": "combat",
+    "description": "Your will sharpens as the familiar pathways of magical energy align, channeling power with the steady confidence of practiced technique. Slightly increases the effectiveness of your next magic action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Focused Channeling": {
+    "name": "Focused Channeling",
+    "type": "combat",
+    "description": "Magical energy responds to your intent with increasing precision, the gap between will and effect narrowing as your control deepens. Moderately increases the effectiveness of your next magic action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Arcane Recovery": {
+    "name": "Arcane Recovery",
+    "type": "combat",
+    "description": "You center yourself and draw ambient magical energy inward, restoring spent reserves through focused meditation. Restores a moderate amount of mana.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Dispelling Strike": {
+    "name": "Dispelling Strike",
+    "type": "combat",
+    "description": "You weave your magic to unravel protection rather than overwhelm it, bypassing defenses at the fundamental level. Your next magic action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Overchannel": {
+    "name": "Overchannel",
+    "type": "combat",
+    "description": "You force more power through your arcane pathways than they are designed to carry. Your next magic action costs additional mana but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Arcane Mastery": {
+    "name": "Arcane Mastery",
+    "type": "combat",
+    "description": "Magic flows with the effortless precision of thought itself, complex effects executing with the same ease as simple cantrips. Significantly increases the effectiveness of your next magic action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Transcendent Will": {
+    "name": "Transcendent Will",
+    "type": "combat",
+    "description": "You channel magic at a level where the boundary between caster and spell dissolves. Power answers your intent before you finish forming it. Greatly increases the effectiveness of your next magic action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Resonance Lock": {
+    "name": "Resonance Lock",
+    "type": "combat",
+    "description": "Your dual awareness -- technological and arcane -- stabilizes as trained synchronization protocols align the two paradigms into a unified combat sense. Slightly increases the effectiveness of your next magitech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Hybrid Precision": {
+    "name": "Hybrid Precision",
+    "type": "combat",
+    "description": "Magitech systems respond to your intent with deepening fluidity as your mind learns to think in both arcane and electronic simultaneously. Moderately increases the effectiveness of your next magitech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Resonance Recovery": {
+    "name": "Resonance Recovery",
+    "type": "combat",
+    "description": "You allow the magitech systems to cycle while drawing ambient arcane energy through the resonance architecture, restoring magical reserves without breaking combat readiness. Restores a moderate amount of mana.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Phase Strike": {
+    "name": "Phase Strike",
+    "type": "combat",
+    "description": "You tune your magitech output to bypass conventional defenses, arcane energy carrying the payload through protection that stops purely physical or purely magical attacks. Your next magitech action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Arcane Overload": {
+    "name": "Arcane Overload",
+    "type": "combat",
+    "description": "You dump maximum magical energy through the magitech circuits, pushing the resonance architecture past safety margins for devastating effect. Your next magitech action costs additional mana but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Full Integration": {
+    "name": "Full Integration",
+    "type": "combat",
+    "description": "The magitech system becomes an extension of your consciousness, arcane and electronic data merging into a unified awareness that exceeds either paradigm alone. Significantly increases the effectiveness of your next magitech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Resonance Perfection": {
+    "name": "Resonance Perfection",
+    "type": "combat",
+    "description": "You operate at the absolute peak of magitech capability, the synthesis of magic and technology in your hands producing effects that neither discipline could achieve independently. Greatly increases the effectiveness of your next magitech action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magitech",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Critical Discharge": {
+    "name": "Critical Discharge",
+    "type": "combat",
+    "description": "You push the weapon past every rated specification, channeling knowledge of energy physics into a single shot that arrives with the concentrated fury of a focused star. The weapon screams with thermal overload. Your next energy weapons action deals devastating damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 40
+      }
+    ],
+    "bonus": 30,
+    "cooldown": 10
+  },
+  "Calibrated Beam": {
+    "name": "Calibrated Beam",
+    "type": "combat",
+    "description": "Your optics settle and your grip finds the weapon's balance point, ingrained knowledge of beam coherence guiding your aim before the first shot fires. Slightly increases the effectiveness of your next energy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Thermal Compensation": {
+    "name": "Thermal Compensation",
+    "type": "combat",
+    "description": "You read the weapon's heat signature through your targeting interface and adjust fire rate instinctively, placing each shot in the thermal window where coherence peaks. Moderately increases the effectiveness of your next energy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Cell Cycling": {
+    "name": "Cell Cycling",
+    "type": "combat",
+    "description": "You cycle the power cell and vent accumulated thermal load in a practiced sequence, buying a moment of recovery while the weapon's systems reset to optimal output. Restores a moderate amount of stamina.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Focused Emission": {
+    "name": "Focused Emission",
+    "type": "combat",
+    "description": "You adjust beam frequency to exploit a specific weakness in the target's protection, threading energy through the gap where armor composition is thinnest. Your next energy weapons action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Overcharged Discharge": {
+    "name": "Overcharged Discharge",
+    "type": "combat",
+    "description": "You override the weapon's safety limiters and dump the full power cell into a single devastating shot, trading sustained fire capability for one moment of overwhelming force. Your next energy weapons action costs additional stamina but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Wavelength Tuning": {
+    "name": "Wavelength Tuning",
+    "type": "combat",
+    "description": "Combat experience and technical mastery merge -- you read the target's material composition through the weapon's sensors and tune output wavelength for maximum energy transfer in the time it takes to exhale. Significantly increases the effectiveness of your next energy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Perfect Frequency": {
+    "name": "Perfect Frequency",
+    "type": "combat",
+    "description": "Every variable aligns -- beam coherence, atmospheric compensation, target material resonance -- and the weapon becomes an extension of your understanding of directed energy. Your shot arrives at the exact frequency the target cannot resist. Greatly increases the effectiveness of your next energy weapons action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "energy weapons",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Steady Turret": {
+    "name": "Steady Turret",
+    "type": "combat",
+    "description": "Your hands settle on the commander's controls and the crew responds to your calm authority, the turret tracking smoothly to your designated target. Slightly increases the effectiveness of your next ground vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Target Acquisition": {
+    "name": "Target Acquisition",
+    "type": "combat",
+    "description": "You read the thermal bloom and motion signatures across the engagement area, designating priority targets for your gunner before they can reach firing positions. Moderately increases the effectiveness of your next ground vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Crew Coordination": {
+    "name": "Crew Coordination",
+    "type": "combat",
+    "description": "A brief lull in the engagement lets you reset the crew rhythm -- confirming ammunition counts, cycling targeting systems, steadying nerves. The neural-assist interface stabilizes. Restores a moderate amount of link.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Weak Point Analysis": {
+    "name": "Weak Point Analysis",
+    "type": "combat",
+    "description": "You identify structural vulnerabilities in the target's armor profile through sensor data and battlefield experience, directing your gunner to the exact spot where protection fails. Your next ground vehicles action ignores armor.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Combined Volley": {
+    "name": "Combined Volley",
+    "type": "combat",
+    "description": "You order every weapon system to fire simultaneously -- main gun, coaxial, turret-mounted secondaries -- committing the entire vehicle's firepower to a single devastating volley. Your next ground vehicles action costs additional link but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Kill Zone": {
+    "name": "Kill Zone",
+    "type": "combat",
+    "description": "You read the terrain and the enemy's movement patterns with the instinct of a veteran commander, positioning your vehicle where every angle of fire becomes lethal. Significantly increases the effectiveness of your next ground vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Hull Down Mastery": {
+    "name": "Hull Down Mastery",
+    "type": "combat",
+    "description": "You exploit terrain with the precision of a lifetime behind armor -- positioning the vehicle where only the turret is exposed while maintaining perfect fields of fire. Your crew fights from an almost unassailable position. Greatly increases the effectiveness of your next ground vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "ground vehicles",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "Stable Platform": {
+    "name": "Stable Platform",
+    "type": "combat",
+    "description": "Your hands settle on stick and throttle with trained familiarity, the aircraft responding to subtle inputs that turn turbulence into a stable weapons platform. Slightly increases the effectiveness of your next air vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 1
+      }
+    ],
+    "bonus": 5,
+    "cooldown": 1
+  },
+  "Vector Tracking": {
+    "name": "Vector Tracking",
+    "type": "combat",
+    "description": "You read the target's energy state and predict their next maneuver, placing your aircraft on an intercept vector before they commit to the turn. Moderately increases the effectiveness of your next air vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 10
+      }
+    ],
+    "bonus": 8,
+    "cooldown": 2
+  },
+  "Throttle Management": {
+    "name": "Throttle Management",
+    "type": "combat",
+    "description": "You trade altitude for distance from the engagement, using the brief separation to let systems cool, reassess the tactical picture, and rebuild energy state. Restores a moderate amount of link.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 10,
+    "cooldown": 10
+  },
+  "Deflection Shooting": {
+    "name": "Deflection Shooting",
+    "type": "combat",
+    "description": "You compute the lead angle through instinct and neural-assist simultaneously, placing fire where the target will be when the rounds arrive. Your next air vehicles action ignores evasion.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 3
+  },
+  "Attack Run": {
+    "name": "Attack Run",
+    "type": "combat",
+    "description": "You commit to a diving attack run, trading altitude and safety for a devastating weapons pass that concentrates every available system on a single target. Your next air vehicles action costs additional link but deals greatly increased damage.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 15
+      }
+    ],
+    "bonus": 12,
+    "cooldown": 5
+  },
+  "Energy Management": {
+    "name": "Energy Management",
+    "type": "combat",
+    "description": "Speed, altitude, and angle of attack become a single calculation -- you manage the aircraft's energy state with the instinct of a born pilot, always arriving at the merge with the advantage. Significantly increases the effectiveness of your next air vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 20
+      }
+    ],
+    "bonus": 16,
+    "cooldown": 3
+  },
+  "Ace Instinct": {
+    "name": "Ace Instinct",
+    "type": "combat",
+    "description": "Combat flying transcends conscious thought. You read the battlespace as a three-dimensional puzzle and place your aircraft in the one position where everything falls apart for the enemy. Greatly increases the effectiveness of your next air vehicles action.",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "air vehicles",
+        "amount": 25
+      }
+    ],
+    "bonus": 20,
+    "cooldown": 5
+  },
+  "\n\n##LEARNED ABILITY QUALITY GATE -- PROCESS BEFORE EVALUATING.\n\nTHRESHOLD: Most turns produce an empty list. A learned ability represents a permanent shift in what the character CAN do, not a refinement of what they already do. Using existing skills well, even brilliantly, is not a new ability -- it is the skill system working as intended.\n\nFAILURE MODES -- REJECT THESE:\n- Character uses an existing skill competently. This is normal gameplay, not a breakthrough.\n- An NPC suggests a tactic, technique, or strategy. Receiving advice is not a player breakthrough. The player must independently perform or grasp something new.\n- Training exercises where the character practices known capabilities. Repetition is not invention.\n- The narrator describes an action cinematically. Dramatic prose does not make a routine action extraordinary.\n- The proposed ability overlaps mechanically with any ability in worldAbilityNames or existingAbilityNames, even under a different name. Check function, not just name.\n- The proposed ability describes something the character could already attempt using their playerSkillNames. If a skill covers it, no ability is needed.\n- The ability is generic, mundane, or unexciting. If it reads like a job qualification rather than something a player would be thrilled to unlock, reject it.\n\nWHAT QUALIFIES:\n- The character attempts something their existing skills do NOT cover and succeeds in a way that permanently changes their capabilities.\n- A supernatural, external, or extraordinary source grants power the character could not develop through normal practice.\n- A genuine breakthrough under extreme duress where the character invents a technique that contradicts or transcends their training.\n- The character witnesses or experiences a remarkable technique and grasps its underlying principle well enough to replicate it -- but only if the technique is genuinely unique and impressive, not a common combat maneuver.\n- Multi-turn sustained effort reaches a clear payoff moment -- not gradual improvement but a distinct before-and-after.\n\nQUALITY REQUIREMENTS FOR APPROVED ABILITIES:\n- The ability must occupy a mechanical space not already filled by worldAbilityNames. If a similar ability exists, return empty list.\n- The ability name must feel like it belongs alongside the existing ability names -- evocative and concise, not a technical label.\n- The description must reference the specific story event that created it, not read like a generic tooltip.\n- The ability must be something the character could plausibly use again in future situations, not a one-time situational trick.\n- The ability should feel exciting to receive. If it would not make a player say that is cool, it is not worth awarding.\n\nWhen uncertain, return empty list. Default output: {\"learnedAbilities\":[]}": {
+    "name": "\n\n##LEARNED ABILITY QUALITY GATE -- PROCESS BEFORE EVALUATING.\n\nTHRESHOLD: Most turns produce an empty list. A learned ability represents a permanent shift in what the character CAN do, not a refinement of what they already do. Using existing skills well, even brilliantly, is not a new ability -- it is the skill system working as intended.\n\nFAILURE MODES -- REJECT THESE:\n- Character uses an existing skill competently. This is normal gameplay, not a breakthrough.\n- An NPC suggests a tactic, technique, or strategy. Receiving advice is not a player breakthrough. The player must independently perform or grasp something new.\n- Training exercises where the character practices known capabilities. Repetition is not invention.\n- The narrator describes an action cinematically. Dramatic prose does not make a routine action extraordinary.\n- The proposed ability overlaps mechanically with any ability in worldAbilityNames or existingAbilityNames, even under a different name. Check function, not just name.\n- The proposed ability describes something the character could already attempt using their playerSkillNames. If a skill covers it, no ability is needed.\n- The ability is generic, mundane, or unexciting. If it reads like a job qualification rather than something a player would be thrilled to unlock, reject it.\n\nWHAT QUALIFIES:\n- The character attempts something their existing skills do NOT cover and succeeds in a way that permanently changes their capabilities.\n- A supernatural, external, or extraordinary source grants power the character could not develop through normal practice.\n- A genuine breakthrough under extreme duress where the character invents a technique that contradicts or transcends their training.\n- The character witnesses or experiences a remarkable technique and grasps its underlying principle well enough to replicate it -- but only if the technique is genuinely unique and impressive, not a common combat maneuver.\n- Multi-turn sustained effort reaches a clear payoff moment -- not gradual improvement but a distinct before-and-after.\n\nQUALITY REQUIREMENTS FOR APPROVED ABILITIES:\n- The ability must occupy a mechanical space not already filled by worldAbilityNames. If a similar ability exists, return empty list.\n- The ability name must feel like it belongs alongside the existing ability names -- evocative and concise, not a technical label.\n- The description must reference the specific story event that created it, not read like a generic tooltip.\n- The ability must be something the character could plausibly use again in future situations, not a one-time situational trick.\n- The ability should feel exciting to receive. If it would not make a player say that is cool, it is not worth awarding.\n\nWhen uncertain, return empty list. Default output: {\"learnedAbilities\":[]}",
+    "description": "",
+    "requirements": [
+      {
+        "type": "skill",
+        "variable": "magic",
+        "amount": 2137
+      }
+    ],
+    "bonus": 0,
+    "cooldown": 0
+  }
+}

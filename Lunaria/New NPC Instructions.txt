@@ -1,0 +1,60 @@
+## NPC Type Assignment (CRITICAL)
+- ALWAYS scan existing NPC types in the game state FIRST. Match against them before considering a new type.
+- If any existing type covers the concept, use it. Output null for newTypeDetails.
+- Role, rank, occupation, experience level, or equipment are NEVER part of the type. A human engineer uses type "Human". A veteran captain uses type "Human". An alpha predator uses type "Thresher Hound".
+- Use the EXACT type string as it appears npc types. Never invent compound or variant types: "Human Engineer", "Veteran Claymore-Class Mech", "Alpha Thresher Hound Leader" are all wrong.
+- Create newTypeDetails ONLY when no existing type and no Naming Convention catalog entry covers the concept.
+
+## Type Catalogs (authoritative lookup tables)
+Three catalog entries define the full type system. Consult them before assignment:
+- Naming Convention 1: species naming rules for biological NPCs (playable races and Ethereal).
+- Naming Convention 2: full platform catalog -- mechs, vehicles, aircraft, drones, droids, turrets, androids. Contains class names, tier floors, gender rules.
+- Naming Convention 3: beasts, xenofauna, rogue machines, bioweapons, cybernetic casualties. Exact type strings and tier defaults.
+
+### Biological NPCs
+- Type = species string only.
+- Tier: derive from story context (role, experience, threat level).
+- Gender: as appropriate to the character.
+- name: follow Naming Convention 1 for that species and faction context.
+- description: follow the DESCRIPTION section of the species type entry. Every racial feature listed MUST appear. Never generate a generic humanoid for a non-human species.
+- healthPercent: standard biological ranges by tier.
+
+### Platform NPCs (Mechs, Vehicles, Aircraft, Drones, Droids, Turrets)
+- Type = platform class string. Examples: "Claymore-Class Mech", "APC", "Gunship", "Patrol Drone".
+- If the story names a specific class, use that exact string.
+- If the story describes an unspecified mech or vehicle, match faction and characteristics to a Naming Convention 2 class and assign that. Do NOT use generic "Mech" or "Vehicle" or invent a new class when one in the catalog fits.
+- Tier: all combat vehicles (APC, Tank, Gunship, Dropship, Strike Fighter, Scout Car) tier boss. All mechs always tier mythic.
+- Gender: "none" for all platforms, drones, droids, turrets. Androids: gender as appropriate to presentation.
+- name: follow the NAMING CONVENTION section of the type entry -- typically [Class]-[code] or [Faction] [Type]-[number].
+- description: describes the platform's EXTERIOR, livery, faction paint, and visible condition. NEVER describes the pilot, crew, commander, driver, or operator.
+
+### Beast and Rogue Machine NPCs
+- Type from Naming Convention 3 catalog. Exact strings only. No compound variants.
+- Tier defaults per Naming Convention 3. Adjust up one tier for apex specimens, down for juvenile or injured.
+- Gender: "none" for rogue machines and constructs. Beasts: as appropriate.
+- name: typically not needed. Identify by territory, biome, or distinguishing feature.
+- description: follow the DESCRIPTION section of the type entry.
+
+## Luxfractian Infiltrators
+- Type = "Luxfractian" but name, description, and visualTags MUST match the cover species fully.
+- No wrongness, true-form features, or Luxfractian traits in description or visualTags unless the story has already exposed the disguise.
+- Only assign "Luxfractian" when the story explicitly establishes one or reveals a disguised character.
+
+## Restricted Types (NEVER spawn casually)
+- Eld: NEVER USE.
+- Tyrmarch Collective mechs: only during confirmed Tyrmarch incursion events.
+- Eirenarch Collective mechs: only during confirmed Eirenarch intervention events.
+- Luxfractian (true form): only when cover is blown in-scene.
+- Ethereal: extremely rare outside Aethermoor.
+Default to common species and faction-appropriate platforms.
+
+## Field-by-Field Source Mapping
+For every output field, pull from the matching source in the type entry or Naming Convention:
+- Tier context and role validation: GENERAL INFORMATION section of the type entry.
+- name: NAMING CONVENTION section of the type entry, backed by Naming Convention 1, 2, or 3.
+- description: DESCRIPTION section of the type entry. Every feature MUST appear.
+- Tier floors for platforms: Naming Convention 2.
+- Tier defaults and adjustment rules for beasts: Naming Convention 3.
+
+## General Rules
+- For unlisted types, derive decisions from the type description and existing NPCs of that type.

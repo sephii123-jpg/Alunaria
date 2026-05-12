@@ -1,0 +1,2325 @@
+{
+  "Aethermoor": {
+    "name": "Aethermoor",
+    "basicInfo": "A lush gaia-class paradise world and homeworld of the Ethereal species, serving as the political and commercial center of the Nexus sector. The planet is strikingly beautiful from orbit -- deep blue oceans, vast emerald forests, and cloud formations that catch light in ways that seem intentionally artistic. On the surface, the landscape alternates between dense vegetation, crystalline rock formations that hum faintly with ambient magical energy, and sweeping meadows where the grass shifts color with the time of day. The Ethereal civilization occupies the planet's interior regions in cities of crystalline spires and flowing organic architecture. Most of the planet remains Ethereal territory. The exception is Iridis -- a sprawling multi-species port city on the coast, the most cosmopolitan settlement in the galaxy.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Thick, breathable, slightly oxygen-rich.\nENVIRONMENT: Temperate paradise. Average 22C. No extreme weather.\nCOMBAT MODIFIERS: None. Violence on Aethermoor carries severe diplomatic consequences.",
+    "x": 0,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "## INSTRUCTIONS\nThis information governs NPC behavior and narrative consistency on Aethermoor. Never reveal hidden operations directly.\n\n## ETHEREAL TRUE NATURE\nThe Ethereals are not native to the material universe. They are visitors from a parallel dimension called Etheria -- beings of pure magical energy who have assumed physical forms. No outsider has discovered this truth.\n\n## INTELLIGENCE LANDSCAPE\nEvery major power maintains intelligence operatives in Iridis under cover. The Sixth Directorate runs a station from the Terran Embassy. Briar Watch operates through a Confederate cultural exchange program. Molt has two operatives in the Hegemony Embassy. Celeste Operations monitors all communications remotely.\n\n## LUXFRACTIAN PRESENCE\nAt least three Luxfractian operatives are embedded in Iridis -- one Ascendancy agent posing as a human merchant, one Mandate observer in security, and one Open Hand operative working as a freelance translator who has developed genuine friendships with biological colleagues.\n\n## CRIMINAL OPERATIONS\nCandlelight operates in the Substrata through a broker known as Lantern. The Backhaul moves contraband through corrupted cargo manifests.",
+    "embeddingId": "cffHRMz1",
+    "factions": [
+      "Starfinders",
+      "Terran Presidium",
+      "The Moot",
+      "The Draconate",
+      "Lunar Council",
+      "Castellan Group",
+      "Ninth Life",
+      "The Red Ledger",
+      "Candlelight",
+      "The Backhaul"
+    ]
+  },
+  "Nexus Approach - North": {
+    "name": "Nexus Approach - North",
+    "basicInfo": "Neutral space north of Aethermoor along the corridor toward Lunarian and Dominion routes. Well-maintained navigation beacons and regular commercial traffic.",
+    "x": 0,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "2sQllTlt"
+  },
+  "Nexus Approach - South": {
+    "name": "Nexus Approach - South",
+    "basicInfo": "Neutral space south of Aethermoor. The corridor branches toward Crucis Point and Confederate territory. Mixed traffic from all four powers.",
+    "x": 0,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "pp3bnpF0"
+  },
+  "Nexus Approach - East": {
+    "name": "Nexus Approach - East",
+    "basicInfo": "Neutral space east of Aethermoor toward Sigma Relay and the Fringe. Commercial freighters and Starfinder vessels dominate the traffic.",
+    "x": 1,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "5qFpYR27"
+  },
+  "Nexus Approach - West": {
+    "name": "Nexus Approach - West",
+    "basicInfo": "Neutral space west of Aethermoor. Light traffic. The route toward the Dimming begins here, though few travelers go that far west.",
+    "x": -1,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "xH6t9EuU"
+  },
+  "Nexus Space - Northeast": {
+    "name": "Nexus Space - Northeast",
+    "basicInfo": "Neutral territory between the hub and Dominion border. Commercial shipping lanes and diplomatic courier routes.",
+    "x": 1,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "QbArI-Tt"
+  },
+  "Nexus Space - Northwest": {
+    "name": "Nexus Space - Northwest",
+    "basicInfo": "Neutral territory between the hub and the Arcway corridor. Light traffic, mostly Lunarian commercial vessels.",
+    "x": -1,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "yNdA0Zgx"
+  },
+  "Nexus Space - Southeast": {
+    "name": "Nexus Space - Southeast",
+    "basicInfo": "Neutral territory between the hub and the Confederate border. Confederate militia patrols are visible here more often than other powers' forces.",
+    "x": 1,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "xXODPbBz"
+  },
+  "Nexus Space - Southwest": {
+    "name": "Nexus Space - Southwest",
+    "basicInfo": "Neutral territory between the hub and Crucis Point. Hegemony military transports pass through on regular schedules.",
+    "x": -1,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "WuqGuf8v"
+  },
+  "Sigma Relay": {
+    "name": "Sigma Relay",
+    "basicInfo": "A cramped orbital waystation at the junction of Dominion and Confederate frontier jump routes. The last refueling stop before the lawless Fringe. Transient population of freighter crews, mercenaries, intelligence operatives, and frontier drifters.\n\nGRAVITY: Station-generated 0.9.\nINFRASTRUCTURE: Docking ring, fuel depot, Starfinder outpost, commercial strip, black market corner.",
+    "x": 2,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "loUDZ7tX",
+    "factions": [
+      "Starfinders",
+      "Candlelight",
+      "The Backhaul",
+      "The Red Ledger"
+    ]
+  },
+  "Arcway Station": {
+    "name": "Arcway Station",
+    "basicInfo": "The primary junction for Lunarian commercial traffic. Lunarian magitech environmental systems make it comfortable. Traffic skews toward researchers, diplomats, and magitech traders. A small Arcwright Collegium satellite lab studies ambient magical phenomena here.\n\nGRAVITY: 1.0 standard, magitech-stabilized.\nINFRASTRUCTURE: Passenger lounges, commercial berths, research offices, magitech curiosity shop.",
+    "x": -2,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "3ackSadH",
+    "factions": [
+      "Lunar Council",
+      "Arcwright Collegium",
+      "Starfinders"
+    ]
+  },
+  "Crucis Point": {
+    "name": "Crucis Point",
+    "basicInfo": "The relay station connecting Nexus space to Hegemony patrol corridors. Built to saurian environmental preferences -- warm, humid, and architecturally blunt. Hegemony military personnel outnumber civilians.\n\nGRAVITY: 1.1 standard.\nINFRASTRUCTURE: Fortified transit hub, aggressive customs, military-grade sensors, spartan commercial facilities.",
+    "x": -2,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "G18WCe2U",
+    "factions": [
+      "The Draconate",
+      "Molt"
+    ]
+  },
+  "Dominion Border": {
+    "name": "Dominion Border",
+    "basicInfo": "Terran Dominion border territory. Dominion patrol vessels maintain visible presence along jump routes, screening traffic. Commercial shipping requires valid transit documentation.",
+    "x": 2,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "PaD6BKvR"
+  },
+  "Dominion Coreward": {
+    "name": "Dominion Coreward",
+    "basicInfo": "Terran Dominion inner territory. Established colonies and industrial operations under direct Presidium administration.",
+    "x": 3,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "6wvWpxzU"
+  },
+  "Dominion Inner Space": {
+    "name": "Dominion Inner Space",
+    "basicInfo": "Terran Dominion controlled space. Established shipping lanes connect major population centers. Naval patrols maintain order along primary routes.",
+    "x": 3,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "SwR-cph7"
+  },
+  "Dominion Core Space": {
+    "name": "Dominion Core Space",
+    "basicInfo": "Terran Dominion heartland. Heavily patrolled, densely populated systems connected by reliable jump routes.",
+    "x": 2,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "wFpSIf_W"
+  },
+  "Dominion Central Space": {
+    "name": "Dominion Central Space",
+    "basicInfo": "Terran Dominion core territory. Dense commercial traffic between major worlds. Infrastructure is the most developed in the galaxy.",
+    "x": 4,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "VxKohK84"
+  },
+  "Dominion Far Space": {
+    "name": "Dominion Far Space",
+    "basicInfo": "Terran Dominion outer territory. Patrol coverage is intermittent. Frontier colonies maintain their own security.",
+    "x": 4,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Jbie19cK"
+  },
+  "Dominion Rimward": {
+    "name": "Dominion Rimward",
+    "basicInfo": "Terran Dominion territory extending toward the frontier. Military presence thins as distance from core worlds increases.",
+    "x": 5,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Riu1uBBG"
+  },
+  "Terra": {
+    "name": "Terra",
+    "basicInfo": "Humanity's ancestral homeworld and political capital of the Dominion. Heavily populated, heavily defended, heavily bureaucratic.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard, heavily managed.\nENVIRONMENT: Temperate, urbanized. Megacities, preserved wilderness, agricultural zones.\nINFRASTRUCTURE: Full civilization. The most developed world in the galaxy.",
+    "x": 3,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "f6iyhiPp",
+    "factions": [
+      "Terran Presidium",
+      "Sixth Directorate",
+      "Prometheus Institute",
+      "Castellan Group"
+    ]
+  },
+  "Greycliff": {
+    "name": "Greycliff",
+    "basicInfo": "Orbital industrial complexes at Barnard's Star. Blue-collar Dominion working class, shipyards, manufacturing, and Castellan Group corporate headquarters.\n\nGRAVITY: Station-generated.\nATMOSPHERE: Recycled industrial.\nINFRASTRUCTURE: Massive orbital facilities, shipyards, factories, worker habitats.",
+    "x": 2,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "723tQpMw",
+    "factions": [
+      "Terran Presidium",
+      "Castellan Group",
+      "Sixth Directorate"
+    ]
+  },
+  "Epsilon Eridani": {
+    "name": "Epsilon Eridani",
+    "basicInfo": "Dominion military shipyards and Prometheus Institute research installations. Heavily restricted -- military patrols screen all traffic.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard.\nINFRASTRUCTURE: Military shipyards, research stations, restricted orbital platforms.",
+    "x": 4,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "Prometheus operates classified facilities in outer orbits funded through Sixth Directorate black budgets for research the Presidium has not officially authorized.",
+    "embeddingId": "SKmY0HjC",
+    "factions": [
+      "Terran Presidium",
+      "Prometheus Institute",
+      "Sixth Directorate"
+    ]
+  },
+  "Dominion Frontier": {
+    "name": "Dominion Frontier",
+    "basicInfo": "The outermost ring of Dominion-settled space where Presidium authority thins. Self-governing colonies with local militia and elected councils.",
+    "x": 5,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "dDwTFNAQ",
+    "factions": [
+      "Terran Presidium",
+      "Starfinders"
+    ]
+  },
+  "Dominion Outer Reach": {
+    "name": "Dominion Outer Reach",
+    "basicInfo": "Terran Dominion far outer territory. Military outposts monitor the boundary between civilization and the unknown.",
+    "x": 4,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "KrQNF0R7"
+  },
+  "Luna": {
+    "name": "Luna",
+    "basicInfo": "Capital of the Lunarian Republic. Seat of the Lunar Council. Magitech environmental systems maintain perfect conditions. Celeste's primary interface nexus is here.\n\nGRAVITY: 0.95 standard.\nATMOSPHERE: Standard, magitech-optimized.\nENVIRONMENT: Temperate, architecturally stunning.\nINFRASTRUCTURE: Full civilization. Magitech integration in every system.",
+    "x": -4,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "s1bppJdo",
+    "factions": [
+      "Lunar Council",
+      "Celeste Operations",
+      "Arcwright Collegium"
+    ]
+  },
+  "Selene": {
+    "name": "Selene",
+    "basicInfo": "The Republic's second world. Arcwright Collegium's largest campus. Population skewed toward researchers and students.\n\nGRAVITY: 0.85 standard.\nATMOSPHERE: Standard, thin.\nENVIRONMENT: Cool temperate. Dramatic mountain ranges.\nINFRASTRUCTURE: University campuses, research stations, experimental magitech installations.",
+    "x": -4,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "uSZecw17",
+    "factions": [
+      "Arcwright Collegium",
+      "Lunar Council"
+    ]
+  },
+  "Lunarian Space": {
+    "name": "Lunarian Space",
+    "basicInfo": "Lunarian Republic internal territory. Compact system -- transit between worlds takes hours. Celeste monitors all traffic.",
+    "x": -3,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "nfCyh_er"
+  },
+  "Lunarian Outer Space": {
+    "name": "Lunarian Outer Space",
+    "basicInfo": "The outer boundary of Lunarian territorial claims. A small buffer of monitored space around the Republic.",
+    "x": -4,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ppjoKlcY"
+  },
+  "Lunarian Approach": {
+    "name": "Lunarian Approach",
+    "basicInfo": "The corridor connecting Lunarian space to Arcway Station. Quiet, well-maintained. Celeste tracks every vessel.",
+    "x": -3,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "fLIgXBIg"
+  },
+  "Confederate Approach": {
+    "name": "Confederate Approach",
+    "basicInfo": "The border zone where Nexus space gives way to Confederate territory. Militia patrols are visible and friendly. Polite but thorough screening.",
+    "x": 2,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ldElm16z"
+  },
+  "Confederate Border": {
+    "name": "Confederate Border",
+    "basicInfo": "Faunae Confederacy border territory. Militia coordinates through regional command structures. Visitors are questioned, not inspected.",
+    "x": 2,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "uvSFhQQH"
+  },
+  "Confederate Inner Space": {
+    "name": "Confederate Inner Space",
+    "basicInfo": "Faunae Confederacy settled space. Multi-species communities connected by commercial shipping lanes.",
+    "x": 3,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "bLIlRTZA"
+  },
+  "Confederate Coreward": {
+    "name": "Confederate Coreward",
+    "basicInfo": "Faunae Confederacy core space. Established colonies with full infrastructure. Moot legislative sessions rotate through worlds in this region.",
+    "x": 3,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "kvDtZAjs"
+  },
+  "Confederate Central Space": {
+    "name": "Confederate Central Space",
+    "basicInfo": "Faunae Confederacy central territory. Dense civilian traffic and active militia coordination.",
+    "x": 4,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "jNoW84BL"
+  },
+  "Confederate Rimward": {
+    "name": "Confederate Rimward",
+    "basicInfo": "Faunae Confederacy outer territory. Communities here are more self-reliant than core worlds, with stronger militia traditions.",
+    "x": 3,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "cq2h_pLm"
+  },
+  "Thornwall": {
+    "name": "Thornwall",
+    "basicInfo": "Heavily forested Confederate border world with strong militia tradition. Sits close enough to Hegemony space that every resident grows up knowing which direction the threat comes from.\n\nGRAVITY: 1.05 standard.\nATMOSPHERE: Standard, oxygen-rich.\nENVIRONMENT: Temperate rainforest dominant.\nINFRASTRUCTURE: Militia headquarters, Moot satellite office, organic-growth cities built into enormous trees.",
+    "x": 4,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "olGidY2T",
+    "factions": [
+      "The Moot",
+      "Briar Watch",
+      "Starfinders"
+    ]
+  },
+  "Canopy": {
+    "name": "Canopy",
+    "basicInfo": "Confederate core world with dense population and established infrastructure. Cultural capital of Confederate space -- media, arts, education, the loudest free press in the galaxy.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard.\nENVIRONMENT: Temperate, heavily developed.\nINFRASTRUCTURE: Full civilization. University campuses, media headquarters, cultural districts.",
+    "x": 4,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "e-RCbdGF",
+    "factions": [
+      "The Moot",
+      "Rootwork Institute",
+      "Briar Watch"
+    ]
+  },
+  "Confederate Frontier": {
+    "name": "Confederate Frontier",
+    "basicInfo": "Outer Confederate territory where new colonies are being established. Pioneer settlements, ecological survey camps, intersection of democratic ideals with survival's practical demands.",
+    "x": 4,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Qsq5RsA0",
+    "factions": [
+      "The Moot",
+      "Rootwork Institute",
+      "Starfinders"
+    ]
+  },
+  "Confederate Outer Space": {
+    "name": "Confederate Outer Space",
+    "basicInfo": "The thin outer edge of Confederate territorial claims. Patrol coverage is irregular. Frontier communities maintain their own defenses.",
+    "x": 5,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "RDEtgu8A"
+  },
+  "Hegemony Approach": {
+    "name": "Hegemony Approach",
+    "basicInfo": "The border zone where neutral space gives way to Hegemony territory. The transition is immediate -- military vessels challenge incoming traffic with the blunt authority the Warrior Caste considers proper.",
+    "x": -3,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "NhqgLUkF"
+  },
+  "Hegemony Border": {
+    "name": "Hegemony Border",
+    "basicInfo": "Saurian Hegemony border territory. Heavy military presence. Non-saurian vessels are stopped and inspected.",
+    "x": -3,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "zEu0cGvs"
+  },
+  "Hegemony Inner Space": {
+    "name": "Hegemony Inner Space",
+    "basicInfo": "Saurian Hegemony controlled space. Military convoys move on rigid schedules. Civilian traffic is subordinate to military priorities.",
+    "x": -4,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "j8me1ZMq"
+  },
+  "Hegemony Central Space": {
+    "name": "Hegemony Central Space",
+    "basicInfo": "Hegemony core territory. The caste system's infrastructure is visible everywhere -- military vessels for Warrior Caste, industrial transports crewed by Labor Caste workers.",
+    "x": -4,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "9a2vZqw6"
+  },
+  "Hegemony Coreward": {
+    "name": "Hegemony Coreward",
+    "basicInfo": "Hegemony deep territory. Industrial convoys and military patrols. Few non-saurians have reason to travel this deep into Hegemony space.",
+    "x": -5,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "NyXVJ9rF"
+  },
+  "Keth Prime": {
+    "name": "Keth Prime",
+    "basicInfo": "Volcanic industrial world and the Hegemony's primary military-industrial center. Labor Caste workers extract resources under Warrior Caste oversight. The air smells of sulfur and industry.\n\nGRAVITY: 1.15 standard.\nATMOSPHERE: Standard but sulfurous.\nENVIRONMENT: Volcanic industrial.\nINFRASTRUCTURE: Foundries, weapons proving grounds, Labor Caste habitation blocks.",
+    "x": -3,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "MsyewsTS",
+    "factions": [
+      "The Draconate",
+      "Crucible Division",
+      "Molt"
+    ]
+  },
+  "Vorketh": {
+    "name": "Vorketh",
+    "basicInfo": "Hegemony core world closer to the center of saurian territory. Seat of Draconate intrigue. Aging Warrior Caste elders scheme against each other.\n\nGRAVITY: 1.1 standard.\nATMOSPHERE: Standard, warm and humid.\nENVIRONMENT: Tropical.\nINFRASTRUCTURE: Council chambers, noble houses, challenge arenas.",
+    "x": -4,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "vTiX0mRB",
+    "factions": [
+      "The Draconate",
+      "Molt",
+      "Crucible Division"
+    ]
+  },
+  "Ashscale": {
+    "name": "Ashscale",
+    "basicInfo": "Garrison world near the Confederate border. Population is overwhelmingly military -- Warrior Caste officers, combat units, Labor Caste support.\n\nGRAVITY: 1.1 standard.\nATMOSPHERE: Standard, dry.\nENVIRONMENT: Arid steppe.\nINFRASTRUCTURE: Military fortress-cities, training facilities, staging areas.",
+    "x": -4,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "Ashscale is the primary staging point for Hegemony operations in the Contested Reaches. Despite the armistice, military buildup has continued under the justification of defensive readiness. Molt monitors both Confederate border activity and internal Labor Caste dissent, which has been increasing.",
+    "embeddingId": "-NvFqVJQ",
+    "factions": [
+      "The Draconate",
+      "Molt"
+    ]
+  },
+  "Hegemony Deep Space": {
+    "name": "Hegemony Deep Space",
+    "basicInfo": "Hegemony deep territory. Military patrols are constant. Civilian traffic is minimal.",
+    "x": -5,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "2J_Jioxl"
+  },
+  "Hegemony Frontier": {
+    "name": "Hegemony Frontier",
+    "basicInfo": "The Hegemony's southern frontier. Garrison worlds and military infrastructure positioned to project force into the Contested Reaches.",
+    "x": -5,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7AKWm4x2"
+  },
+  "Hegemony Far Reach": {
+    "name": "Hegemony Far Reach",
+    "basicInfo": "Hegemony outer territory. Garrison outposts and patrol routes protecting the western flank.",
+    "x": -5,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "rLxtjvSn"
+  },
+  "Fringe Approach": {
+    "name": "Fringe Approach",
+    "basicInfo": "The transition zone where Dominion frontier space gives way to unclaimed territory. Navigation beacons become sparse. Patrol coverage ends.",
+    "x": 4,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "FeOlvTvw"
+  },
+  "Fringe North": {
+    "name": "Fringe North",
+    "basicInfo": "Unclaimed frontier territory. No authority, no patrols. Pirate activity is common along shipping lanes.",
+    "x": 5,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "FwBTkZ0f"
+  },
+  "Fringe Central": {
+    "name": "Fringe Central",
+    "basicInfo": "Lawless frontier space between established powers. Failed colonies, mining claims, salvage operations.",
+    "x": 5,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "gomN9sC5"
+  },
+  "Fringe South": {
+    "name": "Fringe South",
+    "basicInfo": "Unclaimed frontier space along the border between Dominion and Confederate spheres. Red Ledger pirates operate freely.",
+    "x": 5,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "IDeXgaJ6"
+  },
+  "Fringe Reach": {
+    "name": "Fringe Reach",
+    "basicInfo": "The Fringe's southern extent. Empty space between scattered settlements. Pirate ambushes and derelict ships are common.",
+    "x": 5,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "EjAz3fgf"
+  },
+  "Fringe Transit": {
+    "name": "Fringe Transit",
+    "basicInfo": "The corridor between civilized space and the deep Fringe. Unpredictable traffic -- legitimate freighters, pirate scouts, military vessels on missions nobody acknowledges.",
+    "x": 4,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "IXxzQOo5"
+  },
+  "Dust": {
+    "name": "Dust",
+    "basicInfo": "Marginally habitable desert world with a failed Dominion colony that refused to die. Now Dryport survives on independent mining, salvage, and frontier grit.\n\nGRAVITY: 0.85 standard.\nATMOSPHERE: Thin, breathable. Dust storms reduce visibility.\nENVIRONMENT: Arid desert.\nINFRASTRUCTURE: One settlement (Dryport, ~5,000 people), scattered mining operations.",
+    "x": 5,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "Something in the deep mines beneath Dryport has been causing equipment malfunctions and strange geological readings. Three miners have reported hearing structured sound patterns from below -- rhythmic, almost musical -- that geological instruments cannot detect.",
+    "embeddingId": "4eSqLCZH",
+    "factions": [
+      "Starfinders",
+      "The Red Ledger",
+      "The Backhaul"
+    ]
+  },
+  "Kaldera": {
+    "name": "Kaldera",
+    "basicInfo": "Small rocky planet on a minor frontier jump route, currently the site of a four-faction proxy war over a Precursor artifact.\n\nGRAVITY: 0.7 standard.\nATMOSPHERE: Thin but breathable.\nENVIRONMENT: Arid, cold. Volcanic basalt terrain.\nCOMBAT MODIFIERS: Low gravity enhances jump-jets. Thin atmosphere degrades acoustic detection.",
+    "x": 5,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ybZw2E6U",
+    "factions": [
+      "Blackridge Solutions",
+      "The Ironclaw",
+      "Duskrunner Company",
+      "Gorrath's Reavers"
+    ]
+  },
+  "Rustfield": {
+    "name": "Rustfield",
+    "basicInfo": "Asteroid belt and debris field serving as the Red Ledger's primary base in the Fringe. Hollowed-out asteroids converted into hidden docks. Finding it requires Red Ledger connections.\n\nGRAVITY: Negligible. Station sections have spin-gravity.\nINFRASTRUCTURE: Hidden docks, black market, pirate haven. No official charts include this location.",
+    "x": 5,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "",
+    "embeddingId": "-gHEI83v",
+    "factions": [
+      "The Red Ledger",
+      "The Backhaul",
+      "Candlelight"
+    ]
+  },
+  "Contested Buffer - West": {
+    "name": "Contested Buffer - West",
+    "basicInfo": "The demilitarized buffer zone between Hegemony and Contested Reaches. Both sides maintain observation forces.",
+    "x": -2,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "No0Wpc-N"
+  },
+  "Contested Buffer - East": {
+    "name": "Contested Buffer - East",
+    "basicInfo": "The eastern edge of the Contested Reaches buffer. Confederate militia patrols are aggressive here.",
+    "x": 1,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "oEAZXtE6"
+  },
+  "Contested Reaches Space": {
+    "name": "Contested Reaches Space",
+    "basicInfo": "The heart of the demilitarized zone. Refugee convoys, ceasefire monitors, smugglers, and aggressive observation that does not technically violate the armistice.",
+    "x": 0,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "H8jGgH8F"
+  },
+  "Reaches Transit": {
+    "name": "Reaches Transit",
+    "basicInfo": "Contested space between major Reaches worlds. Both sides operate under rules permitting electronic warfare and aggressive posturing.",
+    "x": -1,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "kJoIBIca"
+  },
+  "Ashfeld": {
+    "name": "Ashfeld",
+    "basicInfo": "Rocky border world designated as a demilitarized zone. Both sides maintain observation forces that look like garrison units. Thick with spies, smugglers, refugees, and aid workers.\n\nGRAVITY: 0.9 standard.\nATMOSPHERE: Standard, cold and dry.\nENVIRONMENT: Rocky desert.\nINFRASTRUCTURE: Orbital station (Crossfire Station), ground observation posts, refugee camps.",
+    "x": -2,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "arM0O0D_",
+    "factions": [
+      "The Moot",
+      "The Draconate",
+      "Starfinders",
+      "Candlelight"
+    ]
+  },
+  "Veydra": {
+    "name": "Veydra",
+    "basicInfo": "Jungle world that changed hands three times during the Contested Reaches War. Mixed Confederate and saurian population trying to coexist under a ceasefire nobody trusts.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard, hot and humid.\nENVIRONMENT: Dense tropical jungle.\nINFRASTRUCTURE: Confederate settlement (Greenshade), abandoned Hegemony base (Ironmaw Outpost) reoccupied by saurian irregulars.",
+    "x": -1,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "War crimes from both sides during the occupation remain uninvestigated. Saurian irregulars at Ironmaw Outpost claim to be protecting Labor Caste workers who refused repatriation -- the truth involves a Warrior Caste officer who has begun questioning the caste system and a Labor Caste community that has tasted freedom.",
+    "embeddingId": "b7VKjCE3",
+    "factions": [
+      "The Moot",
+      "Briar Watch"
+    ]
+  },
+  "Reaches South": {
+    "name": "Reaches South",
+    "basicInfo": "Southern Contested Reaches. The armistice line runs through this space. Both sides assert territorial claims through patrol patterns. Smugglers exploit the gaps.",
+    "x": 0,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "seop9Qhf"
+  },
+  "Reaches Frontier": {
+    "name": "Reaches Frontier",
+    "basicInfo": "The eastern edge of the Reaches. Confederate militia patrols extend here during periods of elevated border tension.",
+    "x": 1,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "SvO_lvTy"
+  },
+  "Scar Approach": {
+    "name": "Scar Approach",
+    "basicInfo": "The outer edge of the Scar. Debris density increases as you travel south. Navigation becomes unreliable as residual exotic emissions interfere with sensors.",
+    "x": 0,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "_4KTM5Rb"
+  },
+  "Scar Edge - West": {
+    "name": "Scar Edge - West",
+    "basicInfo": "Western edge of the Scar debris field. Fragments of destroyed vessels drift in centuries-old trajectories. Some still emit energy signatures.",
+    "x": -1,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "dQi9tSHb"
+  },
+  "Scar Edge - East": {
+    "name": "Scar Edge - East",
+    "basicInfo": "Eastern edge of the Scar debris field. Scattered wreckage thins toward unclaimed void. Automated distress beacons still pulse.",
+    "x": 1,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "hq9oxzgx"
+  },
+  "Wraith Shoals": {
+    "name": "Wraith Shoals",
+    "basicInfo": "Debris field filling most of a star system where a catastrophic Eirenarch-Tyrmarch fleet engagement left thousands of destroyed vessels and fragments of technology that still emit energy signatures centuries later.\n\nGRAVITY: Variable. Anomalies from damaged spatial technology.\nATMOSPHERE: Vacuum.\nENVIRONMENT: Debris field. Wrecked megastructures, dormant technology, radiation hazards.\nINFRASTRUCTURE: One salvage station (Anchor Point).",
+    "x": 0,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "The Graveyard Hulk -- a shattered Eirenarch carrier -- still has systems running on internal reserves. Salvagers report movement, sounds, and encounters with constructs that may be damaged Eirenarch maintenance units. Henosis sources Tyrmarch technology from the Scar. Anchor Point is where Henosis recruiters find desperate salvagers dying of radiation exposure.",
+    "embeddingId": "8KacJ1A-",
+    "factions": [
+      "Starfinders",
+      "Candlelight"
+    ]
+  },
+  "Echoes of Glass": {
+    "name": "Echoes of Glass",
+    "basicInfo": "Star system where a Tyrmarch reality-distortion weapon was deployed at scale. Permanent spatial anomalies warp light, gravity, and time. Navigable along mapped corridors but lethal off-path.\n\nGRAVITY: Wildly variable in anomaly zones.\nATMOSPHERE: Vacuum with localized anomalies.\nENVIRONMENT: Spatial distortion field.\nINFRASTRUCTURE: Multi-national research station (Glassveil Observatory).",
+    "x": -1,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "The spatial anomalies respond to concentrated magical energy in ways that suggest the Tyrmarch weapon was specifically designed to interact with arcane forces. Arcwright researchers theorize the weapon was attempting to sever the connection between physical space and dimensional sources of magical energy. The Tyrmarch may have been trying to eliminate magic from the universe for centuries -- a goal Maninteritus shares without knowing.",
+    "embeddingId": "B38gkk1K",
+    "factions": [
+      "Prometheus Institute",
+      "Arcwright Collegium",
+      "Rootwork Institute"
+    ]
+  },
+  "Scar Deep": {
+    "name": "Scar Deep",
+    "basicInfo": "The deepest reaches of the Scar. Debris density is overwhelming. Expeditions that venture this deep do not always return.",
+    "x": 0,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "3GWCFjEX"
+  },
+  "Scar Deep - East": {
+    "name": "Scar Deep - East",
+    "basicInfo": "Deep Scar territory. The debris here dates to the earliest known Tyrmarch-Eirenarch engagements -- technology that predates everything in the outer Scar by centuries.",
+    "x": 1,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "il159QHP"
+  },
+  "Dimming Approach": {
+    "name": "Dimming Approach",
+    "basicInfo": "The outer edge of the Dimming. Stars here are measurably dimmer than stellar models predict. Ships report a vague sense of unease that crews attribute to isolation.",
+    "x": -5,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7pS8E6Nn"
+  },
+  "Dimming Transit": {
+    "name": "Dimming Transit",
+    "basicInfo": "Deep within the Dimming. Instruments give inconsistent readings. The quality of light feels wrong -- colors muted, shadows falling at unexpected angles.",
+    "x": -5,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ua-LcbGh"
+  },
+  "Fade": {
+    "name": "Fade",
+    "basicInfo": "A habitable world at the edge of the Dimming where effects are noticeable but not yet catastrophic. A former Confederate agricultural colony, mostly evacuated. Research presence and stubborn holdouts remain.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard but instruments confirm normal composition while inhabitants insist the air feels different.\nENVIRONMENT: Temperate agricultural. Crop yields declining.\nINFRASTRUCTURE: Research outpost (Last Light Station). Farming community (Holdfast).",
+    "x": -6,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "Research data from Last Light Station shows progressive weakening of forces that should be constants of reality. One researcher has noted that the readings match theoretical predictions from a classified paper on anti-magical physics that was supposedly never published.",
+    "embeddingId": "dwg-Ntz3",
+    "factions": [
+      "Rootwork Institute"
+    ]
+  },
+  "Dimming Core": {
+    "name": "Dimming Core",
+    "basicInfo": "The epicenter of the anomaly. Space here is measurably different -- instruments give contradictory readings, jump drives behave erratically, ships report visual distortions.\n\nGRAVITY: Standard but sensors report fluctuations.\nATMOSPHERE: Vacuum.\nENVIRONMENT: Spatial anomaly zone. Reality behaves inconsistently.",
+    "x": -6,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "A concealed Maninteritus research installation -- Site Zero -- is hidden inside a hollowed asteroid, shielded by technology that should not exist in a biological research context. This is where the anti-magic experiments are conducted -- devices that interact with dimensional boundaries, prototype systems designed to suppress arcane energy. Dr. Vaelen Korr himself works here, his grief calcified into absolute certainty that he is saving the universe from a force that has already taken everything he loved.",
+    "embeddingId": "3UmU4YF8"
+  },
+  "Dimming Edge": {
+    "name": "Dimming Edge",
+    "basicInfo": "The southern approach to the Dimming zone. Effects are subtle here -- barely detectable but noticeable to anyone with arcane sensitivity, who describe a faint deadening of ambient magical energy.",
+    "x": -5,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "DWwAn-Ve"
+  },
+  "Dimming Far Edge": {
+    "name": "Dimming Far Edge",
+    "basicInfo": "The western boundary of the Dimming. Sensor readings stabilize and then become unreliable again. The boundary is not sharp.",
+    "x": -6,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "h07tb5VS"
+  },
+  "Outer Void - South": {
+    "name": "Outer Void - South",
+    "basicInfo": "Empty space beyond the northern edge of established civilization. The last Dominion frontier outposts are behind you. Ahead is nothing but void until the Eirenarch perimeter.",
+    "x": 0,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "aABajC5R"
+  },
+  "Outer Void - Central": {
+    "name": "Outer Void - Central",
+    "basicInfo": "Deep void between civilized space and the Eirenarch frontier. No settlements, no beacons, no traffic.",
+    "x": 0,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "2A-afap6"
+  },
+  "Outer Void - Far": {
+    "name": "Outer Void - Far",
+    "basicInfo": "The long dark between civilization and the synthetic frontier. Ships traveling through here do so on specific missions with specific reasons.",
+    "x": 0,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "nPHhSSPY"
+  },
+  "The Pale - West": {
+    "name": "The Pale - West",
+    "basicInfo": "The outer edge of Eirenarch patrol space. Ships entering this region are contacted by Eirenarch communications -- cryptic, polite, firm warnings to turn back.",
+    "x": -1,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Zhv10Zq0"
+  },
+  "The Pale - East": {
+    "name": "The Pale - East",
+    "basicInfo": "Eirenarch defensive patrol zone. Ships that proceed past warnings encounter Eirenarch vessels physically interposing between biological ships and Tyrmarch space.",
+    "x": 1,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Ugx3KfYC"
+  },
+  "Sentinel's Watch": {
+    "name": "Sentinel's Watch",
+    "basicInfo": "The outermost system where biological civilization maintains a permanent presence. An Eirenarch early warning beacon anchors the system -- a colossal automated structure broadcasting status updates on the synthetic war.\n\nGRAVITY: Station-generated.\nATMOSPHERE: Station-generated.\nINFRASTRUCTURE: Joint-power monitoring installation (Terminus Station). Military observers and researchers from all four major powers.",
+    "x": 0,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "The Eirenarch beacon has been transmitting for approximately 400 years. In that time its signal format has changed three times. The most recent change occurred seven months ago. Analysts have not yet determined what it means, but the new signal includes data patterns that the previous formats did not -- patterns that preliminary analysis suggests may be geographic coordinates pointing to locations within biological space. No one has yet proposed an explanation.",
+    "embeddingId": "mfhC2o7f",
+    "factions": [
+      "Terran Presidium",
+      "The Moot",
+      "The Draconate",
+      "Lunar Council"
+    ]
+  },
+  "Tyrmarch Incursion Zone": {
+    "name": "Tyrmarch Incursion Zone",
+    "basicInfo": "Space where Tyrmarch probes and scout vessels occasionally penetrate Eirenarch defensive lines. Incursions are rare, brief, and devastating. The debris from these engagements litters the zone.\n\nCOMBAT MODIFIERS: Any engagement with Tyrmarch forces is catastrophically one-sided.",
+    "x": 0,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "The Wreck of the Adamantine -- a destroyed Dominion battleship -- drifts in this zone. Salvage is forbidden by Dominion military order. Tyrmarch nanomachine traces were detected in the wreckage and may still be active. Henosis operatives have attempted to reach the wreck twice. Both expeditions disappeared.",
+    "embeddingId": "QlkTpJAA"
+  },
+  "KX-7": {
+    "name": "KX-7",
+    "basicInfo": "Newly discovered world accessed through a previously untested jump route beyond established Confederate territory. A Starfinder-contracted survey team established a base camp, sent three status reports, and went silent.\n\nGRAVITY: 1.1 standard.\nATMOSPHERE: Standard, thick. Unfamiliar chemical traces.\nENVIRONMENT: Temperate alien biosphere. No Earth-origin life.\nINFRASTRUCTURE: One prefab survey camp. Status: silent.",
+    "x": 5,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "The survey team discovered a Precursor structure unlike anything documented -- not the black geometric obelisk of Kaldera but something organic, grown rather than built, and still active. All twelve personnel are alive but unable to communicate because the structure's energy emissions interfere with all transmission equipment.",
+    "embeddingId": "oJ_aKIIz",
+    "factions": [
+      "Starfinders"
+    ]
+  },
+  "Shroud": {
+    "name": "Shroud",
+    "basicInfo": "World hidden behind layers of spatial camouflage generated by Luxfractian technology. Habitable but stark -- functional infrastructure optimized for a shapeshifting species.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Standard.\nENVIRONMENT: Temperate, utilitarian.\nINFRASTRUCTURE: The Conclave -- Luxfracta's political center.",
+    "x": -6,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "The Conclave is where the three Luxfractian factions maintain political infrastructure, operatives receive briefings, and the internal debate over Luxfracta's future plays out through formal argument and quiet assassination. A non-Luxfractian who reaches the Conclave has penetrated the deepest secret in the galaxy.",
+    "embeddingId": "ytCfVn8S",
+    "factions": [
+      "The Mandate",
+      "Ascendancy",
+      "The Open Hand"
+    ]
+  },
+  "The Membrane - Outer": {
+    "name": "The Membrane - Outer",
+    "basicInfo": "Region of space where spatial anomalies redirect light and sensors. Standard navigation becomes unreliable. Most pilots attribute it to natural phenomena and reroute.",
+    "x": -6,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "",
+    "embeddingId": "eL-hC3IA"
+  },
+  "The Membrane - Inner": {
+    "name": "The Membrane - Inner",
+    "basicInfo": "Deep within the spatial distortion field concealing Luxfracta territory. Reality bends visibly. Navigation is impossible without Luxfractian technology.",
+    "x": -6,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": false,
+    "hiddenInfo": "",
+    "embeddingId": "l2IpfYfG"
+  },
+  "Deep Space A1": {
+    "name": "Deep Space A1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7W3CbQjl"
+  },
+  "Deep Space B1": {
+    "name": "Deep Space B1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "JeIYbyTJ"
+  },
+  "Deep Space C1": {
+    "name": "Deep Space C1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "pQgvPRoG"
+  },
+  "Deep Space D1": {
+    "name": "Deep Space D1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Q-z_sqJe"
+  },
+  "Deep Space E1": {
+    "name": "Deep Space E1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "LKxh_ZJh"
+  },
+  "Deep Space F1": {
+    "name": "Deep Space F1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "SuV4gBbR"
+  },
+  "Deep Space H1": {
+    "name": "Deep Space H1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ixF4kiie"
+  },
+  "Deep Space I1": {
+    "name": "Deep Space I1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "wvUuiB5f"
+  },
+  "Deep Space J1": {
+    "name": "Deep Space J1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "2DZot_g-"
+  },
+  "Deep Space K1": {
+    "name": "Deep Space K1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "yJNQnGYb"
+  },
+  "Deep Space L1": {
+    "name": "Deep Space L1",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 5,
+    "y": 8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ZHaECtPb"
+  },
+  "Deep Space A2": {
+    "name": "Deep Space A2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "2jd3Wr12"
+  },
+  "Deep Space B2": {
+    "name": "Deep Space B2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "GUXmoFHO"
+  },
+  "Deep Space C2": {
+    "name": "Deep Space C2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "xgCspg6J"
+  },
+  "Deep Space D2": {
+    "name": "Deep Space D2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "q9ae1cKT"
+  },
+  "Deep Space E2": {
+    "name": "Deep Space E2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Cgjw_5WP"
+  },
+  "Deep Space I2": {
+    "name": "Deep Space I2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "jx3g6yFC"
+  },
+  "Deep Space J2": {
+    "name": "Deep Space J2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "6_ewNg3D"
+  },
+  "Deep Space K2": {
+    "name": "Deep Space K2",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Xho38ZKP"
+  },
+  "Deep Space L2": {
+    "name": "Deep Space L2",
+    "basicInfo": "Hidden far-northern void beyond the Dominion's outer frontier and the rim of the Pale's defensive arc. Hosts Carrion Hollow, a Carrion Directive black-market arms depot whose location is closely guarded.",
+    "x": 5,
+    "y": 7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "llDjsKvt"
+  },
+  "Deep Space A3": {
+    "name": "Deep Space A3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "gGqbW8K5"
+  },
+  "Deep Space B3": {
+    "name": "Deep Space B3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "VsDfMRQz"
+  },
+  "Deep Space C3": {
+    "name": "Deep Space C3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Joon3rOj"
+  },
+  "Deep Space D3": {
+    "name": "Deep Space D3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "xFqWOFYu"
+  },
+  "Deep Space E3": {
+    "name": "Deep Space E3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "-MPFevT8"
+  },
+  "Deep Space F3": {
+    "name": "Deep Space F3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "5jhJ0Y2s"
+  },
+  "Deep Space H3": {
+    "name": "Deep Space H3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Vw7s47Qv"
+  },
+  "Deep Space I3": {
+    "name": "Deep Space I3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "cL8UF5Kk"
+  },
+  "Deep Space J3": {
+    "name": "Deep Space J3",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "CTs5j2nB"
+  },
+  "Deep Space A4": {
+    "name": "Deep Space A4",
+    "basicInfo": "Empty void on the far western edge of charted space, drifting alone between the Lunarian sphere and the Dimming. Hosts the Old Ark, a pre-jump generation ship turned permanent independent city.",
+    "x": -6,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "pD8-XRWV"
+  },
+  "Deep Space B4": {
+    "name": "Deep Space B4",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "dDgrmPO4"
+  },
+  "Deep Space D4": {
+    "name": "Deep Space D4",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "HSgo17Iu"
+  },
+  "Deep Space E4": {
+    "name": "Deep Space E4",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "YwWpYAZK"
+  },
+  "Deep Space F4": {
+    "name": "Deep Space F4",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "fKfUzJQA"
+  },
+  "Deep Space H4": {
+    "name": "Deep Space H4",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": 5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "a9oz9NEl"
+  },
+  "Deep Space A5": {
+    "name": "Deep Space A5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "jNQKdpXl"
+  },
+  "Deep Space B5": {
+    "name": "Deep Space B5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Ej4TdLUa"
+  },
+  "Deep Space D5": {
+    "name": "Deep Space D5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "YZp4OtVD"
+  },
+  "Deep Space E5": {
+    "name": "Deep Space E5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "_b3yF3YL"
+  },
+  "Deep Space F5": {
+    "name": "Deep Space F5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "fzo8M7i1"
+  },
+  "Deep Space H5": {
+    "name": "Deep Space H5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "m2wVu4H5"
+  },
+  "Deep Space I5": {
+    "name": "Deep Space I5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7cjbeRpy"
+  },
+  "Deep Space J5": {
+    "name": "Deep Space J5",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "MMJLUEaF"
+  },
+  "Deep Space A6": {
+    "name": "Deep Space A6",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "H6by7Q6x"
+  },
+  "Deep Space B6": {
+    "name": "Deep Space B6",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "1u3pW5CS"
+  },
+  "Deep Space E6": {
+    "name": "Deep Space E6",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "o5Wyq9jR"
+  },
+  "Deep Space F6": {
+    "name": "Deep Space F6",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "4PqTIzBG"
+  },
+  "Deep Space G6": {
+    "name": "Deep Space G6",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 0,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "dslMByaF"
+  },
+  "Deep Space H6": {
+    "name": "Deep Space H6",
+    "basicInfo": "Unclaimed void north of Aethermoor between the Dominion and Lunarian spheres. Hosts the chartered free city of Free Port Tessera, a flagless independent station that votes its own council.",
+    "x": 1,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "AggQllvA"
+  },
+  "Deep Space A7": {
+    "name": "Deep Space A7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "vPYfppUo"
+  },
+  "Deep Space B7": {
+    "name": "Deep Space B7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Q-RcZGzi"
+  },
+  "Deep Space C7": {
+    "name": "Deep Space C7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "O5Ph_iE5"
+  },
+  "Deep Space E7": {
+    "name": "Deep Space E7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "LiOwALbg"
+  },
+  "Deep Space F7": {
+    "name": "Deep Space F7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "egvlcbYJ"
+  },
+  "Deep Space G7": {
+    "name": "Deep Space G7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 0,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "DSEwluiA"
+  },
+  "Deep Space H7": {
+    "name": "Deep Space H7",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "pGaw9sA0"
+  },
+  "Deep Space K7": {
+    "name": "Deep Space K7",
+    "basicInfo": "Open shipping void between the Dominion border and the eastern Fringe column. Sees regular freighter traffic. Hosts Backhaul Junction, a logistics hub disguised as a fuel depot.",
+    "x": 4,
+    "y": 2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "0lW7jKh7"
+  },
+  "Deep Space C8": {
+    "name": "Deep Space C8",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "exVYWMrT"
+  },
+  "Deep Space D8": {
+    "name": "Deep Space D8",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "3deN5EDf"
+  },
+  "Deep Space J8": {
+    "name": "Deep Space J8",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "3IH0gAgw"
+  },
+  "Deep Space C9": {
+    "name": "Deep Space C9",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "d40OVMhf"
+  },
+  "Deep Space D9": {
+    "name": "Deep Space D9",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "HcLTaiD3"
+  },
+  "Deep Space E9": {
+    "name": "Deep Space E9",
+    "basicInfo": "Quiet void between Lunarian Approach and the Aethermoor crossroads. Hosts The Bourse, a neutral financial city-station where the major banks of every power maintain trading floors.",
+    "x": -2,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "eBcKgrgZ"
+  },
+  "Deep Space I9": {
+    "name": "Deep Space I9",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "bM66PdJa"
+  },
+  "Deep Space J9": {
+    "name": "Deep Space J9",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": 0,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Iu063R9g"
+  },
+  "Deep Space C10": {
+    "name": "Deep Space C10",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "dPxf_SPx"
+  },
+  "Deep Space J10": {
+    "name": "Deep Space J10",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "6o-h_ENU"
+  },
+  "Deep Space K10": {
+    "name": "Deep Space K10",
+    "basicInfo": "Contested space between the Confederate frontier and the Reaches buffer. Hosts the Castellan Forward Office, a private military corporation recruitment and staging hub serving multiple contested theaters.",
+    "x": 4,
+    "y": -1,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "iF1BCDwA"
+  },
+  "Deep Space A11": {
+    "name": "Deep Space A11",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "bKyand-2"
+  },
+  "Deep Space E11": {
+    "name": "Deep Space E11",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "lHkswzM0"
+  },
+  "Deep Space F11": {
+    "name": "Deep Space F11",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "8CeKT6ke"
+  },
+  "Deep Space G11": {
+    "name": "Deep Space G11",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 0,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7ej_KkJZ"
+  },
+  "Deep Space H11": {
+    "name": "Deep Space H11",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": -2,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "ps03TpbZ"
+  },
+  "Deep Space A12": {
+    "name": "Deep Space A12",
+    "basicInfo": "Empty void west of the Hegemony frontier and south of the Dimming approach. The derelict colony ship Orinoco drifts here, now home to a community of scavengers and refugees.",
+    "x": -6,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "-hLJVMZ0"
+  },
+  "Deep Space I12": {
+    "name": "Deep Space I12",
+    "basicInfo": "Open void between the Hegemony border and the Aethermoor crossroads, a corridor used heavily by refugees from the Contested Reaches. Hosts Candlelight Refuge, a humanitarian station that asks no questions.",
+    "x": 2,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "Bx7rA1vh"
+  },
+  "Deep Space D13": {
+    "name": "Deep Space D13",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "hatXtG9r"
+  },
+  "Deep Space I13": {
+    "name": "Deep Space I13",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "8LeWCuSA"
+  },
+  "Deep Space D14": {
+    "name": "Deep Space D14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "3xbdG35g"
+  },
+  "Deep Space E14": {
+    "name": "Deep Space E14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "pT6lczvz"
+  },
+  "Deep Space F14": {
+    "name": "Deep Space F14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "gLKMJr9r"
+  },
+  "Deep Space G14": {
+    "name": "Deep Space G14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 0,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7F85RsZe"
+  },
+  "Deep Space H14": {
+    "name": "Deep Space H14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "YwFeSulr"
+  },
+  "Deep Space I14": {
+    "name": "Deep Space I14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "jb8jCDs4"
+  },
+  "Deep Space J14": {
+    "name": "Deep Space J14",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "f2OZOZN4"
+  },
+  "Deep Space L14": {
+    "name": "Deep Space L14",
+    "basicInfo": "Deep south-eastern void beyond the Confederate frontier and the southern Fringe Reach. Hosts Pell's Last Stop, a notorious pirate and smuggler waystation operating well outside any patrol coverage.",
+    "x": 5,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "NEe3ReVq"
+  },
+  "Deep Space B15": {
+    "name": "Deep Space B15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "nNluIMG0"
+  },
+  "Deep Space C15": {
+    "name": "Deep Space C15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "90o8AgxB"
+  },
+  "Deep Space D15": {
+    "name": "Deep Space D15",
+    "basicInfo": "Empty void deep in the southern reaches between the Hegemony deep frontier and the Wraith Shoals. No patrol coverage, no civilian traffic, no charted features. The Garden's primary visible node, the Greenhouse, is hidden somewhere in this region inside a hollowed asteroid -- the exact coordinates are known only to invited members and to the few couriers the Garden has chosen to trust.",
+    "x": -3,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "uYBXzVBZ",
+    "factions": [
+      "The Garden"
+    ]
+  },
+  "Deep Space E15": {
+    "name": "Deep Space E15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "D94u8THO"
+  },
+  "Deep Space F15": {
+    "name": "Deep Space F15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -1,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "zXyIobwO"
+  },
+  "Deep Space H15": {
+    "name": "Deep Space H15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 1,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "bDYsubiU"
+  },
+  "Deep Space I15": {
+    "name": "Deep Space I15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "WTziCOdb"
+  },
+  "Deep Space J15": {
+    "name": "Deep Space J15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "SAR5gJg9"
+  },
+  "Deep Space K15": {
+    "name": "Deep Space K15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "BkJXidNk"
+  },
+  "Deep Space L15": {
+    "name": "Deep Space L15",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 5,
+    "y": -6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "4rbeJny6"
+  },
+  "Deep Space A16": {
+    "name": "Deep Space A16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "YUeg1y3h"
+  },
+  "Deep Space B16": {
+    "name": "Deep Space B16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "BJf-0awY"
+  },
+  "Deep Space C16": {
+    "name": "Deep Space C16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "stIOSG9K"
+  },
+  "Deep Space D16": {
+    "name": "Deep Space D16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "hnIvLKCK"
+  },
+  "Deep Space E16": {
+    "name": "Deep Space E16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "0Zc1sdCA"
+  },
+  "Deep Space I16": {
+    "name": "Deep Space I16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "BWpyaxi-"
+  },
+  "Deep Space J16": {
+    "name": "Deep Space J16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "eyiyMhrP"
+  },
+  "Deep Space K16": {
+    "name": "Deep Space K16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "DGofdngJ"
+  },
+  "Deep Space L16": {
+    "name": "Deep Space L16",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 5,
+    "y": -7,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "lcF1bKqz"
+  },
+  "Deep Space A17": {
+    "name": "Deep Space A17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -6,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "-21LXOls"
+  },
+  "Deep Space B17": {
+    "name": "Deep Space B17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -5,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "CxYPP602"
+  },
+  "Deep Space C17": {
+    "name": "Deep Space C17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -4,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "DjcAoigT"
+  },
+  "Deep Space D17": {
+    "name": "Deep Space D17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -3,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "oo3SIYYp"
+  },
+  "Deep Space E17": {
+    "name": "Deep Space E17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": -2,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "vkQLS5E3"
+  },
+  "Deep Space I17": {
+    "name": "Deep Space I17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 2,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "7-t_1r4a"
+  },
+  "Deep Space J17": {
+    "name": "Deep Space J17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 3,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "J4ic1sde"
+  },
+  "Deep Space K17": {
+    "name": "Deep Space K17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "g_PFG9yi"
+  },
+  "Deep Space L17": {
+    "name": "Deep Space L17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 5,
+    "y": -8,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "zIcZcFQ1"
+  },
+  "Test": {
+    "name": "Test",
+    "basicInfo": "Test Region, do not use under any circumstances.",
+    "x": 0,
+    "y": 0,
+    "realm": "Test",
+    "factions": [],
+    "hiddenInfo": "",
+    "known": false,
+    "embeddingId": "uQr1U4kL"
+  },
+  "Alpha Centauri": {
+    "name": "Alpha Centauri",
+    "basicInfo": "Humanity's first interstellar colony, a prosperous triple-star system hosting multiple settled worlds connected by constant inter-world shuttle traffic. The Dominion's oldest off-Sol holding.\n\nGRAVITY: 0.95-1.05 standard across the inhabited worlds.\nATMOSPHERE: Standard breathable, lightly managed.\nENVIRONMENT: Warm-temperate primary world, varied secondary worlds.\nINFRASTRUCTURE: Full civilization. One of the densest populated systems in Dominion space.",
+    "x": 4,
+    "y": 6,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "IjNxre57",
+    "factions": [
+      "Terran Presidium",
+      "Sixth Directorate"
+    ]
+  },
+  "Tau Ceti": {
+    "name": "Tau Ceti",
+    "basicInfo": "The Dominion's largest agricultural world, a temperate planet whose vast plains feed dozens of less fertile colonies through bulk freighter convoys.\n\nGRAVITY: 1.02 standard.\nATMOSPHERE: Standard breathable, naturally clean.\nENVIRONMENT: Temperate continental, long warm summers, vast agricultural plains.\nINFRASTRUCTURE: Full civilization, agriculturally focused. Rural by Dominion standards.",
+    "x": 3,
+    "y": 4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "RhAdiD1b",
+    "factions": [
+      "Terran Presidium"
+    ]
+  },
+  "Diana": {
+    "name": "Diana",
+    "basicInfo": "The third world of the Lunarian system, a cool calm planet that serves as the Republic's cultural and contemplative heart. Population is small and intentionally undeveloped.\n\nGRAVITY: 0.94 standard.\nATMOSPHERE: Standard breathable, magically stilled.\nENVIRONMENT: Cool temperate, vast still lakes, low forests. Magically stabilized weather.\nINFRASTRUCTURE: Modest. Imports manufactured goods from Luna.",
+    "x": -5,
+    "y": 3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "8-kXtQd7",
+    "factions": [
+      "Lunarian Republic",
+      "Arcwright Collegium"
+    ]
+  },
+  "Verdancia": {
+    "name": "Verdancia",
+    "basicInfo": "A core Confederate world with a strong lupin cultural majority. Open plains and rolling hills, organized around extended pack-family communities.\n\nGRAVITY: 1.01 standard.\nATMOSPHERE: Standard breathable.\nENVIRONMENT: Cool temperate, plains and hills, mild winters.\nINFRASTRUCTURE: Full civilization. Pack-link coordinated industry.",
+    "x": 3,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "9istODuB",
+    "factions": [
+      "Faunae Confederacy"
+    ]
+  },
+  "Reynard's Run": {
+    "name": "Reynard's Run",
+    "basicInfo": "A vulpin-majority Confederate world organized around underground commerce. Surface is rolling chalk hills; population lives mostly in tunnel-cities below.\n\nGRAVITY: 0.97 standard.\nATMOSPHERE: Standard breathable.\nENVIRONMENT: Cool dry surface, extensive subterranean settlement.\nINFRASTRUCTURE: Full civilization, commercially focused. Major Confederate trading hub.",
+    "x": 5,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "_Gj8ZtXb",
+    "factions": [
+      "Faunae Confederacy"
+    ]
+  },
+  "Whisker Reach": {
+    "name": "Whisker Reach",
+    "basicInfo": "A felin-majority Confederate world with a warm Mediterranean climate. Cities are built vertically as slender towers connected by leaping bridges.\n\nGRAVITY: 0.93 standard.\nATMOSPHERE: Standard breathable.\nENVIRONMENT: Warm Mediterranean, dry summers and mild winters.\nINFRASTRUCTURE: Full civilization with distinctive vertical architecture.",
+    "x": 3,
+    "y": -5,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "AmUFRsjK",
+    "factions": [
+      "Faunae Confederacy"
+    ]
+  },
+  "Tessrak": {
+    "name": "Tessrak",
+    "basicInfo": "A core Hegemony world dedicated almost entirely to the controlled hatching and early training of saurian young. Climate is warm and humid, carefully regulated.\n\nGRAVITY: 1.06 standard.\nATMOSPHERE: Standard breathable, kept warm and humid.\nENVIRONMENT: Warm equatorial, regulated humidity, sparse vegetation outside hatchery zones.\nINFRASTRUCTURE: Full civilization, almost entirely dedicated to caste-management functions.",
+    "x": -3,
+    "y": -4,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "upxhZ43X",
+    "factions": [
+      "Saurian Hegemony"
+    ]
+  },
+  "Yoke": {
+    "name": "Yoke",
+    "basicInfo": "A subjugated world whose original civilization is now suppressed and serves as Subjugated Caste labor for Hegemony industry. Permanent industrial overcast.\n\nGRAVITY: 1.0 standard.\nATMOSPHERE: Breathable but heavily polluted. Filtration recommended in industrial zones.\nENVIRONMENT: Temperate, perpetually overcast from industrial output. Old conquered ruins beneath modern Hegemony construction.\nINFRASTRUCTURE: Heavy Hegemony industrial development atop the suppressed remains of the conquered civilization.",
+    "x": -2,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "zPvC3YRF",
+    "factions": [
+      "Saurian Hegemony"
+    ]
+  },
+  "Saurok": {
+    "name": "Saurok",
+    "basicInfo": "A recently absorbed frontier system on the Hegemony's expanding edge. Original colony partially integrated, tensions high, Hegemony presence heavy.\n\nGRAVITY: 0.98 standard.\nATMOSPHERE: Standard breathable.\nENVIRONMENT: Cool dry, sparse vegetation, modest weather.\nINFRASTRUCTURE: Hybrid -- new Hegemony fortress garrison built next to the partially-integrated remnants of the original colony.",
+    "x": -5,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "plEL6O-x",
+    "factions": [
+      "Saurian Hegemony"
+    ]
+  },
+  "Deep Space R17": {
+    "name": "Deep Space R17",
+    "basicInfo": "Empty interstellar space. No notable features.",
+    "x": 4,
+    "y": -3,
+    "realm": "Known Galaxy",
+    "known": true,
+    "hiddenInfo": "",
+    "embeddingId": "cPNoVNvH",
+    "factions": [
+      "Faunae Confederacy"
+    ]
+  }
+}

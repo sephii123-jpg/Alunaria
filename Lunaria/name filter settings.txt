@@ -1,0 +1,4098 @@
+{
+  "Marcus": {
+    "replacements": [
+      "Alex",
+      "Ethan",
+      "Jason",
+      "Ryan",
+      "Owen",
+      "Nathaniel",
+      "Adrian",
+      "Colin",
+      "Scott",
+      "Blake",
+      "Tyler",
+      "Brandon",
+      "Mitchell",
+      "Douglas",
+      "Kenneth"
+    ]
+  },
+  "Chen": {
+    "replacements": [
+      "Zhang",
+      "Wang",
+      "Li",
+      "Zhao",
+      "Liu",
+      "Yang",
+      "Huang",
+      "Wu",
+      "Zhou",
+      "Xu",
+      "Sun",
+      "Ma",
+      "Zhu",
+      "Hu",
+      "Guo"
+    ]
+  },
+  "Wei": {
+    "replacements": [
+      "Wang",
+      "Zhang",
+      "Huang",
+      "Guo",
+      "Shen",
+      "Tang",
+      "Song",
+      "Han",
+      "Feng",
+      "Jiang",
+      "Yao",
+      "Qin",
+      "Zhu",
+      "Hu",
+      "Luo"
+    ]
+  },
+  "Lin": {
+    "replacements": [
+      "Liu",
+      "Yang",
+      "Zhou",
+      "Zhao",
+      "Wu",
+      "Xu",
+      "Sun",
+      "Ma",
+      "Zhu",
+      "Hu",
+      "Guo",
+      "He",
+      "Gao",
+      "Luo",
+      "Zheng"
+    ]
+  },
+  "Mira": {
+    "replacements": [
+      "Maya",
+      "Maria",
+      "Myra",
+      "Mina",
+      "Mara",
+      "Mila",
+      "Maia",
+      "Mena",
+      "Mora",
+      "Maia",
+      "Melia",
+      "Mara",
+      "Moira",
+      "Maris",
+      "Mabel"
+    ]
+  },
+  "Elara": {
+    "replacements": [
+      "Thea",
+      "Cora",
+      "Nova",
+      "Vega",
+      "Greta",
+      "Breda",
+      "Viggo",
+      "Lyssa",
+      "Cassia",
+      "Octavia",
+      "Daphne",
+      "Nerida",
+      "Sable",
+      "Zara",
+      "Cressida"
+    ]
+  },
+  "Kira": {
+    "replacements": [
+      "Lena",
+      "Anya",
+      "Nyla",
+      "Isla",
+      "Gudrun",
+      "Ruby",
+      "Sasha",
+      "Zara",
+      "Nina",
+      "Maya",
+      "Vera",
+      "Talia",
+      "Raina",
+      "Sienna",
+      "Jade"
+    ]
+  },
+  "Malik": {
+    "replacements": [
+      "Amir",
+      "Zahir",
+      "Khalid",
+      "Rashid",
+      "Tariq",
+      "Jamal",
+      "Samir",
+      "Karim",
+      "Omar",
+      "Hassan",
+      "Yusuf",
+      "Farid",
+      "Nasir",
+      "Ibrahim",
+      "Hakeem"
+    ]
+  },
+  "Serra": {
+    "replacements": [
+      "Silvana",
+      "Thalia",
+      "Katrin",
+      "Linnea",
+      "Briar",
+      "Celeste",
+      "Faela",
+      "Sorina",
+      "Lorelei",
+      "Brigitta",
+      "Ottilie",
+      "Kunigunde",
+      "Rosalind",
+      "Minerva",
+      "Adeline"
+    ]
+  },
+  "Vance": {
+    "replacements": [
+      "Dale",
+      "Grant",
+      "Brock",
+      "Travis",
+      "Derek",
+      "Wade",
+      "Kent",
+      "Craig",
+      "Lance",
+      "Brett",
+      "Chase",
+      "Heath",
+      "Todd",
+      "Shane",
+      "Keith"
+    ]
+  },
+  "Kael": {
+    "replacements": [
+      "Roran",
+      "Jace",
+      "Darin",
+      "Colm",
+      "Osmund",
+      "Donagh",
+      "Gethin",
+      "Viggo",
+      "Aldhelm",
+      "Colm",
+      "Flynn",
+      "Beornric",
+      "Leif",
+      "Fergal",
+      "Cynric"
+    ]
+  },
+  "Thorne": {
+    "replacements": [
+      "Ashton",
+      "Flint",
+      "Reed",
+      "Wolfe",
+      "Drake",
+      "Pierce",
+      "Rook",
+      "Slate",
+      "Stone",
+      "Rivers",
+      "Hayes",
+      "Brooks",
+      "Vale",
+      "Heath",
+      "Frost"
+    ]
+  },
+  "Ramirez": {
+    "replacements": [
+      "Torres",
+      "Morales",
+      "Ortiz",
+      "Rivera",
+      "Gutierrez",
+      "Mendoza",
+      "Vargas",
+      "Reyes",
+      "Flores",
+      "Castro",
+      "Diaz",
+      "Cruz",
+      "Ramos",
+      "Herrera",
+      "Vega"
+    ]
+  },
+  "Valerius": {
+    "replacements": [
+      "Aurelius",
+      "Corvinus",
+      "Octavius",
+      "Tiberius",
+      "Septimus",
+      "Claudius",
+      "Lucius",
+      "Quintus",
+      "Maximus",
+      "Antonius",
+      "Flavius",
+      "Gaius",
+      "Silvanus",
+      "Marcellus",
+      "Decimus"
+    ]
+  },
+  "Lyra": {
+    "replacements": [
+      "Brita",
+      "Vera",
+      "Iris",
+      "Stella",
+      "Aurora",
+      "Rhea",
+      "Nora",
+      "Clara",
+      "Celia",
+      "Dora",
+      "Flora",
+      "Luna",
+      "Rosa",
+      "Vita",
+      "Herta"
+    ]
+  },
+  "Zephyr": {
+    "replacements": [
+      "Winters",
+      "Templeton",
+      "Gale",
+      "Storme",
+      "Weatherby",
+      "Skye",
+      "Fairweather",
+      "Windham",
+      "Breeze",
+      "Cloud",
+      "Rainier",
+      "Mistral",
+      "Gust",
+      "Squall",
+      "Aeris"
+    ]
+  },
+  "Vex": {
+    "replacements": [
+      "Wren",
+      "Jinx",
+      "Sly",
+      "Trick",
+      "Rook",
+      "Kite",
+      "Snare",
+      "Glint",
+      "Cole",
+      "Flick",
+      "Dagger",
+      "Quirk",
+      "Thorn",
+      "Cade"
+    ]
+  },
+  "Voss": {
+    "replacements": [
+      "Beck",
+      "Rust",
+      "Graf",
+      "Knox",
+      "Kurtz",
+      "Kruger",
+      "Steele",
+      "Bauer",
+      "Wolf",
+      "Stark",
+      "Braun",
+      "Keller",
+      "Fischer",
+      "Schwarz",
+      "Vogel"
+    ]
+  },
+  "Tanaka": {
+    "replacements": [
+      "Yamada",
+      "Nakamura",
+      "Kobayashi",
+      "Suzuki",
+      "Takahashi",
+      "Watanabe",
+      "Ito",
+      "Kimura",
+      "Hayashi",
+      "Shimizu",
+      "Yamaguchi",
+      "Matsumoto",
+      "Inoue",
+      "Sasaki",
+      "Nomura"
+    ]
+  },
+  "Aldric": {
+    "replacements": [
+      "Roderick",
+      "Bernard",
+      "Edmund",
+      "Harold",
+      "Gilbert",
+      "Walter",
+      "Raymond",
+      "Geoffrey",
+      "Godfrey",
+      "Humphrey",
+      "Oswald",
+      "Reginald",
+      "Wilfred",
+      "Alfred",
+      "Herbert"
+    ]
+  },
+  "Alistair": {
+    "replacements": [
+      "Duncan",
+      "Malcolm",
+      "Angus",
+      "Fergus",
+      "Hamish",
+      "Callum",
+      "Lachlan",
+      "Ewan",
+      "Gregor",
+      "Niall",
+      "Rory",
+      "Fraser",
+      "Iain",
+      "Tavish",
+      "Findlay"
+    ]
+  },
+  "Cassie": {
+    "replacements": [
+      "Rosie",
+      "Millie",
+      "Lucy",
+      "Emma",
+      "Sophie",
+      "Hannah",
+      "Katie",
+      "Jessie",
+      "Molly",
+      "Ellie",
+      "Abby",
+      "Sadie",
+      "Gracie",
+      "Lily",
+      "Poppy"
+    ]
+  },
+  "Cedric": {
+    "replacements": [
+      "Edgar",
+      "Oswald",
+      "Bertram",
+      "Aldwin",
+      "Godwin",
+      "Leofric",
+      "Wulfric",
+      "Aelfric",
+      "Ethelred",
+      "Eadric",
+      "Sigurd",
+      "Dunstan",
+      "Cuthbert",
+      "Aethelstan",
+      "Beorn"
+    ]
+  },
+  "Celestia": {
+    "replacements": [
+      "Diana",
+      "Helena",
+      "Serena",
+      "Valeria",
+      "Adriana",
+      "Marcella",
+      "Livia",
+      "Cornelia",
+      "Octavia",
+      "Cornelia",
+      "Portia",
+      "Lavinia",
+      "Calpurnia",
+      "Flavia",
+      "Lucretia"
+    ]
+  },
+  "Elias": {
+    "replacements": [
+      "Barnabas",
+      "Jonas",
+      "Tobias",
+      "Matthias",
+      "Josiah",
+      "Micah",
+      "Caleb",
+      "Barnabas",
+      "Isaiah",
+      "Jeremiah",
+      "Nehemiah",
+      "Malachi",
+      "Zachariah",
+      "Obadiah",
+      "Hezekiah"
+    ]
+  },
+  "Elena": {
+    "replacements": [
+      "Sofia",
+      "Lucia",
+      "Bianca",
+      "Giulia",
+      "Chiara",
+      "Francesca",
+      "Alessia",
+      "Valentina",
+      "Isabella",
+      "Gabriella",
+      "Martina",
+      "Carlotta",
+      "Beatrice",
+      "Vittoria",
+      "Eleonora"
+    ]
+  },
+  "Elowen": {
+    "replacements": [
+      "Branwen",
+      "Anwen",
+      "Cerys",
+      "Bethan",
+      "Seren",
+      "Carys",
+      "Rhiannon",
+      "Nerys",
+      "Gwen",
+      "Bronwen",
+      "Myfanwy",
+      "Arianwen",
+      "Angharad",
+      "Lowri",
+      "Catrin"
+    ]
+  },
+  "Gareth": {
+    "replacements": [
+      "Beornric",
+      "Garrett",
+      "Gordon",
+      "Graham",
+      "Edric",
+      "Conrad",
+      "Gregory",
+      "Grant",
+      "Gavin",
+      "Gerald",
+      "Gilbert",
+      "Geoffrey",
+      "Glenn",
+      "Glen",
+      "Grady"
+    ]
+  },
+  "Garret": {
+    "replacements": [
+      "Barrett",
+      "Jarrett",
+      "Emmett",
+      "Corbett",
+      "Everett",
+      "Beckett",
+      "Wyatt",
+      "Elliott",
+      "Bennett",
+      "Barnett",
+      "Hewitt",
+      "Merritt",
+      "Rhett",
+      "Garrett",
+      "Nolan"
+    ]
+  },
+  "Julian": {
+    "replacements": [
+      "Adrian",
+      "Damian",
+      "Sebastian",
+      "Gualtiero",
+      "Lanfranco",
+      "Ermanno",
+      "Fabian",
+      "Florian",
+      "Maximilian",
+      "Christian",
+      "Vincent",
+      "Corvinus",
+      "Dominic",
+      "Octavian"
+    ]
+  },
+  "Kaelen": {
+    "replacements": [
+      "Malachy",
+      "Fergal",
+      "Darragh",
+      "Branan",
+      "Lorcan",
+      "Colman",
+      "Oisin",
+      "Tiernan",
+      "Fergal",
+      "Padraig",
+      "Eoin",
+      "Niall",
+      "Riordan",
+      "Donal",
+      "Cillian"
+    ]
+  },
+  "Kaelis": {
+    "replacements": [
+      "Tavian",
+      "Severin",
+      "Tullus",
+      "Kyros",
+      "Aldren",
+      "Valen",
+      "Zander",
+      "Marius",
+      "Viggo",
+      "Florian",
+      "Stavros",
+      "Alexios",
+      "Sorin",
+      "Darian",
+      "Matthias"
+    ]
+  },
+  "Kaelin": {
+    "replacements": [
+      "Caedmon",
+      "Caden",
+      "Braden",
+      "Jayden",
+      "Hayden",
+      "Grayson",
+      "Carson",
+      "Mason",
+      "Colton",
+      "Preston",
+      "Jackson",
+      "Landon",
+      "Payton",
+      "Camden",
+      "Hudson"
+    ]
+  },
+  "Kaelith": {
+    "replacements": [
+      "Teodoric",
+      "Malakai",
+      "Ezekiel",
+      "Azriel",
+      "Raziel",
+      "Cassian",
+      "Ermanno",
+      "Alexios",
+      "Barnabas",
+      "Mordecai",
+      "Zephaniah",
+      "Balthazar",
+      "Zachariah",
+      "Obadiah",
+      "Jedidiah"
+    ]
+  },
+  "Thaddeus": {
+    "replacements": [
+      "Barnabas",
+      "Cornelius",
+      "Ignatius",
+      "Augustus",
+      "Ambrose",
+      "Aldhelm",
+      "Reginald",
+      "Bartholomew",
+      "Theodosius",
+      "Maximilian",
+      "Horatio",
+      "Octavian",
+      "Septimus",
+      "Aurelius",
+      "Phineas"
+    ]
+  },
+  "Theron": {
+    "replacements": [
+      "Demetrius",
+      "Stavros",
+      "Petros",
+      "Alexios",
+      "Phaedrus",
+      "Alexios",
+      "Nikos",
+      "Stavros",
+      "Costas",
+      "Petros",
+      "Andreas",
+      "Dimitrios",
+      "Konstantinos",
+      "Georgios",
+      "Theodoros"
+    ]
+  },
+  "Vane": {
+    "replacements": [
+      "Kane",
+      "Bane",
+      "Dane",
+      "Lane",
+      "Blaine",
+      "Shane",
+      "Zane",
+      "Wayne",
+      "Cain",
+      "Brent",
+      "Drake",
+      "Tate",
+      "Wade",
+      "Gabe",
+      "Nate"
+    ]
+  },
+  "Vesper": {
+    "replacements": [
+      "Gudrun",
+      "Maren",
+      "Wren",
+      "Indigo",
+      "Scarlet",
+      "Jade",
+      "Violet",
+      "Hazel",
+      "Elke",
+      "Ivy",
+      "Solveig",
+      "Juniper",
+      "Willow",
+      "Autumn",
+      "Winter"
+    ]
+  },
+  "Blackwood": {
+    "replacements": [
+      "Langford",
+      "Whitmore",
+      "Redfield",
+      "Fairfax",
+      "Greywood",
+      "Hawthorne",
+      "Oakley",
+      "Grayson",
+      "Linwood",
+      "Birchwood",
+      "Elmwood",
+      "Maplewood",
+      "Pinehurst",
+      "Cedarwood",
+      "Willowbrook"
+    ]
+  },
+  "Ironheart": {
+    "replacements": [
+      "Steelworth",
+      "Strongbow",
+      "Brightblade",
+      "Truehammer",
+      "Goldenshield",
+      "Silverhand",
+      "Swiftaxe",
+      "Stormforge",
+      "Bronzefist",
+      "Ironside",
+      "Steelheart",
+      "Stonefist",
+      "Battleborn",
+      "Warhammer",
+      "Shieldbearer"
+    ]
+  },
+  "Moonwhisper": {
+    "replacements": [
+      "Starling",
+      "Evenwood",
+      "Heathermoor",
+      "Shadowbrook",
+      "Mistwood",
+      "Twilight",
+      "Duskmantle",
+      "Dawnbringer",
+      "Starfire",
+      "Moonshadow",
+      "Nightwind",
+      "Darkwater",
+      "Willowmere",
+      "Moonbrook",
+      "Starfall"
+    ]
+  },
+  "Nightbreeze": {
+    "replacements": [
+      "Windcaller",
+      "Stormrider",
+      "Cloudwalker",
+      "Skyborne",
+      "Galeforce",
+      "Thundersong",
+      "Mistwalker",
+      "Tempest",
+      "Stormchaser",
+      "Windrunner",
+      "Skywhisper",
+      "Cloudstrider",
+      "Galewind",
+      "Stormsinger",
+      "Weathervane"
+    ]
+  },
+  "Starweaver": {
+    "replacements": [
+      "Spellwright",
+      "Runebinder",
+      "Shadowmancer",
+      "Lightbringer",
+      "Flamewarden",
+      "Frostweaver",
+      "Stormcaller",
+      "Voidwalker",
+      "Dreamwalker",
+      "Soulbinder",
+      "Mindshaper",
+      "Spiritseeker",
+      "Timekeeper",
+      "Fateweaver",
+      "Truthseer"
+    ]
+  },
+  "Sterlington": {
+    "replacements": [
+      "Worthington",
+      "Pennington",
+      "Harrington",
+      "Covington",
+      "Huntington",
+      "Remington",
+      "Lexington",
+      "Kensington",
+      "Barrington",
+      "Darrington",
+      "Carrington",
+      "Arlington",
+      "Wellington",
+      "Paddington",
+      "Warrington"
+    ]
+  },
+  "Thornefield": {
+    "replacements": [
+      "Briarfield",
+      "Rosefield",
+      "Stonebridge",
+      "Millbrook",
+      "Riverdale",
+      "Meadowcroft",
+      "Woodhaven",
+      "Hillside",
+      "Fairfield",
+      "Greenfield",
+      "Clearwater",
+      "Brookfield",
+      "Ridgemont",
+      "Valleyview",
+      "Springdale"
+    ]
+  },
+  "Thornvale": {
+    "replacements": [
+      "Ravendale",
+      "Windermere",
+      "Silverdale",
+      "Greenhollow",
+      "Brookshire",
+      "Ashdale",
+      "Fernwood",
+      "Elmhurst",
+      "Oakvale",
+      "Pinehurst",
+      "Birchdale",
+      "Maplewood",
+      "Cedarbrook",
+      "Willowmere",
+      "Hazelwood"
+    ]
+  },
+  "Kade": {
+    "replacements": [
+      "Wade",
+      "Cole",
+      "Seth",
+      "Reed",
+      "Tate",
+      "Miles",
+      "Nash",
+      "Drew",
+      "Cade",
+      "Chase",
+      "Brett",
+      "Flynn",
+      "Kyle",
+      "Luke",
+      "Gethin"
+    ]
+  },
+  "Draven": {
+    "replacements": [
+      "Darius",
+      "Damien",
+      "Dominic",
+      "Bertram",
+      "Ermanno",
+      "Duncan",
+      "Dalton",
+      "Devon",
+      "Donovan",
+      "Malachy",
+      "Derek",
+      "Devin",
+      "Desmond",
+      "Dimitri",
+      "Damon"
+    ]
+  },
+  "Lira": {
+    "replacements": [
+      "Nina",
+      "Petra",
+      "Mina",
+      "Tara",
+      "Sara",
+      "Rina",
+      "Lena",
+      "Gina",
+      "Tina",
+      "Dina",
+      "Lara",
+      "Vera",
+      "Zara",
+      "Nora",
+      "Rosa"
+    ]
+  },
+  "Veyra": {
+    "replacements": [
+      "Kyra",
+      "Myra",
+      "Lydia",
+      "Sybil",
+      "Gudrun",
+      "Celia",
+      "Delia",
+      "Thea",
+      "Vera",
+      "Leia",
+      "Keira",
+      "Meira",
+      "Nayla",
+      "Zara",
+      "Nyla"
+    ]
+  },
+  "Vonn": {
+    "replacements": [
+      "Bran",
+      "Ross",
+      "Moss",
+      "Lars",
+      "Kurt",
+      "Dirk",
+      "Sven",
+      "Rolf",
+      "Erik",
+      "Halfdan",
+      "Thor",
+      "Leif",
+      "Olaf",
+      "Gunnar",
+      "Guttorm"
+    ]
+  },
+  "Dorn": {
+    "replacements": [
+      "Bram",
+      "Gorn",
+      "Vorn",
+      "Torn",
+      "Horn",
+      "Korn",
+      "Morn",
+      "Halfdan",
+      "Zorn",
+      "Thorin",
+      "Bron",
+      "Krom",
+      "Drog",
+      "Grom",
+      "Throk"
+    ]
+  },
+  "Jax": {
+    "replacements": [
+      "Rex",
+      "Dex",
+      "Fox",
+      "Max",
+      "Zak",
+      "Cade",
+      "Jett",
+      "Knox",
+      "Rax",
+      "Pax",
+      "Tex",
+      "Lex",
+      "Nash",
+      "Nix"
+    ]
+  },
+  "Chan": {
+    "replacements": [
+      "Tan",
+      "Lan",
+      "Fan",
+      "Pan",
+      "Shan",
+      "Wan",
+      "Yan",
+      "Ran",
+      "Han",
+      "Kan",
+      "San",
+      "Ban",
+      "Dan",
+      "Man",
+      "Van"
+    ]
+  },
+  "Patel": {
+    "replacements": [
+      "Shah",
+      "Desai",
+      "Mehta",
+      "Joshi",
+      "Gandhi",
+      "Kumar",
+      "Singh",
+      "Gupta",
+      "Sharma",
+      "Reddy",
+      "Rao",
+      "Nair",
+      "Iyer",
+      "Chopra",
+      "Kapoor"
+    ]
+  },
+  "Nyx": {
+    "replacements": [
+      "Rue",
+      "Mab",
+      "Eris",
+      "Sable",
+      "Circe",
+      "Hecate",
+      "Moira",
+      "Rowena",
+      "Lilith",
+      "Morrigan",
+      "Sibyl",
+      "Damara",
+      "Ondine",
+      "Brenna",
+      "Rowena"
+    ]
+  },
+  "Kenji": {
+    "replacements": [
+      "Takeshi",
+      "Hiroshi",
+      "Daichi",
+      "Ryota",
+      "Shota",
+      "Yuto",
+      "Haruto",
+      "Riku",
+      "Souta",
+      "Kaito",
+      "Akira",
+      "Shinji",
+      "Masato",
+      "Junichi",
+      "Satoshi"
+    ]
+  },
+  "O'Connor": {
+    "replacements": [
+      "Murphy",
+      "Sullivan",
+      "Donagh",
+      "Donovan",
+      "Callahan",
+      "Gallagher",
+      "Finnegan",
+      "Doyle",
+      "Shea",
+      "Ryan",
+      "Kennedy",
+      "Byrne",
+      "Flynn",
+      "Doherty",
+      "Malone"
+    ]
+  },
+  "O'Connolly": {
+    "replacements": [
+      "McCarthy",
+      "McDermott",
+      "McBride",
+      "McGrath",
+      "McLaughlin",
+      "McNamara",
+      "McGuire",
+      "McGowan",
+      "McHugh",
+      "McEvoy",
+      "McFadden",
+      "McCabe",
+      "McMahon",
+      "McCann",
+      "McIntyre"
+    ]
+  },
+  "Sato": {
+    "replacements": [
+      "Kato",
+      "Mori",
+      "Ando",
+      "Kudo",
+      "Endo",
+      "Kondo",
+      "Goto",
+      "Hara",
+      "Ogawa",
+      "Fujita",
+      "Maeda",
+      "Okada",
+      "Hasegawa",
+      "Murakami",
+      "Ishikawa"
+    ]
+  },
+  "Santos": {
+    "replacements": [
+      "Silva",
+      "Costa",
+      "Ferreira",
+      "Alves",
+      "Pereira",
+      "Lima",
+      "Gomes",
+      "Ribeiro",
+      "Carvalho",
+      "Rocha",
+      "Martins",
+      "Sousa",
+      "Dias",
+      "Fernandes",
+      "Oliveira"
+    ]
+  },
+  "Ruiz": {
+    "replacements": [
+      "Lopez",
+      "Garcia",
+      "Martinez",
+      "Hernandez",
+      "Gonzalez",
+      "Perez",
+      "Rodriguez",
+      "Sanchez",
+      "Fernandez",
+      "Gomez",
+      "Jimenez",
+      "Alvarez",
+      "Romero",
+      "Navarro",
+      "Castillo"
+    ]
+  },
+  "Lila": {
+    "replacements": [
+      "Bella",
+      "Ella",
+      "Stella",
+      "Della",
+      "Nola",
+      "Isla",
+      "Mila",
+      "Willa",
+      "Luna",
+      "Nora",
+      "Vera",
+      "Cora",
+      "Thea",
+      "Greta",
+      "Gudrun"
+    ]
+  },
+  "Holt": {
+    "replacements": [
+      "Bolt",
+      "Colt",
+      "Jolt",
+      "Volt",
+      "Frost",
+      "Moss",
+      "Ross",
+      "Cross",
+      "Blake",
+      "Chase",
+      "Drake",
+      "Grant",
+      "Hunt",
+      "Reed",
+      "Stone"
+    ]
+  },
+  "Tessa": {
+    "replacements": [
+      "Becca",
+      "Jenna",
+      "Lena",
+      "Gemma",
+      "Megan",
+      "Brianna",
+      "Leah",
+      "Kendra",
+      "Jessa",
+      "Renna",
+      "Willa",
+      "Sienna",
+      "Kenna",
+      "Dessa",
+      "Reyna"
+    ]
+  },
+  "Lirien": {
+    "replacements": [
+      "Mirelle",
+      "Seraphine",
+      "Brigitta",
+      "Clarion",
+      "Evanthe",
+      "Alesara",
+      "Grainne",
+      "Melisande",
+      "Thessaly",
+      "Verity",
+      "Solene",
+      "Auriane",
+      "Elspeth",
+      "Viveka",
+      "Jessamine"
+    ]
+  },
+  "Toren": {
+    "replacements": [
+      "Garren",
+      "Broderic",
+      "Aldren",
+      "Cassian",
+      "Branwen",
+      "Kellan",
+      "Varden",
+      "Osmund",
+      "Merrick",
+      "Ermanno",
+      "Cedren",
+      "Fenwick",
+      "Greyson",
+      "Aldwin",
+      "Warrick"
+    ]
+  },
+  "Kaelden": {
+    "replacements": [
+      "Braden",
+      "Caden",
+      "Hayden",
+      "Caedmon",
+      "Jayden",
+      "Camden",
+      "Holden",
+      "Colden",
+      "Warden",
+      "Arden",
+      "Belden",
+      "Elden",
+      "Grayden",
+      "Ryden",
+      "Tyden"
+    ]
+  },
+  "Thordrin": {
+    "replacements": [
+      "Thorvald",
+      "Torvald",
+      "Tormund",
+      "Torsten",
+      "Thorsten",
+      "Baldric",
+      "Gunther",
+      "Guttorm",
+      "Sigurd",
+      "Gunnar",
+      "Ulfric",
+      "Einar",
+      "Hakon",
+      "Jorund",
+      "Vidar"
+    ]
+  },
+  "Thorgrim": {
+    "replacements": [
+      "Thorald",
+      "Thorstein",
+      "Grimwald",
+      "Grimnar",
+      "Balder",
+      "Bardric",
+      "Ingvar",
+      "Rurik",
+      "Hjalmar",
+      "Egil",
+      "Torkel",
+      "Sweyn",
+      "Hrolf",
+      "Arnulf",
+      "Rorik"
+    ]
+  },
+  "Bronzebeard": {
+    "replacements": [
+      "Copperforge",
+      "Orehand",
+      "Anvilheart",
+      "Hammerfist",
+      "Gemcutter",
+      "Stonecarver",
+      "Rockbreaker",
+      "Coalfury",
+      "Tinwright",
+      "Brasshammer",
+      "Leadstone",
+      "Pewteraxe",
+      "Silverdelve",
+      "Goldvein",
+      "Steelshaper"
+    ]
+  },
+  "Alaric": {
+    "replacements": [
+      "Theodoric",
+      "Emeric",
+      "Roderic",
+      "Baldric",
+      "Gunther",
+      "Wulfgar",
+      "Sigmund",
+      "Osric",
+      "Hedric",
+      "Leoric",
+      "Beric",
+      "Garric",
+      "Kendric",
+      "Merric",
+      "Fredric"
+    ]
+  },
+  "Caelan": {
+    "replacements": [
+      "Callum",
+      "Seamus",
+      "Rory",
+      "Brendan",
+      "Conor",
+      "Dermot",
+      "Colm",
+      "Liam",
+      "Tadhg",
+      "Donal",
+      "Cathal",
+      "Shane",
+      "Aidan",
+      "Ferris",
+      "Cillian"
+    ]
+  },
+  "Caelum": {
+    "replacements": [
+      "Viggo",
+      "Altair",
+      "Rigel",
+      "Tullus",
+      "Pollux",
+      "Hadrian",
+      "Titus",
+      "Varro",
+      "Cato",
+      "Lucan",
+      "Aurel",
+      "Silvius",
+      "Regulus",
+      "Sorin",
+      "Lazarus"
+    ]
+  },
+  "Caspian": {
+    "replacements": [
+      "Florian",
+      "Lucien",
+      "Bastian",
+      "Cyprian",
+      "Damien",
+      "Petros",
+      "Aldhelm",
+      "Cynewulf",
+      "Gualtiero",
+      "Raphael",
+      "Dashiell",
+      "Emeric",
+      "Viggo",
+      "Conrad",
+      "Remington"
+    ]
+  },
+  "Cassius": {
+    "replacements": [
+      "Titus",
+      "Brutus",
+      "Varro",
+      "Cato",
+      "Regulus",
+      "Corvinus",
+      "Varro",
+      "Gallus",
+      "Nerva",
+      "Aulus",
+      "Tullus",
+      "Rufus",
+      "Crispus",
+      "Seneca",
+      "Primus"
+    ]
+  },
+  "Cyrus": {
+    "replacements": [
+      "Darius",
+      "Kaveh",
+      "Rostam",
+      "Bahram",
+      "Farhad",
+      "Navid",
+      "Arash",
+      "Kamran",
+      "Jamshid",
+      "Shahpur",
+      "Hormuz",
+      "Parviz",
+      "Ardalan",
+      "Kasra",
+      "Xerxes"
+    ]
+  },
+  "Eldric": {
+    "replacements": [
+      "Fredric",
+      "Godric",
+      "Osric",
+      "Wulfric",
+      "Kendric",
+      "Hedric",
+      "Rodric",
+      "Leoric",
+      "Beornric",
+      "Merrick",
+      "Derrick",
+      "Warwick",
+      "Fenwick",
+      "Aldwin",
+      "Broderic"
+    ]
+  },
+  "Quinn": {
+    "replacements": [
+      "Finn",
+      "Bryn",
+      "Blair",
+      "Drew",
+      "Reese",
+      "Sloane",
+      "Darcy",
+      "Teagan",
+      "Fallon",
+      "Tierney",
+      "Shea",
+      "Casey",
+      "Kelly",
+      "Rory",
+      "Morgan"
+    ]
+  },
+  "Silas": {
+    "replacements": [
+      "Ambrose",
+      "Clement",
+      "Hugo",
+      "Rufus",
+      "Barnaby",
+      "Clement",
+      "Edgar",
+      "Edmund",
+      "Luther",
+      "Conrad",
+      "Hugo",
+      "Cyril",
+      "Rupert",
+      "Emmett",
+      "Phineas"
+    ]
+  },
+  "Torin": {
+    "replacements": [
+      "Broderic",
+      "Callum",
+      "Kellan",
+      "Osmund",
+      "Halden",
+      "Viggo",
+      "Brogan",
+      "Corbin",
+      "Anders",
+      "Lennox",
+      "Murdoch",
+      "Tavish",
+      "Finley",
+      "Barrett",
+      "Darragh"
+    ]
+  },
+  "Eira": {
+    "replacements": [
+      "Ffion",
+      "Mair",
+      "Olwen",
+      "Eleri",
+      "Bethan",
+      "Rhian",
+      "Dilys",
+      "Enid",
+      "Glynis",
+      "Tegan",
+      "Adara",
+      "Brielle",
+      "Neve",
+      "Arwen",
+      "Sian"
+    ]
+  },
+  "Vespera": {
+    "replacements": [
+      "Adelheid",
+      "Solenne",
+      "Calantha",
+      "Lysandra",
+      "Amaranth",
+      "Thessaly",
+      "Elodie",
+      "Corisande",
+      "Fiora",
+      "Orianna",
+      "Celestine",
+      "Eulalia",
+      "Ondine",
+      "Althea",
+      "Bellamy"
+    ]
+  },
+  " with practiced efficiency": {
+    "replacements": [
+      ""
+    ]
+  },
+  " with deliberate precision": {
+    "replacements": [
+      ""
+    ]
+  },
+  " with practiced ease": {
+    "replacements": [
+      ""
+    ]
+  },
+  "protocol": {
+    "replacements": [
+      "procedure",
+      "method",
+      "process",
+      "system",
+      "routine",
+      "guideline",
+      "standard",
+      "policy",
+      "approach",
+      "practice",
+      "technique",
+      "strategy",
+      "framework",
+      "scheme",
+      "plan"
+    ]
+  },
+  "protocols": {
+    "replacements": [
+      "procedures",
+      "methods",
+      "processes",
+      "systems",
+      "routines",
+      "guidelines",
+      "standards",
+      "policies",
+      "approaches",
+      "practices",
+      "techniques",
+      "strategies",
+      "frameworks",
+      "schemes",
+      "plans"
+    ]
+  },
+  "efficiency": {
+    "replacements": [
+      "speed",
+      "effectiveness",
+      "skill",
+      "proficiency",
+      "competence",
+      "capability",
+      "productivity",
+      "performance",
+      "expertise",
+      "aptitude",
+      "ability",
+      "mastery",
+      "prowess",
+      "capacity",
+      "facility"
+    ]
+  },
+  "practiced": {
+    "replacements": [
+      "skilled",
+      "experienced",
+      "trained",
+      "adept",
+      "proficient",
+      "versed",
+      "seasoned",
+      "expert",
+      "accomplished",
+      "capable",
+      "competent",
+      "deft",
+      "masterful",
+      "qualified",
+      "veteran"
+    ]
+  },
+  "precision": {
+    "replacements": [
+      "accuracy",
+      "exactness",
+      "care",
+      "attention",
+      "sharpness",
+      "finesse",
+      "control",
+      "detail",
+      "meticulousness",
+      "exactitude",
+      "correctness",
+      "rigor",
+      "thoroughness",
+      "delicacy",
+      "refinement"
+    ]
+  },
+  "ease": {
+    "replacements": [
+      "grace",
+      "fluidity",
+      "smoothness",
+      "comfort",
+      "confidence",
+      "assurance",
+      "skill",
+      "naturalness",
+      "facility",
+      "dexterity",
+      "poise",
+      "elegance",
+      "simplicity",
+      "effortlessness",
+      "readiness"
+    ]
+  },
+  "ozone": {
+    "replacements": [
+      "electricity",
+      "petrichor",
+      "rain",
+      "lightning",
+      "metal",
+      "bleach",
+      "static",
+      "copper",
+      "antiseptic",
+      "chemicals",
+      "burnt air",
+      "ionized air",
+      "sterility",
+      "chlorine",
+      "heated metal"
+    ]
+  },
+  "Seraphina": {
+    "replacements": [
+      "Katarina",
+      "Elisabet",
+      "Malgorzata",
+      "Dorothea",
+      "Mathilde",
+      "Gisela",
+      "Brigitte",
+      "Hannelore",
+      "Wilhelmina",
+      "Konstanze",
+      "Friederike",
+      "Ingeborg",
+      "Mechthild",
+      "Hildegard",
+      "Anneliese"
+    ]
+  },
+  "Asher": {
+    "replacements": [
+      "Oswin",
+      "Aldhelm",
+      "Cedmon",
+      "Wynstan",
+      "Beornric",
+      "Godric",
+      "Leofwin",
+      "Sigeric",
+      "Aethelric",
+      "Eadwulf",
+      "Wulfhelm",
+      "Cenric",
+      "Beorhtwulf",
+      "Elfric",
+      "Heahmund"
+    ]
+  },
+  "Ashara": {
+    "replacements": [
+      "Milena",
+      "Katka",
+      "Yelena",
+      "Dagmar",
+      "Bozena",
+      "Ludmila",
+      "Vaclava",
+      "Radka",
+      "Iveta",
+      "Blanka",
+      "Jaroslava",
+      "Zdena",
+      "Mirka",
+      "Vlasta",
+      "Doubravka"
+    ]
+  },
+  "Selene": {
+    "replacements": [
+      "Brenna",
+      "Alethea",
+      "Branwen",
+      "Honoria",
+      "Ottilie",
+      "Mechtild",
+      "Giselle",
+      "Bertrada",
+      "Kunigunde",
+      "Ermengard",
+      "Hedwig",
+      "Walburga",
+      "Adelheid",
+      "Sigrun",
+      "Gudrun"
+    ]
+  },
+  "Isolde": {
+    "replacements": [
+      "Gunnhild",
+      "Asdis",
+      "Helga",
+      "Ragnhild",
+      "Thorunn",
+      "Asa",
+      "Thorunn",
+      "Vigdis",
+      "Brynhild",
+      "Hervor",
+      "Grima",
+      "Hallveig",
+      "Jorunn",
+      "Svanhild",
+      "Thordis"
+    ]
+  },
+  "Ravenna": {
+    "replacements": [
+      "Luciana",
+      "Ginevra",
+      "Ortensia",
+      "Fiammetta",
+      "Teodora",
+      "Benedetta",
+      "Maddalena",
+      "Celestina",
+      "Donatella",
+      "Agnese",
+      "Elisabetta",
+      "Margherita",
+      "Costanza",
+      "Giovanna",
+      "Raffaella"
+    ]
+  },
+  "Aria": {
+    "replacements": [
+      "Petra",
+      "Willa",
+      "Breda",
+      "Marta",
+      "Hilde",
+      "Greta",
+      "Ines",
+      "Lenka",
+      "Sybil",
+      "Hedda",
+      "Ottilia",
+      "Trude",
+      "Beata",
+      "Gerda",
+      "Magda"
+    ]
+  },
+  "Kai": {
+    "replacements": [
+      "Oleg",
+      "Tomas",
+      "Varek",
+      "Gregor",
+      "Ludvik",
+      "Janek",
+      "Borek",
+      "Mirek",
+      "Radek",
+      "Zdenek",
+      "Pavel",
+      "Marek",
+      "Karel",
+      "Vojtech",
+      "Ondrej"
+    ]
+  },
+  "Astra": {
+    "replacements": [
+      "Renata",
+      "Blanka",
+      "Jolanta",
+      "Halina",
+      "Danuta",
+      "Bozena",
+      "Jadwiga",
+      "Krystyna",
+      "Wieslawa",
+      "Genowefa",
+      "Irena",
+      "Stefania",
+      "Stanislawa",
+      "Zofia",
+      "Celina"
+    ]
+  },
+  "Orion": {
+    "replacements": [
+      "Tadeusz",
+      "Zbigniew",
+      "Wojciech",
+      "Bogdan",
+      "Ryszard",
+      "Bronislaw",
+      "Waclaw",
+      "Kazimierz",
+      "Stanislaw",
+      "Mieczyslaw",
+      "Zygmunt",
+      "Boleslaw",
+      "Czeslaw",
+      "Henryk",
+      "Leszek"
+    ]
+  },
+  "Soren": {
+    "replacements": [
+      "Viggo",
+      "Aksel",
+      "Njord",
+      "Ketil",
+      "Arvid",
+      "Geir",
+      "Trygve",
+      "Hakon",
+      "Erling",
+      "Knut",
+      "Ivar",
+      "Sten",
+      "Nils",
+      "Gunnar",
+      "Bjarke"
+    ]
+  },
+  "Kieran": {
+    "replacements": [
+      "Colm",
+      "Padraig",
+      "Lorcan",
+      "Cathal",
+      "Oisin",
+      "Diarmuid",
+      "Donal",
+      "Ruairi",
+      "Cillian",
+      "Eoghan",
+      "Tadhg",
+      "Donnacha",
+      "Colman",
+      "Daithi",
+      "Ferdia"
+    ]
+  },
+  "Elan": {
+    "replacements": [
+      "Borek",
+      "Milos",
+      "Radim",
+      "Tomas",
+      "Jarek",
+      "Vilem",
+      "Prokop",
+      "Cestmir",
+      "Dobroslav",
+      "Branimir",
+      "Dalibor",
+      "Slavomir",
+      "Ratibor",
+      "Ctibor",
+      "Boleslav"
+    ]
+  },
+  "Thane": {
+    "replacements": [
+      "Osric",
+      "Wulfgar",
+      "Beornred",
+      "Aldhelm",
+      "Cynewulf",
+      "Ealdred",
+      "Hereward",
+      "Leofstan",
+      "Sigberht",
+      "Aethelwine",
+      "Berhtwulf",
+      "Cenhelm",
+      "Deorwine",
+      "Ecgberht",
+      "Forthred"
+    ]
+  },
+  "Elysia": {
+    "replacements": [
+      "Jaroslava",
+      "Miroslava",
+      "Vlastimila",
+      "Dobromila",
+      "Bohumila",
+      "Libussa",
+      "Radoslava",
+      "Svetlana",
+      "Miloslava",
+      "Drahomira",
+      "Blajena",
+      "Premyslava",
+      "Ludmila",
+      "Stanislava",
+      "Zdenka"
+    ]
+  },
+  "Dante": {
+    "replacements": [
+      "Ermanno",
+      "Gualtiero",
+      "Lanfranco",
+      "Baldassare",
+      "Goffredo",
+      "Tancredi",
+      "Rinaldo",
+      "Corrado",
+      "Manfredo",
+      "Bortolo",
+      "Ugo",
+      "Ferruccio",
+      "Pellegrino",
+      "Ambrogio",
+      "Remigio"
+    ]
+  },
+  "Ashford": {
+    "replacements": [
+      "Hartsfield",
+      "Bexley",
+      "Cromwell",
+      "Dunmore",
+      "Enfield",
+      "Gresham",
+      "Hadley",
+      "Kettering",
+      "Langford",
+      "Morpeth",
+      "Prescott",
+      "Rowntree",
+      "Sedgwick",
+      "Tamworth",
+      "Welford"
+    ]
+  },
+  "Blackthorn": {
+    "replacements": [
+      "Brackenridge",
+      "Hazelcroft",
+      "Fernsby",
+      "Larchmont",
+      "Copperfield",
+      "Birchwood",
+      "Hollowell",
+      "Ashcroft",
+      "Whitacre",
+      "Greenleigh",
+      "Thornberry",
+      "Millward",
+      "Hayswood",
+      "Brierley",
+      "Oakham"
+    ]
+  },
+  "Nightshade": {
+    "replacements": [
+      "Fernsby",
+      "Langdale",
+      "Whitmore",
+      "Heathcote",
+      "Pendleton",
+      "Thistlewood",
+      "Bramwell",
+      "Aldworth",
+      "Beckett",
+      "Dunbar",
+      "Entwistle",
+      "Bradshaw",
+      "Holroyd",
+      "Kenward",
+      "Lawford"
+    ]
+  },
+  "Shadowmere": {
+    "replacements": [
+      "Hollowmere",
+      "Stonebridge",
+      "Millhaven",
+      "Clearbrook",
+      "Ashwick",
+      "Bramblewood",
+      "Copperdale",
+      "Dunholme",
+      "Ferndale",
+      "Greenhollow",
+      "Harrowmere",
+      "Ivybridge",
+      "Knightsford",
+      "Langmere",
+      "Moorfield"
+    ]
+  },
+  "Stormwind": {
+    "replacements": [
+      "Halstead",
+      "Cumberton",
+      "Drayford",
+      "Fenwick",
+      "Garforth",
+      "Helmsby",
+      "Kirton",
+      "Loxley",
+      "Norbury",
+      "Penrose",
+      "Rushton",
+      "Stockley",
+      "Tilbury",
+      "Utterby",
+      "Wainscott"
+    ]
+  },
+  "Darkwood": {
+    "replacements": [
+      "Elmsworth",
+      "Birchfield",
+      "Ashgrove",
+      "Holmwood",
+      "Fernwood",
+      "Linwood",
+      "Maplethorpe",
+      "Oakworth",
+      "Pinefold",
+      "Rosewood",
+      "Sherwood",
+      "Tannersley",
+      "Underwood",
+      "Wychwood",
+      "Yardley"
+    ]
+  },
+  "Nightfall": {
+    "replacements": [
+      "Whitfield",
+      "Stanmore",
+      "Redcliffe",
+      "Pemberton",
+      "Montrose",
+      "Lichfield",
+      "Kingsley",
+      "Hargrave",
+      "Gifford",
+      "Fairbank",
+      "Ellsworth",
+      "Duncaster",
+      "Cheswick",
+      "Barrowfield",
+      "Alderton"
+    ]
+  },
+  "Shadowbane": {
+    "replacements": [
+      "Fairweather",
+      "Goldhammer",
+      "Ironside",
+      "Kettlewell",
+      "Longshanks",
+      "Merriweather",
+      "Northcott",
+      "Oakhurst",
+      "Proudfoot",
+      "Ravenswood",
+      "Silverlock",
+      "Turnbull",
+      "Underhill",
+      "Wardlaw",
+      "Yarborough"
+    ]
+  },
+  "Grimshaw": {
+    "replacements": [
+      "Bradshaw",
+      "Crawshaw",
+      "Earnshaw",
+      "Hawkshaw",
+      "Kenshaw",
+      "Longshaw",
+      "Openshaw",
+      "Ramshaw",
+      "Stockshaw",
+      "Bagshaw",
+      "Birkenshaw",
+      "Cockshaw",
+      "Feathershaw",
+      "Hinchshaw",
+      "Kershaw"
+    ]
+  },
+  "Ashwood": {
+    "replacements": [
+      "Linwood",
+      "Elmwood",
+      "Norwood",
+      "Atwood",
+      "Harwood",
+      "Lockwood",
+      "Smallwood",
+      "Wedgwood",
+      "Fleetwood",
+      "Dashwood",
+      "Heywood",
+      "Kenwood",
+      "Ringwood",
+      "Westwood",
+      "Burwood"
+    ]
+  },
+  "Silvermane": {
+    "replacements": [
+      "Copperfield",
+      "Goleli",
+      "Ironmonger",
+      "Leadbeater",
+      "Nettleton",
+      "Quarrington",
+      "Saddleworth",
+      "Thistlethwaite",
+      "Weatherington",
+      "Kettlesworth",
+      "Bramblethwaite",
+      "Featherstonhaugh",
+      "Goodfellow",
+      "Merrifield",
+      "Pendlebury"
+    ]
+  },
+  "Blackstone": {
+    "replacements": [
+      "Greystone",
+      "Limestone",
+      "Sandstone",
+      "Brownstone",
+      "Gladstone",
+      "Keystone",
+      "Milestone",
+      "Cornerstone",
+      "Cobblestone",
+      "Fieldstone",
+      "Goldstone",
+      "Hearthstone",
+      "Millstone",
+      "Pipestone",
+      "Freestone"
+    ]
+  },
+  "Duskwalker": {
+    "replacements": [
+      "Haymaker",
+      "Bridgewater",
+      "Challoner",
+      "Drinkwater",
+      "Fairchild",
+      "Goldsmith",
+      "Holloway",
+      "Kingsmill",
+      "Longbottom",
+      "Merryweather",
+      "Nightingale",
+      "Overstreet",
+      "Quartermain",
+      "Standiford",
+      "Whitbread"
+    ]
+  },
+  "piercing": {
+    "replacements": [
+      "sharp",
+      "keen",
+      "bright",
+      "clear",
+      "steady",
+      "direct",
+      "alert",
+      "intense",
+      "hard",
+      "vivid",
+      "bold",
+      "vivid",
+      "penetrating",
+      "searching",
+      "watchful"
+    ]
+  },
+  "chiseled": {
+    "replacements": [
+      "angular",
+      "strong",
+      "square",
+      "hard",
+      "defined",
+      "blunt",
+      "broad",
+      "heavy",
+      "sharp",
+      "bony",
+      "lined",
+      "weathered",
+      "craggy",
+      "lean",
+      "gaunt"
+    ]
+  },
+  "lithe": {
+    "replacements": [
+      "lean",
+      "wiry",
+      "slim",
+      "slender",
+      "spare",
+      "rangy",
+      "narrow",
+      "slight",
+      "thin",
+      "svelte",
+      "willowy",
+      "lanky",
+      "light",
+      "nimble",
+      "supple"
+    ]
+  },
+  "striking": {
+    "replacements": [
+      "notable",
+      "distinctive",
+      "prominent",
+      "unusual",
+      "memorable",
+      "remarkable",
+      "noticeable",
+      "conspicuous",
+      "vivid",
+      "bold",
+      "commanding",
+      "imposing",
+      "arresting",
+      "singular",
+      "marked"
+    ]
+  },
+  "meticulously": {
+    "replacements": [
+      "carefully",
+      "neatly",
+      "precisely",
+      "cleanly",
+      "tidily",
+      "thoroughly",
+      "fastidiously",
+      "methodically",
+      "painstakingly",
+      "rigorously",
+      "scrupulously",
+      "diligently",
+      "attentively",
+      "conscientiously",
+      "systematically"
+    ]
+  },
+  "an air of": {
+    "replacements": [
+      "a sense of",
+      "a quality of",
+      "a manner suggesting",
+      "the bearing of",
+      "a look of",
+      "a presence suggesting",
+      "a demeanor of",
+      "a posture of",
+      "a way about them suggesting",
+      ""
+    ]
+  },
+  "exudes": {
+    "replacements": [
+      "projects",
+      "radiates",
+      "carries",
+      "conveys",
+      "shows",
+      "displays",
+      "presents",
+      "broadcasts",
+      "maintains",
+      "wears",
+      "demonstrates",
+      "suggests",
+      "communicates",
+      "expresses",
+      "emanates"
+    ]
+  },
+  "commanding presence": {
+    "replacements": [
+      "imposing build",
+      "notable bearing",
+      "confident posture",
+      "authoritative manner",
+      "solid frame",
+      "powerful stance",
+      "strong bearing",
+      "broad stance",
+      "steady composure",
+      ""
+    ]
+  },
+  "weathered features": {
+    "replacements": [
+      "lined face",
+      "rough features",
+      "sun-worn face",
+      "creased brow",
+      "worn complexion",
+      "hard-set face",
+      "craggy features",
+      "age-marked face",
+      "wind-burned skin",
+      "coarse features"
+    ]
+  },
+  "calculating": {
+    "replacements": [
+      "watchful",
+      "appraising",
+      "assessing",
+      "measuring",
+      "evaluating",
+      "studying",
+      "weighing",
+      "considering",
+      "scrutinizing",
+      "examining",
+      "observant",
+      "analytical",
+      "discerning",
+      "perceptive",
+      "shrewd"
+    ]
+  },
+  "enigmatic": {
+    "replacements": [
+      "guarded",
+      "unreadable",
+      "reserved",
+      "quiet",
+      "private",
+      "cryptic",
+      "inscrutable",
+      "veiled",
+      "secretive",
+      "withdrawn",
+      "closed",
+      "masked",
+      "opaque",
+      "evasive",
+      "taciturn"
+    ]
+  },
+  "with practiced efficiency": {
+    "replacements": [
+      "quickly",
+      "smoothly",
+      "cleanly",
+      "deftly",
+      "briskly",
+      "capably",
+      "neatly",
+      "handily",
+      "ably",
+      ""
+    ]
+  },
+  "Fiachra": {
+    "replacements": [
+      "Domhnall",
+      "Cillian",
+      "Ruadhri",
+      "Murchadh",
+      "Tuathal",
+      "Fearghus",
+      "Ailill",
+      "Donal",
+      "Flann",
+      "Conn",
+      "Art",
+      "Gormla",
+      "Tighearnach",
+      "Muiris",
+      "Barra"
+    ]
+  },
+  "Conall": {
+    "replacements": [
+      "Domhnall",
+      "Murchadh",
+      "Flann",
+      "Ailbe",
+      "Bran",
+      "Conn",
+      "Art",
+      "Cian",
+      "Daire",
+      "Fergal",
+      "Niall",
+      "Colm",
+      "Turlough",
+      "Garvan",
+      "Ultan"
+    ]
+  },
+  "Cormac": {
+    "replacements": [
+      "Donagh",
+      "Murrough",
+      "Turlough",
+      "Fergal",
+      "Malachy",
+      "Colman",
+      "Branan",
+      "Darragh",
+      "Donal",
+      "Flann",
+      "Lorcan",
+      "Ultan",
+      "Barra",
+      "Conn",
+      "Niall"
+    ]
+  },
+  "Niamh": {
+    "replacements": [
+      "Grainne",
+      "Orlaith",
+      "Clodagh",
+      "Caoimhe",
+      "Aoibhinn",
+      "Roisin",
+      "Deirdre",
+      "Muireann",
+      "Eithne",
+      "Laoise",
+      "Meadhbh",
+      "Sorcha",
+      "Blathnaid",
+      "Fionnuala",
+      "Nuala"
+    ]
+  },
+  "Aisling": {
+    "replacements": [
+      "Clodagh",
+      "Caoimhe",
+      "Roisin",
+      "Grainne",
+      "Orlaith",
+      "Muireann",
+      "Aoibhinn",
+      "Eithne",
+      "Laoise",
+      "Deirdre",
+      "Sorcha",
+      "Nuala",
+      "Blathnaid",
+      "Fionnuala",
+      "Meadhbh"
+    ]
+  },
+  "Siobhan": {
+    "replacements": [
+      "Mairead",
+      "Caitriona",
+      "Sinead",
+      "Gobnet",
+      "Treasa",
+      "Brid",
+      "Nora",
+      "Eilish",
+      "Attracta",
+      "Gormlaith",
+      "Sadhbh",
+      "Liadan",
+      "Muirne",
+      "Blanaid",
+      "Etain"
+    ]
+  },
+  "Eamon": {
+    "replacements": [
+      "Donal",
+      "Fergal",
+      "Colm",
+      "Turlough",
+      "Malachy",
+      "Darragh",
+      "Niall",
+      "Ultan",
+      "Murrough",
+      "Barra",
+      "Donagh",
+      "Lorcan",
+      "Flann",
+      "Conn",
+      "Branan"
+    ]
+  },
+  "Finnian": {
+    "replacements": [
+      "Colman",
+      "Branan",
+      "Darragh",
+      "Donal",
+      "Fergal",
+      "Lorcan",
+      "Malachy",
+      "Murrough",
+      "Niall",
+      "Turlough",
+      "Ultan",
+      "Barra",
+      "Conn",
+      "Donagh",
+      "Flann"
+    ]
+  },
+  "Declan": {
+    "replacements": [
+      "Malachy",
+      "Darragh",
+      "Donagh",
+      "Murrough",
+      "Fergal",
+      "Colman",
+      "Turlough",
+      "Barra",
+      "Ultan",
+      "Lorcan",
+      "Niall",
+      "Branan",
+      "Donal",
+      "Conn",
+      "Flann"
+    ]
+  },
+  "Ronan": {
+    "replacements": [
+      "Fergal",
+      "Darragh",
+      "Donal",
+      "Malachy",
+      "Colman",
+      "Murrough",
+      "Turlough",
+      "Lorcan",
+      "Barra",
+      "Ultan",
+      "Branan",
+      "Donagh",
+      "Conn",
+      "Niall",
+      "Flann"
+    ]
+  },
+  "Ciaran": {
+    "replacements": [
+      "Colman",
+      "Branan",
+      "Fergal",
+      "Donal",
+      "Darragh",
+      "Malachy",
+      "Lorcan",
+      "Turlough",
+      "Murrough",
+      "Niall",
+      "Ultan",
+      "Barra",
+      "Conn",
+      "Donagh",
+      "Flann"
+    ]
+  },
+  "Aiden": {
+    "replacements": [
+      "Caedmon",
+      "Wulfhere",
+      "Aldhelm",
+      "Beornwulf",
+      "Cynric",
+      "Edric",
+      "Godwin",
+      "Leofric",
+      "Osric",
+      "Sigmund",
+      "Thurstan",
+      "Wigmund",
+      "Berhtwulf",
+      "Ealdwulf",
+      "Forthric"
+    ]
+  },
+  "Brennan": {
+    "replacements": [
+      "Donagh",
+      "Turlough",
+      "Malachy",
+      "Fergal",
+      "Darragh",
+      "Colman",
+      "Donal",
+      "Lorcan",
+      "Murrough",
+      "Barra",
+      "Niall",
+      "Ultan",
+      "Branan",
+      "Conn",
+      "Flann"
+    ]
+  },
+  "Freya": {
+    "replacements": [
+      "Gudrun",
+      "Sigrun",
+      "Ragnhild",
+      "Thorunn",
+      "Asa",
+      "Vigdis",
+      "Hervor",
+      "Jorunn",
+      "Hallveig",
+      "Svanhild",
+      "Alfhild",
+      "Bergljot",
+      "Torborg",
+      "Gunnvor",
+      "Solvei"
+    ]
+  },
+  "Astrid": {
+    "replacements": [
+      "Gudrun",
+      "Ragnhild",
+      "Sigrun",
+      "Asa",
+      "Thorunn",
+      "Vigdis",
+      "Jorunn",
+      "Hervor",
+      "Hallveig",
+      "Svanhild",
+      "Alfhild",
+      "Bergljot",
+      "Gunnvor",
+      "Torborg",
+      "Solvei"
+    ]
+  },
+  "Bjorn": {
+    "replacements": [
+      "Halfdan",
+      "Styrbjorn",
+      "Guttorm",
+      "Eindride",
+      "Ketil",
+      "Orm",
+      "Torkel",
+      "Ulfar",
+      "Arnfinn",
+      "Vemund",
+      "Sigvat",
+      "Brynjolf",
+      "Dagfinn",
+      "Hallstein",
+      "Eystein"
+    ]
+  },
+  "Ragnar": {
+    "replacements": [
+      "Halfdan",
+      "Guttorm",
+      "Styrbjorn",
+      "Eindride",
+      "Orm",
+      "Ketil",
+      "Torkel",
+      "Arnfinn",
+      "Ulfar",
+      "Vemund",
+      "Brynjolf",
+      "Sigvat",
+      "Dagfinn",
+      "Eystein",
+      "Hallstein"
+    ]
+  },
+  "Sigrid": {
+    "replacements": [
+      "Gudrun",
+      "Asa",
+      "Ragnhild",
+      "Thorunn",
+      "Vigdis",
+      "Hervor",
+      "Jorunn",
+      "Hallveig",
+      "Svanhild",
+      "Alfhild",
+      "Bergljot",
+      "Gunnvor",
+      "Torborg",
+      "Solvei",
+      "Brynhild"
+    ]
+  },
+  "Ingrid": {
+    "replacements": [
+      "Gudrun",
+      "Asa",
+      "Thorunn",
+      "Ragnhild",
+      "Vigdis",
+      "Jorunn",
+      "Hervor",
+      "Hallveig",
+      "Svanhild",
+      "Alfhild",
+      "Gunnvor",
+      "Bergljot",
+      "Torborg",
+      "Solvei",
+      "Brynhild"
+    ]
+  },
+  "Corvus": {
+    "replacements": [
+      "Tullus",
+      "Varro",
+      "Gallus",
+      "Nerva",
+      "Aulus",
+      "Rufus",
+      "Crispus",
+      "Seneca",
+      "Primus",
+      "Regulus",
+      "Bassus",
+      "Celsus",
+      "Lentulus",
+      "Messala",
+      "Otho"
+    ]
+  },
+  "Lysander": {
+    "replacements": [
+      "Alexios",
+      "Nikos",
+      "Stavros",
+      "Petros",
+      "Andreas",
+      "Konstantinos",
+      "Georgios",
+      "Dimitrios",
+      "Spyros",
+      "Michail",
+      "Vasilis",
+      "Panagiotis",
+      "Ioannis",
+      "Christos",
+      "Thanasis"
+    ]
+  },
+  "Evander": {
+    "replacements": [
+      "Alexios",
+      "Stavros",
+      "Nikos",
+      "Petros",
+      "Dimitrios",
+      "Andreas",
+      "Georgios",
+      "Konstantinos",
+      "Spyros",
+      "Michail",
+      "Vasilis",
+      "Ioannis",
+      "Christos",
+      "Panagiotis",
+      "Thanasis"
+    ]
+  },
+  "Leander": {
+    "replacements": [
+      "Nikos",
+      "Alexios",
+      "Stavros",
+      "Petros",
+      "Andreas",
+      "Dimitrios",
+      "Konstantinos",
+      "Georgios",
+      "Spyros",
+      "Vasilis",
+      "Michail",
+      "Ioannis",
+      "Panagiotis",
+      "Christos",
+      "Thanasis"
+    ]
+  },
+  "Stellan": {
+    "replacements": [
+      "Viggo",
+      "Aksel",
+      "Njord",
+      "Ketil",
+      "Arvid",
+      "Geir",
+      "Trygve",
+      "Erling",
+      "Knut",
+      "Ivar",
+      "Sten",
+      "Nils",
+      "Bjarke",
+      "Arne",
+      "Torbern"
+    ]
+  },
+  "Rhys": {
+    "replacements": [
+      "Gethin",
+      "Idris",
+      "Owain",
+      "Emrys",
+      "Glyn",
+      "Ifor",
+      "Cadoc",
+      "Dafydd",
+      "Hywel",
+      "Madog",
+      "Rhodri",
+      "Tegid",
+      "Bleddyn",
+      "Einion",
+      "Geraint"
+    ]
+  },
+  "Corwin": {
+    "replacements": [
+      "Aldhelm",
+      "Beornric",
+      "Cynewulf",
+      "Ealdred",
+      "Forthred",
+      "Godwine",
+      "Hereward",
+      "Leofstan",
+      "Osmund",
+      "Sigberht",
+      "Wulfhelm",
+      "Berhtwulf",
+      "Ecgberht",
+      "Cenhelm",
+      "Deorwine"
+    ]
+  },
+  "Garrick": {
+    "replacements": [
+      "Aldhelm",
+      "Beornric",
+      "Cynewulf",
+      "Ealdred",
+      "Godwine",
+      "Hereward",
+      "Leofstan",
+      "Sigberht",
+      "Wulfhelm",
+      "Berhtwulf",
+      "Cenhelm",
+      "Deorwine",
+      "Ecgberht",
+      "Forthred",
+      "Osmund"
+    ]
+  },
+  "Blaze": {
+    "replacements": [
+      "Colm",
+      "Donal",
+      "Fergal",
+      "Barra",
+      "Branan",
+      "Darragh",
+      "Lorcan",
+      "Malachy",
+      "Donagh",
+      "Ultan",
+      "Conn",
+      "Flann",
+      "Murrough",
+      "Niall",
+      "Turlough"
+    ]
+  },
+  "Serenity": {
+    "replacements": [
+      "Milena",
+      "Katka",
+      "Ludmila",
+      "Bozena",
+      "Radka",
+      "Iveta",
+      "Blanka",
+      "Jaroslava",
+      "Zdena",
+      "Mirka",
+      "Vlasta",
+      "Doubravka",
+      "Vaclava",
+      "Dagmar",
+      "Yelena"
+    ]
+  },
+  "Evangeline": {
+    "replacements": [
+      "Katarina",
+      "Elisabet",
+      "Malgorzata",
+      "Dorothea",
+      "Mathilde",
+      "Gisela",
+      "Brigitte",
+      "Hannelore",
+      "Wilhelmina",
+      "Konstanze",
+      "Friederike",
+      "Mechthild",
+      "Hildegard",
+      "Anneliese",
+      "Ingeborg"
+    ]
+  },
+  "Genevieve": {
+    "replacements": [
+      "Kunigunde",
+      "Ermengard",
+      "Bertrada",
+      "Walburga",
+      "Adelheid",
+      "Mechthild",
+      "Gisela",
+      "Friederike",
+      "Hannelore",
+      "Konstanze",
+      "Mathilde",
+      "Dorothea",
+      "Wilhelmina",
+      "Anneliese",
+      "Brigitte"
+    ]
+  },
+  "Anastasia": {
+    "replacements": [
+      "Jaroslava",
+      "Miroslava",
+      "Dobromila",
+      "Libussa",
+      "Radoslava",
+      "Svetlana",
+      "Miloslava",
+      "Drahomira",
+      "Premyslava",
+      "Stanislava",
+      "Zdenka",
+      "Blajena",
+      "Ludmila",
+      "Vlastimila",
+      "Bohumila"
+    ]
+  },
+  "Theodora": {
+    "replacements": [
+      "Kunigunde",
+      "Ermengard",
+      "Adelheid",
+      "Walburga",
+      "Bertrada",
+      "Mechthild",
+      "Gisela",
+      "Friederike",
+      "Hannelore",
+      "Konstanze",
+      "Mathilde",
+      "Wilhelmina",
+      "Dorothea",
+      "Anneliese",
+      "Brigitte"
+    ]
+  },
+  "Aurelia": {
+    "replacements": [
+      "Cornelia",
+      "Octavia",
+      "Portia",
+      "Lavinia",
+      "Calpurnia",
+      "Flavia",
+      "Lucretia",
+      "Marcia",
+      "Livia",
+      "Valeria",
+      "Sabina",
+      "Faustina",
+      "Agrippina",
+      "Drusilla",
+      "Pompeia"
+    ]
+  },
+  "Vivienne": {
+    "replacements": [
+      "Kunigunde",
+      "Ermengard",
+      "Adelheid",
+      "Mechthild",
+      "Walburga",
+      "Bertrada",
+      "Gisela",
+      "Friederike",
+      "Hannelore",
+      "Konstanze",
+      "Mathilde",
+      "Wilhelmina",
+      "Dorothea",
+      "Brigitte",
+      "Anneliese"
+    ]
+  },
+  "Cordelia": {
+    "replacements": [
+      "Branwen",
+      "Anwen",
+      "Cerys",
+      "Seren",
+      "Carys",
+      "Nerys",
+      "Gwen",
+      "Bronwen",
+      "Angharad",
+      "Lowri",
+      "Catrin",
+      "Myfanwy",
+      "Arianwen",
+      "Rhiannon",
+      "Hafren"
+    ]
+  },
+  "Isabeau": {
+    "replacements": [
+      "Kunigunde",
+      "Adelheid",
+      "Ermengard",
+      "Walburga",
+      "Mechthild",
+      "Bertrada",
+      "Gisela",
+      "Friederike",
+      "Mathilde",
+      "Hannelore",
+      "Konstanze",
+      "Dorothea",
+      "Wilhelmina",
+      "Brigitte",
+      "Anneliese"
+    ]
+  },
+  "Calista": {
+    "replacements": [
+      "Cornelia",
+      "Octavia",
+      "Portia",
+      "Lavinia",
+      "Calpurnia",
+      "Flavia",
+      "Sabina",
+      "Marcia",
+      "Livia",
+      "Faustina",
+      "Agrippina",
+      "Valeria",
+      "Drusilla",
+      "Pompeia",
+      "Lucretia"
+    ]
+  },
+  "Dorian": {
+    "replacements": [
+      "Ermanno",
+      "Gualtiero",
+      "Lanfranco",
+      "Baldassare",
+      "Goffredo",
+      "Tancredi",
+      "Rinaldo",
+      "Corrado",
+      "Manfredo",
+      "Bortolo",
+      "Ugo",
+      "Ferruccio",
+      "Pellegrino",
+      "Ambrogio",
+      "Remigio"
+    ]
+  },
+  "Lucian": {
+    "replacements": [
+      "Ermanno",
+      "Lanfranco",
+      "Gualtiero",
+      "Baldassare",
+      "Goffredo",
+      "Rinaldo",
+      "Tancredi",
+      "Corrado",
+      "Manfredo",
+      "Ugo",
+      "Bortolo",
+      "Ferruccio",
+      "Ambrogio",
+      "Pellegrino",
+      "Remigio"
+    ]
+  },
+  "Ezra": {
+    "replacements": [
+      "Barnabas",
+      "Clement",
+      "Hugo",
+      "Conrad",
+      "Cyril",
+      "Rupert",
+      "Emmett",
+      "Luther",
+      "Edgar",
+      "Edmund",
+      "Phineas",
+      "Ambrose",
+      "Rufus",
+      "Benedict",
+      "Leopold"
+    ]
+  },
+  "Felix": {
+    "replacements": [
+      "Barnabas",
+      "Clement",
+      "Hugo",
+      "Conrad",
+      "Cyril",
+      "Rupert",
+      "Emmett",
+      "Luther",
+      "Edgar",
+      "Edmund",
+      "Phineas",
+      "Ambrose",
+      "Rufus",
+      "Benedict",
+      "Leopold"
+    ]
+  },
+  "Jasper": {
+    "replacements": [
+      "Barnabas",
+      "Hugo",
+      "Conrad",
+      "Clement",
+      "Cyril",
+      "Rupert",
+      "Luther",
+      "Edgar",
+      "Emmett",
+      "Edmund",
+      "Ambrose",
+      "Rufus",
+      "Phineas",
+      "Benedict",
+      "Leopold"
+    ]
+  },
+  "Percival": {
+    "replacements": [
+      "Aldhelm",
+      "Beornric",
+      "Cynewulf",
+      "Ealdred",
+      "Godwine",
+      "Hereward",
+      "Leofstan",
+      "Sigberht",
+      "Wulfhelm",
+      "Cenhelm",
+      "Deorwine",
+      "Ecgberht",
+      "Forthred",
+      "Berhtwulf",
+      "Osmund"
+    ]
+  },
+  "Roland": {
+    "replacements": [
+      "Aldhelm",
+      "Cynewulf",
+      "Ealdred",
+      "Godwine",
+      "Hereward",
+      "Leofstan",
+      "Beornric",
+      "Sigberht",
+      "Wulfhelm",
+      "Cenhelm",
+      "Berhtwulf",
+      "Deorwine",
+      "Ecgberht",
+      "Forthred",
+      "Osmund"
+    ]
+  },
+  "Tristan": {
+    "replacements": [
+      "Ermanno",
+      "Gualtiero",
+      "Lanfranco",
+      "Baldassare",
+      "Goffredo",
+      "Rinaldo",
+      "Tancredi",
+      "Corrado",
+      "Manfredo",
+      "Ugo",
+      "Bortolo",
+      "Ferruccio",
+      "Ambrogio",
+      "Pellegrino",
+      "Remigio"
+    ]
+  },
+  "Gideon": {
+    "replacements": [
+      "Barnabas",
+      "Clement",
+      "Hugo",
+      "Conrad",
+      "Cyril",
+      "Luther",
+      "Rupert",
+      "Edgar",
+      "Emmett",
+      "Edmund",
+      "Phineas",
+      "Ambrose",
+      "Rufus",
+      "Benedict",
+      "Leopold"
+    ]
+  },
+  "Atticus": {
+    "replacements": [
+      "Tullus",
+      "Varro",
+      "Gallus",
+      "Nerva",
+      "Aulus",
+      "Rufus",
+      "Crispus",
+      "Seneca",
+      "Primus",
+      "Regulus",
+      "Bassus",
+      "Celsus",
+      "Lentulus",
+      "Messala",
+      "Otho"
+    ]
+  },
+  "Stormborn": {
+    "replacements": [
+      "Halstead",
+      "Cumberton",
+      "Drayford",
+      "Fenwick",
+      "Garforth",
+      "Helmsby",
+      "Kirton",
+      "Loxley",
+      "Norbury",
+      "Penrose",
+      "Rushton",
+      "Stockley",
+      "Tilbury",
+      "Utterby",
+      "Wainscott"
+    ]
+  },
+  "Bloodmoon": {
+    "replacements": [
+      "Hollowmere",
+      "Stonebridge",
+      "Millhaven",
+      "Clearbrook",
+      "Ashwick",
+      "Bramblewood",
+      "Copperdale",
+      "Dunholme",
+      "Ferndale",
+      "Greenhollow",
+      "Harrowmere",
+      "Ivybridge",
+      "Knightsford",
+      "Langmere",
+      "Moorfield"
+    ]
+  },
+  "Darkfire": {
+    "replacements": [
+      "Brackenridge",
+      "Hazelcroft",
+      "Fernsby",
+      "Larchmont",
+      "Copperfield",
+      "Hollowell",
+      "Whitacre",
+      "Greenleigh",
+      "Millward",
+      "Hayswood",
+      "Brierley",
+      "Oakham",
+      "Langdale",
+      "Pendleton",
+      "Aldworth"
+    ]
+  },
+  "Hellblade": {
+    "replacements": [
+      "Fairweather",
+      "Goldhammer",
+      "Kettlewell",
+      "Longshanks",
+      "Merriweather",
+      "Northcott",
+      "Oakhurst",
+      "Proudfoot",
+      "Ravenswood",
+      "Silverlock",
+      "Turnbull",
+      "Underhill",
+      "Wardlaw",
+      "Yarborough",
+      "Standiford"
+    ]
+  },
+  "Soulreaver": {
+    "replacements": [
+      "Haymaker",
+      "Bridgewater",
+      "Challoner",
+      "Drinkwater",
+      "Fairchild",
+      "Goldsmith",
+      "Holloway",
+      "Kingsmill",
+      "Longbottom",
+      "Merryweather",
+      "Nightingale",
+      "Overstreet",
+      "Quartermain",
+      "Whitbread",
+      "Standiford"
+    ]
+  },
+  "Dawnbreaker": {
+    "replacements": [
+      "Hartsfield",
+      "Bexley",
+      "Cromwell",
+      "Dunmore",
+      "Enfield",
+      "Gresham",
+      "Hadley",
+      "Kettering",
+      "Langford",
+      "Morpeth",
+      "Prescott",
+      "Rowntree",
+      "Sedgwick",
+      "Tamworth",
+      "Welford"
+    ]
+  },
+  "Nightwalker": {
+    "replacements": [
+      "Haymaker",
+      "Challoner",
+      "Drinkwater",
+      "Fairchild",
+      "Goldsmith",
+      "Holloway",
+      "Kingsmill",
+      "Longbottom",
+      "Nightingale",
+      "Overstreet",
+      "Quartermain",
+      "Bridgewater",
+      "Whitbread",
+      "Standiford",
+      "Merryweather"
+    ]
+  },
+  "Shadowstrike": {
+    "replacements": [
+      "Brackenridge",
+      "Hazelcroft",
+      "Larchmont",
+      "Copperfield",
+      "Hollowell",
+      "Whitacre",
+      "Greenleigh",
+      "Millward",
+      "Hayswood",
+      "Oakham",
+      "Fernsby",
+      "Brierley",
+      "Langdale",
+      "Aldworth",
+      "Pendleton"
+    ]
+  },
+  "Ironwolf": {
+    "replacements": [
+      "Copperforge",
+      "Orehand",
+      "Anvilheart",
+      "Hammerfist",
+      "Gemcutter",
+      "Stonecarver",
+      "Rockbreaker",
+      "Coalfury",
+      "Tinwright",
+      "Brasshammer",
+      "Leadstone",
+      "Pewteraxe",
+      "Silverdelve",
+      "Goldvein",
+      "Steelshaper"
+    ]
+  },
+  "Starcrest": {
+    "replacements": [
+      "Hartsfield",
+      "Bexley",
+      "Cromwell",
+      "Dunmore",
+      "Gresham",
+      "Hadley",
+      "Kettering",
+      "Morpeth",
+      "Prescott",
+      "Rowntree",
+      "Sedgwick",
+      "Tamworth",
+      "Welford",
+      "Enfield",
+      "Langford"
+    ]
+  },
+  "Miroslav": {
+    "replacements": [
+      "Branislav",
+      "Dragomir",
+      "Stanislav",
+      "Tomislav",
+      "Vlastimil",
+      "Jaroslav",
+      "Zbigniew",
+      "Przemyslaw",
+      "Svatopluk",
+      "Boleslav",
+      "Radomir",
+      "Vojtech",
+      "Lech",
+      "Mieszko",
+      "Dobroslav"
+    ]
+  },
+  "Vladislav": {
+    "replacements": [
+      "Bronislav",
+      "Kazimierz",
+      "Ratimir",
+      "Svetozar",
+      "Borislav",
+      "Velimir",
+      "Zdislav",
+      "Predrag",
+      "Miloslav",
+      "Dobromil",
+      "Cestmir",
+      "Slavomir",
+      "Vitomir",
+      "Bogumil",
+      "Radoslav"
+    ]
+  },
+  "Kazimir": {
+    "replacements": [
+      "Bohuslav",
+      "Dalibor",
+      "Jaromir",
+      "Milivoj",
+      "Radovan",
+      "Slavoljub",
+      "Tihomir",
+      "Velibor",
+      "Zivojin",
+      "Bratislav",
+      "Czeslav",
+      "Gostislav",
+      "Lubomir",
+      "Mstsislav",
+      "Premysl"
+    ]
+  },
+  "Dragan": {
+    "replacements": [
+      "Goran",
+      "Zoran",
+      "Stojan",
+      "Dejan",
+      "Srdjan",
+      "Bojan",
+      "Dusan",
+      "Stevan",
+      "Nenad",
+      "Sinisa",
+      "Slobodan",
+      "Mladen",
+      "Darko",
+      "Branko",
+      "Zdravko"
+    ]
+  },
+  "Dmitri": {
+    "replacements": [
+      "Bogdan",
+      "Yaroslav",
+      "Sviatoslav",
+      "Mstislav",
+      "Vsevolod",
+      "Rostislav",
+      "Vyacheslav",
+      "Stanimir",
+      "Dobromir",
+      "Zhivko",
+      "Lyubomir",
+      "Desislav",
+      "Krasimir",
+      "Yaromir",
+      "Plamen"
+    ]
+  },
+  "Nikolai": {
+    "replacements": [
+      "Alexei",
+      "Vassili",
+      "Grigori",
+      "Anatoli",
+      "Maksim",
+      "Pyotr",
+      "Fyodor",
+      "Timofei",
+      "Yegor",
+      "Saveli",
+      "Zakhar",
+      "Taras",
+      "Nestor",
+      "Prokhor",
+      "Demyan"
+    ]
+  },
+  "Viktor": {
+    "replacements": [
+      "Oldrich",
+      "Vojislav",
+      "Milorad",
+      "Dragoljub",
+      "Ctirad",
+      "Waclaw",
+      "Tadeusz",
+      "Witold",
+      "Janusz",
+      "Zygmunt",
+      "Wojciech",
+      "Boguslaw",
+      "Czeslaw",
+      "Mieczyslaw",
+      "Kazimierz"
+    ]
+  },
+  "Boris": {
+    "replacements": [
+      "Vasil",
+      "Krum",
+      "Asparuh",
+      "Tervel",
+      "Simeon",
+      "Todor",
+      "Hristo",
+      "Petar",
+      "Georgi",
+      "Dimitar",
+      "Ognyan",
+      "Chavdar",
+      "Lyudmil",
+      "Bozhidar",
+      "Zdravko"
+    ]
+  },
+  "Ivan": {
+    "replacements": [
+      "Luka",
+      "Matej",
+      "Janko",
+      "Pavol",
+      "Ondrej",
+      "Dusan",
+      "Marek",
+      "Tibor",
+      "Viliam",
+      "Ladislav",
+      "Rastislav",
+      "Ctibor",
+      "Mojmir",
+      "Svatopluk",
+      "Juraj"
+    ]
+  },
+  "Yuri": {
+    "replacements": [
+      "Oleg",
+      "Igor",
+      "Vadim",
+      "Gleb",
+      "Kirill",
+      "Semyon",
+      "Artyom",
+      "Rodion",
+      "Matvei",
+      "Ruslan",
+      "Bogdan",
+      "Mirko",
+      "Vuk",
+      "Lazar",
+      "Ratko"
+    ]
+  },
+  "Vesna": {
+    "replacements": [
+      "Danica",
+      "Jasmina",
+      "Ljubica",
+      "Mirjana",
+      "Snezana",
+      "Dragana",
+      "Gordana",
+      "Biljana",
+      "Radmila",
+      "Slavica",
+      "Zorana",
+      "Milica",
+      "Dusica",
+      "Tijana",
+      "Branka"
+    ]
+  },
+  "Milena": {
+    "replacements": [
+      "Bozena",
+      "Dagmara",
+      "Halina",
+      "Jadwiga",
+      "Krystyna",
+      "Malgorzata",
+      "Stanislava",
+      "Wanda",
+      "Zdenka",
+      "Anezka",
+      "Blanka",
+      "Jirina",
+      "Kveta",
+      "Ludmila",
+      "Ruzena"
+    ]
+  },
+  "Zora": {
+    "replacements": [
+      "Mila",
+      "Iskra",
+      "Nevena",
+      "Yana",
+      "Desislava",
+      "Kalina",
+      "Tsvetana",
+      "Blagorodna",
+      "Radostina",
+      "Zdravka",
+      "Rumyana",
+      "Violeta",
+      "Yordanka",
+      "Kostadinka",
+      "Gergana"
+    ]
+  },
+  "Katarina": {
+    "replacements": [
+      "Aleksandra",
+      "Bozena",
+      "Cvijeta",
+      "Dubravka",
+      "Ivanka",
+      "Jelena",
+      "Karolina",
+      "Ljuba",
+      "Nada",
+      "Olga",
+      "Petra",
+      "Ruza",
+      "Sanja",
+      "Tatjana",
+      "Vera"
+    ]
+  },
+  "Svetlana": {
+    "replacements": [
+      "Lyudmila",
+      "Nadezhda",
+      "Yaroslava",
+      "Vasilisa",
+      "Raisa",
+      "Galina",
+      "Zinaida",
+      "Pelageya",
+      "Anfisa",
+      "Klavdiya",
+      "Praskovya",
+      "Serafima",
+      "Darya",
+      "Yevdokiya",
+      "Feodora"
+    ]
+  },
+  "Natasha": {
+    "replacements": [
+      "Oksana",
+      "Larisa",
+      "Tamara",
+      "Irina",
+      "Vera",
+      "Polina",
+      "Kseniya",
+      "Zhanna",
+      "Yelena",
+      "Mariya",
+      "Lyubov",
+      "Valentina",
+      "Nataliya",
+      "Tatyana",
+      "Lidiya"
+    ]
+  },
+  "Sonya": {
+    "replacements": [
+      "Marta",
+      "Hanna",
+      "Yulia",
+      "Alina",
+      "Olesya",
+      "Svitlana",
+      "Vira",
+      "Bohdana",
+      "Zoryana",
+      "Lesya",
+      "Iryna",
+      "Halyna",
+      "Larysa",
+      "Ruslana",
+      "Kalyna"
+    ]
+  },
+  "Thanh": {
+    "replacements": [
+      "Quang",
+      "Duc",
+      "Tuan",
+      "Vinh",
+      "Khanh",
+      "Bao",
+      "Hieu",
+      "Phong",
+      "Trung",
+      "Cuong",
+      "Dung",
+      "Hung",
+      "Nhan",
+      "Thien",
+      "Huy"
+    ]
+  },
+  "Linh": {
+    "replacements": [
+      "Hanh",
+      "Ngoc",
+      "Thuy",
+      "Huong",
+      "Phuong",
+      "Mai",
+      "Lan",
+      "Trang",
+      "Yen",
+      "Diem",
+      "Kieu",
+      "Tuyet",
+      "Nhung",
+      "Quynh",
+      "Tam"
+    ]
+  },
+  "Minh": {
+    "replacements": [
+      "Hien",
+      "Loc",
+      "Tai",
+      "Binh",
+      "An",
+      "Dat",
+      "Lam",
+      "Nam",
+      "Son",
+      "Tien",
+      "Viet",
+      "Dinh",
+      "Hao",
+      "Quoc",
+      "Thinh"
+    ]
+  },
+  "Bayani": {
+    "replacements": [
+      "Dakila",
+      "Magiting",
+      "Makisig",
+      "Datu",
+      "Kidlat",
+      "Amihan",
+      "Tala",
+      "Lakandula",
+      "Kalayaan",
+      "Mayumi",
+      "Hiraya",
+      "Alon",
+      "Luningning",
+      "Bituin",
+      "Habagat"
+    ]
+  },
+  "Dalisay": {
+    "replacements": [
+      "Malaya",
+      "Ligaya",
+      "Bituin",
+      "Sampaguita",
+      "Amihan",
+      "Mayumi",
+      "Hiraya",
+      "Tala",
+      "Luningning",
+      "Diwa",
+      "Mutya",
+      "Lakambini",
+      "Paraluman",
+      "Sinag",
+      "Haliya"
+    ]
+  },
+  "Somchai": {
+    "replacements": [
+      "Arthit",
+      "Boonmee",
+      "Chatri",
+      "Kittisak",
+      "Narongrit",
+      "Prasert",
+      "Sakchai",
+      "Thawin",
+      "Wichai",
+      "Anupong",
+      "Chalerm",
+      "Kraisorn",
+      "Nattapong",
+      "Supachai",
+      "Worawut"
+    ]
+  },
+  "Sakda": {
+    "replacements": [
+      "Kamol",
+      "Montri",
+      "Panya",
+      "Rungroj",
+      "Surasak",
+      "Thawatchai",
+      "Udom",
+      "Wattana",
+      "Yothin",
+      "Anurak",
+      "Boonsri",
+      "Chaiwat",
+      "Detnarong",
+      "Ekkachai",
+      "Jakrapong"
+    ]
+  },
+  "Wayan": {
+    "replacements": [
+      "Ketut",
+      "Nyoman",
+      "Putu",
+      "Kadek",
+      "Komang",
+      "Agung",
+      "Bagus",
+      "Dewa",
+      "Gede",
+      "Surya",
+      "Dharma",
+      "Arya",
+      "Jaya",
+      "Tirta",
+      "Wisnu"
+    ]
+  },
+  "Dewi": {
+    "replacements": [
+      "Sari",
+      "Putri",
+      "Ratna",
+      "Lestari",
+      "Wulan",
+      "Bulan",
+      "Melati",
+      "Citra",
+      "Intan",
+      "Permata",
+      "Ayu",
+      "Cahya",
+      "Kemala",
+      "Padma",
+      "Ratu"
+    ]
+  },
+  "Sokha": {
+    "replacements": [
+      "Channa",
+      "Dara",
+      "Kosal",
+      "Narith",
+      "Phirun",
+      "Rithya",
+      "Sambath",
+      "Vannak",
+      "Vireak",
+      "Bora",
+      "Kunthea",
+      "Mony",
+      "Pheakdey",
+      "Sovann",
+      "Thida"
+    ]
+  }
+}

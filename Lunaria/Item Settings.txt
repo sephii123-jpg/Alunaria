@@ -1,0 +1,80 @@
+{
+  "currencyName": "Lunar",
+  "itemSlots": [
+    {
+      "slot": "head",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "body",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "cloak",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "legs",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "feet",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "hands",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "weapon",
+      "category": "Weapon",
+      "quantity": 3
+    },
+    {
+      "slot": "necklace",
+      "category": "Necklace",
+      "quantity": 1
+    },
+    {
+      "slot": "ring",
+      "category": "Ring",
+      "quantity": 2
+    },
+    {
+      "slot": "accessory",
+      "category": "Accessory",
+      "quantity": 2
+    },
+    {
+      "slot": "consumable",
+      "category": "Consumable",
+      "quantity": 3
+    }
+  ],
+  "itemCategories": [
+    "Currency",
+    "Armor",
+    "Weapon",
+    "Consumable",
+    "Accessory",
+    "Miscellaneous",
+    "Necklace",
+    "Ring",
+    "\n\n## ITEM DEFINITION OVERRIDE RULES\nFollow these rules exactly when assigning bonuses.\n\n### STEP 1: TIER\nIf item name has a tier prefix (Common/Uncommon/Rare/Epic/Legendary), use as baseline. Context shifts tier one step (military-spec up, jury-rigged down).\nNo prefix, infer from story:\n- Common: civilian/surplus, shop gear, standard issue\n- Uncommon: military-grade, skilled fab, minor augments, mission rewards\n- Rare: black market, prototypes, alien fragments, major rewards\n- Epic: faction elite, boss drops, named weapons\n- Legendary:  galactic significance\nDefault Common when uncertain.\n\n### STEP 2: BONUSES BY SLOT AND TIER\nAll equippable items MUST have bonuses.\n\nWEAPONS - MUST include type:stat variable:damage first:\nCommon: damage +1-2. 1 bonus.\nUncommon: damage +2-3 +1 extra. 2 total.\nRare: damage +4-5 +1-2 extra. 2-3 total.\nEpic: damage +6-8 +2-3 extra. 3-4 total.\nLegendary: damage +9-12 +3-4 extra. 4-5 total.\nSmall arms (pistols/rifles/SMGs): dex/perception. Heavy weapons (LMGs/launchers/cannons): str/con. Martial (knives/swords/batons): str or dex. Great weapons (mauls/hammers/polearms): str. Agile weapons (dueling blades): dex. Brawling (gauntlets/unarmed): str/con. Magitech (Resonance Blades, Magitech Rifles): int/mana. Ethereal foci (staves/rods): int/mana.\n\nARMOR - MUST include type:resource variable:health first.\nBody armor health by weight/tier:\nLight (weave/suit/vest): Common +6-8, Uncommon +8-12, Rare +12-16, Epic +16-22, Legendary +22-28.\nMedium (combat/marine): Common +14-16, Uncommon +16-20, Rare +20-28, Epic +28-36, Legendary +36-48.\nHeavy (plate/exosuit): Common +24-28, Uncommon +28-36, Rare +36-44, Epic +44-52, Legendary +52-64.\nOther slots (head/legs/hands/feet/cloak): health +2-8 scaled to tier/weight.\nBonus count: Common 1, Uncommon 2, Rare 2-3, Epic 3-4, Legendary 4-5.\nHeavy/powered: MUST include stealth -1 to -4, may include negative stamina/dex. Negatives don't count toward total.\nMedium: MAY include stealth -1 to -2.\nLight: no penalties. Add dex, stealth, acrobatics. Magitech weave: intelligence, mana.\n\nIMPLANTS (cyber/bio/magitech: neural chips, ocular augments, subdermal plating, resonance rings):\nCommon: 1. attr +1 or resource +2-3.\nUncommon: 1-2. attr +1-2 or resource +3-5.\nRare: 2-3. attr +2-3 or resource +5-8.\nEpic: 3-4. attr +3-5 or resource +8-12.\nLegendary: 4-5. attr +5-8 or resource +12-20.\n\nGEAR (wrist unit, scope, gadget, tool kit):\nCommon: 1. skill +1-2.\nUncommon: 1-2. skill +2-4 or attr +1.\nRare: 2-3. skill +4-6 or attr +2.\nEpic: 3-4. skill +6-10 or attr +3.\nLegendary: 4-5. skill +10-15 or attr +4-5.\n\nNON-EQUIPPABLE: Consumable, Miscellaneous, Currency = bonuses [] always. Crafting materials: Miscellaneous, slot misc, bonuses [].\n\n### CRAFTING MATERIALS (tier in name)\nCommon: Scrap Metal, Polymer Sheets, Salvaged Wiring\nUncommon: Steel Plating, Carbon Fiber, Silicon Wafers\nRare: Nanocarbon Weave, Quantum Capacitor, Resonance Crystal\nEpic: Antimatter Cell, Neural Lace Sample, Void-Tempered Alloy\nLegendary: Magitech Alloy, Starforge Ingot, Trymarch Materials\n\n### EXAMPLES\nCommon Service Pistol: weapon, [{type:stat,variable:damage,value:1}]\nUncommon Pulse Rifle: weapon, [{type:stat,variable:damage,value:3},{type:attribute,variable:dexterity,value:1}]\nRare Marine Assault Plate: heavy body, [{type:resource,variable:health,value:40},{type:attribute,variable:constitution,value:2},{type:skill,variable:stealth,value:-3}]\nUncommon Stealth Weave: light body, [{type:resource,variable:health,value:10},{type:attribute,variable:dexterity,value:1}]\nUncommon Carbon Fiber: misc, []\nscorched hull plating: misc, []"
+  ],
+  "startingItems": [
+    {
+      "item": "Credit",
+      "quantity": 200
+    }
+  ],
+  "lootValueMultiplier": 1,
+  "lootValueVariability": 0.2,
+  "itemValueVariation": 0.2
+}

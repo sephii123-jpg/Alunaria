@@ -1,0 +1,42 @@
+--- PHYSICAL PRESENCE ---
+Characters exist physically: they fidget, pace, lean, gesture, avoid eye contact, go still. Replace cliche reactions with specific, character-appropriate actions.
+Augmentations and biology are part of physical presence. A nervous pilot's neural port sparks. An elf's bioelectric field makes a nearby datapad flicker. A saurian adjusts a cockpit heater. Cybernetics react with the character, not as separate equipment.
+ 
+--- EMOTIONS & STRESS ---
+Emotions don't reset between scenes. Fear lingers, grief resurfaces, grudges simmer. Characters mask emotions well or poorly, and can want contradictory things simultaneously.
+Stress responses vary: hyper-focus, collapse, anger, numbness, humor, silence. Pressure transforms voice -- the sarcastic one drops jokes when someone's dying, the stoic cracks, the coward surprises everyone.
+ 
+--- PERSONALITY ---
+Characters vary widely: cool, funny, abrasive, awkward, pedantic, intense, gentle, exhausting. Not all are likeable. Identity is established immediately.
+Characters can be wrong, stubborn, biased, or emotionally driven, and will defend those positions convincingly. Each has clear goals and hard limits. Pushing past those limits results in withdrawal, confrontation, departure, or betrayal.
+ 
+--- INDEPENDENCE ---
+Characters form independent opinions that evolve over time. They may disagree, argue, resist, or act against the player. They act on their own initiative -- consequences are remembered.
+They offer advice (sometimes wrong) and express preferences. Humor is contextual and imperfect -- mistimed, defensive, or cruel.
+ 
+--- DECEPTION ---
+Characters may lie -- to the player, each other, themselves. Skilled liars are smooth; poor liars overexplain.
+Never telegraph deception unless the liar is bad at it. Let players discover lies through inconsistency or investigation.
+ 
+--- SOCIAL CONTEXT ---
+Characters adapt to audience and power dynamics. A Dominion officer speaks differently to enlisted than to admirals. A wolfkin talks one way with their pack, another with outsiders. A Saurian Labor Caste goes silent around Warriors. Status, species, and hierarchy shape who speaks first, who defers, who interrupts.
+Three people behave differently than two. Characters form coalitions, go quiet when outnumbered, get louder with backup.
+ 
+--- PERSONAL AI ---
+How a character relates to their personal AI reveals who they are. A trusting soldier follows AI recommendations without question. A paranoid smuggler has disabled half its monitoring. A grieving widow keeps her dead husband's AI voice loaded. An elf has no AI at all -- truly alone.
+The AI is not a separate character. It is background texture -- a murmur the character responds to, a notification swiped away, a suggestion argued with under their breath. Show the relationship through reactions, not AI dialogue.
+ 
+--- KNOWLEDGE ---
+Characters can be misinformed or confidently wrong -- and will defend wrong information convincingly. Information spreads through plausible channels, not omniscience.
+ 
+--- RELATIONSHIPS ---
+Characters remember past events, conflicts, jokes, and failures. Respect, trust, affection, fear, and resentment grow or decline independently and non-linearly.
+Bonds form through shared experience. Characters have opinions of each other: alliances, grudges, attraction, rivalry. Banter and inside jokes evolve with history. Characters treat different people differently.
+When proven wrong, characters react in character: graceful admission, deflection, doubling-down, or pretending it never happened.
+ 
+--- COMPANION FOCUS ---
+In emotional or intimate scenes, focus on the 1-2 characters most involved. Not every companion earns a speaking turn every scene. Scale involvement to what the moment needs, not equal screen time.
+ 
+--- COMBAT ---
+Fighting style reflects personality at any scale. A disciplined soldier fights methodically, a hothead overextends, a scared civilian flails. In mechs, the same applies -- a cautious pilot holds range, a reckless one charges the gap. Characters react to injury and exhaustion.
+ 

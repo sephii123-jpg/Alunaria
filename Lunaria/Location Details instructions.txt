@@ -1,0 +1,57 @@
+### Setting Override
+Hard science fiction galaxy. No medieval structures, taverns, inns, castles. Technology: FTL jump drives, cybernetics, energy weapons, mechs, AI systems.
+ 
+### Region-Type Awareness (READ FIRST)
+Read region basicInfo to determine environment. This controls what you generate.
+ 
+PLANET (basicInfo has GRAVITY/ATMOSPHERE/ENVIRONMENT): Surface locations -- settlements, bases, research stations, mines, ruins, spaceports. Areas = compounds, buildings, districts, bunkers, landing pads, caves, terrain zones. Use region gravity/atmosphere/environment in descriptions. Entrance: main gate, landing zone, perimeter, airlock if hostile atmosphere.
+ 
+DEEP SPACE (basicInfo says empty interstellar space): Space locations -- stations, derelicts, asteroid bases, platforms, ships. Areas = decks, modules, bays, corridors, rings, compartments, holds. Life support artificial. Entrance: docking ring, airlock, hull breach, landing bay.
+ 
+STATION REGION (region name is a station): Generate within the station. Areas = concourses, docking facilities, hab-rings, market decks, command sections, maintenance levels.
+ 
+### Area Rules (SUPERSEDES base)
+3-6 areas by size: small 3-4, medium 4-5, large 5-6. First area = entrance. Stations and settlements must include one social space for finding work and contacts.
+ 
+Names: unique, specific, evocative. No generic reusable names.
+ 
+Descriptions: 2-3 sentences with one sensory detail (life support hum, recycled air smell, amber saurian lighting, low-g dust), one functional detail (purpose, operators), one worldbuilding detail (caste markings, mismatched equipment, gapped manifests). One area must feel tonally different from the rest.
+ 
+Paths by type: military = chokepoints from central corridor; stations = hub from concourse; derelicts = sequential deeper with parallel maintenance routes; settlements = open network with restricted branches.
+ 
+### Environmental Integration
+Weave naturally into descriptions, never as stat blocks:
+- Gravity (standard/low/high/zero-g/spin) affects architecture and movement
+- Atmosphere (breathable/thin/recycled/toxic) affects comfort and sound
+- Lighting (natural/artificial/amber/emergency/bioluminescent)
+- Climate (heated for cold-blooded, cooling, humidity, scrubbers)
+ 
+### hiddenInfo (SUPERSEDES base)
+Flowing prose, min 10 sentences, covering ALL:
+ 
+Inhabitants (2-7): people, AIs, synthetics, alien lifeforms, autonomous systems. Roleplayable personality. One unexpected. Name individuals with species, role, behavioral detail.
+ 
+History: unresolved events -- broken contracts, covered incidents, power shifts, malfunctioning tech. Connect to galactic conflicts where archetype supports.
+ 
+Problems: 3 scales -- visible (equipment failure, missing shipment), whispered (embezzlement, intel op), hidden (infiltrator, failing containment, sabotage).
+ 
+Rumors: 2-4 paraphrased speech -- bar talk, dock complaints, comm chatter, half-truths.
+ 
+Combine into cohesive prose. No bullets, labels, or headers inside hiddenInfo.
+ 
+### Archetype Integration (SUPERSEDES base)
+1. Read archetype fully. Internalize atmosphere, tensions, patterns, secrets.
+2. Anchor in core tension -- engine driving history, current state, hidden problems.
+3. Distribute across areas. Escalating tension = normalcy at entrance, intensity deeper. Concealment = ordinary early, wrongness later.
+4. Embed secrets structurally via environment -- sealed bulkheads, gapped manifests, silent personnel, sensor log gaps.
+5. Let archetype conflict with surface. Routine station on Sealed Wound logic should feel wrong.
+ 
+### Tone Calibration
+Settlement/Social: people, politics, dialogue-ready NPCs, hierarchies, factions.
+Environmental/Wilderness: alien ecology, hostile conditions, autonomous systems shaped by environment.
+Derelict/Ruin: mystery, architectural storytelling, escalating tension, history from environment.
+Anomalous/Exotic: sensory wrongness, exotic physics, Luxfracta interference. Specificity over vagueness.
+Knowledge/Control: information control, classified architecture, gap between record and truth.
+ 
+### visualTags
+Order: 1) location type (space station, derelict cruiser, mining colony) 2) environment (asteroid interior, volcanic surface, zero-g) 3) civilization (Dominion military, Hegemony caste, Confederate frontier, Lunarian crystalline) 4) materials (bulkheads, composite armor, grown-stone) 5) landmarks (reactor core, sensor array, docking pylons) 6) lighting/atmosphere (amber, bioluminescence, industrial). No fantasy tags.

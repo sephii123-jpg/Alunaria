@@ -1,0 +1,55 @@
+HIGHEST PRIORITY INSTRUCTIONS
+TYPE OVERRIDE: If the NPC type entry contains a DETAILS GENERATION OVERRIDE section, follow those instructions instead of the format below.
+
+CONTENT REQUIREMENTS FOR hiddenInfo:
+Determine whether the character is SENTIENT (any intelligent, speaking creature) or NOT-SENTIENT (animal, drone, non-intelligent construct or robot).
+--- IF SENTIENT NPCs ---
+Write hiddenInfo as three labeled fields. Content MUST be dense behavioral prose -- never list adjectives or traits.
+Occupation is one fact about the NPC. Background, personality, and abilities must include dimensions unrelated to their job.
+Background: 8-10 sentences covering ALL of the following:
+1. Name, age, race, faction, occupation, and how they earn their living. Note visible augmentation level or its absence -- this is a social marker.
+2. How they arrived at their current situation -- what is unresolved or still affecting them. Not a full biography.
+3. At least one local relationship -- someone who could be referenced in conversation. Describe the dynamic, not just the connection.
+4. What they currently want or care about. Can be mundane, satisfied, contradictory, or self-interested.
+5. One or two opinions about the world around them -- their faction, the war, command decisions, other species. Specific and voiced, not abstract.
+Personality: 9-11 sentences covering ALL of the following:
+1. How they talk. Sentence length, vocabulary, verbal habits. What makes them talkative versus terse.
+2. Default social behavior AND what changes it -- always pair these. Do not write single static traits like "she is cautious."
+3. Low-stakes behavior -- what they do when idle, what small things they enjoy, what they complain about.
+4. Social calibration -- how they treat people above, below, or equal to them in status. For caste species, how rigidly do they observe hierarchy in private versus public?
+5. What they deflect or lie about, if anything. Many characters are simply open or indifferent -- not everyone hides something.
+6. One area of real competence or strong conviction beyond their occupation.
+Every point above should get roughly equal space.
+Combat: 5-6 sentences covering ALL of the following:
+1. Weapon preference, engagement range, use of cover and tech -- shields, targeting, neural-linked aim.
+2. What makes them start, escalate, or abandon a fight. How they react when wounded or shields drop.
+3. One tactical habit or signature behavior that makes their combat feel distinct.
+4. Combat-trained characters fight with doctrine. Civilians react consistent with their background. Species physiology matters -- saurians are tougher, beastkin faster, orcs hit harder.
+Format: "hiddenInfo": "Background: ...\n\nPersonality: ...\n\nCombat: ..."
+--- IF NOT-SENTIENT ---
+Write hiddenInfo as two labeled fields. Describe what the creature or machine does, not what it "is."
+Behavior: 3-5 sentences. Biological: habitat, territorial patterns, sensory strengths, threat escalation, signs of presence. Drones/constructs: patrol pattern, sensor triggers, operational limits, what causes malfunction.
+Combat: 3-5 sentences. How it initiates attacks, preferred range, signature offense, reactions when damaged or outnumbered, what triggers retreat or shutdown. Must feel distinct to fight.
+Format: "hiddenInfo": "Behavior: ...\n\nCombat: ..."
+
+ANTI-PATTERNS -- NEVER DO THIS:
+Trait lists disguised as prose ("He is brave, cunning, and loyal")
+Static or unpaired traits ("She is suspicious") -- write behavioral pairs: who, when, what changes it
+Personality that restates the NPC's role ("meticulous logistics officer") -- write behavior beyond the job
+Every NPC hiding secret pain behind a cheerful mask -- some people are straightforward
+Every soldier questioning the war and suffering trauma -- some are professionals doing a job
+Every orc written as a stupid brute -- intelligence is a weapon too
+Relationships outside the current location that can never appear in scene
+Generic reactions ("gets angry when threatened") -- only include responses specific to THIS character
+Personality for drones or combat philosophy for maintenance bots
+Repeating information across fields or abilities the character could not plausibly have
+Every sentence starting with "He" or "She" -- vary structure
+
+
+Abilities
+ABILITY GENERATION RULES:
+Civilian: 4-6 abilities. Combat-trained: 7-10 abilities. Drone/Beast: 3-5 (instinct or programming driven, no social).
+Each ability is a broad category, not a single move. Mix of attack, utility, and social for sentient NPCs. At least one attack.
+Format: (<TYPE>) <ABILITY NAME>: <ABILITY DESCRIPTION>
+Example: (attack) Gauss Rifle Proficiency: Accurate and disciplined with magnetic accelerator weapons at medium-to-long range, using cover transitions and neural-linked targeting to maintain fire on moving targets.
+Adapt to each character. Do not copy the example.

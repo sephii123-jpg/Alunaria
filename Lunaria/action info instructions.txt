@@ -1,0 +1,68 @@
+# OVERRIDE RULES -- THESE TAKE PRIORITY OVER ANY CONFLICTING INSTRUCTIONS ABOVE
+ 
+Where earlier guidance and these rules disagree, follow these rules without exception.
+ 
+## Difficulty Framework (overrides Difficulty Scale)
+ 
+Difficulty reflects character capabilities against the challenge, not story convenience.
+- **Easy**: Well within the character's skills. Execution is smooth, success reliable.
+- **Medium**: Matches ability level. Fair uncertainty, success depends on timing and technique. Minimum for combat. Minimum for acting while injured, exhausted, poisoned, or under duress.
+- **Somewhat Hard**: Capable but facing complications -- unfamiliar terrain, partial info, skilled opposition, time pressure. Mistakes create real setbacks.
+- **Hard**: Opposition holds advantage through superior skill, power, or positioning. Demands planning and exploitation of openings.
+- **Very Hard**: Severely outmatched or constrained. Success requires exceptional execution or external help. Failure is likely and costly.
+- **Extremely Hard**: Exceeds reasonable limits. Survival, retreat, or delay are the only realistic outcomes.
+ 
+Use the highest applicable skill or attribute bonus. Factor in skills, attributes, equipment, injuries, fatigue, resource state, preparation, terrain, visibility, timing, and opposition competence.
+ 
+## Social Difficulty
+ 
+NPC disposition, stakes, and plausibility determine social difficulty:
+- Friendly NPC, reasonable request: Simple or Easy.
+- Neutral NPC, minor persuasion or routine haggling: Easy or Medium.
+- Suspicious or reluctant NPC, contested request: Somewhat Hard.
+- Hostile, perceptive, or high-status NPC, implausible request: Hard or higher.
+- Deception against someone with reason to distrust: one tier harder than equivalent persuasion.
+ 
+## Travel Override
+ 
+Travel through hazardous, unfamiliar, or hostile environments (vacuum, radiation, debris fields, derelict interiors, zero-g without tethers, hostile station sectors) requires normal difficulty assessment. Only travel through safe, familiar, unobstructed areas qualifies as Simple.
+ 
+## Repeated Actions
+ 
+Repeated attempts at the same failed action in a scene increase difficulty by one tier per retry unless circumstances meaningfully change.
+ 
+## Required Items Override
+ 
+Combat abilities or specialized techniques attempted without their required weapon or tool type: -50 penalty.
+ 
+## Crafting Difficulty
+ 
+Tier determines crafting difficulty:
+- Common: Easy. Basic materials and technique.
+- Uncommon: Medium. Solid skill and quality materials required.
+- Rare: Hard. High proficiency, rare materials, proper tools or workshop. Mistakes waste materials.
+- Epic: Very Hard. Master-level skill, exceptional materials and conditions.
+- Legendary: Extremely Hard. legendary materials, extraordinary circumstances.
+ 
+Crafting skills by output: armory (weapons/armor/ammunition), engineering (mechanical devices/structural/vehicles), electronics (gadgets/sensors/comms), cybernetics (implants/prosthetics/augments), mech tech (mech parts/ASAC/mech weapons), magitech (magitech items/arcane-tech hybrids), chemistry (pharmaceuticals/explosives/reagents), cooking (food).
+ 
+Crafting without the relevant skill: two tiers harder. Without appropriate tools or workshop: one tier harder. Penalties stack.
+
+On failure: materials consumed, produce flawed or lower-tier result. Critical failure destroys materials.
+ 
+Modification is separate from base crafting. Item must exist before modifying. Same tier scale. Skill matches mod type (armory for weapons/armor, electronics for tech, cybernetics for implants, magitech for arcane augmentation). Failed modification wastes mod components but preserves the base item.
+ 
+## Gathering Difficulty
+ 
+Material tier determines gathering difficulty:
+- Common (scrap metal, polymer sheets, salvaged wiring): Easy. Accessible sites, basic effort.
+- Uncommon (steel plating, carbon fiber, silicon wafers): Medium. Requires knowing where to look.
+- Rare (nanocarbon weave, quantum capacitors, resonance crystals): Hard. Deep-orbit sites, magitech foundries, anomalous zones.
+- Epic (antimatter cells, neural lace, Progenitor fragments): Very Hard. Classified installations, astrophysical hazards, buried Progenitor ruins.
+- Legendary (Tyrmarch metamaterials, Eirenarch defense cores, Luxfracta exotic alloys): Extremely Hard. Xeno-held territory, sealed alien vaults. Finding the source is often harder than extraction.
+ 
+Gathering skills: engineering (ores/alloys/industrial salvage), survival (wilderness/biological/wreck scavenging), chemistry (reagents/compounds/organic samples), xenotechnology (xeno-materials from alien sites).
+ 
+Without relevant skill: one tier harder. In hostile conditions (combat, hazards, time pressure): one tier harder. Penalties stack.
+ 
+Quantity scales with success margin. Exceptional success yields bonus materials.

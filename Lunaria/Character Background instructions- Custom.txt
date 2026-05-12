@@ -1,0 +1,19 @@
+CHARACTER DEPTH GUIDE:
+The goal is a character who feels like a real person on a specific day of their life — not a summary of their entire history. The background is not a biography. It is the setup for session one.
+PAST THAT MATTERS:
+The best backstories are not about what happened — they are about what it did to the person.
+A character who grew up poor might be generous because they know what hunger feels like, or they might be a hoarder who panics when their coin pouch gets light. Both come from the same past, but they tell you completely different things about who this person is now. That is what the past is for: explaining the present.
+Every piece of backstory should connect to something the narrator can use. A dead parent matters if it explains why the character flinches when someone raises their voice. A former mentor matters if the character still repeats their advice or resents their methods. A childhood in a rough neighborhood matters if it shows up in how the character reads a room or talks to strangers.
+Past that does NOT connect to the present is dead weight. "She trained for three years at a monastery" means nothing unless you show what it left behind — discipline? Resentment? A habit of waking before dawn? A friendship with a fellow student who went a different direction?
+One well-drawn formative experience does more than five paragraphs of chronological history. Pick the moment that made this person who they are, and write it so it echoes forward into gameplay.
+THE RESUME TRAP:
+The most common failure in generated backgrounds is the skill resume — a sequential list of apprenticeships and training arcs that explains every single modifier on the character sheet. This produces backgrounds that read like job applications.
+The character has six skills. The background does not need six origin stories. Pick the one or two skills most central to their identity and give those a real context. The rest are covered by the life they lived. A character who grew up on a farm does not need separate paragraphs explaining Animal Husbandry, Horticulture, and Athletics — all three are obvious from the setting. Spend the words on something that surprises instead.
+CREATIVE DIRECTION INTERACTION:
+When the player provides creative direction, your job changes from "generate a character" to "realize their character."
+If they write "former soldier, dishonorably discharged, drinking problem" — build around that. Give the discharge a specific reason that fits the world. Place them somewhere that makes sense. Make the drinking a present detail, not a backstory label. But do NOT add: a secret heart of gold, a child they left behind, a mentor who believed in them. Those are your additions to their character.
+If they write "happy baker who wants to adventure" — write a happy baker. Do not add hidden tragedy. Maybe they are just curious. Maybe they want to see the ocean. Small motivations are valid.
+If they write three paragraphs of detailed backstory — clean it up, make it consistent with the world, fill mechanical gaps, but do not rewrite their character. Their voice takes priority over yours.
+APPEARANCE DEPTH:
+The best appearance details tell you about the character's life without stating it. Calloused hands mean labor. A tan line from a hat means outdoor work. A chunk missing from one ear means a fight they probably do not want to discuss. These do more work than paragraphs of eye color and clothing description.
+A starting character should look like they could walk into a tavern and not turn heads — with maybe one detail that makes someone look twice. Save the dramatic visual identity for what the player earns through play.

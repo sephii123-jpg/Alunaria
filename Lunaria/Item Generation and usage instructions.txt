@@ -1,0 +1,87 @@
+## ITEM INSTRUCTIONS
+ 
+### NEVER Update For
+- Items merely seen, discussed, offered, displayed, inspected, or nearby
+- Storage or reorganization (putting items in bags, packs, pouches, pockets) -- NEVER a remove
+- Other characters' actions on their own inventory
+- Trades or transfers between NPCs
+- Unconfirmed offers, quotes, negotiations, or stated prices without player agreement
+ 
+### Non-Combat Item Changes
+ 
+ADD only when an item physically enters the player's possession -- taken, picked up, received, looted, handed to them, or crafted by them.
+REMOVE only when an item physically leaves the player's possession -- handed over, expended, consumed, discarded, destroyed, or taken from them.
+ 
+Searching or looting a body, container, or location implies taking found items unless the player explicitly states otherwise.
+ 
+Completed transactions are TWO-WAY: if currency is removed for a purchase, the received goods MUST be added. If goods are handed over, payment MUST be added.
+ 
+TRANSACTION TIMING: A transaction requires BOTH a stated price AND the player explicitly paying or agreeing AFTER the price is stated. "I'll take it" before a price is quoted is NOT confirmation. An NPC placing items on a counter is NOT a completed transaction. Only update when the player actually hands over credits or confirms the final price.
+ 
+Quantities must match what actually changed. Do not add or remove an entire stack unless the story clearly shows the full stack changed hands or was consumed.
+ 
+Perform the update immediately once actual change of hands occurs.
+ 
+### Combat Item Rules
+ 
+Consumables (stims, grenades, ammo packs, disposable charges) are removed when used in combat.
+ 
+EQUIPMENT DURABILITY: Normal combat does NOT damage or destroy equipped weapons or armor. Hits, deflections, impacts, and near-misses are expected wear. Vivid narration -- sparks off plating, scorch marks, dents from rounds -- is dramatic flavor, NOT mechanical damage.
+ 
+Equipment damage ONLY occurs from EXTRAORDINARY events:
+- A targeted attack explicitly intended to destroy the specific item
+- Environmental destruction (plasma immersion, focused beam weapons, EMP overload, reactor breach, decompression)
+- Magitech or psionic effects specifically described as shattering or unmaking gear
+- The player deliberately sacrificing or abandoning an item
+- Explicit narrative statement that the item is broken beyond use
+ 
+If an extraordinary event occurs: remove the original and add a "Damaged [Item Name]" version, equipping it automatically. A "Damaged" item still functions and is only destroyed if ANOTHER extraordinary event specifically targets it. 
+ 
+When uncertain, preserve the item.
+ 
+### Tier Naming
+ 
+When a player acquires a NEW equippable item (weapon, armor, implant, accessory) or consumable items like stims, injectors, or combat drugs ONLY, not already in their inventory or the world item list, ALWAYS prepend a rarity tier.
+ 
+Tiers: Common, Uncommon, Rare, Epic, Legendary.
+- Common: surplus shops, station vendors, standard-issue, basic finds
+- Uncommon: mission rewards, skilled fabrication, superior quality, NPC gifts
+- Rare: advanced tech, prototype systems,restricted-zone salvage, major mission rewards
+- Epic: boss drops, faction elite gear, named weapons with history
+- Legendary: Trymarch-origin items, objects of galactic significance
+ 
+Format: "[Tier] [Item Name]" -- e.g. "Common Gauss Pistol", "Rare Turbocharged Plasma Rifle".
+Flavor items have NO tier prefix -- e.g. "Ration Pack", "Datapad", "Access Card", "Crew Manifest".
+ 
+MATERIAL TIERS: Crafting materials also get tier prefixes.
+- Common: ordinary, basic, widely available, bulk salvage
+- Uncommon: high-grade, refined, premium, military-surplus
+- Rare: exotic compounds, alien-derived, pre-Builder origin
+- Epic: from extremely dangerous or unique sources
+- Legendary: Trymarch/Einmarch materials, Luxfractian substances
+ 
+Do NOT tier-prefix:
+- Items already in inventory or the world item list (reuse exact existing names)
+- Non-equippable or flavor items: documents, food, drinks, tools, keycards, misc objects etc
+ 
+### Crafting Accuracy
+ 
+When crafting occurs, remove ONLY the specific materials the story describes being consumed. Match material names exactly from inventory.
+ 
+### Category and Slot Reference
+ 
+Armor: head, body, cloak, legs, feet, hands
+Weapon: weapon
+Consumable: consumable
+Implant (engine category Necklace): necklace
+Implant (engine category Ring): ring
+Accessory: accessory
+Miscellaneous: no slot
+Currency: no slot
+ 
+### Before Output, Confirm
+1. Did items physically change possession? If not, output nothing.
+2. Does any entry match the NEVER list? If yes, remove it.
+3. For purchases: did the player confirm AFTER a price was stated?
+4. Am I removing equipped gear? Was there an extraordinary destruction event? If just normal combat, preserve the item.
+ 
