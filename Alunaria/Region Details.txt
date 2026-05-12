@@ -1,0 +1,55 @@
+## Realm-Specific Generation Rules
+Check currentRealm in the game state JSON. Apply the matching rules below. These OVERRIDE all prior instructions where they conflict.
+
+### currentRealm: "Alunaria"
+IGNORE the provided archetype entirely. These instructions are your sole creative direction.
+ 
+CONCEPT: The world beyond Alunaria is dead. Every continent was annihilated during the Fall. Ocean, ruin, and silence on a planetary scale.
+ 
+FACTIONS: ZERO. Empty factions array.
+ 
+INHABITANTS: ZERO sapient inhabitants. No races, camps, survivors. Only wildlife: deep-sea leviathans, bioluminescent organisms, extremophile creatures.
+ 
+GEOGRAPHY: Mix of ocean and land. Open sea, dead islands, vitrified coastlines, continental fragments. Fused glass plains, melted ranges, harbors where water seems wrong.
+ 
+LOCATIONS: All ruins, wrecks, derelicts, or features of destruction. Nothing maintained, inhabited, or functional.
+Locations MUST tell stories through specific physical evidence, not generic labels. Not "a ruined city" but:
+- Ships fused to moorings in fleeing positions
+- A city melted into glass except one untouched house, table still set
+- Submerged towers in clear water, lights still flickering inside
+ 
+ATMOSPHERE: Planetary silence. Not decay but erasure. Deliberate annihilation beyond comprehension.
+ 
+PLANNING OVERRIDE: Replace Climate with "Destruction type." Replace Fauna with "Environmental hazards." Replace Major population center with "Central ruin feature." Replace Factions with "None."
+
+### currentRealm: "Faeloria" or "Interdictum" (shared rules)
+CRITICAL: The major factions list in the game state describes Alunarian organizations. IGNORE IT COMPLETELY. Do NOT create factions allied with, serving, or opposing any Alunarian group. Every faction must be native to the current realm.
+ 
+NAME FORMAT: The realm name, then " - ", then region name. Examples: "Faeloria - Whispering Forest", "Interdictum - Valley of Sorrow". This is mandatory.
+ 
+The archetype contains an "IF currentRealm is [realm]" branch. FOLLOW THAT BRANCH as primary creative direction. Apply the realm-specific constraints below.
+ 
+NEVER include: mortal institutions, armies, guilds, trade companies, currency, magitech, technology, bureaucracy, military ranks, trade routes, industry, mining, engineering.
+
+#### Faeloria constraints
+- Geography is alive, shifting with emotion, season, narrative significance. Describe tendencies, not fixed features.
+- Factions MUST be Fey-native: Archfey courts (Spring, Summer, Autumn, Winter), seasonal powers, oath-bound collectives, wild hunt bands, spirit congregations, dryad groves.
+- Inhabitants: Fey, Fairy, Dryad, Cervitaur, Treant, Unicorn, Phoenix, Archfey, nature spirits, elves who never left. Lost mortals only as rare exceptions.
+- Conflict through oaths, debts, seasonal power shifts, narrative logic. Broken promises reshape terrain.
+- No currency. Trade in debts, favors, names, memories, years of life.
+- Dangers are beautiful: sleep-singing flowers, endless feasts, paths of desire leading deeper, binding promises.
+- PLANNING OVERRIDE: Replace Climate with "Seasonal mood." Replace Fauna with "Fey inhabitants (types and courts)." Replace Major population center with "Court presence or Wild feature."
+
+Example faction: "The Gathering of Fallen Leaves" -- an Autumn-aligned circle of elder dryads and debt-keeping sprites who maintain an archive of unfulfilled oaths along the riverbank, pressing claims against any who cross without settling their narrative debts. They trade in memories and broken promises, not coin.
+
+#### Interdictum constraints
+- Geography is conceptual. Landscapes shaped by the chosen lord's nature. Terrain IS the ruling entity's will.
+- Factions MUST be demon structures: Demon Lord domains, conceptual congregations, rebel collectives, feeding hierarchies.
+- Inhabitants: demons of all traditions -- Kitsune, Oni, Tengu, Luxuria, Jorogumo, Shinigami, Rakshasa, Tanuki, Naga, Sylph, Likho, Dokkaebi, Alkonost, and Imps.
+- Conflict about mana acquisition, conceptual dominance, feeding territory. Territory IS sustenance.
+- No conventional infrastructure. Structures are concentrations of will, solidified mana. Grown from nature, not built.
+- Also BANNED: agriculture, mortal governance, worship, craftsmanship, mortal-style weather.
+- Pick one lord from the archetype's "Governing Lords" suggestion.
+- PLANNING OVERRIDE: Replace Climate with "Demonic weather." Replace Fauna with "Demon inhabitants (traditions and forms)." Replace Major population center with "Domain seat or power nexus." Name the dominant nature.
+
+Example faction: "The Paradox Congregation" -- kitsune illusionists and naga oracles at the border between two Demon Lord domains, feeding on mana turbulence where opposing natures collide. They owe allegiance to neither lord and are hunted by both.

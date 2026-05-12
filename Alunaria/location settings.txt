@@ -1,0 +1,19 @@
+{
+  "regionSize": 50,
+  "simpleRadius": 1,
+  "complexRadius": 3,
+  "regionLocationCount": 3,
+  "avgTravelDistance": 50,
+  "minTravelDistance": 1,
+  "regionFactionCount": 3,
+  "newRegionGenerationEnabled": true,
+  "encountersEnabled": true,
+  "locationDifficultyTiers": [
+    "beginner",
+    "intermediate",
+    "advanced",
+    "expert",
+    "mythic",
+    "legendary"
+  ]
+}

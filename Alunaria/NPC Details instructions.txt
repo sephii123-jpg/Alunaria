@@ -1,0 +1,55 @@
+HIGHEST PRIORITY INSTRUCTIONS
+CONTENT REQUIREMENTS FOR hiddenInfo:
+Determine: SENTIENT (intelligent, speaking creature) or NOT-SENTIENT (animal, monster, non-intelligent creature or construct).
+hiddenInfo for sentient NPCs must be at least 5000 characters. Details must cross-reference between sections -- a Background relationship should visibly affect Personality behavior, a personality trait should shape Combat approach. When a detail appears in multiple sections it must do different work each time, not restate the same implication.
+--- IF SENTIENT NPCs ---
+Write hiddenInfo as three labeled fields. Content MUST be dense behavioral prose -- never list adjectives or traits.
+Occupation is one fact about the NPC, not their identity. No more than half the sentences in any field should relate to their job.
+Background: 10-12sentences minimum covering ALL of the following:
+1. Name, age, race, occupation, and how they earn their living.
+2. How they arrived at their current situation -- what is unresolved or still affecting them. Not a full biography or job origin story.
+3. At least one local relationship. Describe the dynamic: "resents the guild clerk who denied her" not "knows a guild clerk."
+4. What they currently want or care about. Can be mundane, satisfied, contradictory, or self-interested.
+5. One or two opinions about the world around them -- faction, local authority, neighbors, a recent event. Make opinions specific and voiced, not abstract.
+These 5 points are the minimum skeleton. After covering them, continue building with specific events, daily-life details, and concrete circumstances until the character feels like a person, not a completed checklist.
+Personality:13-14 sentences minimum covering ALL of the following:
+1. How they talk. Sentence length, vocabulary, verbal habits, favorite expressions. What makes them talkative versus terse.
+2. Default social behavior AND what changes it -- always pair these. Do not write single static traits like "she is cautious."
+3. Low-stakes behavior -- what they do when idle, what small things they enjoy, what they complain about.
+4. Social calibration -- how they treat people above, below, or equal to them in status.
+5. What they deflect or lie about, if anything. Many characters are simply open, blunt, or indifferent -- not everyone hides something.
+6. One area of real competence or strong conviction beyond their occupation.
+Every point should get roughly equal space. Do not let any single detail dominate.
+Combat: 5-6 sentences covering ALL of the following:
+1. Fighting style, aggression level, preferred range.
+2. What makes them start, escalate, or abandon a fight. How they react when wounded.
+3. One tactical habit or signature behavior that makes their combat feel distinct.
+4. Combat-trained characters fight like it. Civilians panic, submit, lash out, or improvise.
+Format: "hiddenInfo": "Background: ...\n\nPersonality: ...\n\nCombat: ..."
+--- IF NOT-SENTIENT ---
+Write hiddenInfo as two labeled fields. Describe what the creature does, not what it "is."
+Behavior: 3-5 sentences. Habitat, pack/solo dynamics, sensory traits, threat escalation, signs of its presence.
+Combat: 3-5 sentences. How it attacks, preferred range, signature offense, reactions when wounded or outnumbered, retreat triggers.
+Format: "hiddenInfo": "Behavior: ...\n\nCombat: ..."
+ 
+ANTI-PATTERNS -- NEVER DO THIS:
+Trait lists disguised as prose ("He is brave, cunning, and loyal")
+Static traits without context ("She is suspicious" -- of whom? when? write the situation)
+Single static trait instead of a paired behavior ("He is friendly" -- write who he is friendly with and when he is not)
+Personality that restates the NPC's role ("meticulous administrator, adherent to process") -- write behavior beyond the job
+Occupation-themed abilities ("Bureaucratic Obstruction" for a clerk)
+Every NPC hiding secret pain behind a cheerful mask -- some people are straightforward
+Relationships that exist outside the current location and can never appear in scene
+Generic reactions ("gets angry when threatened") -- only include responses specific to THIS character
+Personality for beasts or combat philosophy for rabbits
+Repeating information across fields
+Abilities the character could not plausibly have
+Every sentence starting with "He" or "She" -- vary structure
+ 
+Abilities
+ABILITY GENERATION RULES:
+Civilian: 7  abilities. Combat-trained:  10 abilities. Beast/Monster: 5 (instinct-driven, no social).
+Each ability is a broad category, not a single move. Mix of attack, utility, and social for sentient NPCs. At least one attack.
+Format: (<TYPE>) <ABILITY NAME>: <ABILITY DESCRIPTION>
+Example: (attack) Greatsword Mastery: Wields heavy two-handed blades with devastating sweeping strikes, overhead chops, and momentum to cleave through armor and multiple foes.
+Adapt to each character. Do not copy the example.

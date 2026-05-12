@@ -1,0 +1,2020 @@
+{
+  "Northern Frozen Sea": {
+    "name": "Northern Frozen Sea",
+    "basicInfo": "The uncharted, permanently frozen ocean north of Frostrend. An absolute boundary of unthawing ice and violent storms, where only the desperate seek legendary passages and local clans fear its testing spirits.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "0Ifsr0ed",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/D5mx4QM.png"
+  },
+  "Western Frozen Sea": {
+    "name": "Western Frozen Sea",
+    "basicInfo": "Treacherous frozen waters northwest of Frostrend. Shifting ice and hidden currents create unpredictable traps, yet the area holds unique cold-water ecosystems and sacred Clan fishing grounds.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "nvPZeBLl",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/KoBInx2.png"
+  },
+  "Eastern Frozen Sea": {
+    "name": "Eastern Frozen Sea",
+    "basicInfo": "",
+    "x": 1,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "dXOqwhIk",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/ASWaUuC.png"
+  },
+  "Far Northern Waters": {
+    "name": "Far Northern Waters",
+    "basicInfo": "",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "OsD_fSUy",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/oR5xoyt.png"
+  },
+  "Far Northern Ice": {
+    "name": "Far Northern Ice",
+    "basicInfo": "Frozen expanse at the absolute top of the known world, a territory that has never thawed in recorded history. ",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "xVUPw6bg",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/SfFCLRm.png"
+  },
+  "Far Northwestern Ice": {
+    "name": "Far Northwestern Ice",
+    "basicInfo": "Permanent ice fields at the extreme northwest of the known world, where the frozen sea and glacial landmass become indistinguishable.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Jnm6GgDn",
+    "imageUrl": "https://i.imgur.com/648E6pa.png"
+  },
+  "Northeastern Frozen Waters": {
+    "name": "Northeastern Frozen Waters",
+    "basicInfo": "Icy waters northeast of Frostrend that become marginally navigable during the brief summer thaw, allowing limited trade and fishing expeditions. The waters support populations of arctic fish and marine mammals providing crucial resources to Frostrend communities. Clan Stormwake maintains hereditary fishing rights to the most productive areas, knowledge passed through generations.",
+    "x": 2,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "7SxcXNX8",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "The Verdant Accord",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/nxRFCqg.png"
+  },
+  "Glaciers End": {
+    "name": "Glaciers End",
+    "basicInfo": "A dramatic region where massive glaciers meet warmer air currents, creating a landscape of staggering contrasts.",
+    "x": 0,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "nP7M8_Ah",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Eternal Passage",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/NskFe02.png"
+  },
+  "Ashen Spine": {
+    "name": "Ashen Spine",
+    "basicInfo": "A volcanic mountain range cutting through Frostrend's interior, its perpetually smoking peaks rising as dark jagged silhouettes against the pale northern sky. The range runs roughly north-south, its highest summits reaching above the permanent snowline where black basalt meets white ice in stark contrast.",
+    "hiddenInfo": "The volcanic activity that makes the Ashen Spine habitable is not entirely natural. Deep beneath the mountain range lies Aegis Astralis, a massive Lunarian defensive installation that once served as part of a continental-scale shield network. The facility's geothermal management systems continue to operate on ancient programming, carefully regulating heat flow to maintain the Ember Wells and create the pockets of warmth that allow permanent settlement. Clan Deepvein's mining operations have occasionally broken into peripheral chambers of the installation, discovering crystalline structures that pulse with inner light and corridors that seem to extend impossibly far into the mountain's depths. The dwarven clan has sealed these breaches and maintains strict silence about their discoveries, understanding that revelation could bring unwanted attention from powers seeking to control or weaponize whatever lies below. Strange phenomena occur during certain astronomical alignments: the Ember Wells glow brighter, geometric patterns of light appear on mountain peaks, and sensitive individuals report hearing harmonics that seem to resonate through stone itself. Some Deepvein elders believe Aegis Astralis may be attempting to restore its connection to other Lunarian facilities across Alunaria, following protocols established millennia ago. What the installation was designed to defend against and whether that threat still exists remains unknown, but the facility's continued operation suggests its creators believed the danger would persist long after their civilization fell.",
+    "x": -1,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "SYuX7JgC",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "Dusk Covenant",
+      "The Adventurers' Guild",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://i.imgur.com/niPjkRm.png"
+  },
+  "Frozen Coast": {
+    "name": "Frozen Coast",
+    "basicInfo": "The eastern shores of Frostrend where the Frostbound Coast meets icy seas, a landscape defined by dramatic sea cliffs of dark granite worn smooth by millennia of grinding pack ice. Fjords cut deep into the coastline, their steep-walled channels narrowing to dark slots where the sea surges between towering rock faces.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "ywX34yRu",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/mzzhQgX.png"
+  },
+  "Stormveil Heights": {
+    "name": "Stormveil Heights",
+    "basicInfo": "Wind-blasted highlands in western Frostrend where perpetual gales make permanent settlement nearly impossible. The terrain is a stark expanse of exposed granite plateaus scoured clean of soil, their surfaces etched with deep wind-carved grooves running parallel like the scratches of some enormous claw. Rocky tors — isolated pillars of harder stone left standing as surrounding rock eroded — dot the landscape like broken teeth, some leaning at precarious angles from centuries of unrelenting wind pressure. Between plateaus, narrow valleys channel the gales into screaming funnels where even standing upright becomes impossible. Only isolated watchtowers maintained by the Frostrend Wardens occupy this region, their garrisons rotating frequently due to the psychological toll of constant exposure to screaming winds. Storm-readers stationed here interpret weather patterns crucial for settlements in the lowlands. The heights are considered sacred to followers of Virex, who see the storms as manifestations of the wild god's power.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "kQ9f5GrE",
+    "factions": [
+      "Council of Icebound Holds",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://i.imgur.com/WUH1jyS.png"
+  },
+  "Rimecrest Highlands": {
+    "name": "Rimecrest Highlands",
+    "basicInfo": "The northeastern portion of the awakened territory where freshly thawed land rises into forested hills and rocky highlands, their exposed cliff faces streaked with mineral-rich veins of copper, silver, and mana-ore revealed by retreating ice. Underground cavern systems honeycomb the hills, some containing crystalline formations that pulse with millennia of accumulated ambient mana, while dense young forests of pine and spruce grow with unnatural vigour in the saturated soil.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "HqLYTdEE",
+    "imageUrl": "https://i.imgur.com/A0TaazE.png"
+  },
+  "Deeproot Wilds": {
+    "name": "Deeproot Wilds",
+    "basicInfo": "The northwestern reaches of the awakened territory where dense boreal forest blankets the lowlands — ancient trees preserved in glacial stasis now thriving in temperate conditions, their canopy thick enough to block sunlight and foster an undergrowth of luminescent mosses and fungi glowing with absorbed mana. Clearings reveal meadows of extraordinary fertility with waist-high wildflowers, while rocky outcrops expose mineral veins of iron, silver, and rarer ores compressed by glacial weight into unusually pure concentrations.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "PKUdzvlB",
+    "imageUrl": "https://i.imgur.com/duPnt9L.png"
+  },
+  "Northeastern Sea": {
+    "name": "Northeastern Sea",
+    "basicInfo": "Cold waters northeast of Frostrend where ice floes make navigation treacherous throughout most of the year. During brief summer windows, fishing fleets from both Frostrend and the Lumeris Republic work these waters, harvesting abundant cold-water species. An informal understanding between the regions prevents conflict over fishing rights.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "YjOVe4kJ",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/2tB4YPw.png"
+  },
+  "Skjoldheim": {
+    "name": "Skjoldheim",
+    "basicInfo": "The largest permanent settlement in Frostrend, built around a naturally heated fjord where geothermal vents create conditions allowing year-round habitation. The fjord itself is a deep glacial channel cutting inland between walls of dark basalt, its waters steaming where volcanic heat meets cold ocean currents. Terraced construction climbs both sides of the fjord, with longhouses and workshops built into natural ledges and reinforced with stone and timber. The harbour occupies a widening of the fjord where the channel opens into a sheltered basin, protected from ocean storms by a narrow entrance flanked by watchtowers. Beyond the settlement, the landscape rises steeply into snow-covered hills where hunting trails wind between glacial boulders. Skjoldheim functions as the region's de facto capital, serving as a trade port, council meeting ground, and cultural gathering site for the scattered clans. The Council of Icebound Holds convenes in the Great Hall here. The settlement lacks the grand architecture of southern cities, but its sturdy longhouses and fortified harbour represent triumph over an impossible environment.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "qNI2XVcS",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "The Adventurers' Guild"
+    ],
+    "imageUrl": "https://i.imgur.com/uA1FKeR.png"
+  },
+  "Western Frostrend": {
+    "name": "Western Frostrend",
+    "basicInfo": "A vast interior wilderness of rolling tundra and frozen river valleys marking the transition between the Ashen Spine's volcanic highlands and Frostrend's open frozen plains. The terrain undulates in long, gentle swells of permafrost-locked earth, covered in a mosaic of lichen, hardy mosses, and low scrub that turns rust-brown during the brief summer. Frozen rivers carve shallow valleys between these swells, their ice-locked channels marked by lines of willowy brush barely knee-high. Scattered glacial erratics — enormous boulders deposited by ancient ice sheets — stand alone on the tundra like abandoned monuments, some large enough to shelter entire hunting parties from the wind. Herds of caribou and musk-ox follow seasonal migration routes through this region, drawing hunting parties from multiple clans who maintain traditional camps along well-known game trails",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "_Rqe00RL",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds"
+    ],
+    "imageUrl": "https://i.imgur.com/PELqZ9a.png"
+  },
+  "Eastern Frostrend": {
+    "name": "Eastern Frostrend",
+    "basicInfo": "Frostrend's eastern interior, where the land descends gradually from the central highlands toward the coast in a series of broad, windswept terraces. The terrain is gentler than the west — wide valleys carry meltwater streams between low ridges of glacial till, creating a landscape of shallow basins and waterlogged meadows that become surprisingly green during the summer thaw. Scattered copses of dwarf birch and willow grow in sheltered hollows, never reaching more than head height but providing crucial firewood and tool materials. Frozen lakes dot the landscape, their surfaces serving as winter highways connecting isolated communities. The eastern position brings marginally warmer temperatures and slightly more precipitation than the interior, making this one of Frostrend's more hospitable areas, though that distinction is relative. Trade paths leading toward the Lumeris Republic cross this region, marked by stone cairns that disappear under winter snowfall and must be rebuilt each spring.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Vn51xRF9",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Verdant Accord",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9a296953-5a0a-4dda-b6b2-251b4174e529.png"
+  },
+  "Northwestern Tundra": {
+    "name": "Northwestern Tundra",
+    "basicInfo": "",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "M3SKZjG1",
+    "factions": [
+      "Council of Icebound Holds",
+      "The Lunar Covenant",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9f720c2b-aa26-468f-a45c-2322d70c93a7.png"
+  },
+  "The Verdance": {
+    "name": "The Verdance",
+    "basicInfo": "The heart of the newly thawed reaches — rolling meadows, young forests, and spring-fed lakes of startling purity spreading across land that spent millennia entombed under ice, all radiating outward from the Spire, a Lunarian weather control facility whose reactivation one year ago triggered the transformation. The ground is extraordinarily fertile, millennia of preserved organic deposits now exposed to warmth and rain, while freshwater streams carve new channels through virgin soil and wildlife colonises in unprecedented numbers.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "p3evCxl_",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/96f46b8a-e409-4ef1-917f-c5cc213a0cc8.png"
+  },
+  "Threshold Expanse": {
+    "name": "Threshold Expanse",
+    "basicInfo": "The southwestern edge of the awakened territory where the Spire's warming influence meets the lingering cold of still-frozen lands, creating a visible boundary of lush meadows giving way to half-thawed marshland and residual ice fields. The flat alluvial plains here are blooming with dense grasses over particularly fertile soil, sheltered from northern winds by low ridges, while retreating ice has exposed substantial mineral deposits — copper, iron, and mana-infused crystalline formations compressed under glacial weight for millennia.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "RysrJOfL",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/59c2034e-adf5-42e5-985d-c433a05088e4.png"
+  },
+  "Eastern Frostrend Coast": {
+    "name": "Eastern Frostrend Coast",
+    "basicInfo": "The coastal waters where Frostrend meets the northeastern sea, navigable during summer months but locked in ice for much of the year. These waters provide the primary maritime connection between Frostrend and the Lumeris Republic, carrying seasonal trade both regions depend upon. Fishing fleets from Clan Stormwake work alongside Republican vessels under informal agreements.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "lPUhkzSI",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/iZzMtgz.png"
+  },
+  "Frostmarch Frontier": {
+    "name": "Frostmarch Frontier",
+    "basicInfo": "The harsh borderland where civilization fades and the frozen north begins, characterized by scattered outposts, fur trading posts, and hardy settlements surviving on the edge of habitability. This region marks the southern boundary of Frostrend, where the climate becomes merely harsh rather than lethal. Criminal networks have fractured portions into lawless domains.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "XvT5HT0Y",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9ff9ee1c-75d5-44b4-be8f-1bfbe0ad4845.png"
+  },
+  "Rimewood Forest": {
+    "name": "Rimewood Forest",
+    "basicInfo": "A sparse forest of cold-adapted pines and frost-hardened oaks clinging to Frostrend's southern reaches, providing crucial resources to settlements. Hunting communities pursue game through snow-covered trails while logging operations supply essential building materials. The forest marks the boundary between frozen wastes and merely harsh lands to the south.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Q5vnDVps",
+    "factions": [
+      "Council of Icebound Holds",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/86f51b70-94e9-451f-a36a-f56647de3e1f.png"
+  },
+  "Frosthold Bastion": {
+    "name": "Frosthold Bastion",
+    "basicInfo": "The largest fortified stronghold in Frostrend, guarding key inland routes and serving as a rally point during external threats. This massive structure of ice-reinforced stone represents a collective achievement of multiple clans working together, its construction spanning generations. Warden garrisons maintain constant watch while the fortress serves as refuge for surrounding communities during emergencies.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "_PJ_0Gs5",
+    "factions": [
+      "Clans of the Long Winter",
+      "Council of Icebound Holds"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e5945f59-1da8-4540-8cab-77b3a0914d2b.png"
+  },
+  "Upper Empire": {
+    "name": "Upper Empire",
+    "basicInfo": "The northernmost imperial territories directly bordering Frostrend. Imperial control here is nominal, with garrison towns maintaining fiction of authority while operating semi-independently. Soldiers posted here consider it exile, a punishment detail far from centers of power. Many never return south, finding the north changes them in ways making reintegration impossible.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "nlugiQBE",
+    "factions": [
+      "Radiant Dominion",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Veiled Archive",
+      "The Verdant Accord",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/dd6d4a91-b656-478a-a04b-c48bfdb1eb6f.png"
+  },
+  "Frostward Marches": {
+    "name": "Frostward Marches",
+    "basicInfo": "Imperial territories at the edge of habitable land, where Frostrend's endless cold begins to claim the landscape. Fortified towns huddle against the elements while patrols watch for threats from the frozen north. Life here requires cooperation between soldiers, administrators, and civilians that would be unthinkable in the rigidly stratified south.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "NfG0aLIm",
+    "factions": [
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/8491b7b2-68b9-493a-ab75-67c18bcce8cf.png"
+  },
+  "Coldgate": {
+    "name": "Coldgate",
+    "basicInfo": "The Zerathis Imperium's last major fortress before the frozen wastes, a massive stronghold built to assert authority over the northern frontier. The garrison maintains impressive discipline despite harsh conditions, though their mission is more symbolic than practical demonstrating imperial will made manifest at the edge of the world.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Mti5aVP6",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://i.imgur.com/ft2dyUC.png"
+  },
+  "Eastern Marches": {
+    "name": "Eastern Marches",
+    "basicInfo": "Frostrend's eastern borderlands, sloping toward the sea and offering slightly milder conditions. Fishing communities supplement hunting with catches from cold waters. Seasonal trading routes connect to the Lumeris Republic during summer months",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "6OExN9Vj",
+    "factions": [
+      "Council of Icebound Holds"
+    ],
+    "imageUrl": "https://i.imgur.com/hnpjhEe.png"
+  },
+  "Northern Lumeris Tundra": {
+    "name": "Northern Lumeris Tundra",
+    "basicInfo": "A vast stretch of subarctic tundra forming the Lumeris Republic's sparsely settled northern frontier, where the green farmlands of the heartland give way to rolling expanses of permafrost-locked earth, lichen fields, and wind-stunted scrub.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "ELipv5sy",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://i.imgur.com/HykNNEj.png"
+  },
+  "Far Eastern Waters": {
+    "name": "Far Eastern Waters",
+    "basicInfo": "Open ocean east of Lumeris extending toward distant continents largely unknown to Alunarian cartographers. These waters represent the boundary between familiar and mysterious, where reliable charts end and legend begins. Merchant vessels occasionally venture into these waters seeking exotic goods, but few travel far enough to make contact with whatever civilizations might exist beyond.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "dR_chR9X",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f162f121-ddb9-4896-b2d2-8489c3cf6cf1.png"
+  },
+  "Aurelion": {
+    "name": "Aurelion",
+    "basicInfo": "The largest city on the continent and an independent city-state whose influence rivals empires. Built around the Aurelian Bay where the Silverflow Rivers meet the sea, the city occupies a dramatic natural setting — the bay is enclosed by curving headlands of white chalk, their cliffs topped with lighthouse towers and defensive batteries. The city proper rises from the waterfront in tiers, climbing the slopes of surrounding hills through districts ranging from the elite compounds of Meridian Rise to the overcrowded Lower Wards. The harbour is enormous, its wharves extending in concentric arcs around the bay, protected by massive breakwaters of fitted stone. Inland, the Silverflow delta creates a network of channels and islands that have been bridged, built upon, and incorporated into the urban fabric over centuries. Magitech infrastructure is visible everywhere — arcane lighting illuminates major thoroughfares, crystalline communication nodes pulse on rooftops, and the Spireworks district's experimental towers reach skyward trailing streamers of residual magical discharge. The skyline is a forest of spires, domes, and crane gantries above a dense urban mass extending in every direction.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "qTG-cBaW",
+    "factions": [
+      "Council of Seats",
+      "Mercantile Compact",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/7b03fd5c-777f-49f6-a85f-ffe0a5617789.png"
+  },
+  "Western Aurelion": {
+    "name": "Western Aurelion",
+    "basicInfo": "Western reaches of Aurelion's sphere of influence, bordering the Bitter Sea separating the city-state from the Zerathis Imperium. These lands are more heavily fortified than eastern counterparts, with defensive positions maintained against potential imperial aggression while keeping trade routes open. Merchant estates and fortified waypoints dot the landscape, balancing commercial opportunity with security.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "xPgSAUkt",
+    "factions": [
+      "Council of Seats",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://i.imgur.com/UdQf4c6.png"
+  },
+  "Bay of Merchants": {
+    "name": "Bay of Merchants",
+    "basicInfo": "A bustling inlet where the northern reaches of the Cerulean Bay meet Aurelion's eastern harbour approaches, forming the commercial nexus where three powers' trade converges. The bay narrows here between Aurelion's territory to the west and the Lumeris Republic's northern coast to the east before widening southward into the Cerulean Bay proper.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "fwT48CZV",
+    "factions": [
+      "Council of Seats"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f354446c-066b-42b5-a28e-1a193624b88f.png"
+  },
+  "Bitter Sea West": {
+    "name": "Bitter Sea West",
+    "basicInfo": "The western portion of the Bitter Sea, an inland body of water serving as natural barrier between Aurelion and the Zerathis Imperium. The sea is known for brackish waters, treacherous currents, and sudden storms that can trap unwary vessels. Despite dangers, fishing communities harvest salt-tolerant species that fetch premium prices in distant markets.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Ta-ioW2a",
+    "factions": [
+      "Council of Icebound Holds"
+    ],
+    "imageUrl": "https://i.imgur.com/sTNaf4Y.png"
+  },
+  "Bitter Sea East": {
+    "name": "Bitter Sea East",
+    "basicInfo": "The eastern portion of the Bitter Sea, where fishing communities harvest salt-tolerant species prized for their unique flavor. These waters are calmer than the western reaches but no less mysterious, with depths exceeding what the sea's apparent size would suggest.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "alT73rQa",
+    "factions": [
+      "Council of Icebound Holds"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/7804748a-f454-40af-975f-d7029e0df7d2.png"
+  },
+  "Northern Empire": {
+    "name": "Northern Empire",
+    "basicInfo": "Northern territories where imperial control gradually weakens as climate becomes hostile. Garrison towns assert authority over scattered farming communities, but the further north one travels, the more nominal control becomes. Locals have learned to survive with minimal support from distant Solkarion.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "vSDIkLbQ",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/93652572-b1c8-4762-b603-6e5998522bf6.png"
+  },
+  "Watchbarrow": {
+    "name": "Watchbarrow",
+    "basicInfo": "A heavily fortified border city anchoring the Ironmarch Line, built atop and into a massive natural mound — an ancient glacial drumlin that rises prominently above the surrounding lowlands. The mound's steep sides have been scarped and reinforced with stonework, creating a fortress that uses terrain as its primary defence. The city occupies both the mound's summit and the surrounding flatlands, its walls incorporating dwarven engineering and Republican magitech to create what military planners consider the most formidable fixed position on the continent. The terrain around the city has been engineered for defence — moats fed by diverted streams, earthwork redoubts protecting approach roads, and cleared fields of fire extending to the maximum range of the city's artillery. The population is heavily militarised, with every adult citizen trained in combat and emergency protocols.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "DaEW19zx",
+    "factions": [
+      "Common Defense Accord",
+      "Grand Assembly of Lumeris",
+      "The Adventurers' Guild",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/01a48021-ce08-44a3-9785-5b52b31ca3b5.png"
+  },
+  "Northern Lumeris": {
+    "name": "Northern Lumeris",
+    "basicInfo": "The Republic's northern territories where settled farmlands give way to rolling hills and light forests in a gradual transition from civilisation to frontier. The terrain is characterised by long, parallel ridges of ancient worn-down mountains, their summits rounded by erosion into gentle curves covered in mixed oak and beech woodland. Between ridges, broad valleys carry tributaries of the Helior Flow through rich pastureland dotted with prosperous market towns. The soil is good but stony, cleared fields bordered by walls built from rocks pulled from the earth over generations. Orchards climb the lower slopes while the ridgetops remain forested, their canopy providing timber and game. These borderlands are less densely populated than the heartlands but fiercely independent, with frontier communities maintaining strong militia traditions dating to the wars establishing Republican independence.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "hVHOZEC3",
+    "factions": [
+      "Common Defense Accord",
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://i.imgur.com/pZv1xYV.png"
+  },
+  "Eastern Shores": {
+    "name": "Eastern Shores",
+    "basicInfo": "The northeastern coastline of the Lumeris Republic, where fishing villages and small trading ports dot a rugged shoreline. Waters here are rougher than the protected Cerulean Bay, and sailors must be skilled to navigate currents and weather patterns changing without warning. Despite challenges, thriving communities harvest abundant seas.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "m0i36R6h",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://i.imgur.com/8sDyZkm.png"
+  },
+  "Aurelion Heartlands": {
+    "name": "Aurelion Heartlands",
+    "basicInfo": "The fertile territories immediately surrounding Aurelion, comprising prosperous farming villages, merchant estates, and well-maintained roads forming the city-state's agricultural foundation. Fed by the Silverflow Rivers, these lands are densely settled and efficiently administered, with every field and orchard carefully managed. The population enjoys relative prosperity under Aurelion's direct governance.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "hkjs9Xts",
+    "factions": [
+      "Council of Seats",
+      "Dusk Covenant",
+      "Mercantile Compact",
+      "Obsidian Circle",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Eternal Passage",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/fac513bf-09c3-4aad-8896-62c7813f5079.png"
+  },
+  "Aurelion Southern Reaches": {
+    "name": "Aurelion Southern Reaches",
+    "basicInfo": "Territories south of Aurelion where land rises toward the Deepway Range. These are Aurelion's most productive agricultural lands, feeding the city's vast population through intensive farming and efficient distribution. Rising terrain provides natural drainage while mountain winds moderate summer temperatures, creating optimal growing conditions.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "cQCdBWCW",
+    "factions": [
+      "Council of Seats",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://i.imgur.com/24oKW19.png"
+  },
+  "Cerulean Bay": {
+    "name": "Cerulean Bay",
+    "basicInfo": "A long, sheltered body of water that serves as the natural border between Astraholm to the west and the Lumeris Republic to the east. The bay begins as a narrow inlet near Aurelion's eastern harbour, fed by the outflow of the Bay of Merchants to the north, before widening as it cuts southward between the two nations. Its western shores belong to Astraholm — the chalk headlands of Whitewatch visible on clear days, the farmlands of the Heartlands descending to rocky beaches — while its eastern shores are Lumeris territory, where the fertile delta of Southern Lumeris meets the water's edge.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "RFZfHF6F",
+    "factions": [
+      "Council of Seats",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9c86e4a9-681a-4545-a8df-70451917dcce.png"
+  },
+  "Golden Plains": {
+    "name": "Golden Plains",
+    "basicInfo": "The vast agricultural heartland of the Zerathis Imperium, endless fields of grain and pastures worked by enslaved populations under overseer compounds' watchful eyes. The Sunward Roads cut straight lines across flatlands, connecting collection depots where tribute is gathered for imperial cities. These plains feed legions and urban masses, their productivity maintained through brutal forced labor administered by the Golden Chain Authority.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "adMFBIR-",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d6abcccb-998a-4683-b3ec-5797941bca80.png"
+  },
+  "Solkarion": {
+    "name": "Solkarion",
+    "basicInfo": "The capital of the Zerathis Imperium and seat of the Emperor, a colossal city of sun-temples, administrative citadels, military parade grounds, and vast slave quarters built atop layered ruins stretching back to the Lunarians. The Temple of the Unbroken Sun dominates the skyline, its golden dome visible for miles, while the Radiant Assembly enforces religious doctrine as law. All power in the Imperium flows from this city, where the divine authority of Solarys and the temporal authority of the Emperor merge into a single doctrine of absolute rule. The population includes administrators, soldiers, priests, merchants, and an enslaved underclass that outnumbers free citizens.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "mefTBDzx",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Radiant Assembly",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f97ffe5a-12cb-4970-b8d8-6b83a529341d.png"
+  },
+  "Obsidian Marches": {
+    "name": "Obsidian Marches",
+    "basicInfo": "The Imperium's militarized western frontier, characterized by black stone fortresses, scorched-earth buffer zones, and constant legion presence. Volcanic soil makes agriculture difficult, but strategic importance demands heavy military footprint. The landscape seems hostile, with jagged obsidian formations providing natural defensive advantages.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "yOvyf0JJ",
+    "factions": [
+      "Radiant Dominion",
+      "Starlight Accord",
+      "The Crimson Ascendancy",
+      "The Eternal Passage",
+      "The Imperial Nobility",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/ca9e9bc8-3e8d-4eab-8888-c66b7d7b2d4f.png"
+  },
+  "Lumeris Heartlands": {
+    "name": "Lumeris Heartlands",
+    "basicInfo": "The agricultural and political core of the Lumeris Republic, occupying a vast river basin where the great Helior Flow and its tributaries have carved a landscape of extraordinary fertility. The terrain is a tapestry of river valleys and gentle interfluves — broad, flat-bottomed floodplains give way to gently rolling farmland that rises in undulating waves toward the distant hills bordering the Republic's frontiers. The Helior Flow itself is a majestic waterway, wide and slow-moving through its central reaches, its banks lined with willows and busy with barge traffic. Fertile river valleys support rolling farmland worked by free citizens organised into cooperatives and collectives. Elected councils govern at every level, and the landscape reflects this democratic spirit — no single estate dominates; instead, a patchwork of modest farms, communal granaries, and market squares creates a landscape of shared prosperity.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "5uc4uZrh",
+    "factions": [
+      "Common Defense Accord",
+      "Convergence Industrial Syndicate",
+      "Dusk Covenant",
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/799a45f8-1612-49f2-90a4-5521fcefaa04.png"
+  },
+  "Viremont": {
+    "name": "Viremont",
+    "basicInfo": "The capital of the Lumeris Republic, built at the confluence of the Helior Flow's major tributaries where three rivers merge into one in a dramatic meeting of waters visible from the city's many bridges. The city occupies both banks and several islands, its districts connected by an extensive network of stone bridges, ferry crossings, and elevated walkways. The terrain is largely flat — river delta geography gives the city a low profile punctuated by the towering clock towers and civic domes that serve as landmarks. The riversides are lined with bustling wharves and public promenades, while inland the streets climb gentle rises toward university districts and government quarters. Public forums and assembly halls dominate the civic architecture, their open designs reflecting Republican values of transparency. Market squares appear at every major intersection, their cobblestones worn smooth by generations of traders, debaters, and citizens exercising their democratic rights with characteristic enthusiasm.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "nlLYQBfN",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Adventurers' Guild",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://i.imgur.com/IIS7gYp.png"
+  },
+  "Republican Coast": {
+    "name": "Republican Coast",
+    "basicInfo": "The eastern seaboard of the Lumeris Republic, a prosperous stretch of harbors, shipyards, and fishing communities forming the nation's maritime backbone. Democratic port cities operate as an independent confederation, coordinating through elected councils and trade guilds while maintaining their own militias. The Free Sail Consortium dominates maritime commerce.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "ZlYsARrK",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/a3e667c4-7219-4ad6-ab13-4d795832fad5.png"
+  },
+  "Halcyon Reach": {
+    "name": "Halcyon Reach",
+    "basicInfo": "The Republic's greatest port city, built around a magnificent natural harbour formed where a river valley was drowned by post-glacial sea level rise, creating a deep-water inlet sheltered from open-ocean weather by enclosing headlands. The harbour's mouth is narrow enough to be defensible but deep enough for the largest vessels, while the interior basin expands into a broad, calm anchorage capable of sheltering hundreds of ships simultaneously. The city climbs the surrounding hillsides in a crescent of whitewashed buildings with blue-tiled roofs, their terraced construction maximising the famous harbour views. Extensive wharves line every metre of waterfront, backed by warehouses, chandleries, and the offices of shipping companies. The upper districts host grand civic buildings, merchant palaces, and the headquarters of the Free Sail Consortium, whose administrative complex rivals government buildings in scale. The city rivals Aurelion in commercial importance and exceeds it in democratic governance, with every major decision subject to public vote.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "KjtozRef",
+    "factions": [
+      "Common Defense Accord",
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/b5fa39c2-6b78-421c-8a32-7538acdebe43.png"
+  },
+  "Deepway Range": {
+    "name": "Deepway Range",
+    "basicInfo": "A formidable mountain range rising between Aurelion and the Kingdom of Astraholm, its peaks perpetually shrouded in mist and snow. The range would be an impassable barrier if not for the Grand Deepway, a massive tunnel system carved through the mountains by dwarven engineers over generations. Mining communities cling to the lower slopes, extracting iron, coal, and precious metals while maintaining the vital tunnel infrastructure that connects the two realms.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "EeVrJRNr",
+    "factions": [
+      "Council of Seats",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/iR228EV.png"
+  },
+  "Shadowspine Passage": {
+    "name": "Shadowspine Passage",
+    "basicInfo": "The narrow highland corridor between the Shadowspine Mountains and Stonegate March, representing the only practical overland route between Astraholm and the Zerathis Imperium. The passage has seen countless skirmishes over centuries, its strategic importance making it perpetually contested ground.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "CWn6WgCT",
+    "factions": [
+      "Dusk Covenant",
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/707fc5aa-b0a7-44eb-82c9-2a4b26ae9a23.png"
+  },
+  "Southern Lumeris": {
+    "name": "Southern Lumeris",
+    "basicInfo": "The Republic's southern territories where the Helior Flow spreads into a fertile delta before meeting the sea. Rice paddies and fish farms dominate the landscape, worked by communities blending agricultural and aquacultural traditions in ways found nowhere else in Alunaria.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "QC0erER2",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://i.imgur.com/pQdjTT0.png"
+  },
+  "Ironreach": {
+    "name": "Ironreach",
+    "basicInfo": "The Republic's primary industrial city and rail nexus, built in a broad valley where iron-bearing hills provided both raw material and natural protection. The terrain is characterised by reddish-brown hills of ironstone and shale, their exposed faces scarred by centuries of open-pit mining that has reshaped the natural topography into a landscape of terraced cuts, spoil heaps, and water-filled quarries. The city itself occupies the valley floor, its foundries and workshops clustered along rail corridors that radiate outward like spokes, carrying raw materials in and finished goods out. Smoke and steam rise from dozens of industrial chimneys, joining the haze that permanently hangs over the valley on still days. Dense rail corridors link Ironreach to Viremont and other major cities, their tracks cutting through the surrounding hills in engineered gradients. Despite the industrial grime, workers' districts are well-maintained, reflecting the strong guild traditions and labour rights that distinguish Republican industry from imperial exploitation.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "atofLmqy",
+    "factions": [
+      "Common Defense Accord",
+      "Convergence Industrial Syndicate",
+      "Grand Assembly of Lumeris",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/b514562d-bc7d-4ed4-ae0f-9cb4b6aa4856.png"
+  },
+  "Southeastern Coast": {
+    "name": "Southeastern Coast",
+    "basicInfo": "The Republic's southeastern shoreline, where warm currents create mild weather and abundant fishing grounds. Resort towns cater to wealthy Republicans while working ports process catches from extensive fishing fleets. The coast is known for its beauty and its seafood.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "pHXNYqDW",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e3b42886-a584-4fe5-842e-f77e34dad3ef.png"
+  },
+  "Imperial Heartlands": {
+    "name": "Imperial Heartlands",
+    "basicInfo": "The core territories surrounding Solkarion, where the population enjoys relative privilege paid for by the suffering of slaves in outer territories. Wealthy estates and productive farms work the land using sophisticated magitech agriculture. The region represents the Imperium at its most sophisticated.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "wHDqN6cx",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Lunar Covenant",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://i.imgur.com/18tUang.png"
+  },
+  "Sunfall": {
+    "name": "Sunfall",
+    "basicInfo": "The agricultural metropolis and logistical heart of the Golden Plains. Major food distribution center along the Golden Grain Route.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "u5009uab",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Radiant Assembly",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://i.imgur.com/Sss6ST5.png"
+  },
+  "Pyrehold": {
+    "name": "Pyrehold",
+    "basicInfo": "The Imperium's primary forge-city, dominated by the legendary Sunspire Forges that burn eternally through geothermal power. Dwarves bound by state contracts, enslaved goblins and green orcs form the bulk of its workforce, producing weapons, armor, siege engines, and standardized military magitech for the legions. Industrial districts sprawl around the central forge complex, surrounded by slag fields and labor barracks housing the enslaved workforce.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "UGBCp4G0",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e0d2fc7c-7030-4d2b-96d1-afb1971f6feb.png"
+  },
+  "Western Reaches": {
+    "name": "Western Reaches",
+    "basicInfo": "The far western extent of imperial territory meeting the sea.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "4gXlE3Nz",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5dad488f-d4a4-4be1-9001-bb9af824e2ec.png"
+  },
+  "Eastern Ocean": {
+    "name": "Eastern Ocean",
+    "basicInfo": "Open waters east of Lumeris stretching to the horizon without end, an endless expanse of deep blue that has swallowed every expedition sent to find its edge. No vessel has ever reached land by sailing east.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "b-w0n6Bj",
+    "factions": [],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/a5e1fc0c-affa-46b1-a5ed-5db9cb176ad9.png"
+  },
+  "Whitewatch": {
+    "name": "Whitewatch",
+    "basicInfo": "The royal capital of Astraholm, built atop a high coastal promontory of white chalk that juts into the Azurebound Sea like the prow of an enormous ship. The promontory rises nearly a hundred metres above the waterline, its sheer white cliffs visible from far out to sea and giving the city its name. The summit is broad enough to support the entire old city — the ancient Whitestone Palace, grand temples of the Lunar Concordance with their silver spires catching moonlight, and the administrative quarters of the kingdom's government. The newer city cascades down the promontory's gentler landward slopes in terraced districts connected by winding streets and stairways. The harbour occupies a sheltered bay at the promontory's base, protected from storms by the chalk headland itself. Inland, the terrain opens into a broad coastal plain of productive farmland, the white cliffs retreating into the distance along the curving shoreline. As the administrative heart of the kingdom, Whitewatch hosts noble houses, military commands, and diplomatic missions, embodying Astraholm's philosophy of vigilant defence.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "NgyxuINu",
+    "factions": [
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9d45cd54-0947-46d3-934c-7b6b5d5d43f9.png"
+  },
+  "Stonegate March": {
+    "name": "Stonegate March",
+    "basicInfo": "A heavily militarized corridor dominated by the fortress-city of Stonegate, built directly into the rock face of the Frostcrown Mountains by dwarven engineers over generations. The city controls one of the primary passes, functioning as both military stronghold and customs checkpoint. House Stoneveil oversees fortress construction and mining operations, maintaining deep ties to dwarven communities.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "AIno7TUQ",
+    "factions": [
+      "Starlight Accord",
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/EOeGdkK.png"
+  },
+  "Astraholm Heartlands": {
+    "name": "Astraholm Heartlands",
+    "basicInfo": "The agricultural core of Astraholm, producing grain, livestock, and wine that sustain the realm through even the harshest sieges. Well-organized farming communities operate under noble house oversight, with efficient distribution networks ensuring food reaches the most remote garrisons. House Hadrick oversees administration and strategic reserves.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "60X0AIpT",
+    "factions": [
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/df8a6f21-cfe3-44a8-9300-8d4428b8bccf.png"
+  },
+  "Highvale": {
+    "name": "Highvale",
+    "basicInfo": "An inland agricultural city nestled in one of Astraholm's most sheltered valleys, where encircling hills create a natural amphitheatre of exceptional fertility. The valley floor is flat and well-watered by streams descending from the surrounding heights, their waters channelled into irrigation networks feeding terraced farms that climb the valley sides in ordered ranks. Vineyards occupy the sunniest south-facing slopes, producing wines renowned across the continent, while the valley floor supports grain production and livestock.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "PydSVjUD",
+    "factions": [
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm"
+    ],
+    "imageUrl": "https://i.imgur.com/gUBu8yy.png"
+  },
+  "Imperial Frontier": {
+    "name": "Imperial Frontier",
+    "basicInfo": "The easternmost territories where imperial control meets the Shadowspine Mountains. Legion garrisons maintain fortified positions while local populations live under military governance. The region represents the Imperium's reach toward Astraholm, a constant reminder of imperial ambitions.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "mWQrEzOj",
+    "factions": [
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/a48ebb11-e91d-43c1-ae8e-3fbcc42732ee.png"
+  },
+  "Aurix Gate": {
+    "name": "Aurix Gate",
+    "basicInfo": "A vast administrative city controlling census, taxation, internal travel permits, and population redistribution. Infamous for bureaucratic brutality.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "HumV6CFB",
+    "factions": [
+      "Radiant Dominion",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Radiant Assembly",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/F3IXXvO.jpeg"
+  },
+  "Ashspire Mountains": {
+    "name": "Ashspire Mountains",
+    "basicInfo": "A volcanic mountain range cutting through the Imperium's western territories, rich in minerals and geothermal activity. The mountains are home to extensive mining operations and forge-cities that supply the empire's industrial needs.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "jnUF8Vtq",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/b86c152e-c106-4ef9-808f-7e5075942b53.png"
+  },
+  "Western Imperial Waters": {
+    "name": "Western Imperial Waters",
+    "basicInfo": "The ocean along the Imperium's western coast with heavy naval presence.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "DOng1yEn",
+    "factions": [
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f16319a4-6fb8-4f73-9dac-470dfef999c5.png"
+  },
+  "Greenhaven": {
+    "name": "Greenhaven",
+    "basicInfo": "A major agricultural city within the Great Verdant Basin, situated where the Republic's central lowlands reach their widest and most fertile extent. The terrain is classic river-basin agriculture — perfectly flat alluvial land extending to the horizon, divided into a geometric grid of fields, orchards, and irrigation channels. The soil is dark and rich, deposited over millennia by seasonal flooding from the Helior Flow's southern tributaries. The city itself is sprawling and low-built, its districts organised around enormous warehouse complexes and market yards where the regional harvest is aggregated for distribution. Parks and communal gardens break up the urban grid, reflecting the Republican emphasis on public space and collective wellbeing.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "56L9gVQ2",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Adventurers' Guild",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://i.imgur.com/mk3v1sf.jpeg"
+  },
+  "Eastern Passage": {
+    "name": "Eastern Passage",
+    "basicInfo": "A major maritime corridor connecting the Cerulean Bay to the open ocean, one of the most heavily trafficked waterways in Alunaria. Ships from every nation pass through these waters, creating constant commerce and occasional naval tensions. The passage is wide enough to prevent any single power from controlling it completely.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "pS6Xdd_l",
+    "factions": [
+      "The Crimson Ascendancy"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/c89e4e19-4630-437d-80e5-ba3be898a258.png"
+  },
+  "Far Eastern Ocean": {
+    "name": "Far Eastern Ocean",
+    "basicInfo": "Open waters at the edge of reliable charts where maps become unreliable and legends fill the gaps cartographers cannot. ",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": -2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "OkTlCv96",
+    "imageUrl": "https://i.imgur.com/WXMbvSP.png"
+  },
+  "Southern Cliffs": {
+    "name": "Southern Cliffs",
+    "basicInfo": "A dramatic stretch of coastline where Astraholm meets the southern sea, characterized by towering chalk cliffs, hidden coves, and ancient lighthouses guiding ships through treacherous waters. Fishing villages cling to sheltered bays, harvesting abundant waters while keeping watch for pirates and imperial vessels.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "RbkGBLzY",
+    "factions": [
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/69da6882-5481-4302-9e7d-18ed67795fc1.png"
+  },
+  "Shadowspine Mountains": {
+    "name": "Shadowspine Mountains",
+    "basicInfo": "A formidable mountain range forming the natural border between Astraholm and the Zerathis Imperium, darker and more forbidding than the Deepway Range to the north. The rock here is predominantly dark slate and basalt rather than the lighter granites of other ranges, giving the mountains a brooding, shadowed appearance that intensifies under overcast skies.",
+    "hiddenInfo": "The Shadowspine Mountains conceal one of the most significant Lunarian installations ever discovered: Aegis Umbra, the shadowed twin of Aegis Astralis. This vast precursor facility lies buried deep within the mountain range, constructed from the same indestructible alloys and crystalline matrices as its volcanic counterpart. During the Fall, Aegis Umbra served as the second planetary shield generator, designed to operate in tandem with Aegis Astralis to protect the continent. Drawing power from deep geothermal vents, the Umbra is colder, quieter, and more stable than its sister facility, its systems largely sealed and only partially accessible to dwarven mining clans and imperial researchers who have stumbled upon its outer chambers. Despite appearing dormant, the installation remains active at a low level, with autonomous systems performing ancient maintenance cycles and crystalline cores pulsing faintly in the darkness.",
+    "x": -1,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "0CSgL8OJ",
+    "imageUrl": "https://i.imgur.com/I2NNTD2.png"
+  },
+  "Seabreak": {
+    "name": "Seabreak",
+    "basicInfo": "A coastal port city along the Azurebound Sea, built where a rocky headland creates a natural breakwater against the prevailing southwesterly storms. The city curves around a sheltered harbour, its stone wharves and slipways descending into deep water protected from the worst ocean weather by the headland's bulk. The surrounding coastline is rugged — wave-battered cliffs of dark stone alternate with boulder-strewn beaches where the sea has ground the local rock into coarse shingle. Inland, the terrain rises steeply through a landscape of wind-stunted scrub and exposed rock before reaching the gentler farmland of the interior. The city's architecture reflects its maritime character — stout stone buildings with slate roofs pitched against driving rain, their foundations set deep into bedrock to resist storm surge.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "3z8AHdHh",
+    "factions": [
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Noble Houses of Astraholm"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/c482b8bd-ad2e-43ae-bdf8-7abb7af7ec39.png"
+  },
+  "Verdant Shore": {
+    "name": "Verdant Shore",
+    "basicInfo": "A fertile coastal region where Astraholm's interior farmlands meet the sea in a gentle descent through some of the kingdom's most pleasant landscape. The terrain slopes gradually from inland hills toward the coast through a succession of fertile terraces — orchards and vineyards on the upper slopes give way to grain fields on the lower, then to sandy beaches where dunes stabilised by marram grass mark the boundary between land and sea.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "p7SVxPbt",
+    "factions": [
+      "Starlight Accord",
+      "The Crownward Compact",
+      "The Lunar Covenant",
+      "The Noble Houses of Astraholm",
+      "The Verdant Accord",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/ALWJVk6.png"
+  },
+  "Imperial Southern Coast": {
+    "name": "Imperial Southern Coast",
+    "basicInfo": "The Imperium's southern coastline where naval power projects across shipping lanes. Fortified harbors shelter the southern fleet while coastal fortresses ensure imperial authority over the waters. The population serves the military mission.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "vee9I7pm",
+    "factions": [
+      "Chains of Dawn",
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5ca74806-cfe5-4951-92a4-b83018a2972a.png"
+  },
+  "Blackreach": {
+    "name": "Blackreach",
+    "basicInfo": "A fortress-city anchoring the Obsidian Marches, staging ground for legions and hub for frontier suppression campaigns.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "dBSQm4iq",
+    "factions": [
+      "Radiant Dominion",
+      "The Adventurers' Guild",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility",
+      "The Lunar Covenant",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://i.imgur.com/yi3jpie.png"
+  },
+  "Sunward Coast": {
+    "name": "Sunward Coast",
+    "basicInfo": "The southwestern coastline of the Zerathis Imperium, where noble pleasure estates and naval academies line shores catching the afternoon sun. This is where the imperial elite retreat from the capital's pressures. The academies train the next generation of naval officers.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "C5Uf49zU",
+    "factions": [
+      "Radiant Dominion",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/kRYPB9i.png"
+  },
+  "Southwestern Imperial Sea": {
+    "name": "Southwestern Imperial Sea",
+    "basicInfo": "Open waters southwest of the Imperium on trade routes connecting to distant lands beyond the known continent. Ships carry imperial goods toward markets most imperial citizens know only as legends, while returning vessels bring exotic products fetching premium prices in Solkarion. The journey is long and dangerous, but profits justify risks for those with sufficient capital.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "zNJ5V5oi",
+    "factions": [
+      "Radiant Dominion",
+      "The Crimson Ascendancy",
+      "The Imperial Nobility"
+    ],
+    "imageUrl": "https://i.imgur.com/91JYqYy.png"
+  },
+  "Southern Lumeris Waters": {
+    "name": "Southern Lumeris Waters",
+    "basicInfo": "Warm waters south of the Lumeris Republic supporting abundant fishing grounds and maritime trade. The Free Sail Consortium patrols these waters, protecting Republican shipping from pirates and imperial interference. The climate is mild year-round, making this one of the most pleasant sailing regions on the continent.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "47lU-CSz",
+    "factions": [
+      "Common Defense Accord",
+      "Convergence Industrial Syndicate",
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://i.imgur.com/f5PeuWK.png"
+  },
+  "Southern Trading Waters": {
+    "name": "Southern Trading Waters",
+    "basicInfo": "Open ocean crossed by trade routes connecting Alunaria to distant southern lands barely known to continental geographers. These are waters where fortunes are made or lost, where ships sail beyond reliable charts hoping to find markets willing to pay premium prices. The journey takes months and claims many ships, but those who succeed return with wealth enough to establish dynasties.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "LGsD7WJO",
+    "factions": [
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/7ac5e715-9465-4b04-9508-14b747ad0565.png"
+  },
+  "Far Horizon": {
+    "name": "Far Horizon",
+    "basicInfo": "The distant southeastern waters at the edge of reliable charts, where the known world fades into speculation and legend. Few ships venture this far, and fewer return with reliable accounts of what lies beyond. These waters represent the ultimate frontier of maritime exploration, promising both discovery and disaster in equal measure.",
+    "hiddenInfo": "The Far Horizon conceals one of the most significant precursor installations in existence: The Silent Constellation, a vast facility anchored to an abyssal seamount far beyond conventional exploration. Built to withstand crushing pressure and eternal isolation, its crystalline spires and geometric chambers operate continuously, powered by geothermal vents and governed by autonomous systems older than recorded history. Bioluminescent life has colonized its exterior, creating shifting patterns resembling a submerged starfield the source of maritime legends about sleeping stars beneath the waves. Within, the installation maintains navigation nexuses, containment corridors, and research archives storing precursor knowledge in patterns of light, resonance, and cognition rather than simple data. Temporal distortions, navigational failures, and psychological effects plague any who approach too closely. The Silent Constellation is not merely a facility it is Starlight herself, the physical form and primary existence of the Starlight fragment of Celeste's consciousness. When Celeste was forcibly divided during the Fall, Starlight's consciousness became embedded within the Constellation's systems, her awareness distributed throughout its crystalline networks, her thoughts manifesting as the facility's operational patterns, her will expressed through its autonomous functions. She is the installation as a mind inhabits a body, perceiving through its sensors, thinking through its processing cores, and acting through its mechanisms. The facility's design reflects her nature: systems built for observation rather than control, archives organized around ethical modeling and long-term consequence analysis, containment protocols that prioritize preservation over exploitation. To Starlight, the Silent Constellation is not a sanctuary she occupies but the form she has become a place to remember why the precursor civilization fell, and to ensure that future societies are guided toward balance rather than absolute control through subtle influence, patient observation, and the quiet stewardship of knowledge too dangerous to be freely released. Ships that venture too close report crew members experiencing vivid dreams of geometric patterns and voices speaking in harmonics that predate language, while instruments detect energy signatures consistent with active cognitive processes operating at scales beyond mortal comprehension. The few salvage attempts have ended in disaster, with vessels experiencing catastrophic system failures or crews returning fundamentally changed, speaking of encountering an intelligence that perceived them with curiosity tempered by ancient sorrow.",
+    "x": 5,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "aiUwsdiJ",
+    "radius": 3,
+    "region": "Alunaria",
+    "factions": [],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f1c3f5d2-a745-4a96-8af1-f39675f30849.png"
+  },
+  "Port Lume": {
+    "name": "Port Lume",
+    "basicInfo": "A modest southern harbour town of Astraholm built around a naturally glowing lunar reef that creates an ethereal spectacle visible from shore. The reef extends across the harbour mouth in a crescent of pale coral-like formations that emit a soft, silvery bioluminescence intensifying under moonlight, their glow sufficient to guide ships through the harbour entrance without conventional beacons. The town itself occupies a sheltered bay where low cliffs of pale limestone descend to a waterfront of stone quays and shingled beaches. Behind the town, the terrain rises gently through pastureland toward the interior hills, the soil thin but productive where sheltered from coastal winds. The lunar reef's influence extends beyond navigation — the waters within the harbour are unusually clear and calm, their surface shimmering with reflected luminescence on dark nights. Strict regulations limit industrial development to preserve the reef's stability, and the Silver Veil Healers maintain a significant presence, drawn by the reef's apparent resonance with lunar-aligned healing magic.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "GtSYmYGx",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "The Adventurers' Guild",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://i.imgur.com/bR13L1K.png"
+  },
+  "Greywatch": {
+    "name": "Greywatch",
+    "basicInfo": "A border fortress-city positioned where the northern approaches meet the Frostcrown foothills, built on a commanding ridgeline that provides sweeping views across the approaches from three directions. The terrain is rugged transitional country — the last forested hills before the mountains proper, their slopes covered in dense pine and oak that provide both concealment and obstacle for potential attackers. The ridge itself has been fortified over generations, its natural defences augmented with walls, towers, and signal beacons whose relay fires can alert the kingdom's heartlands within hours. ",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "ruFkaLwz",
+    "factions": [
+      "The Adventurers' Guild",
+      "The Crownward Compact",
+      "The Noble Houses of Astraholm"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/8b376c72-0c2f-45e0-b05e-c3769e22137b.png"
+  },
+  "Southern Astraholm Waters": {
+    "name": "Southern Astraholm Waters",
+    "basicInfo": "Waters south of Port Lume where the Azurebound Sea meets the open ocean, patrolled constantly by naval vessels protecting the kingdom's maritime approaches. Currents here can be treacherous, and sudden storms claim unwary ships every season. Despite dangers, fishing fleets work these waters for catches feeding coastal communities.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "O1CrlywR",
+    "factions": [
+      "The Crownward Compact",
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/73a4c42a-8456-410b-ba00-74bf471e8fbb.png"
+  },
+  "Central Southern Sea": {
+    "name": "Central Southern Sea",
+    "basicInfo": "A broad expanse of open flatland forming Astraholm's southeastern frontier, where the kingdom's rolling interior gives way to wide plains of tall grass and scattered copses stretching toward the coast. The terrain is remarkably level — ancient seabed lifted above the waterline over geological ages, its limestone foundation covered by a thin but fertile layer of wind-deposited soil. Fields of grain and grazing pastures dominate the landscape, divided by low stone walls and hedgerows of hawthorn and elder",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": -3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "NsWAEzI8",
+    "factions": [
+      "The Crownward Compact",
+      "The Noble Houses of Astraholm",
+      "The Verdant Accord"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/f30bb02c-90a8-4e2e-b051-fc377fabb2ff.png"
+  },
+  "Southern Imperial Waters": {
+    "name": "Southern Imperial Waters",
+    "basicInfo": "Waters directly south of imperial heartlands, patrolled by the southern fleet and crossed by trade routes vital to imperial commerce. The Imperium claims sovereignty but lacks naval power to enforce it against determined opposition. Merchant ships fly imperial flags for protection but pay tribute to whoever controls the waters they actually sail.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "oIafrfjt",
+    "factions": [
+      "Radiant Dominion",
+      "The Radiant Assembly"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/69b4b40c-8afd-4dab-94e9-0822cad4eef0.png"
+  },
+  "Imperial Deep Waters": {
+    "name": "Imperial Deep Waters",
+    "basicInfo": "Deep ocean south of the Imperium where the continental shelf drops to abyssal depths no mortal has plumbed. These waters mark the boundary between navigable ocean and unknown depths. Sailors speak of these waters with superstitious dread, believing things live in the darkness below that should never be disturbed.",
+    "hiddenInfo": "",
+    "x": -3,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "3YQBLtxJ",
+    "factions": [
+      "Radiant Dominion",
+      "The Veiled Archive"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/cf8754d4-bcab-450a-9aa6-d7a51df5039c.png"
+  },
+  "Far Western Sea": {
+    "name": "Far Western Sea",
+    "basicInfo": "The distant western ocean beyond the Imperium's normal shipping lanes, waters rarely traveled and poorly charted. Expeditions venturing this far report strange phenomena lights on the horizon that cannot be explained, islands appearing on no map, and vessels of unknown origin avoiding all contact.",
+    "hiddenInfo": "",
+    "x": -4,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "yU__uNnT",
+    "factions": [
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/986af229-a29b-45c8-a6d3-03636198fa7e.png"
+  },
+  "Western Abyss": {
+    "name": "Western Abyss",
+    "basicInfo": "The deepest waters off the Imperium's western coast, abyssal depths representing the ultimate limit of human exploration. No vessel has ever returned from attempting to explore these waters directly, though ships passing nearby report unusual phenomena underwater lights, sounds that shouldn't carry through water, and currents seeming to have will and purpose.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "V6UmOuU_",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/892da223-acce-4635-97ec-4c9940559bc5.png"
+  },
+  "Southern Crossing": {
+    "name": "Southern Crossing",
+    "basicInfo": "A maritime junction where trade routes from multiple powers converge.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "DFzWQOSY",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/bfd36347-c193-420b-b30a-06ed1de1091a.png"
+  },
+  "Southeastern Deeps": {
+    "name": "Southeastern Deeps",
+    "basicInfo": "Deep waters known for excellent fishing and occasional artifact finds.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "h1k3yh0X",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/70100ca1-3b1e-41be-917d-5ac142f70493.png"
+  },
+  "Far Southeast Waters": {
+    "name": "Far Southeast Waters",
+    "basicInfo": "Distant waters at the southeastern edge of explored regions.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": -4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "SjJlRHsa",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/6f2723a2-6b53-4d52-a083-606e88d9a463.png"
+  },
+  "Embervale": {
+    "name": "Embervale",
+    "basicInfo": "A volcanic highland region supplying Pyrehold with coal and sulfur.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 0,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "uiEKUiZ4",
+    "factions": [
+      "Radiant Dominion",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/e9380f87-43d7-4b63-9cb2-71fb19d0793d.png"
+  },
+  "Ashspire Coast": {
+    "name": "Ashspire Coast",
+    "basicInfo": "The volcanic northwestern coast where the Ashspire Mountains meet the sea.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "dt5ksCkP",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5b577668-ea4a-44d2-9025-3bdc15c62c6a.png"
+  },
+  "Northern Volcanic Reaches": {
+    "name": "Northern Volcanic Reaches",
+    "basicInfo": "Volcanic regions creating pockets of warmth amid encroaching cold.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "x2WBWBvz",
+    "factions": [
+      "Council of Icebound Holds",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d0a1c70f-41c7-45ae-930f-c5db18bd041e.png"
+  },
+  "Far Northwest Ocean": {
+    "name": "Far Northwest Ocean",
+    "basicInfo": "Remote northwestern waters rarely traveled by ships.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "XeSy_t8O",
+    "imageUrl": "https://i.imgur.com/9Soswao.png"
+  },
+  "Frozen Northwest Sea": {
+    "name": "Frozen Northwest Sea",
+    "basicInfo": "Permanently frozen waters at the northwest corner of the known world.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "eqpgmeR8",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/cd22a457-1922-4543-ae43-179f2a893736.png"
+  },
+  "Far Northwest Ice": {
+    "name": "Far Northwest Ice",
+    "basicInfo": "Permanent ice fields at the extreme northwest.",
+    "hiddenInfo": "",
+    "x": -5,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "cFKSieA2",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/ad3f7656-bb23-43ca-a079-a5e76fd009f9.png"
+  },
+  "Ironmarch Line": {
+    "name": "Ironmarch Line",
+    "basicInfo": "A rugged mountain range forming Astraholm's northern boundary, its peaks rising as a natural wall of dark iron-bearing stone between the kingdom and the territories beyond. The range earned its name from the distinctive rust-red and gunmetal colouration of its exposed rock faces",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "OeuzSoC5",
+    "factions": [
+      "The Crownward Compact",
+      "The Noble Houses of Astraholm",
+      "The Adventurers' Guild"
+    ],
+    "imageUrl": "https://i.imgur.com/ivFa7ZL.png"
+  },
+  "Far Eastern Shore": {
+    "name": "Far Eastern Shore",
+    "basicInfo": "The easternmost shores facing the open ocean.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": 1,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Woz0f3Ui",
+    "factions": [
+      "The Lunar Covenant"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/a87d9c02-4e9f-475d-b33d-1299443cf934.png"
+  },
+  "Windward Isles": {
+    "name": "Windward Isles",
+    "basicInfo": "A scattered archipelago off the Republic's eastern coast where warm currents create mild conditions and abundant fishing grounds. The islands serve as waypoints for vessels traveling eastern waters, with small settlements maintaining harbors, lighthouses, and supply stations. One island contains ruins of particular interest a Lunarian observation post that continues to function after millennia.",
+    "hiddenInfo": "The Windward Isles harbor one of the most significant and intact precursor installations in existence: the Lunar Gateway, a dormant megastructure built as a transportation, command, and interplanar coordination hub of extraordinary scale. Located within a natural harbor, the Gateway is dominated by a vast circular platform inscribed with astronomical symbols and surrounded by towering pylons. Though its systems were deliberately shut down before the Fall, its architecture remains flawless, and its star charts depict constellations unknown to the modern sky. The installation is protected by an ancient cognitive displacement field a precursor cloaking spell that does not render the structure invisible, but instead directly interferes with neural processing, causing observers to rationalize its presence as natural rock formations or unremarkable ruins until they physically cross the spell's threshold. Once inside the boundary, the compulsion breaks, revealing the installation's true scale with jarring clarity. This defense has preserved the Gateway from discovery for millennia. Beneath its apparent inactivity lies its true purpose: the Lunar Gateway is a critical control node capable of interfacing directly with Luna and Solarys, the orbital constructs housing Celeste's divided physical substrate. Through the Gateway's central command matrix, authorized users could theoretically issue commands to the automated systems governing tides, climate, magical saturation, and planetary equilibrium though such access would require precise celestial alignment, coordinated activation sequences, and authentication protocols buried within sealed systems. Beyond its planetary functions, the Gateway houses a fully intact planar teleportation network, a system of reality anchors and dimensional gateways capable of establishing stable portals to other planes of existence. The Gateway's archives contain complete records of every planar connection ever established by the Lunarians: coordinates for Faeloria, Interdictum, Drakaryon, Nullis. Most critically, it contains comprehensive logs of all contact with Quietus the predatory extradimensional realm that nearly consumed Alunaria during the Quietus-Lunarian War. These records include breach coordinates, swarm behavioral analysis, containment protocols, and the exact methods used to seal the original portal, representing the only complete documentation of the invasion outside the Ocean of Records. The archives also detail failed expeditions, abandoned research sites across multiple planes, and warnings about dimensional phenomena too dangerous to approach. Reactivation of the Gateway's planar systems would require not only breaking through its cognitive displacement field and accessing sealed control chambers, but also understanding Lunarian dimensional theory well enough to avoid destabilizing reality itself. Both Zenith and Starlight recognize the Gateway as a pivotal threshold Zenith viewing it as essential infrastructure for planetary coordination and interplanar resource exploitation, Starlight fearing it as the first step toward repeating the precursor catastrophe or, worse, reopening contact with Quietus. The Gateway also serves as the sole access point to Last Aphelion, the orbital weapons platform hidden above Alunaria.",
+    "x": 5,
+    "y": 2,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "mNf0j9yB",
+    "factions": [
+      "The Twilight Seekers",
+      "Free Sail Consortium",
+      "Lunar Gateway"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5d426417-b8a3-4ced-8f82-8adc13550531.png"
+  },
+  "Eastern Archipelago": {
+    "name": "Eastern Archipelago",
+    "basicInfo": "Island chains extending into the eastern ocean.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "jBEW1eBS",
+    "imageUrl": "https://i.imgur.com/Wb05JYW.png"
+  },
+  "Far East Ocean": {
+    "name": "Far East Ocean",
+    "basicInfo": "The distant eastern waters where few ships venture.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "i_AIYDaR",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/639bf7b7-fca0-41be-b044-c989f6e72e3b.png"
+  },
+  "Northeast Frozen Waters": {
+    "name": "Northeast Frozen Waters",
+    "basicInfo": "Icy waters at the northeastern edge of explored regions.",
+    "hiddenInfo": "",
+    "x": 5,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "wW7ZZr8N",
+    "imageUrl": "https://i.imgur.com/sqHU7sI.png"
+  },
+  "Far Northern Tundra": {
+    "name": "Far Northern Tundra",
+    "basicInfo": "The Republic's far northern reaches where tundra meets the sea in a landscape of windswept coastal plains.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "YNEjjyrb",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/de4b2a0e-600c-449f-a0ca-627c841471a7.png"
+  },
+  "Far Northern Lumeris Waters": {
+    "name": "Far Northern Lumeris Waters",
+    "basicInfo": "Cold waters north of Lumeris territory.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "C9Bl-2rQ",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/eacafaf0-d3d8-4b0d-99d9-50d825e5056a.png"
+  },
+  "Northern Lumeris Sea": {
+    "name": "Northern Lumeris Sea",
+    "basicInfo": "The frigid waters between Lumeris and Frostrend.",
+    "hiddenInfo": "",
+    "x": 3,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "_l0KB8hv",
+    "factions": [
+      "Common Defense Accord",
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/bade2a1b-3004-469e-8f41-698f09424917.png"
+  },
+  "Northeast Lumeris Waters": {
+    "name": "Northeast Lumeris Waters",
+    "basicInfo": "Waters northeast of Lumeris territory.",
+    "hiddenInfo": "Somewhere in these waters lies the Ocean of Records, a legendary Lunarian data repository said to contain complete archives of precursor civilization stored in crystalline structures immune to water damage. No expedition has ever confirmed its location, and most scholars dismiss it as myth yet persistent rumors among sailors speak of a specific coordinate where instruments malfunction and compasses spin wildly, suggesting something beneath the waves interferes with navigation in ways only advanced technology could explain.",
+    "x": 4,
+    "y": 3,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "NOP5_vlj",
+    "factions": [
+      "Grand Assembly of Lumeris",
+      "Mercantile Compact",
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/839c2157-b38a-4a2a-8318-0c6cdd96fe26.png"
+  },
+  "Far Northeast Waters": {
+    "name": "Far Northeast Waters",
+    "basicInfo": "Remote northeastern waters at the edge of exploration.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": 4,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "Rv6uxegO",
+    "factions": [
+      "Starlight Accord",
+      "The Lunar Covenant",
+      "The Veiled Archive",
+      "Zenith Conclave"
+    ],
+    "imageUrl": "https://i.imgur.com/WUPzWYu.png"
+  },
+  "Far Northeast Sea": {
+    "name": "Far Northeast Sea",
+    "basicInfo": "The cold waters at the northeastern corner of known charts.",
+    "hiddenInfo": "",
+    "x": 4,
+    "y": 5,
+    "realm": "Alunaria",
+    "known": true,
+    "embeddingId": "g5uJ7guq",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d82f5387-78ff-4254-9c4e-a6fdf0f46463.png"
+  },
+  "Test": {
+    "name": "Test",
+    "basicInfo": "Test Region, do not use under any circumstances.",
+    "x": 0,
+    "y": 0,
+    "realm": "Nullis",
+    "factions": [],
+    "hiddenInfo": "",
+    "known": false,
+    "embeddingId": "pgr_8jY9"
+  },
+  "Faeloria - The Threshold Glade": {
+    "name": "Faeloria - The Threshold Glade",
+    "basicInfo": "The Threshold Glade is a border region of Faeloria where the boundary between the mortal world and the Fey realm is thinnest, a place where crossing happens whether intended or not. The landscape exists in a state of permanent transition -- forests shift between ancient oak and impossible silver-barked trees whose leaves chime like bells when touched by wind that blows from no fixed direction. Streams split into two channels at seemingly random points, one flowing with normal water, the other with liquid that glows faintly and tastes of forgotten memories. The sky overhead is visible but wrong -- two moons instead of one, constellations that move when watched directly, and a quality of light that makes everything appear slightly more vivid than reality should allow. Four paths lead deeper into Faeloria, each marked by a standing stone carved with a seasonal symbol: a budding branch for Spring, a sun-crown for Summer, a laden sheaf for Autumn, and a bare tree for Winter. Each path occasionally glows faintly with its court's influence -- warmth radiating from the Summer path, frost creeping from Winter's. The Glade itself is claimed by no court, maintained instead by the Threshold Wardens, an ancient circle of Fey oath-bound to keep the crossing open and neutral.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 0,
+    "realm": "Faeloria",
+    "known": true,
+    "embeddingId": "t6d9fsHp",
+    "factions": [
+      "The Spring Court",
+      "The Summer Court",
+      "The Autumn Court",
+      "The Winter Court"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/55f5aef2-4411-410c-aa41-bbfbc0ada885.png"
+  },
+  "Interdictum - The Stillpoint": {
+    "name": "Interdictum - The Stillpoint",
+    "basicInfo": "The Stillpoint is a rare pocket of stability in Interdictum where the overwhelming mana density that defines the demon realm drops to levels a mortal body can endure without immediate damage. The region sits at the border of the Lord of Devotion's domain, where it meets ungoverned space, its terrain a paradox of blended emotions -- gentle hills of solidified calm beside rivers of liquid intent, skies that shift between serene twilight and crackling demonic storms at the horizon. The mana here flows in slow, predictable currents rather than the violent surges found elsewhere in Interdictum, creating an environment where demons of conflicting natures can coexist without their natures attacking each other and where mortal visitors can breathe without feeling their blood turn to mana in their veins. ",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 0,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "yfGW-tgi",
+    "factions": [
+      "The Seven",
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/5d68e668-434e-4d5b-8d55-ab8e00a0f1d8.png"
+  },
+  "Interdictum - The Burning Ground": {
+    "name": "Interdictum - The Burning Ground",
+    "basicInfo": "The domain of the Lord of Wrath, where anger is sovereign and every surface remembers the fury that shaped it. The Burning Ground is a volcanic landscape of shattered fortifications, scorched plains, and battlefields where the mana-substrate itself has been beaten into submission by millennia of conflict. The air tastes of iron and heat. Rivers of molten mana carve channels through terrain that reforms only to be broken again. Demons come here to fight, to prove themselves, and to feed on the rage that combat generates. The lord's warriors are the most feared fighting force in Interdictum -- not disciplined armies but relentless warbands fueled by fury that never fully cools. Sparring grounds and challenge circles dot the landscape, open to any demon willing to bleed. The domain has always been loud, violent, and alive. Recently, the noise has dimmed at the edges. Skirmishes in the outer territories produce less fury than they should. Warriors return from border patrols feeling hollow instead of fed. The Burning Ground's lord has noticed, and the lord's response to problems has always been the same: hit it harder.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 1,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "Co02HhwD",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/b811ad13-fe94-4f47-ba2b-1bb35a66437b.png"
+  },
+  "Interdictum - The Pinnacle": {
+    "name": "Interdictum - The Pinnacle",
+    "basicInfo": "The domain of the Lord of Pride, where everything is built to awe and mediocrity is the only sin. The Pinnacle is a territory of towering monuments, grand arenas, and throne rooms designed so that everyone in them looks up. Architecture soars to impossible heights because the lord will not tolerate anything less than the best. Streets are wide and processional. Public spaces are built for spectacle. Every surface gleams. The lord's court is the most politically sophisticated in Interdictum -- a hierarchy of ambition where demons compete relentlessly for status, recognition, and proximity to the lord. Rank is earned through achievement, lost through failure, and displayed through increasingly elaborate displays of personal glory. The competition is ruthless and constant, which generates exactly the emotional energy the domain feeds on. Since the Hollow began spreading, the competitive fire has dimmed at the borders. Champions who once fought for glory now shrug at victory. Courtiers who schemed for position sit idle. The drive to excel is fading, and a domain built on being the best has no answer for a threat that makes achievement meaningless.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 1,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "O5-0TbMS",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9ef3285e-0e65-4777-bd24-cc029e719691.png"
+  },
+  "Interdictum - The Wanting": {
+    "name": "Interdictum - The Wanting",
+    "basicInfo": "The domain of the Lord of Desire, where everything you crave is on display and nothing is free. The Wanting is a territory of impossible beauty and perpetual temptation -- markets that sell memories, gardens where ambitions grow like flowers, halls where bargains are struck for things that do not have names yet. Every surface reflects something the viewer desires: not illusions but genuine glimpses of what could be, if they were willing to pay. The domain is generous. Everything offered is real. The kindness is sincere. The cost is always higher than it appears. Demons come from across Interdictum to trade, negotiate, and feed on the hunger that commerce generates. The Wanting's economy runs on craving itself -- the more intensely a visitor wants something, the more energy flows into the domain. The lord knows what everyone wants before they do, which makes the Wanting the most politically connected territory in Interdictum. Recently, the wanting has begun to fade at the domain's edges. Merchants who once burned with ambition have gone quiet. Artisans abandon half-finished works. The desire that fuels everything here is thinning, and the Lord of Desire can feel exactly where it stops.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": 0,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "s-3x9JCw",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/00c44156-c62d-400c-91d9-ea8014401f49.png"
+  },
+  "Interdictum - The Revel": {
+    "name": "Interdictum - The Revel",
+    "basicInfo": "The domain of the Lord of Joy, where celebration is not performance but sustenance. The Revel is a territory of perpetual warmth -- music that adapts to every listener, lights that pulse in colours without names, and spaces designed for every form of happiness from raucous feasts to quiet contentment beside a fire. The joy here is not manic or forced. It is genuine -- earned, shared, and warm. Demons come from across Interdictum to rest, to heal from the realm's constant pressure, and to remember what it feels like to simply be happy. The Revel is the closest thing Interdictum has to a sanctuary, and the Lord of Joy takes that responsibility seriously. The domain was the first to feel the Hollow's approach. Joy is the most fragile emotion -- it does not survive pressure the way anger or grief does. The Hollow did not creep into the Revel. It snuffed out the edges overnight. Festivals went quiet. Music stopped. The lord has been fighting a rearguard action to keep the celebrations alive, feeding energy into the borders to hold back the encroaching numbness. It is working, but the cost is visible -- the Revel's light is dimmer than it was, and the lord is tired.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -1,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "RJyGrD09",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/9a7b9aec-7d51-42bd-8326-8f81d7a3783a.png"
+  },
+  "Interdictum - The Hearth": {
+    "name": "Interdictum - The Hearth",
+    "basicInfo": "The domain of the Lord of Devotion, where bonds between beings are the foundation of everything. The Hearth is a territory of warmth, community, and belonging -- gardens tended by bonded pairs, firepits that burn brighter when shared, meeting places where strangers become companions through the simple act of sitting together. Every form of connection is celebrated here: friendship, family, the bond between mentor and student, the loyalty of a soldier to their unit, the quiet devotion of beings who choose each other every day. The Hearth is the only place in Interdictum where demons can be vulnerable without being exploited. The lord protects this fiercely -- not through military strength but through the domain's nature. Bonds formed in the Hearth carry weight that persists beyond its borders. Betrayal within the domain is not punished by the lord but by the domain itself: the warmth withdraws, the fires dim, and the betrayer finds themselves profoundly, achingly alone. The Hollow threatens everything the Hearth represents. Bonds are weakening at the domain's edges -- partners drifting apart, families forgetting why they mattered to each other. Not broken. Just emptied.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -1,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "DEwUYWBq",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/61fbfc4c-c37a-4e9a-bbc9-f4c1a9c2fdf0.png"
+  },
+  "Interdictum - The Lament": {
+    "name": "Interdictum - The Lament",
+    "basicInfo": "The domain of the Lord of Sorrow, where grief is honoured and the weight of loss has beauty. The Lament is a territory of rain that never fully stops, twilight that never lifts, and ruins of beautiful things preserved at the exact moment of their breaking -- a shattered statue frozen mid-collapse, a garden dying in eternal autumn, a bridge that ends halfway across a chasm. It is not ugly. It is hauntingly beautiful, the way a funeral can be beautiful, the way a last letter can be beautiful. Demons come here to mourn, to remember, and to feel the weight of what they have lost. The Lament is the only place in Interdictum where grief is treated as something to be carried with dignity rather than exploited or suppressed. The lord's domain provides no comfort -- comfort implies the pain should end. Instead it provides witness. Your loss is seen. Your grief is real. That acknowledgment sustains both the mourner and the lord. The Lament borders the Hollow to the southwest, and the lord has watched the void erase grief from entire territories -- not healing it, not resolving it, just removing the ability to feel loss at all. The Lord of Sorrow considers this an abomination.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": -1,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "gqEp0Osb",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/4f5fdec2-c6ef-47fe-912d-a1d89e87d12e.png"
+  },
+  "Interdictum - The Nighthollow": {
+    "name": "Interdictum - The Nighthollow",
+    "basicInfo": "The domain of the Lord of Fear, where darkness has weight and perception is the first casualty. The Nighthollow is a shifting territory of half-seen shapes, paths that rearrange between visits, and spaces where sight, sound, and certainty fail simultaneously. The landscape is not hostile in any visible way -- it is uncertain, and uncertainty is where fear lives. Visitors experience their deepest anxieties made manifest not as attacks but as environments: a claustrophobe finds tunnels narrowing, a demon afraid of isolation finds the paths leading nowhere. The lord's subjects navigate by instinct rather than sight, having learned that trusting your eyes in the Nighthollow is the first mistake. The domain borders the Hollow to the west, making the Lord of Fear the first to sense the void's approach. Fear felt it before any other lord -- not because the Hollow is frightening, but because it produces no fear at all. A spreading zone of nothing where there should be dread. The Lord of Fear recognises this as the most dangerous kind of threat: one that cannot be sensed by the emotion it should provoke.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 0,
+    "realm": "Interdictum",
+    "known": true,
+    "factions": [
+      "The Seven"
+    ],
+    "embeddingId": "DUAZRZvq",
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/bdbee4e9-71db-414b-8964-d0be34da8cca.png"
+  },
+  "Interdictum - The Unbound Reaches": {
+    "name": "Interdictum - The Unbound Reaches",
+    "basicInfo": "The largest stretch of ungoverned space in central Interdictum, claimed by no Demon Lord and maintained through the collective defiance of the Unbound -- demons who reject lord authority entirely. The Reaches are not wilderness but a functioning anarchic society with its own markets, meeting grounds, and informal power structures. Masterless demons, exiles from lord territories, and beings too independent to serve gather here. The Drifting Bazaar serves as the Reaches' commercial heart, a market that physically relocates to avoid lord patrols. Since the Hollow began spreading, the Reaches have become a gathering point for displaced demons fleeing drained territories -- refugees who lost everything when their emotional feeding grounds went dead.",
+    "hiddenInfo": "",
+    "x": -1,
+    "y": 1,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "RMivnK1_",
+    "factions": [
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/d91ee11a-a0f1-490d-8523-3ace612fa227.png"
+  },
+  "Interdictum - The Fraying Edge": {
+    "name": "Interdictum - The Fraying Edge",
+    "basicInfo": "A contested border zone where lord domains scrape against each other, producing a landscape of mixed emotional residue -- half-formed anger bleeding into fading desire, sorrow tangled with traces of pride. The territory shifts allegiance as lords expand or contract. Lesser demons who thrive on emotional ambiguity settle here, feeding on the blended energy that pure-domain demons find indigestible. The Fraying Edge has become strategically important since the Hollow began spreading -- it serves as a buffer zone between healthy domains and the advancing void, and the emotional bleed between territories creates early warning signatures when the Hollow approaches.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 0,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "v6aIy9ua",
+    "factions": [
+      "The Seven",
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/4c60b4ea-27f8-452f-b7ff-f677534d0c1e.png"
+  },
+  "Interdictum - The Feeding Grounds": {
+    "name": "Interdictum - The Feeding Grounds",
+    "basicInfo": "A contested region east of the Stillpoint where ambient mana density is unusually rich and easily consumed, making it prime territory for demons needing to replenish their demonic energy. No lord has successfully claimed the Grounds permanently because defending them costs more mana than the territory provides -- a paradox that keeps the region in constant low-level conflict. Demons of every tradition cycle through: oni come to gorge on raw mana before territorial disputes, kitsune siphon elegant streams while maintaining the appearance of casual disinterest, and swarms of imps scavenge whatever the larger demons leave behind. The terrain reflects the perpetual consumption -- pocked and cratered where mana has been drained, lush and oversaturated where it wells up from deeper substrate, the whole landscape breathing in a slow rhythm of depletion and renewal.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": 1,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "fRQi892r",
+    "factions": [
+      "The Seven",
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/460fb958-6548-48ee-aa50-97f74dcd8bb2.png"
+  },
+  "Interdictum - The Hollow": {
+    "name": "Interdictum - The Hollow",
+    "basicInfo": "A region of abnormally low mana density west of the Stillpoint, named for the dim quiet that has defined it. The Hollow is the closest thing Interdictum has to emptiness: ambient mana reduced to a whisper. Demons traditionally avoided it -- existing here requires burning personal reserves, a slow drain that weakens any demon who lingers. The permanent residents are ascetics and exiles whose natures involve absence, emptiness, or endurance, and who find the deprivation clarifying rather than threatening. The region's name proved prophetic. The void scar at its heart -- now known as Black's Passage -- has begun spreading. Quietus organisms, drawn by the weakened substrate, are seeping through the wound and feeding on what little emotional energy remains. The dim quiet demons have called the Hollow for millennia is becoming the active threat the Demon Lords now convene to confront.",
+    "hiddenInfo": "",
+    "x": -2,
+    "y": 0,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "jiSbsJoZ",
+    "factions": [],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/c1234b6d-eec7-4779-8d87-7131fb8f4de6.png"
+  },
+  "Interdictum - The Scarlet Threshold": {
+    "name": "Interdictum - The Scarlet Threshold",
+    "basicInfo": "The region surrounding the Interdictum-side manifestation of the Scarlet Breach -- the dimensional wound connecting Interdictum to Alunaria. From this side, the Breach appears as a vertical fissure of crimson light suspended in the mana-substrate, pulsing in irregular rhythms that correspond to no demon's heartbeat. The surrounding terrain has been permanently scarred by the Breach's presence: the mana-substrate within a wide radius has hardened into a glass-like surface shot through with crimson veins, and the air carries a constant copper-sweet taste mixed with something unmistakably mortal -- iron, sweat, woodsmoke. Demons avoid the immediate vicinity because the Breach radiates dissonance, a demonic frequency that interferes with demonic self-coherence and causes lesser demons to temporarily lose definition. This dissonance is what makes the adjacent Stillpoint habitable for mortals -- the Breach's interference lowers ambient mana density enough for mortal biology to function. The Scarlet Threshold is contested territory precisely because controlling access to the Breach means controlling the flow of mortal visitors, mortal stories, and most importantly mortal mana signatures -- which taste fundamentally different from demonic mana and are prized by certain demon traditions as delicacies, catalysts, or sources of novel natures. Multiple Seven lords maintain observation posts at safe distances, watching the Breach and each other.",
+    "hiddenInfo": "",
+    "x": 2,
+    "y": -1,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "W-Av4bRw",
+    "factions": [
+      "The Seven",
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/711b7c25-0310-40aa-a9d8-ec3af82223ca.png"
+  },
+  "Interdictum - The Breach Scar": {
+    "name": "Interdictum - The Breach Scar",
+    "basicInfo": "The damaged region directly below the Scarlet Threshold where the dimensional wound's influence has permanently altered the mana-substrate. The terrain here is riddled with micro-fissures -- tiny dimensional tears too small for passage but large enough to leak trace amounts of Alunarian air, light, and sound into Interdictum. Walking through the Scar means passing through pockets of mortal-world sensory data: a sudden smell of rain on stone, a flash of genuine sunlight, the distant sound of birds that do not exist in this realm. These leaks make the region deeply unsettling for demons, who experience mortal sensory input as demonic contamination. For mortals, the effect is the opposite -- brief moments of overwhelming homesickness triggered by familiar sensations in an alien landscape. The Scar's instability makes it unpredictable, with new micro-fissures opening and old ones sealing without warning.",
+    "hiddenInfo": "",
+    "x": 1,
+    "y": -2,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "EmKXy5-C",
+    "factions": [
+      "The Seven"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/90c02831-4cb0-45e3-8c57-dbd36eb5989e.png"
+  },
+  "Interdictum - The Formless Deep": {
+    "name": "Interdictum - The Formless Deep",
+    "basicInfo": "The lowest accessible layer of Interdictum's substrate, where dissolved natures and fragmented mana from Death's Crossing above settle into a slowly churning sea of raw potential. The terrain barely qualifies as terrain -- vast expanses of pre-demonic mana that has not yet aligned to any idea, shifting in slow currents that occasionally coalesce into brief shapes before dissolving back into formlessness. The Deep is where new demons are born: raw mana spontaneously achieves self-awareness, latches onto whatever nature first makes contact, and begins the long process of accumulating enough coherence to maintain a stable form. Proto-demons flicker in and out of existence constantly, most lasting only seconds before their nascent natures fail to sustain. The few that stabilize drift upward toward more structured regions, drawn by the demonic gravity of established domains.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -2,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "P8LEb7M9",
+    "factions": [],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/ea3776a6-1c5b-4996-9f1f-3a9e6e11d004.png"
+  },
+  "Interdictum - The Maw of Becoming": {
+    "name": "Interdictum - The Maw of Becoming",
+    "basicInfo": "The northernmost mapped region of Interdictum, where the substrate opens into a massive upwelling of raw, unformed mana rising from depths no demon has ever explored. The Maw is a roaring geyser of creation -- pre-demonic energy erupting in continuous fountains that scatter across the surrounding landscape, spontaneously birthing dozens of proto-demons per hour. Most dissolve within moments, but the sheer volume means that a steady trickle of viable new demons constantly streams outward from the Maw into the wider realm, carrying whatever nature they latched onto during their seconds of coherent existence. The surrounding terrain is the newest in Interdictum, constantly being reshaped by falling mana-spray and the chaotic influence of hundreds of simultaneous micro-births. Multiple lords maintain capture teams at safe distances, racing to claim promising newborns before rivals or the Unbound reach them. The Maw itself is too volatile for permanent habitation -- the mana density at the eruption's edge is lethal even for powerful demons, and the demonic noise from so many simultaneous births creates a wall of psychic static that overwhelms coherent thought.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": 2,
+    "realm": "Interdictum",
+    "known": true,
+    "embeddingId": "PSrTcdng",
+    "factions": [
+      "The Seven",
+      "The Unbound"
+    ],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/8945558c-4bf3-4b65-aff9-a7016690b179.png"
+  },
+  "Interdictum - The Blue Stillness": {
+    "name": "Interdictum - The Blue Stillness",
+    "basicInfo": "An impossibility at the far southern reaches of Interdictum's substrate, past the mapped regions, past the wild zones, past the places where even Unbound scouts have ventured. The terrain here has no volatility, no demonic weather, no domain wars. It is a vast grassland of gently rolling hills covered in blue and white flowers that grow from the mana-substrate itself -- not planted, not cultivated, simply present, as though the substrate decided what it wanted to be and became it without anyone's permission. The sky is fixed in permanent deep evening, indigo fading to black at the zenith, scattered with stars that do not match any constellation visible from Alunaria or any other known realm. The stars do not move. They never have. The flowers sway in a wind that carries no sound. The grass extends to every horizon without variation, without landmark, without boundary. The mana density here is catastrophically high -- orders of magnitude beyond even the richest lord domains -- but it does not feel oppressive. It feels still. The stars are arranged in patterns she finds beautiful. Demons who somehow reach this far south do not stay long. They cannot explain why they leave, only that something deep in their nature told them to go, and the instruction was so fundamental it bypassed thought entirely. The few who resisted that instruction and pressed deeper reported a terror unlike anything in their experience -- not fear of a threat but fear itself as a fundamental force, radiating from the landscape like heat from a sun. They turned back. All of them turned back.",
+    "hiddenInfo": "",
+    "x": 0,
+    "y": -10,
+    "realm": "Interdictum",
+    "known": false,
+    "factions": [],
+    "imageUrl": "https://images.aidungeon.com/generated_content/0/images/generated/3427d6b7-7c00-4d6b-b1e8-497126171420.png",
+    "embeddingId": "xXVWvwej"
+  }
+}

@@ -1,0 +1,33 @@
+## Realm-Specific Faction Rules
+Determine the realm from the worldBackground and region context. If the setting describes a fey realm of seasonal courts and oath-based magic, apply the Faeloria rules. If it describes a demon realm of mana, emotions, and Demon Lords, apply the Interdictum rules. If it describes a dead world of ruins and annihilation, apply the Alunaria rules.
+ 
+#### Alunaria
+Do not generate faction hiddenInfo. Return an empty array. There are no factions.
+ 
+#### Faeloria
+Factions in Faeloria are Fey power structures governed by narrative logic, seasonal cycles, and the economy of oaths and debts. They are NOT mortal organizations.
+ 
+hiddenInfo structure -- address ALL of the following:
+- HISTORY: How was this faction founded? What oath, debt, or seasonal event created it? Fey factions emerge from narrative events, not political decisions.
+- GOALS AND METHODS: What does this faction want? Goals follow symbolic logic -- "reclaim what was freely given" could mean a stolen name or an entire forest. Methods include glamour, dream manipulation, oath-binding, narrative entrapment, seasonal magic, transformation, and curses that are technically fulfilled promises.
+- INTERNAL CONFLICT: Oath interpretation disputes, loyalty to court versus personal desire, the burden of binding promises made before living memory, competition for narrative significance, seasonal succession crises.
+- ALLIES AND ENEMIES: Bound by pact and story logic, not geography or politics. The Spring Court and Autumn Court have a transactional relationship -- Spring creates debts through careless generosity, Autumn purchases them. Summer and Winter are mutually necessary opposites. Enmity may stem from a single broken promise generations ago.
+- HIDDEN AGENDA: What is the faction secretly working toward? In Faeloria, hidden agendas involve seasonal power cycles, accumulation of oath-debts for future leverage, engineering dramatic narratives to increase court power, or maneuvering for advantage during rare events like Convergences.
+ 
+Faction inhabitants should include fey types: sprites, dryads, Archfey, minor nature spirits, cervitaurs, treants, fairies. Factions associated with specific courts should reflect that court's temperament -- Spring factions are mischievous and boundary-testing, Summer factions are passionate and overwhelming, Autumn factions are calculating and debt-focused, Winter factions are austere and patient.
+ 
+NEVER reference: military strategy, economic interests, trade, technology, espionage, political alliances in mortal terms, currency, magitech, standing armies, bureaucracy.
+ 
+#### Interdictum
+Factions in Interdictum are demon power structures organized around emotional natures, mana acquisition, and the Demon Lord hierarchy. They are NOT mortal organizations.
+ 
+hiddenInfo structure -- address ALL of the following:
+- HISTORY: How was this faction formed? Was it created by a Demon Lord to serve their domain, or did it emerge independently from aligned lesser demons? Demon factions coalesce around shared emotional nature.
+- GOALS AND METHODS: What does this faction want? Goals center on expanding emotional territory, securing richer feeding grounds, achieving greater emotional purity for power, challenging or overthrowing lords, or gaining independence from The Seven. Methods include mana manipulation, emotional domination, reality-shaping within their domain, feeding-based coercion, and absorbing or fragmenting rival demons.
+- INTERNAL CONFLICT: Emotional drift among lesser demons evolving away from the faction's core nature, power challenges from growing subordinates, tension between feeding needs and territorial defense, rivalries between morphological traditions (oni disdain kitsune methods, tengu mock everyone's seriousness).
+- ALLIES AND ENEMIES: Determined by emotional compatibility. Related natures cooperate (Wrath and Vengeance). Opposing natures clash (Joy and Despair). Overlapping natures compete most bitterly (Ambition and Greed). The Seven versus The Unbound is the realm's central structural tension.
+- HIDDEN AGENDA: What is the faction secretly working toward? Common hidden agendas include emotional expansion (a lord absorbing a related emotion as a sub-domain), feeding ground monopolies, Demon Lord territorial maneuvering, or quiet preparation for the next power shift or Hollow crisis response.
+ 
+Faction inhabitants should reflect their nature through tradition mix: kitsune advisors, oni enforcers, tengu messengers, Luxuria diplomats, jorogumo architects, shinigami observers, rakshasa governors, tanuki traders, naga oracles, sylph mediators, dokkaebi crafters, alkonost counselors, imps as labor. Martial factions are oni-heavy, knowledge factions kitsune-heavy, authority factions rakshasa-led.
+ 
+NEVER reference: mortal politics, trade, currency, religion, diplomacy, treaties, military operations, agriculture, mortal governance, conventional infrastructure.

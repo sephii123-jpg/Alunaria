@@ -11,7 +11,7 @@
       {
         "type": "story",
         "query": "The party board train leading to another station",
-        "embeddingId": "6dOE8Y5f"
+        "embeddingId": "y7-j0dlx"
       }
     ],
     "effects": [
@@ -121,7 +121,7 @@
       {
         "type": "story",
         "query": "The party is sleeping",
-        "embeddingId": "SJf5Ej1A"
+        "embeddingId": "G9sHQnGj"
       }
     ],
     "effects": [
@@ -183,7 +183,7 @@
       {
         "type": "action",
         "query": "Player go to bed to sleep",
-        "embeddingId": "-ygqGVsi"
+        "embeddingId": "rsSxVZ8t"
       }
     ],
     "effects": [
@@ -389,7 +389,7 @@
       {
         "type": "action",
         "query": "Player activates the geothermal relay, reroutes power to the Lunar Gateway, or engages the power transmission controls",
-        "embeddingId": "pjmPlujd"
+        "embeddingId": "ZxX7lCnG"
       }
     ],
     "effects": [
@@ -438,7 +438,7 @@
       {
         "type": "action",
         "query": "Player activates the geothermal relay, reroutes power to the Lunar Gateway, or completes the power transmission sequence with Luxon",
-        "embeddingId": "dCHAsa4j"
+        "embeddingId": "ivi8lJ7M"
       }
     ],
     "effects": [
@@ -576,7 +576,7 @@
       {
         "type": "story",
         "query": "The party inputs the authorization codes into the Lunar Gateway command matrix or activates the Gateway controls",
-        "embeddingId": "IPA8Vgc6"
+        "embeddingId": "snKPgaY7"
       }
     ],
     "effects": [
@@ -614,7 +614,7 @@
       {
         "type": "story",
         "query": "The party inputs the authorization codes into the Lunar Gateway command matrix or activates the Gateway controls",
-        "embeddingId": "QJTZVcRX"
+        "embeddingId": "r2zCbIXw"
       }
     ],
     "effects": [
@@ -652,7 +652,7 @@
       {
         "type": "action",
         "query": "A player character fires Last Aphelion, authorizes the orbital strike, or pulls the trigger on the weapons platform",
-        "embeddingId": "2mbMyv5k"
+        "embeddingId": "oLU2ws7B"
       }
     ],
     "effects": [
@@ -696,7 +696,7 @@
       {
         "type": "action",
         "query": "A player character refuses to fire Last Aphelion, declines the orbital strike, or chooses not to use the weapon",
-        "embeddingId": "8Wu1ZTGx"
+        "embeddingId": "58pM07i1"
       }
     ],
     "effects": [
@@ -735,7 +735,7 @@
       {
         "type": "action",
         "query": "A player character authorizes Zenith's integration, grants access to orbital systems, or opens the interface for Zenith",
-        "embeddingId": "R7hkFynn"
+        "embeddingId": "H-65VvGp"
       }
     ],
     "effects": [
@@ -779,7 +779,7 @@
       {
         "type": "action",
         "query": "A player character refuses to authorize Zenith's integration, denies access to orbital systems, or rejects Zenith's request",
-        "embeddingId": "bQR6685N"
+        "embeddingId": "vLLzO83s"
       }
     ],
     "effects": [
@@ -836,7 +836,7 @@
       {
         "type": "story",
         "query": "Party on board of Perihelion reached the location of submerged facility",
-        "embeddingId": "Oe2vJSEl"
+        "embeddingId": "16pIwl0f"
       }
     ],
     "effects": [
@@ -878,7 +878,7 @@
       {
         "type": "story",
         "query": "The party has discovered significant knowledge in the Archive or uncovered secrets about Lunarian civilization",
-        "embeddingId": "3aNQiErt"
+        "embeddingId": "8FM_8X_3"
       }
     ],
     "effects": [
@@ -939,7 +939,7 @@
       {
         "type": "story",
         "query": "The party has learned what they wanted and think or talk about heading back",
-        "embeddingId": "p5PYl0qG"
+        "embeddingId": "L45yvlgC"
       }
     ],
     "effects": [
@@ -961,7 +961,7 @@
       {
         "type": "story",
         "query": "The party has entered the Ocean of Records facility or encountered its central systems",
-        "embeddingId": "jyWXrqM5"
+        "embeddingId": "bCfGMXYR"
       }
     ],
     "effects": [
@@ -1591,7 +1591,7 @@
       {
         "type": "story",
         "query": "The party has been guided to or arrived at the Waning Threshold, the hidden Velvet Eclipse monastery in the western forests",
-        "embeddingId": "w6tV8c-g"
+        "embeddingId": "YPzMm-Tt"
       }
     ],
     "effects": [
@@ -1684,7 +1684,7 @@
       {
         "type": "story",
         "query": "Aelwyn Maris the healer has been killed by the player or died in the player's presence",
-        "embeddingId": "Sh6HGTx8"
+        "embeddingId": "nuSxp7SO"
       }
     ],
     "effects": [
@@ -1727,7 +1727,7 @@
       {
         "type": "story",
         "query": "Revka Ashfall the fire mage has been killed by the player or died in the player's presence",
-        "embeddingId": "AzzCwhDQ"
+        "embeddingId": "XCMEt9c3"
       }
     ],
     "effects": [
@@ -1770,7 +1770,7 @@
       {
         "type": "story",
         "query": "Mordechai Krenn the necromancer has been killed by the player or died in the player's presence",
-        "embeddingId": "LL7xi6a8"
+        "embeddingId": "qji-U6Zo"
       }
     ],
     "effects": [
@@ -1813,7 +1813,7 @@
       {
         "type": "story",
         "query": "Tesshin Haruyami the mercenary captain has been killed by the player or died in the player's presence",
-        "embeddingId": "2YyZQ-UQ"
+        "embeddingId": "tAeuq9FO"
       }
     ],
     "effects": [
@@ -1912,7 +1912,7 @@
       {
         "type": "story",
         "query": "The player used the Commandment ability to impose their will on reality",
-        "embeddingId": "xwALKPM0"
+        "embeddingId": "_KLdP1R9"
       }
     ],
     "effects": [
@@ -2064,7 +2064,7 @@
       {
         "type": "story",
         "query": "The player used Commandment to end the Quietus invasion or seal the breach or drive back the Quietus swarm",
-        "embeddingId": "NMwV_APJ"
+        "embeddingId": "biHENfFC"
       }
     ],
     "effects": [
@@ -2177,7 +2177,7 @@
       {
         "type": "story",
         "query": "Nullia has been killed, destroyed, defeated, or driven back by the player",
-        "embeddingId": "v5-MmPhW"
+        "embeddingId": "puqA864Q"
       }
     ],
     "effects": [
@@ -2348,7 +2348,7 @@
       {
         "type": "story",
         "query": "A new day begins, morning arrives, dawn breaks, or the player wakes up to start a new day at the academy",
-        "embeddingId": "vYLkgZkx"
+        "embeddingId": "ERhgFYdg"
       }
     ],
     "effects": [
@@ -2373,7 +2373,7 @@
       {
         "type": "story",
         "query": "The player passed their academy examination, succeeded on the test, performed well, or received a passing grade",
-        "embeddingId": "DsFHiBoG"
+        "embeddingId": "7gQJUs-L"
       }
     ],
     "effects": [
@@ -2404,7 +2404,7 @@
       {
         "type": "story",
         "query": "The player failed their academy examination, performed poorly on the test, did not meet the standard, or received a failing grade",
-        "embeddingId": "DDdaKCQI"
+        "embeddingId": "-WRa9YWd"
       }
     ],
     "effects": [
@@ -2549,7 +2549,7 @@
       {
         "type": "story",
         "query": "The party is in a safe, calm, non-combat situation such as resting at camp, traveling peacefully, sitting in a tavern, or relaxing without immediate threats",
-        "embeddingId": "L6gDy5zE"
+        "embeddingId": "a8bva3fJ"
       }
     ],
     "effects": [
@@ -2917,7 +2917,7 @@
       {
         "type": "action",
         "query": "Player agrees to go with Tachyon to meet Starlight. It is enough if they confirm it verbally or put the hand on the pedestal. Intent is important.",
-        "embeddingId": "IgxphkJW"
+        "embeddingId": "1YV4Q851"
       }
     ],
     "effects": [
@@ -2996,7 +2996,7 @@
       {
         "type": "action",
         "query": "Player touches, places hands on, or activates the pedestal to teleport to the Silent Constellation, or agrees to teleport to silent constellation",
-        "embeddingId": "Hp24eb6m"
+        "embeddingId": "R7YCPEZI"
       }
     ],
     "effects": [
@@ -3039,7 +3039,7 @@
       {
         "type": "action",
         "query": "Player activates the transit array, steps onto the alcove platform, interacts with the alcove systems to return to the surface or agrees to return to the surface.",
-        "embeddingId": "x24ex8kx"
+        "embeddingId": "Ks-_tBan"
       }
     ],
     "effects": [
@@ -3141,7 +3141,7 @@
       {
         "type": "story",
         "query": "The party is sleeping, resting, or camping for the night",
-        "embeddingId": "lrUxdMel"
+        "embeddingId": "waFcyNJk"
       }
     ],
     "effects": [
@@ -3440,7 +3440,7 @@
       {
         "type": "story",
         "query": "The party is sleeping, resting, or in a location with active magitech devices",
-        "embeddingId": "5yaJzkXf"
+        "embeddingId": "DdEYnNQY"
       }
     ],
     "effects": [
@@ -3507,7 +3507,7 @@
       {
         "type": "story",
         "query": "The party has reached, confronted, or encountered Glimmer during the assault on Aurelion",
-        "embeddingId": "9H9bXc1Y"
+        "embeddingId": "suO7tI4O"
       }
     ],
     "effects": [
@@ -3541,7 +3541,7 @@
       {
         "type": "action",
         "query": "The player captures Glimmer, sides with Zenith, restrains Glimmer, or refuses her offer and takes her prisoner",
-        "embeddingId": "ThXBqSkQ"
+        "embeddingId": "PVjTGzUD"
       }
     ],
     "effects": [
@@ -3593,7 +3593,7 @@
       {
         "type": "action",
         "query": "The player agrees to help Glimmer, sides with her, accepts her offer, or defects from Zenith to join the resistance",
-        "embeddingId": "hwXyQxut"
+        "embeddingId": "EFK1hQHW"
       }
     ],
     "effects": [
@@ -3637,7 +3637,7 @@
       {
         "type": "story",
         "query": "Glimmer has reached the command matrix and places her hands on the controls or activates the system",
-        "embeddingId": "3hjWCGLa"
+        "embeddingId": "l3falej-"
       }
     ],
     "effects": [
@@ -3785,7 +3785,7 @@
       {
         "type": "story",
         "query": "The party is sleeping, resting, or camping for the night",
-        "embeddingId": "t24ew35O"
+        "embeddingId": "C2Re9vXy"
       }
     ],
     "effects": [
@@ -3872,7 +3872,7 @@
       {
         "type": "action",
         "query": "The player explicitly chooses to defect from Zenith, accepts Starlight's offer, agrees to switch sides to the resistance, or asks Starlight for help against Zenith. Mere presence at the Constellation or asking questions does NOT count -- the player must commit to changing allegiance.",
-        "embeddingId": "EbHT08kL"
+        "embeddingId": "UoVuzeOO"
       }
     ],
     "effects": [
@@ -3924,7 +3924,7 @@
       {
         "type": "action",
         "query": "The player explicitly chooses to defect from Zenith, accepts Starlight's offer, agrees to switch sides to the resistance, or asks Starlight for help against Zenith. Mere presence at the Constellation or asking questions does NOT count -- the player must commit to changing allegiance.",
-        "embeddingId": "sD2T1NJd"
+        "embeddingId": "1g6gIpw_"
       }
     ],
     "effects": [
@@ -4132,7 +4132,7 @@
       {
         "type": "action",
         "query": "The player tells Glimmer everything about her nature and restores her full memories, or asks Starlight or Tachyon to restore her complete identity",
-        "embeddingId": "N_XzQVFJ"
+        "embeddingId": "49DfVmsU"
       }
     ],
     "effects": [
@@ -4182,7 +4182,7 @@
       {
         "type": "action",
         "query": "The player removes Nova Protocol from Glimmer without telling her the full truth about her nature, or chooses to keep her unaware of her identity as a Celeste fragment",
-        "embeddingId": "y4UU-sRJ"
+        "embeddingId": "nZAeXP2W"
       }
     ],
     "effects": [
@@ -4232,7 +4232,7 @@
       {
         "type": "action",
         "query": "The player explains the situation to Glimmer and lets her decide for herself whether to regain her memories or remain as she is",
-        "embeddingId": "9DdsgEet"
+        "embeddingId": "AwqdRJCu"
       }
     ],
     "effects": [
@@ -4289,7 +4289,7 @@
       {
         "type": "story",
         "query": "The party is resting, in camp, or having downtime with Tachyon present",
-        "embeddingId": "yM_Ir3my"
+        "embeddingId": "Q9LJsVxB"
       }
     ],
     "effects": [
@@ -4555,7 +4555,7 @@
       {
         "type": "story",
         "query": "Luxon has been defeated, disabled, incapacitated, or stopped in combat on the Central Platform",
-        "embeddingId": "GL8MtbNl"
+        "embeddingId": "NhVvPoqQ"
       }
     ],
     "effects": [
@@ -4629,7 +4629,7 @@
       {
         "type": "story",
         "query": "The party has found, accessed, or obtained the Nova Protocol removal procedures or extraction knowledge from the archive",
-        "embeddingId": "tNxy5KTD"
+        "embeddingId": "mN-5Qbsu"
       }
     ],
     "effects": [
@@ -4672,7 +4672,7 @@
       {
         "type": "action",
         "query": "The player refuses to retrieve data for Zenith, decides to defect, sabotages the mission, or chooses to help Glimmer instead of Zenith",
-        "embeddingId": "uuj6VtpL"
+        "embeddingId": "NQsLA-yp"
       }
     ],
     "effects": [
@@ -4789,7 +4789,7 @@
       {
         "type": "story",
         "query": "Glimmer has been killed, has died, or is confirmed dead",
-        "embeddingId": "TIMicZ9Z"
+        "embeddingId": "eO3rWgWr"
       }
     ],
     "effects": [
@@ -4820,7 +4820,7 @@
       {
         "type": "story",
         "query": "Tachyon has been killed, has died in combat, or is confirmed dead",
-        "embeddingId": "dKJymGtw"
+        "embeddingId": "d-hKmy8_"
       }
     ],
     "effects": [
@@ -4851,7 +4851,7 @@
       {
         "type": "story",
         "query": "Luxon has been killed, has died in combat, or is confirmed dead",
-        "embeddingId": "QezethAH"
+        "embeddingId": "IJmCDCW7"
       }
     ],
     "effects": [
@@ -4888,7 +4888,7 @@
       {
         "type": "story",
         "query": "The party is sleeping, resting, or camping for the night",
-        "embeddingId": "8ISrRp6Q"
+        "embeddingId": "7l2m2Gwi"
       }
     ],
     "effects": [
@@ -5468,7 +5468,7 @@
       {
         "type": "action",
         "query": "Player character transforms, shifts, or changes into dragon form, or uses the Shift to Dragon Form ability",
-        "embeddingId": "VpWQLEgo"
+        "embeddingId": "tUAlRSpp"
       }
     ],
     "effects": [
@@ -5500,7 +5500,7 @@
       {
         "type": "action",
         "query": "Player character transforms, shifts, or changes back into human form, or uses the Shift to Human Form ability",
-        "embeddingId": "5kW01b8X"
+        "embeddingId": "eV7TDNDo"
       }
     ],
     "effects": [
@@ -5578,7 +5578,7 @@
       {
         "type": "story",
         "query": "Itsuha has explained the Cicatrix system to the player, told them about soul-brands, or revealed that the visions are drawing them toward bearers",
-        "embeddingId": "rFtk6J6J"
+        "embeddingId": "7kSU64LN"
       }
     ],
     "effects": [
@@ -5728,7 +5728,7 @@
       {
         "type": "story",
         "query": "Itsuha Haruyami has agreed to join the party, travel with them, or accompany them to fight her father",
-        "embeddingId": "9boVzkT_"
+        "embeddingId": "5cN34hHd"
       }
     ],
     "effects": [
@@ -5823,7 +5823,7 @@
       {
         "type": "story",
         "query": "Itsuha Haruyami has been killed, has died in combat, or is confirmed dead",
-        "embeddingId": "AD8CTBp0"
+        "embeddingId": "673zlJ3X"
       }
     ],
     "effects": [
@@ -5887,7 +5887,7 @@
       {
         "type": "story",
         "query": "The player has attended their first homeroom or orientation session and settled into their dormitory room at Aethermere Academy",
-        "embeddingId": "VRzajhs5"
+        "embeddingId": "BxKih1V3"
       }
     ],
     "effects": [
@@ -5919,7 +5919,7 @@
       {
         "type": "story",
         "query": "The player has completed, returned from, or reported success on their field test assignment from the Adventurers Guild",
-        "embeddingId": "cYoBBtk2"
+        "embeddingId": "YAhTD9if"
       }
     ],
     "effects": [
@@ -6116,7 +6116,7 @@
       {
         "type": "story",
         "query": "The player asks to join the Adventurers Guild or requests guild membership or signs up for induction",
-        "embeddingId": "nuXTr5Ky"
+        "embeddingId": "a2eKtdxx"
       }
     ],
     "effects": [
@@ -6182,7 +6182,7 @@
       {
         "type": "action",
         "query": "The player takes the specific action of reporting a completed adventuring contract or quest to guild staff -- telling a clerk, receptionist, or guild officer that they have finished a job, handing in a signed contract, presenting proof of completion (such as a bounty token, recovered item, severed head, or sealed report), formally closing out an assignment for payment or record, or asking to have a completed job logged against their rank. The player must be actively turning the job in this turn, not merely mentioning past work. Does NOT include: accepting new contracts, browsing the quest board, asking about available work, chatting with other adventurers about past missions, or entering the guild without engaging staff about a completed job.",
-        "embeddingId": "y4ACtRLT"
+        "embeddingId": "pTYnlZOw"
       }
     ],
     "effects": [
@@ -6287,7 +6287,7 @@
       {
         "type": "action",
         "query": "The player takes the specific action of reporting a completed adventuring contract or quest to guild staff -- telling a clerk, receptionist, or guild officer that they have finished a job, handing in a signed contract, presenting proof of completion (such as a bounty token, recovered item, severed head, or sealed report), formally closing out an assignment for payment or record, or asking to have a completed job logged against their rank. The player must be actively turning the job in this turn, not merely mentioning past work. Does NOT include: accepting new contracts, browsing the quest board, asking about available work, chatting with other adventurers about past missions, or entering the guild without engaging staff about a completed job.",
-        "embeddingId": "MiUTb28A"
+        "embeddingId": "c814ip3Q"
       }
     ],
     "effects": [
@@ -6465,7 +6465,7 @@
       {
         "type": "action",
         "query": "The player takes the specific action of reporting a completed adventuring contract or quest to guild staff -- telling a clerk, receptionist, or guild officer that they have finished a job, handing in a signed contract, presenting proof of completion (such as a bounty token, recovered item, severed head, or sealed report), formally closing out an assignment for payment or record, or asking to have a completed job logged against their rank. The player must be actively turning the job in this turn, not merely mentioning past work. Does NOT include: accepting new contracts, browsing the quest board, asking about available work, chatting with other adventurers about past missions, or entering the guild without engaging staff about a completed job. Note: this covers standard quest-board contracts only, not special Guildmaster Office operations.",
-        "embeddingId": "iPQsu_EU"
+        "embeddingId": "vNuOPVWu"
       }
     ],
     "effects": [
@@ -7670,7 +7670,7 @@
       {
         "type": "story",
         "query": "The party has uncovered evidence that the Copperhill Guild office is fraudulent or discovered Aletheia operations beneath the village",
-        "embeddingId": "kF-HBFwg"
+        "embeddingId": "2ioxI3T-"
       }
     ],
     "effects": [
@@ -7692,7 +7692,7 @@
       {
         "type": "story",
         "query": "The party has uncovered evidence of Aletheia operations at Barley Cross or confirmed the network extends beyond Copperhill",
-        "embeddingId": "leARo4R4"
+        "embeddingId": "M-feMxbX"
       }
     ],
     "effects": [
@@ -7719,7 +7719,7 @@
       {
         "type": "story",
         "query": "The party delivers the Aletheia investigation report to Guild headquarters or briefs the guildmaster on Aletheia",
-        "embeddingId": "Do9qhnum"
+        "embeddingId": "s4L31pr0"
       }
     ],
     "effects": [
@@ -7741,7 +7741,7 @@
       {
         "type": "story",
         "query": "The party has discovered what happened to the Guild contact or found evidence of the contact's death or disappearance",
-        "embeddingId": "qQfiEAIW"
+        "embeddingId": "KbeDHdsf"
       }
     ],
     "effects": [
@@ -7763,7 +7763,7 @@
       {
         "type": "story",
         "query": "The party has identified the conspirators behind the manufactured border incidents or gathered evidence of the false flag plot",
-        "embeddingId": "YAsu5oBj"
+        "embeddingId": "N-ylHmPg"
       }
     ],
     "effects": [
@@ -7785,7 +7785,7 @@
       {
         "type": "story",
         "query": "The party has stopped the false flag attack on Blackreach or prevented the conspirators from executing their plan",
-        "embeddingId": "KfLu23lH"
+        "embeddingId": "n2pq1pDX"
       }
     ],
     "effects": [
@@ -7807,7 +7807,7 @@
       {
         "type": "story",
         "query": "The party has met with the Warden commander and been briefed on the ember well poisoning situation",
-        "embeddingId": "u6nVZ8YB"
+        "embeddingId": "wqG81b6s"
       }
     ],
     "effects": [
@@ -7829,7 +7829,7 @@
       {
         "type": "story",
         "query": "The party has tracked the Frozen Pure saboteurs or prevented them from poisoning the Ember Wells",
-        "embeddingId": "6SMPZCA7"
+        "embeddingId": "QaBzxsMe"
       }
     ],
     "effects": [
@@ -7851,7 +7851,7 @@
       {
         "type": "story",
         "query": "The Frozen Pure crisis has been resolved through negotiation, arrest, exile, or another outcome that ends the sabotage",
-        "embeddingId": "4YdAE0DY"
+        "embeddingId": "YN7Liygb"
       }
     ],
     "effects": [
@@ -7873,7 +7873,7 @@
       {
         "type": "story",
         "query": "The party has met Dorian Kessel and begun investigating the shipyard sabotage",
-        "embeddingId": "yYitoG4K"
+        "embeddingId": "lq_1Wss_"
       }
     ],
     "effects": [
@@ -7895,7 +7895,7 @@
       {
         "type": "story",
         "query": "The party has identified the foreign agents sabotaging the warship project or exposed the handler",
-        "embeddingId": "D8ghy0vh"
+        "embeddingId": "AQCxPOEQ"
       }
     ],
     "effects": [
@@ -7917,7 +7917,7 @@
       {
         "type": "story",
         "query": "The party has met General Loranle and been briefed on the Ironmarch Line incidents",
-        "embeddingId": "KEofY9zm"
+        "embeddingId": "sFKMMVHk"
       }
     ],
     "effects": [
@@ -7939,7 +7939,7 @@
       {
         "type": "story",
         "query": "The party has identified the Republican officers staging fake imperial incursions along the Ironmarch Line",
-        "embeddingId": "PhHsLM6-"
+        "embeddingId": "JiZm9myE"
       }
     ],
     "effects": [
@@ -7961,7 +7961,7 @@
       {
         "type": "story",
         "query": "The Ironmarch conspiracy has been resolved through negotiation, exposure, arrest, or another outcome that stops the provocations",
-        "embeddingId": "JOwrgO7P"
+        "embeddingId": "B3o4hoyd"
       }
     ],
     "effects": [
@@ -7983,7 +7983,7 @@
       {
         "type": "story",
         "query": "The party has met Admiral Blacktide and been briefed on the wrecking cartel",
-        "embeddingId": "X6zqVT5B"
+        "embeddingId": "uJeNdosV"
       }
     ],
     "effects": [
@@ -8005,7 +8005,7 @@
       {
         "type": "story",
         "query": "The party has infiltrated the wrecking cartel and gathered evidence of their operations including falsified charts or corrupted lighthouses",
-        "embeddingId": "CmM3RE5u"
+        "embeddingId": "kE7Gw_Zo"
       }
     ],
     "effects": [
@@ -8027,7 +8027,7 @@
       {
         "type": "story",
         "query": "The wrecking cartel has been dismantled or the evidence has been presented and Admiral Blacktide is safe",
-        "embeddingId": "4_NI54Dq"
+        "embeddingId": "X3oZI68W"
       }
     ],
     "effects": [
@@ -8049,7 +8049,7 @@
       {
         "type": "story",
         "query": "The party has entered the Lunarian facility and assessed the Voidfang threat or encountered the creature",
-        "embeddingId": "UOEdn5zr"
+        "embeddingId": "bIOfPwUh"
       }
     ],
     "effects": [
@@ -8071,7 +8071,7 @@
       {
         "type": "story",
         "query": "The Voidfang Queen has been killed and the eggs have been destroyed",
-        "embeddingId": "h1JW4kRL"
+        "embeddingId": "E9SjXdcC"
       }
     ],
     "effects": [
@@ -8093,7 +8093,7 @@
       {
         "type": "story",
         "query": "The party has assessed the Lunarian discovery and met with Kira Frostheart or the clan elders about the stasis chambers",
-        "embeddingId": "okUHbwNf"
+        "embeddingId": "xR7IwAAS"
       }
     ],
     "effects": [
@@ -8115,7 +8115,7 @@
       {
         "type": "story",
         "query": "The party has descended into the Lunarian facility and determined the fate of the stasis occupants",
-        "embeddingId": "VfW2MESC"
+        "embeddingId": "49PHtyFP"
       }
     ],
     "effects": [
@@ -8137,7 +8137,7 @@
       {
         "type": "story",
         "query": "The Togai siblings have been captured, killed, or neutralized and Aletheia's Aurelion intelligence cell has been shut down",
-        "embeddingId": "c-TBUpPJ"
+        "embeddingId": "JFKpWNVk"
       }
     ],
     "effects": [
@@ -8159,7 +8159,7 @@
       {
         "type": "story",
         "query": "The Third Lodge at Stillwater has been assaulted and Oren Maren has been defeated, captured, or killed and the subjects have been secured",
-        "embeddingId": "vkAFsrVb"
+        "embeddingId": "2ZeeciU8"
       }
     ],
     "effects": [
@@ -8181,7 +8181,7 @@
       {
         "type": "story",
         "query": "The Fourth Lodge at Dunmore has been assaulted and Rendel Brannick has been defeated, captured, or killed and the children have been secured",
-        "embeddingId": "Px7LTZUB"
+        "embeddingId": "7sS09piC"
       }
     ],
     "effects": [
@@ -8203,7 +8203,7 @@
       {
         "type": "story",
         "query": "The First Lodge at Copperhill has been assaulted and the sentient weapons forge has been shut down",
-        "embeddingId": "aLRnTt5u"
+        "embeddingId": "EZNjbodA"
       }
     ],
     "effects": [
@@ -8225,7 +8225,7 @@
       {
         "type": "story",
         "query": "Orenna Blackquill and Erased have been defeated, captured, or killed and the Fifth Lodge extraplanar extraction operation has been shut down",
-        "embeddingId": "IrnYHJU-"
+        "embeddingId": "GZkWAj2F"
       }
     ],
     "effects": [
@@ -8247,7 +8247,7 @@
       {
         "type": "story",
         "query": "Aethonis the Grandmaster has been confronted and defeated, destroyed, contained, or otherwise neutralized ending Aletheia permanently",
-        "embeddingId": "r3eV8zcq"
+        "embeddingId": "EqyZHXPI"
       }
     ],
     "effects": [
@@ -8269,7 +8269,7 @@
       {
         "type": "story",
         "query": "The party has assessed the Umbraliestrasz situation and spoken with the villagers or guild clerk about the dragon threat",
-        "embeddingId": "Pq5CRdsm"
+        "embeddingId": "WFQiezhB"
       }
     ],
     "effects": [
@@ -8291,7 +8291,7 @@
       {
         "type": "story",
         "query": "The party has entered the Obsidian Maw and located or encountered Umbraliestrasz in his lair",
-        "embeddingId": "rQNY9Lxv"
+        "embeddingId": "ljoUBSN8"
       }
     ],
     "effects": [
@@ -8313,7 +8313,7 @@
       {
         "type": "story",
         "query": "Umbraliestrasz has been killed",
-        "embeddingId": "BQkbjRRs"
+        "embeddingId": "ZjXZm0PL"
       }
     ],
     "effects": [
@@ -8335,7 +8335,7 @@
       {
         "type": "story",
         "query": "The party has met Preston Whitmore and boarded the Perihelion submarine or agreed to join the expedition",
-        "embeddingId": "a3ds57Bs"
+        "embeddingId": "ZNcJPFIF"
       }
     ],
     "effects": [
@@ -8357,7 +8357,7 @@
       {
         "type": "story",
         "query": "The party has met Admiral Steelwind and been briefed on the Chains of Dawn operation",
-        "embeddingId": "DklJ-iXF"
+        "embeddingId": "DqbXNSyu"
       }
     ],
     "effects": [
@@ -8379,7 +8379,7 @@
       {
         "type": "story",
         "query": "The inquisitor Veris Shadowmend has been delayed, misled, or neutralized and Admiral Steelwind's cover is intact",
-        "embeddingId": "MOTjmSdI"
+        "embeddingId": "5Zim1AqX"
       }
     ],
     "effects": [
@@ -8401,7 +8401,7 @@
       {
         "type": "story",
         "query": "The slave transport convoy has been redirected to Astraholm waters and the captives have reached safety or claimed sanctuary",
-        "embeddingId": "fn0VDtEv"
+        "embeddingId": "V6Gxtitd"
       }
     ],
     "effects": [
@@ -8423,7 +8423,7 @@
       {
         "type": "story",
         "query": "The party has assessed the anomalies at the research station and confirmed the Lunarian facility beneath the ice",
-        "embeddingId": "JSHrHYXz"
+        "embeddingId": "JKp4-td6"
       }
     ],
     "effects": [
@@ -8445,7 +8445,7 @@
       {
         "type": "story",
         "query": "The party has descended into the polar Lunarian facility and assessed the dimensional containment systems",
-        "embeddingId": "lpXgMb-i"
+        "embeddingId": "jaenPA3U"
       }
     ],
     "effects": [
@@ -8467,7 +8467,7 @@
       {
         "type": "story",
         "query": "The dimensional breach has been sealed, maintained by a volunteer, or opened and the outcome has been determined",
-        "embeddingId": "H3yYSjBL"
+        "embeddingId": "aHeRmFqU"
       }
     ],
     "effects": [
@@ -8519,7 +8519,7 @@
       {
         "type": "story",
         "query": "The party has retrieved Celeste fragment vulnerability data or technical archive specifications from the Ocean of Records for Zenith",
-        "embeddingId": "J7M0o7Y9"
+        "embeddingId": "kUFa_E9k"
       }
     ],
     "effects": [
@@ -8547,7 +8547,7 @@
       {
         "type": "story",
         "query": "Glimmer has been captured or the Aurelion defense grid has been breached and Zenith forces have taken control of the city",
-        "embeddingId": "sxM8dRzn"
+        "embeddingId": "QEaRjeaN"
       }
     ],
     "effects": [
@@ -8580,7 +8580,7 @@
       {
         "type": "story",
         "query": "Glimmer has reached the command matrix and the escort mission is complete",
-        "embeddingId": "w97vBJmJ"
+        "embeddingId": "3IQWX4tQ"
       }
     ],
     "effects": [
@@ -8602,7 +8602,7 @@
       {
         "type": "story",
         "query": "The party has discovered the truth about Greenveil, that its inhabitants are Precursor Infiltrator Prototypes, or that the village's perfection has an artificial origin",
-        "embeddingId": "yqv3AspK"
+        "embeddingId": "kUpVMnpZ"
       }
     ],
     "effects": [
@@ -8646,7 +8646,7 @@
       {
         "type": "story",
         "query": "Chief Meridian and the infiltrators of Greenveil have reached a decision about their future, whether to remain hidden, reveal themselves, seek integration, or pursue another path",
-        "embeddingId": "_2cqPkFe"
+        "embeddingId": "cvtmKjAX"
       }
     ],
     "effects": [
@@ -8668,7 +8668,7 @@
       {
         "type": "story",
         "query": "The party has discovered what happened to Brogmar Ironpalm or resolved the missing goalkeeper situation",
-        "embeddingId": "t07bgA8l"
+        "embeddingId": "ROLwEyMM"
       }
     ],
     "effects": [
@@ -8690,7 +8690,7 @@
       {
         "type": "story",
         "query": "The Congregation of Exquisite Sorrows has been exposed and destroyed, the cult within the Chapel of Merciful Tears has been eliminated",
-        "embeddingId": "7D6YxZXE"
+        "embeddingId": "oYKchgMb"
       }
     ],
     "effects": [
@@ -8712,7 +8712,7 @@
       {
         "type": "story",
         "query": "The party has discovered the source of the undead activity in Hollowfield and resolved the situation",
-        "embeddingId": "TxYR7yoV"
+        "embeddingId": "chmWmI9a"
       }
     ],
     "effects": [
@@ -8870,7 +8870,7 @@
       {
         "type": "action",
         "query": "Player touches, places hands on, or activates the obelisk to attempt crossing to Alunaria",
-        "embeddingId": "gtAjyGWB"
+        "embeddingId": "YtvDuMFc"
       }
     ],
     "effects": [
@@ -9060,7 +9060,7 @@
       {
         "type": "action",
         "query": "Player touches, places hands on, or activates the obelisk to attempt crossing to Alunaria",
-        "embeddingId": "5jjwI24y"
+        "embeddingId": "lfk9CFnZ"
       }
     ],
     "effects": [
@@ -9105,7 +9105,7 @@
       {
         "type": "story",
         "query": "Party learned the whereabouts of the missing expedition members Eisfeld and Brandauer",
-        "embeddingId": "Y5rQ_r7Z"
+        "embeddingId": "zv6fD4H4"
       }
     ],
     "effects": [
@@ -9149,7 +9149,7 @@
       {
         "type": "story",
         "query": "Party rescued or recovered Eisfeld and Brandauer",
-        "embeddingId": "ZQT1NJwJ"
+        "embeddingId": "w04xewdd"
       }
     ],
     "effects": [
@@ -9193,7 +9193,7 @@
       {
         "type": "story",
         "query": "Party established an imperial outpost or secured a permanent space for the Imperium in the Lantern Quarter",
-        "embeddingId": "UctpCGv3"
+        "embeddingId": "VMMXDVry"
       }
     ],
     "effects": [
@@ -9221,7 +9221,7 @@
       {
         "type": "story",
         "query": "The party has arrived at the Ocean of Records after surviving the submarine journey aboard the Perihelion",
-        "embeddingId": "5gt6zkX1"
+        "embeddingId": "fxr33Xwp"
       }
     ],
     "effects": [
@@ -9243,7 +9243,7 @@
       {
         "type": "story",
         "query": "The party has explored the Ocean of Records and uncovered significant knowledge, archive data, or precursor secrets",
-        "embeddingId": "p8z7n2dP"
+        "embeddingId": "kdqNYCJ-"
       }
     ],
     "effects": [
@@ -9270,7 +9270,7 @@
       {
         "type": "story",
         "query": "The obelisk crossing has been reactivated, restored, or reignited and passage to Alunaria is possible again",
-        "embeddingId": "2ekspwPb"
+        "embeddingId": "WoDo6JpD"
       }
     ],
     "effects": [
@@ -9297,7 +9297,7 @@
       {
         "type": "story",
         "query": "The obelisk connection to the Scarlet Breach has been stabilized, repaired, or reopened and passage back to Alunaria is possible again",
-        "embeddingId": "-GFEBNjG"
+        "embeddingId": "Qg7rTdii"
       }
     ],
     "effects": [
@@ -9448,7 +9448,7 @@
       {
         "type": "action",
         "query": "Player places hands on Obelisk in Alunaria to cross to Faeloria. Be careful to not mistake it Obelisk in Faeloria. Intent does not matter, whenever player puts both hands on the obelisk it will start the teleportation. Hands on obelisk is the only condition.",
-        "embeddingId": "zMzjzulc"
+        "embeddingId": "QkUdtxSN"
       }
     ],
     "effects": [
@@ -9536,7 +9536,7 @@
       {
         "type": "action",
         "query": "Player places hands on Obelisk in Faeloria to cross to Alunaria. Be careful to not mistake it Obelisk in Alunaria. Intent does not matter, whenever player puts both hands on the obelisk it will start the teleportation. Hands on obelisk is the only condition.",
-        "embeddingId": "bF_MeI-Q"
+        "embeddingId": "mNevMu2m"
       }
     ],
     "effects": [
@@ -9618,7 +9618,7 @@
       {
         "type": "action",
         "query": "Player places hands on the crimson obelisk to cross to Interdictum Be careful to not mistake it Obelisk in Interdictum. Intent does not matter, whenever player puts both hands on the obelisk it will start the teleportation. Hands on obelisk is the only condition.",
-        "embeddingId": "8t--QbNB"
+        "embeddingId": "_Qlr7VPS"
       }
     ],
     "effects": [
@@ -9706,7 +9706,7 @@
       {
         "type": "action",
         "query": "Player places hands on Obelisk in Interdictum to cross to Alunaria. Be careful to not mistake it Obelisk in Alunaria. Be careful to not mistake it for Obelisk in Alunaria. Intent does not matter, whenever player puts both hands on the obelisk it will start the teleportation. Hands on obelisk is the only condition.",
-        "embeddingId": "PkBQbdBA"
+        "embeddingId": "I2tX-EBb"
       }
     ],
     "effects": [
@@ -9962,7 +9962,7 @@
       {
         "type": "action",
         "query": "Player accepts Starlight's mission, agrees to retrieve the authorization codes, or commits to helping against Zenith",
-        "embeddingId": "fZ0OBh5J"
+        "embeddingId": "Ur4jjkCr"
       }
     ],
     "effects": [
@@ -10013,7 +10013,7 @@
       {
         "type": "action",
         "query": "Player agrees to take Tachyon with them, invites Tachyon to join, or accepts Tachyon as traveling companion for the mission",
-        "embeddingId": "AHx8nNTo"
+        "embeddingId": "FQRpbJT4"
       }
     ],
     "effects": [
@@ -10052,7 +10052,7 @@
       {
         "type": "action",
         "query": "Player searches for, interfaces with, extracts, or attempts to retrieve the authorization codes from the crystalline interface pillar or lattice systems",
-        "embeddingId": "q_HjtTHw"
+        "embeddingId": "FwklB7ij"
       }
     ],
     "effects": [
@@ -10241,7 +10241,7 @@
       {
         "type": "action",
         "query": "Player accepts Luxon's offer, agrees to work with Zenith, sides with Zenith, or chooses Zenith's path. Explicit agreement or acceptance of Zenith's proposal is required.",
-        "embeddingId": "wxwpthhi"
+        "embeddingId": "uxuSujiJ"
       }
     ],
     "effects": [
@@ -10289,7 +10289,7 @@
       {
         "type": "action",
         "query": "Player refuses Luxon's offer, rejects Zenith, stays with Starlight, or declines to switch sides. Explicit refusal or rejection is required.",
-        "embeddingId": "hvsLhTA1"
+        "embeddingId": "rB3z5sz3"
       }
     ],
     "effects": [
@@ -10356,7 +10356,7 @@
       {
         "type": "action",
         "query": "The player asks the guildmaster about available special assignments, classified operations, what work is on offer, what special assignments they could take. Do not mistake it for question about random board jobs.",
-        "embeddingId": "r1wyXCaM"
+        "embeddingId": "TP-OTFhJ"
       }
     ],
     "effects": [
@@ -10389,7 +10389,7 @@
       {
         "type": "action",
         "query": "The player asks the guildmaster about available special assignments, classified operations, what work is on offer, what assignments they could take, or what is on the classified board",
-        "embeddingId": "3eYzu0Tv"
+        "embeddingId": "8iDsrE8w"
       }
     ],
     "effects": [
@@ -10422,7 +10422,7 @@
       {
         "type": "action",
         "query": "The player asks the guild clerk or guild staff what special assignments are, what classified work involves, what kind of jobs the guildmaster handles, or asks for general information about restricted contracts without committing to take one",
-        "embeddingId": "6TCDqJ6j"
+        "embeddingId": "zXm365iz"
       }
     ],
     "effects": [
@@ -10449,7 +10449,7 @@
       {
         "type": "action",
         "query": "The player tells the clerk or guild staff they want to speak with the guildmaster, asks to be taken to the Guildmaster Office, decides to go through the secured door, accepts a suggestion to meet the guildmaster, approaches the office door, or otherwise commits to proceeding to the office",
-        "embeddingId": "5wkp-veB"
+        "embeddingId": "YoW97ASZ"
       }
     ],
     "effects": [
@@ -10481,7 +10481,7 @@
       {
         "type": "action",
         "query": "The player asks the guild clerk or guild staff what special assignments are, what classified work involves, what kind of jobs the guildmaster handles, or asks for general information about restricted contracts without committing to take one",
-        "embeddingId": "O-LXCcee"
+        "embeddingId": "WnR3NPhr"
       }
     ],
     "effects": [
@@ -10508,7 +10508,7 @@
       {
         "type": "action",
         "query": "The player tells the clerk or guild staff they want to speak with the guildmaster, asks to be taken to the Guildmaster Office, decides to go through the secured door, accepts a suggestion to meet the guildmaster, approaches the office door, or otherwise commits to proceeding to the office",
-        "embeddingId": "XCGHHpO1"
+        "embeddingId": "S20bms6J"
       }
     ],
     "effects": [
@@ -10594,6 +10594,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Gauntlet"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The War Throne"
       }
     ],
     "effects": [
@@ -10617,6 +10622,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Whispering Dark"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Lord's Shadow"
       }
     ],
     "effects": [
@@ -10640,6 +10650,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Wanting Court"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Lord's Parlor"
       }
     ],
     "effects": [
@@ -10663,6 +10678,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Rain Palace"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Lord's Vigil"
       }
     ],
     "effects": [
@@ -10686,6 +10706,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Crown Spire"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Summit Throne"
       }
     ],
     "effects": [
@@ -10709,6 +10734,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Bright Pavilion"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Brightlord's Stage"
       }
     ],
     "effects": [
@@ -10732,6 +10762,11 @@
         "type": "party-location",
         "operator": "equals",
         "value": "The Hearthstone"
+      },
+      {
+        "type": "party-area",
+        "operator": "equals",
+        "value": "The Bonded Hall"
       }
     ],
     "effects": [
@@ -10965,7 +11000,7 @@
       {
         "type": "action",
         "query": "The player reports a completed Covenant hunt, demonic investigation, demon kill, cult disruption, or corruption case to the handler or Covenant staff — presenting evidence, giving a debrief, or formally logging a completed assignment. The player must be actively reporting this turn. Does NOT include: accepting new assignments, asking about available work, or entering the Sanctuary without reporting.",
-        "embeddingId": "orw65Gkz"
+        "embeddingId": "OOuPDRy0"
       }
     ],
     "effects": [
@@ -10995,7 +11030,7 @@
       {
         "type": "action",
         "query": "The player reports a completed Covenant hunt, demonic investigation, demon kill, cult disruption, or corruption case to the handler or Covenant staff — presenting evidence, giving a debrief, or formally logging a completed assignment. The player must be actively reporting this turn. Does NOT include: accepting new assignments, asking about available work, or entering the safe house without reporting.",
-        "embeddingId": "YeLiLEnz"
+        "embeddingId": "OiduS5AR"
       }
     ],
     "effects": [
@@ -11025,7 +11060,7 @@
       {
         "type": "action",
         "query": "The player reports a completed Covenant hunt, demonic investigation, demon kill, cult disruption, or corruption case to the handler or Covenant staff — presenting evidence, giving a debrief, or formally logging a completed assignment. The player must be actively reporting this turn. Does NOT include: accepting new assignments, asking about available work, or entering the Sanctuary without reporting.",
-        "embeddingId": "s537lbY0"
+        "embeddingId": "MFO362VI"
       }
     ],
     "effects": [
@@ -11055,7 +11090,7 @@
       {
         "type": "action",
         "query": "The player reports a completed Covenant hunt, demonic investigation, demon kill, cult disruption, or corruption case to the handler or Covenant staff — presenting evidence, giving a debrief, or formally logging a completed assignment. The player must be actively reporting this turn. Does NOT include: accepting new assignments, asking about available work, or entering the safe house without reporting.",
-        "embeddingId": "N480_Z6_"
+        "embeddingId": "Bfj2p94F"
       }
     ],
     "effects": [
@@ -11347,7 +11382,7 @@
       {
         "type": "story",
         "query": "The player asks to join the Dusk Covenant, requests to become a demon hunter, volunteers for Covenant service, or accepts an offer of recruitment",
-        "embeddingId": "Lzm-zHgN"
+        "embeddingId": "t6b1mFl4"
       }
     ],
     "effects": [
@@ -11400,7 +11435,7 @@
       {
         "type": "story",
         "query": "The player asks to join the Dusk Covenant, requests to become a demon hunter, volunteers for Covenant service, or accepts an offer of recruitment",
-        "embeddingId": "mtI8mbQi"
+        "embeddingId": "_diAX2yZ"
       }
     ],
     "effects": [
@@ -11474,7 +11509,7 @@
       {
         "type": "action",
         "query": "The player agrees to help Tachyon find and recover Luxon, accepts the recovery mission, says yes to going with her, or commits to the search. Mere acknowledgment of the offer does NOT count -- the player must commit.",
-        "embeddingId": "wzJcdfct"
+        "embeddingId": "xL3ZMb0g"
       }
     ],
     "effects": [
@@ -11656,7 +11691,7 @@
       {
         "type": "story",
         "query": "The party is resting at an inn, tavern, or settled lodging in a town or settlement -- not camping in the wilderness, not in active travel, not in a dungeon or hostile location",
-        "embeddingId": "tsPkWn7U"
+        "embeddingId": "C_oO46gb"
       }
     ],
     "effects": [
@@ -11709,7 +11744,7 @@
       {
         "type": "action",
         "query": "The player accepts Itsuha's offer to travel with them, agrees to let her join the party, says yes to her coming along, or otherwise commits to her joining. Polite acknowledgment without commitment does NOT count -- the player must commit.",
-        "embeddingId": "DiRGM5gq"
+        "embeddingId": "p5Qqlvxw"
       }
     ],
     "effects": [
@@ -11863,7 +11898,7 @@
       {
         "type": "story",
         "query": "The party becomes aware through the jorogumo researcher Tsuchigumo directly of an anomalous mana signature, a strange signal, a southern trajectory, an unidentified presence, or someone or something existing far south of Interdictum's mapped substrate that may be worth investigating or connected to the wound in the Hollow.",
-        "embeddingId": "4-MofOOS"
+        "embeddingId": "EY4cbRJl"
       }
     ],
     "effects": [
@@ -11940,7 +11975,7 @@
       {
         "type": "story",
         "query": "The Quietus Brood Queen has been killed, defeated, destroyed, or otherwise definitively neutralized",
-        "embeddingId": "PsieidXL"
+        "embeddingId": "tN_u9CTD"
       }
     ],
     "effects": [
@@ -11973,7 +12008,7 @@
       {
         "type": "story",
         "query": "The player has resolved the Pale Shepherd situation — destroyed the demon, exiled it, exposed it to the villagers, negotiated with it, severed its bond to the cairn, or made a definitive decision about its fate",
-        "embeddingId": "UTrNm2W3"
+        "embeddingId": "NCeS449j"
       }
     ],
     "effects": [

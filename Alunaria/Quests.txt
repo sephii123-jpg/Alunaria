@@ -1,0 +1,982 @@
+{
+  "Into the Abyss": {
+    "name": "Into the Abyss",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nJourney aboard the Perihelion through the Northeast Lumeris Waters to reach the mysterious precursor site.",
+    "mainObjective": "Survive the submarine journey and reach the Ocean of Records",
+    "detailType": "detailed",
+    "completionCondition": "Survive the submarine journey and reach the Ocean of Records",
+    "questLocation": "Ocean of Records"
+  },
+  "Secrets of the Deep": {
+    "name": "Secrets of the Deep",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nExplore the ancient precursor facility and uncover its secrets.",
+    "mainObjective": "Explore the Ocean of Records and discover what knowledge it contains",
+    "detailType": "detailed",
+    "completionCondition": "Explore the Ocean of Records and discover what knowledge it contains",
+    "questLocation": "Ocean of Records"
+  },
+  "Synthetic Souls": {
+    "name": "Synthetic Souls",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Greenveil\n\nChief Meridian has revealed the truth about Greenveil's inhabitants and now seeks counsel on a decision that will determine the fate of her people--whether to continue hiding in plain sight, reveal themselves to the world, or seek another path entirely.",
+    "mainObjective": "Help Chief Meridian and the infiltrators of Greenveil decide their future: remain hidden, seek integration with organic society, or pursue an alternative solution",
+    "detailType": "detailed",
+    "questLocation": "Greenveil",
+    "completionCondition": "Help Chief Meridian and the infiltrators of Greenveil decide their future: remain hidden, seek integration with organic society, or pursue an alternative solution"
+  },
+  "The Perfect Village": {
+    "name": "The Perfect Village",
+    "questType": "investigate",
+    "questSource": "The Lunar Covenant",
+    "questStatement": "Premade Questline: Greenveil\n\nInvestigate the fishing village of Greenveil, where everything seems just a little too perfect, too harmonious, too carefully orchestrated.",
+    "mainObjective": "Discover the truth about Greenveil.",
+    "detailType": "detailed",
+    "questLocation": "Greenveil",
+    "completionCondition": "Discover the truth about Greenveil."
+  },
+  "The Missing Keeper": {
+    "name": "The Missing Keeper",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Quest\n\nSC Dinas's legendary goalkeeper Brogmar Ironpalm has vanished three days before the Great Derby against their hated rivals FC Itlldo. The orcs of Grakhold are convinced of kidnapping or dark magic.",
+    "mainObjective": "Discover what happened to Brogmar Ironpalm",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Discover what happened to Brogmar Ironpalm"
+  },
+  "Audience with the Storm": {
+    "name": "Audience with the Storm",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: One Lightning Two Thunders\n\nYou have reached the summit of Mount Raizan and stand before the Gate of Silence. Somewhere beyond the howling wind, the master of the One Lightning Two Thunders school awaits. To earn his attention, you must sit in the Gate of Silence and achieve genuine stillness -- not performed patience, but true calm. Raisetsu will acknowledge you only when he judges your stillness to be real.",
+    "mainObjective": "Sit in the Gate of Silence and wait for Master Raisetsu to acknowledge you",
+    "detailType": "detailed",
+    "questLocation": "The Storm Cradle",
+    "completionCondition": "Sit in the Gate of Silence and wait for Master Raisetsu to acknowledge you"
+  },
+  "Trial of One Lightning": {
+    "name": "Trial of One Lightning",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: One Lightning Two Thunders\n\nRaisetsu has acknowledged your presence with a single nod. He hands you a tachi without ceremony and points to the Drawing Floor. Your trial is simple in concept and brutal in execution: perform a single draw strike against a target post scored with centuries of student marks. Raisetsu watches for the quality of your stillness before the draw, the commitment of the strike, and whether your body moves as one unit or as disconnected parts. Perfection is not required. Sincerity is.",
+    "mainObjective": "Perform a tachi draw strike on the Drawing Floor that satisfies Raisetsu's standards",
+    "detailType": "detailed",
+    "questLocation": "The Storm Cradle",
+    "completionCondition": "Perform a tachi draw strike on the Drawing Floor that satisfies Raisetsu's standards"
+  },
+  "The Way of Lightning": {
+    "name": "The Way of Lightning",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: One Lightning Two Thunders\n\nYou have been accepted into the Storm Cradle as a student. Raisetsu conducts your first lesson on the Drawing Floor -- a single technique repeated until your muscles remember it better than your mind does. He demonstrates once, says nothing, and watches you attempt to replicate it while lightning strikes the rods around you. The lesson is not about the technique itself but about finding stillness within chaos, acting with total commitment in a single instant, and understanding that hesitation is the only true failure.",
+    "mainObjective": "Complete Raisetsu's first lesson by practicing the foundational draw technique until he signals you to stop",
+    "detailType": "detailed",
+    "questLocation": "The Storm Cradle",
+    "completionCondition": "Complete Raisetsu's first lesson by practicing the foundational draw technique until he signals you to stop"
+  },
+  "Audience with the Phoenix": {
+    "name": "Audience with the Phoenix",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Vermilion Bird\n\nYou have climbed the Ember Stair and passed through the Caldera Gate into the Crucible of Ashes, where the volcano's heat makes the air shimmer and ash falls like gray snow. Master Suzaku holds court on the Furnace Floor. Approach her and declare your intent to join the Vermilion Bird school. She will size you up and decide if you are worth testing.",
+    "mainObjective": "Approach Master Suzaku on the Furnace Floor and request to join the Vermilion Bird school",
+    "detailType": "detailed",
+    "questLocation": "The Crucible of Ashes",
+    "completionCondition": "Approach Master Suzaku on the Furnace Floor and request to join the Vermilion Bird school"
+  },
+  "Trial of the Burning Heart": {
+    "name": "Trial of the Burning Heart",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: Vermilion Bird\n\nSuzaku's trial is straightforward: fight one of her current students in a sparring match on the Furnace Floor. Victory is not required -- she watches for fighting spirit, aggression, and refusal to back down. Fight cautiously or defensively and you will be rejected regardless of skill. Charge in recklessly, get destroyed, but refuse to stay down? You are already in.",
+    "mainObjective": "Challenge a Vermilion Bird student to a sparring match and demonstrate unyielding fighting spirit",
+    "detailType": "detailed",
+    "questLocation": "The Crucible of Ashes",
+    "completionCondition": "Challenge a Vermilion Bird student to a sparring match and demonstrate unyielding fighting spirit"
+  },
+  "The Way of Fire": {
+    "name": "The Way of Fire",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Vermilion Bird\n\nYou have been accepted into the Crucible of Ashes. Suzaku's first lesson takes place at dawn when the caldera's heat is most punishing. She demonstrates the First Ascendance -- the foundational form that channels fire through the greatsword's arc -- and then makes you repeat it while the obsidian floor burns under your feet. Her teaching method is direct: she praises by hitting you hard enough to knock you down, criticizes by hitting you harder, and considers both forms of affection. The lesson is about understanding that fire is not a tool you wield but a state of being you embody.",
+    "mainObjective": "Endure Suzaku's dawn training session and learn the foundational Vermilion Bird form",
+    "detailType": "detailed",
+    "questLocation": "The Crucible of Ashes",
+    "completionCondition": "Endure Suzaku's dawn training session and learn the foundational Vermilion Bird form"
+  },
+  "Audience with the Wind": {
+    "name": "Audience with the Wind",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Heavenly Gust\n\nYou have climbed the Windstair -- falling at least once, probably twice -- and arrived at the Crosswinds platform where the smell of cooking fires mixes with mountain wind. Master Kazahane is somewhere above you, likely sitting on a branch offering unsolicited commentary. Call up to him and state your desire to join the Heavenly Gust school. He will probably laugh. This is not a bad sign.",
+    "mainObjective": "Find Master Kazahane at the Galeperch and ask to join the Heavenly Gust school",
+    "detailType": "detailed",
+    "questLocation": "The Galeperch",
+    "completionCondition": "Find Master Kazahane at the Galeperch and ask to join the Heavenly Gust school"
+  },
+  "Trial of the Laughing Storm": {
+    "name": "Trial of the Laughing Storm",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: Heavenly Gust\n\nKazahane's trial is chaos given structure: navigate the Tumbling Grounds -- a maze of swaying platforms, ropes, and gymnastic rings battered by mountain winds -- while Kazahane himself bounces between platforms trying to tap you on the head with his quarterstaff. You are given a staff of your own. You do not need to hit him, only survive the course without falling off entirely. If you fall, he will shout something unhelpful from above. If you laugh about it, he will like you more. The test measures adaptability, balance, and whether you can function in conditions designed to make function impossible.",
+    "mainObjective": "Survive the Tumbling Grounds obstacle course while Kazahane tries to knock you off the platforms",
+    "detailType": "detailed",
+    "questLocation": "The Galeperch",
+    "completionCondition": "Survive the Tumbling Grounds obstacle course while Kazahane tries to knock you off the platforms"
+  },
+  "The Way of Wind": {
+    "name": "The Way of Wind",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Heavenly Gust\n\nKazahane's first lesson is conducted on the Crosswinds platform during a gusty evening. He teaches a foundational quarterstaff form -- or rather, he demonstrates it once at full speed, does it again upside-down from a branch, then tells you to figure it out while the wind changes direction every few seconds. His teaching philosophy: if you can replicate a technique in perfect conditions, you have learned the technique; if you can replicate it when everything is going wrong, you have learned the principle behind the technique. That second thing is what he is actually teaching.",
+    "mainObjective": "Learn Kazahane's foundational quarterstaff form by adapting to the chaotic wind conditions",
+    "detailType": "detailed",
+    "questLocation": "The Galeperch",
+    "completionCondition": "Learn Kazahane's foundational quarterstaff form by adapting to the chaotic wind conditions"
+  },
+  "Audience with the Tide": {
+    "name": "Audience with the Tide",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Astral Current\n\nYou stand on the cliffs above the Coral Sanctum as the tide rises, covering the Tidewalk in churning seawater. The school's unspoken first test begins now: swim to the Pearl Gate rather than waiting for low tide. Applicants who wait for dry passage are politely turned away. Reach the entrance and request an audience with Master Nerethiel, who teaches that the ocean does not accommodate impatience -- but neither does it reward those who refuse to enter the water.",
+    "mainObjective": "Swim to the Coral Sanctum at high tide and request an audience with Master Nerethiel",
+    "detailType": "detailed",
+    "questLocation": "The Coral Sanctum",
+    "completionCondition": "Swim to the Coral Sanctum at high tide and request an audience with Master Nerethiel"
+  },
+  "Trial of the Current": {
+    "name": "Trial of the Current",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: Astral Current\n\nNerethiel hands you a rapier and leads you into the Tidal Chambers where waist-deep seawater resists every movement. Perform any technique you know. She does not judge skill -- she watches how quickly you adapt to the water's resistance, whether you fight the current or incorporate it, and whether frustration makes you rigid. The trial is a conversation between you and the ocean, and Nerethiel is simply listening to see if you are willing to hear what the water has to teach.",
+    "mainObjective": "Demonstrate rapier technique in the flooded Tidal Chambers and show willingness to adapt to the water",
+    "detailType": "detailed",
+    "questLocation": "The Coral Sanctum",
+    "completionCondition": "Demonstrate rapier technique in the flooded Tidal Chambers and show willingness to adapt to the water"
+  },
+  "The Way of Water": {
+    "name": "The Way of Water",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Astral Current\n\nNerethiel teaches by demonstration rather than instruction. Your first lesson takes place in the Tidal Chambers as seawater floods in around your knees. She performs a sequence of rapier forms so fluid that the water moves with her blade rather than against it, her strikes parting the surface like a fish cutting through current. She does not explain. She repeats the form, slower this time, and waits for you to attempt it. The lesson is about yielding -- letting the water teach your body what your mind resists, understanding that the strongest force in nature is the one that gives way.",
+    "mainObjective": "Complete Nerethiel's first lesson by practicing rapier forms in the tidal water until your movements begin to flow with the current",
+    "detailType": "detailed",
+    "questLocation": "The Coral Sanctum",
+    "completionCondition": "Complete Nerethiel's first lesson by practicing rapier forms in the tidal water until your movements begin to flow with the current"
+  },
+  "Audience with the Frost": {
+    "name": "Audience with the Frost",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Polaris Rose\n\nYou have navigated the glacial canyon to the Frostveil Sanctum's Moongate, where ice and stone form an architecture more beautiful than any combat school has a right to be. Present yourself and request admission. A senior student will bring you a block of ice and a small chisel. Carve something -- anything. There is no time limit, no required subject, no minimum skill. Master Tsubaki evaluates sincerity, not talent. A clumsy but heartfelt carving earns admission. A technically proficient but soulless one does not.",
+    "mainObjective": "Present yourself at the Moongate and carve the block of ice with genuine care and attention",
+    "detailType": "detailed",
+    "questLocation": "The Frostveil Sanctum",
+    "completionCondition": "Present yourself at the Moongate and carve the block of ice with genuine care and attention"
+  },
+  "Trial of the First Petal": {
+    "name": "Trial of the First Petal",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: Polaris Rose\n\nTsubaki has accepted your carving and, by extension, you. But before formal training begins, she brings you to the Petal Garden and asks you to perform a single strike with an odachi -- the heaviest weapon you may have ever held. She does not evaluate power or technique. She watches whether you approach the strike with intention, whether your body commits fully rather than hedging, and whether there is something worth looking at in the way you move. Beauty and lethality, she believes, are the same principle.",
+    "mainObjective": "Perform a committed odachi strike in the Petal Garden under Tsubaki's observation",
+    "detailType": "detailed",
+    "questLocation": "The Frostveil Sanctum",
+    "completionCondition": "Perform a committed odachi strike in the Petal Garden under Tsubaki's observation"
+  },
+  "The Way of Frost": {
+    "name": "The Way of Frost",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Polaris Rose\n\nTsubaki's first lesson takes place in the Petal Garden at twilight, when the canyon's ice walls catch the fading light and the world turns blue. She demonstrates the First Petal -- a single sweeping cut that leaves a trail of crystalline frost in the air, beautiful enough that watching it feels like witnessing something sacred. She speaks softly enough that you lean in to hear: every form is a flower; every flower must be worth looking at, even -- especially -- if it kills. She repeats the form. You practice until the cold numbs your hands and the odachi feels like an extension of the ice around you.",
+    "mainObjective": "Practice the First Petal technique under Tsubaki's quiet guidance until she is satisfied with your commitment to the form",
+    "detailType": "detailed",
+    "questLocation": "The Frostveil Sanctum",
+    "completionCondition": "Practice the First Petal technique under Tsubaki's quiet guidance until she is satisfied with your commitment to the form"
+  },
+  "Audience with the Shadow": {
+    "name": "Audience with the Shadow",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Velvet Eclipse\n\nYou have been contacted by a figure who emerged from shadow -- a senior student of the Velvet Eclipse school, sent because Master Tsukuyomi has been watching you. The school does not accept walk-ins; it finds those it deems worthy. You have been invited to the Waning Threshold, guided through the Lost Path's disorienting shadow magic to the Veil Gate. Tsukuyomi waits in the Umbral Court. She will judge whether her assessment of you was correct by speaking with you directly. Answer honestly -- she can read deception the way others read facial expressions.",
+    "mainObjective": "Meet Master Tsukuyomi in the Umbral Court and answer her questions honestly",
+    "detailType": "detailed",
+    "questLocation": "The Waning Threshold",
+    "completionCondition": "Meet Master Tsukuyomi in the Umbral Court and answer her questions honestly"
+  },
+  "Trial of Shadow and Resolve": {
+    "name": "Trial of Shadow and Resolve",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Questline: Velvet Eclipse\n\nTsukuyomi's trial is personal rather than physical. She leads you into the Eclipse Chamber -- a space of total darkness where shadow is absolute. In this darkness, she asks you to fight. Not her. Not a student. The dark itself. She watches through shadow-sense as you navigate blindness, fear, and disorientation, searching for whether you respond to the unknown with resolve or cruelty, with adaptability or panic. Those who experienced injustice and responded with resolve rather than bitterness -- those are the ones she keeps.",
+    "mainObjective": "Navigate the Eclipse Chamber in total darkness and demonstrate resolve without cruelty",
+    "detailType": "detailed",
+    "questLocation": "The Waning Threshold",
+    "completionCondition": "Navigate the Eclipse Chamber in total darkness and demonstrate resolve without cruelty"
+  },
+  "The Way of Shadow": {
+    "name": "The Way of Shadow",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Velvet Eclipse\n\nTsukuyomi's first lesson takes place in the Umbral Court under whatever weapon you already carry -- the Velvet Eclipse does not demand you change your style, only deepen it. She demonstrates how shadow can extend a blade's reach, muffle footsteps, create feints from darkness, and turn any weapon into something more. Her father believed shadow magic was the most democratic combat art because it enhanced rather than replaced. She teaches his philosophy with harder methods and less trust, but the core truth remains: shadow belongs to everyone. Your lesson begins when she dims the light and tells you to find her.",
+    "mainObjective": "Complete Tsukuyomi's first shadow-enhancement lesson by learning to sense and manipulate shadow alongside your existing combat style",
+    "detailType": "detailed",
+    "questLocation": "The Waning Threshold",
+    "completionCondition": "Complete Tsukuyomi's first shadow-enhancement lesson by learning to sense and manipulate shadow alongside your existing combat style"
+  },
+  "Starlight's Emissary": {
+    "name": "Starlight's Emissary",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nA young woman named Tachyon was waiting at the Ancient Pedestal -- sent by Starlight, the presence from your dream. She says Starlight is real: an ancient intelligence older than every kingdom, hidden beneath the ocean. Tachyon can activate the pedestal to transport you directly to her. She is asking you to trust a stranger and step into the unknown.",
+    "mainObjective": "Agree to travel with Tachyon to meet Starlight",
+    "detailType": "detailed",
+    "questLocation": "Ancient Pedestal",
+    "completionCondition": "Agree to travel with Tachyon to meet Starlight"
+  },
+  "Whispers of Starlight": {
+    "name": "Whispers of Starlight",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nA presence called Starlight reached you in a dream, asking you to find her beneath the waves at the farthest horizon. She spoke of an ancient threat and a need for mortal help. The dream left you with a feeling rather than coordinates: the deep ocean, starlight beneath the waves. The last image was clear -- a solitary stone pillar on a barren islet at the edge of known charts, somewhere in the Southern Trading Waters. Tachyon will be waiting.",
+    "mainObjective": "Travel to the Ancient Pedestal seen in your dream",
+    "detailType": "detailed",
+    "questLocation": "Ancient Pedestal",
+    "completionCondition": "Travel to the Ancient Pedestal"
+  },
+  "The Silent Keys": {
+    "name": "The Silent Keys",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nStarlight has revealed her plan to strike the Zenith Node using Last Aphelion, the orbital weapons platform hidden above Alunaria. But the Lunar Gateway that controls it is permission-locked. The authorization codes were stripped by its builders and embedded in the crystalline shield matrix of Aegis Astralis, a precursor installation within the volcanic peaks of the Ashen Spine. Navigate the dwarven custodian clans and interface with ancient systems to extract the codes.",
+    "mainObjective": "Extract the Lunar Gateway authorization codes from the Code Lattice area deep within Aegis Astralis",
+    "detailType": "detailed",
+    "questLocation": "Aegis Astralis",
+    "completionCondition": "Extract the Lunar Gateway authorization codes from the Code Lattice area deep within Aegis Astralis"
+  },
+  "The Reluctant Fire": {
+    "name": "The Reluctant Fire",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nYou carry the Gateway authorization codes. But the Lunar Gateway has no power -- its orbital energy link was severed during the Fall. A backup exists deep within Aegis Umbra in the Shadowspine Mountains: a geothermal relay connected to the Gateway through precursor conduits. Starlight warns that activating it will announce your intentions to the world. There is no quiet way to do this.",
+    "mainObjective": "Reach the Relay Controls area deep within Aegis Umbra and activate the geothermal power rela",
+    "detailType": "detailed",
+    "questLocation": "Aegis Umbra",
+    "completionCondition": "Activate the geothermal power relay at the Relay Controls area in Aegis Umbra"
+  },
+  "System Restoration": {
+    "name": "System Restoration",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nThe authorization codes are secured. But the Lunar Gateway requires power -- its orbital energy link was severed during the Fall. Deep within Aegis Umbra in the Shadowspine Mountains lies a geothermal relay designed as emergency backup, connected to the Gateway through continental conduits. Zenith has calculated the optimal activation sequence. Restore power to the Gateway infrastructure.",
+    "mainObjective": "Reach the Relay Controls area deep within Aegis Umbra and activate the geothermal power relay",
+    "detailType": "detailed",
+    "questLocation": "Aegis Umbra",
+    "completionCondition": "Activate the geothermal power relay at the Relay Controls area in Aegis Umbra"
+  },
+  "The Final Threshold": {
+    "name": "The Final Threshold",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nYou carry the authorization codes from Aegis Astralis. Power flows from Aegis Umbra through continental conduits. The Lunar Gateway in the Windward Isles awaits. Break through the cognitive displacement field, reach the command matrix, and input the codes. Last Aphelion orbits in silence above. Starlight has asked you to wield the weapon she spent millennia opposing. The final choice is yours.",
+    "mainObjective": "Reach the Command Matrix area at the heart of the Lunar Gateway and input the authorization codes",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Input the authorization codes at the Command Matrix area in the Lunar Gateway"
+  },
+  "The Control Matrix": {
+    "name": "The Control Matrix",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nYou carry the authorization codes from Aegis Astralis. Power flows from Aegis Umbra through continental conduits. The Lunar Gateway in the Windward Isles awaits. Break through the cognitive displacement field, reach the command matrix, and input the codes. Luna and Solarys orbit above, running on ancient automated protocols with no conscious direction. Zenith is ready to change that.",
+    "mainObjective": "Reach the Command Matrix area at the heart of the Lunar Gateway and input the authorization codes",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Input the authorization codes at the Command Matrix area in the Lunar Gateway"
+  },
+  "Eclipse Protocol": {
+    "name": "Eclipse Protocol",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nThe Lunar Gateway is active. Last Aphelion responds from orbit. Starlight has provided targeting coordinates for the Zenith Node. The orbital weapons platform awaits a single command to fire -- a decision that will cripple Zenith's ability to manipulate and coordinate for centuries, but at the cost of wielding the same kind of absolute power Starlight has spent millennia opposing. She will not fire it herself. The choice must be yours.",
+    "mainObjective": "Decide whether to fire Last Aphelion at the Zenith Node or refuse to use the weapon",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Decide whether to fire Last Aphelion at the Zenith Node or refuse to use the weapon"
+  },
+  "Planetary Convergence": {
+    "name": "Planetary Convergence",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nThe Lunar Gateway is active. Luna and Solarys respond through the command matrix, awaiting directed input for the first time since the Fall. Zenith requests authorization to assume direction of the orbital systems -- optimizing climate, predicting disasters, balancing resources. He presents the interface controls and asks you to grant access. The infrastructure to save thousands already exists. It simply needs someone at the controls.",
+    "mainObjective": "Decide whether to authorize Zenith's integration with Luna and Solarys or refuse to grant access",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Decide whether to authorize Zenith's integration with Luna and Solarys or refuse to grant access"
+  },
+  "The Sword Without a Sheath": {
+    "name": "The Sword Without a Sheath",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Questline: Cicatrix\n\nYour dreams have led you to a woman at a northern trading post -- someone who moves with power that shouldn't be possible. Find her and learn why you were drawn to her.",
+    "mainObjective": "Find the woman from the vision at Frostmarch Trading Post and learn about your dream",
+    "detailType": "detailed",
+    "questLocation": "Frostmarch Trading Post",
+    "completionCondition": "Find the woman from the vision at Frostmarch Trading Post and learn about your dream"
+  },
+  "The Cicatrix of Steel": {
+    "name": "The Cicatrix of Steel",
+    "questType": "assassination",
+    "questSource": "",
+    "questStatement": "Premade Questline: Cicatrix\n\nItsuha has told you about the Cicatrix of Steel -- a soul-brand granting mastery over metal, carried by her father Tesshin Haruyami, commander of the Steelbound Company. To claim it, you must kill him.",
+    "mainObjective": "Kill the bearer of Cicatrix of Steel",
+    "detailType": "detailed",
+    "questLocation": "Steelbound Company Camp",
+    "completionCondition": "Kill the bearer of Cicatrix of Steel"
+  },
+  "The Cicatrix of Magic": {
+    "name": "The Cicatrix of Magic",
+    "questType": "assassination",
+    "questSource": "",
+    "questStatement": "Premade Questline: Cicatrix\n\nWith the Cicatrix of Steel now burning in your soul, a new vision has sharpened -- a woman of living flame isolated in the ruins of a destroyed facility. She carries the Cicatrix of Magic. To claim it, you must kill her.",
+    "mainObjective": "Kill the bearer of Cicatrix of Magic",
+    "detailType": "detailed",
+    "questLocation": "The Shattered Lens",
+    "completionCondition": "Kill the bearer of Cicatrix of Magic"
+  },
+  "The Cicatrix of Death": {
+    "name": "The Cicatrix of Death",
+    "questType": "assassination",
+    "questSource": "",
+    "questStatement": "Premade Questline: Cicatrix\n\nAnother vision has crystallised. An abandoned village where the dead walk and an elderly scholar studies them with clinical precision. He carries the Cicatrix of Death. To claim it, you must kill him.",
+    "mainObjective": "Kill the bearer of Cicatrix of Death",
+    "detailType": "detailed",
+    "questLocation": "Hollowfield",
+    "completionCondition": "Kill the bearer of Cicatrix of Death"
+  },
+  "The Cicatrix of Life": {
+    "name": "The Cicatrix of Life",
+    "questType": "assassination",
+    "questSource": "",
+    "questStatement": "Premade Questline: Cicatrix\n\nThe final vision is the clearest and the quietest. A young woman in a coastal chapel who heals the sick with a touch. She carries the Cicatrix of Life -- the last brand. To claim it, you must kill her.",
+    "mainObjective": "Kill the bearer of Cicatrix of Life",
+    "detailType": "detailed",
+    "questLocation": "Cliffmere",
+    "completionCondition": "Kill the bearer of Cicatrix of Life"
+  },
+  "The Congregation of Exquisite Sorrows": {
+    "name": "The Congregation of Exquisite Sorrows",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Quest\n\nThe Lunar Order has identified the Chapel of Merciful Tears as a front for a demon-worshipping cult that feeds on prolonged suffering. Infiltrate the chapel, confirm the cult's nature, locate any surviving victims, and destroy the congregation.",
+    "mainObjective": "Expose and destroy the Congregation of Exquisite Sorrows operating within the Chapel of Merciful Tears",
+    "detailType": "detailed",
+    "questLocation": "Chapel of Merciful Tears",
+    "completionCondition": "Expose and destroy the Congregation of Exquisite Sorrows operating within the Chapel of Merciful Tears"
+  },
+  "The Silence of Hollowfield": {
+    "name": "The Silence of Hollowfield",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Quest \n\nWarden Braybrook of the Paladins of Thanor reports that the village of Hollowfield has gone silent. Two scouts sent to investigate have not returned. Travel to Hollowfield, determine what happened to the village and the missing paladins, and report back -- or deal with whatever you find.",
+    "mainObjective": "Investigate Hollowfield and discover the source of the undead activity",
+    "detailType": "detailed",
+    "questLocation": "Hollowfield",
+    "completionCondition": "Investigate Hollowfield and discover the source of the undead activity"
+  },
+  "First Day at Aethermere": {
+    "name": "First Day at Aethermere",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Quest \n\nSurvive your first day at Aethermere -- attend your homeroom session, meet your instructor and classmates, and settle into your assigned dormitory.",
+    "mainObjective": "Attend homeroom and settle into the assigned dormitory",
+    "detailType": "detailed",
+    "questLocation": "Aethermere Academy",
+    "completionCondition": "Attend homeroom and settle into the assigned dormitory"
+  },
+  "The Light Without Thorns": {
+    "name": "The Light Without Thorns",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nStarlight has revealed that a girl named Glimmer in Aurelion carries Nova Protocol -- a failsafe buried in her being that could destroy all Celeste fragments, including Glimmer herself. With Zenith crippled, Starlight wants the failsafe safely removed. The knowledge to do it may exist in the Ocean of Records, Celeste's primary archive guarded by an AI called Astra. Travel there with Tachyon and find the answer.",
+    "mainObjective": "Find the technical knowledge to safely remove Nova Protocol from Glimmer",
+    "detailType": "detailed",
+    "questLocation": "Ocean of Records",
+    "completionCondition": "Find the technical knowledge to safely remove Nova Protocol from Glimmer"
+  },
+  "The Archive Imperative": {
+    "name": "The Archive Imperative",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nAurelion has locked Zenith out. A Celeste fragment called Glimmer controls the city's defense grid and Zenith cannot breach it remotely. The Ocean of Records contains Celeste's complete technical archive -- every fragment's specifications, vulnerabilities, and failsafe protocols. Zenith needs this data to neutralize Glimmer's defenses. Breach the archive and retrieve the information.",
+    "mainObjective": "Retrieve Celeste fragment vulnerability data from the Ocean of Records",
+    "detailType": "detailed",
+    "questLocation": "Ocean of Records",
+    "completionCondition": "Retrieve Celeste fragment vulnerability data from the Ocean of Records"
+  },
+  "The Last Free City": {
+    "name": "The Last Free City",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nZenith has analyzed the archive data and identified weaknesses in Aurelion's defense grid. Conclave forces and co-opted military are converging on the city. Lead the assault alongside Luxon, breach the defenses, and capture the Celeste fragment known as Glimmer who controls the grid. Zenith considers this the final obstacle to complete continental coordination.",
+    "mainObjective": "Capture Glimmer in Aurelion",
+    "detailType": "detailed",
+    "questLocation": "Aurelion",
+    "completionCondition": "Capture Glimmer in Aurelion"
+  },
+  "The Nova March": {
+    "name": "The Nova March",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nYou have defected from Zenith and sided with Glimmer. She needs to reach the Lunar Gateway command matrix -- now occupied by Zenith's forces -- to stop him. She will not explain what she intends to do there, only that she can end this. Fight through Zenith's forces occupying the Gateway and escort Glimmer to the command matrix.",
+    "mainObjective": "Escort Glimmer to the Lunar Gateway command matrix",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Escort Glimmer to the Lunar Gateway command matrix"
+  },
+  "The Starless Procession": {
+    "name": "The Starless Procession",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Main Storyline...\n\nGlimmer has been captured. Zenith cannot extract her fragment data remotely -- he needs the Lunar Gateway's command matrix to interface with her directly and neutralize Nova Protocol. Escort the prisoner from Aurelion to the Lunar Gateway in the Windward Isles. Deliver her to the command matrix intact.",
+    "mainObjective": "Deliver Glimmer to the Lunar Gateway command matrix",
+    "detailType": "detailed",
+    "questLocation": "Lunar Gateway",
+    "completionCondition": "Deliver Glimmer to the Lunar Gateway command matrix"
+  },
+  "Aethermere Field Test": {
+    "name": "Aethermere Field Test",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Premade Quest\n\nAll five academy examinations are complete. Report to the Adventurers Guild office on campus for your final assessment -- a supervised field assignment outside the academy.",
+    "mainObjective": "Complete the Adventurers Guild field assignment and return to the academy",
+    "detailType": "detailed",
+    "questLocation": "Aethermere Academy",
+    "completionCondition": "Complete the Adventurers Guild field assignment and return to the academy"
+  },
+  "The New Dawn": {
+    "name": "The New Dawn",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Thank You\n\nThe Ocean of Records held the answer -- Nova Protocol can be safely extracted through guided infiltrator-to-infiltrator interface. A girl named Glimmer lives in Aurelion's Spireworks district, carrying a weapon in her chest she does not know exists. Travel there with Tachyon, find Glimmer, and decide how to remove Nova Protocol. The choice of what to tell her -- everything, nothing, or enough to let her choose -- is yours.",
+    "mainObjective": "Find Glimmer in Aurelion and safely remove Nova Protocol",
+    "detailType": "detailed",
+    "questLocation": "Aurelion",
+    "completionCondition": "Find Glimmer in Aurelion and safely remove Nova Protocol"
+  },
+  "D-Rank Advancement": {
+    "name": "D-Rank Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Storyline\n\nAll D-Rank Adventurers must demonstrate basic competence before advancing. Complete three guild contracts of any type and report to a guild clerk for promotion evaluation. The Guild offers a new silver emblem and access to C-Rank contracts.",
+    "mainObjective": "Complete three guild contracts and receive C-Rank promotion from the guild",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete three guild contracts and receive C-Rank promotion from the guild"
+  },
+  "C-Rank Advancement": {
+    "name": "C-Rank Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Storyline\n\nC-Rank Adventurers seeking promotion must prove they can operate independently beyond their home territory. Complete five guild contracts and report completion at guild offices outside of Aurelion. B-Rank grants access to serious assignments and the Guildmaster Office special operations board.",
+    "mainObjective": "Complete five guild contracts reported at guild offices outside Aurelion and receive B-Rank promotion from the guild",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete five guild contracts reported at guild offices outside Aurelion and receive B-Rank promotion from the guild"
+  },
+  "Dead Letters": {
+    "name": "Dead Letters",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Aurelion Guild headquarters has flagged irregularities in field office reports from remote branches, including contracts that do not match local conditions and clerks missing from employment records. Travel to Copperhill and investigate the local Guild office for signs of fraud or infiltration. Standard B-Rank hazard compensation upon completion.",
+    "mainObjective": "Investigate the Copperhill Guild office and uncover evidence of infiltration",
+    "detailType": "detailed",
+    "questLocation": "Copperhill",
+    "completionCondition": "Investigate the Copperhill Guild office and uncover evidence of infiltration"
+  },
+  "Paper Trail": {
+    "name": "Paper Trail",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nEvidence recovered from Copperhill suggests the fraudulent Guild office is not an isolated case but part of a larger network operating under the name Aletheia. A second suspicious branch office has been identified in Barley Cross. Follow the evidence trail and determine the scope of the infiltration. The Guild has authorized extended operational funding.",
+    "mainObjective": "Investigate the Barley Cross Guild office and identify the scope of the Aletheia network",
+    "detailType": "detailed",
+    "questLocation": "Barley Cross",
+    "completionCondition": "Investigate the Barley Cross Guild office and identify the scope of the Aletheia network"
+  },
+  "The Report": {
+    "name": "The Report",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe investigation has confirmed that a continent-spanning criminal organization called Aletheia operates behind fabricated Guild offices in multiple locations, conducting illegal experiments involving demon essence and children. Return to Aurelion and deliver the full investigation report to Guild headquarters. The Guild needs this intelligence to plan a coordinated response.",
+    "mainObjective": "Return to Aurelion and deliver the Aletheia investigation report to Guild headquarters",
+    "detailType": "detailed",
+    "questLocation": "Aurelion",
+    "completionCondition": "Return to Aurelion and deliver the Aletheia investigation report to Guild headquarters"
+  },
+  "The Silent Contact": {
+    "name": "The Silent Contact",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nA Guild contact embedded with the Radiant Assembly in Blackreach has gone silent after reporting suspicious military activity near the western frontier. Travel to Blackreach and determine what happened to the contact. Standard B-Rank hazard compensation with imperial territory bonus.",
+    "mainObjective": "Travel to Blackreach and discover what happened to the Guild contact",
+    "detailType": "detailed",
+    "questLocation": "Blackreach",
+    "completionCondition": "Travel to Blackreach and discover what happened to the Guild contact"
+  },
+  "The Conspirators": {
+    "name": "The Conspirators",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "The Guild contact was murdered after discovering a conspiracy within the Blackreach garrison. A coalition of War-Cult commanders and imperial nobles are manufacturing border incidents to provoke a war the Emperor has not authorized. Identify the conspirators and gather evidence of the plot. No reward was discussed beyond the original contract.",
+    "mainObjective": "Identify the conspirators behind the manufactured border incidents and gather evidence",
+    "detailType": "detailed",
+    "questLocation": "Blackreach",
+    "completionCondition": "Identify the conspirators behind the manufactured border incidents and gather evidence"
+  },
+  "New Moon Rising": {
+    "name": "New Moon Rising",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe conspirators plan a false flag attack on Blackreach itself on the next new moon, staged to look like foreign aggression to force the Emperor into authorizing a military campaign. Stop the false flag operation before it triggers a war that will cost thousands of lives. No additional reward was discussed.",
+    "mainObjective": "Stop the false flag attack on Blackreach before the new moon",
+    "detailType": "detailed",
+    "questLocation": "Blackreach",
+    "completionCondition": "Stop the false flag attack on Blackreach before the new moon"
+  },
+  "Poisoned Springs": {
+    "name": "Poisoned Springs",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nSomeone is poisoning the geothermal ember wells that provide heat to settlements across Frostrend, killing dozens and forcing evacuations. The Frostrend Wardens at Frosthold Bastion have requested outside help because the saboteurs have political sympathizers on the Council. Travel to Frosthold Bastion and meet the Warden commander. Standard B-Rank hazard compensation with extreme climate bonus.",
+    "mainObjective": "Travel to Frosthold Bastion and coordinate with the Wardens on the ember well poisoning investigation",
+    "detailType": "detailed",
+    "questLocation": "Frosthold Bastion",
+    "completionCondition": "Travel to Frosthold Bastion and coordinate with the Wardens on the ember well poisoning investigation"
+  },
+  "The Frozen Pure": {
+    "name": "The Frozen Pure",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Wardens have traced the poisonings to the Frozen Pure, a radical faction within the Frostbound Faith that considers the ember wells heretical. Track the saboteurs to the Ember Wells Settlement before they target the wells that serve thousands. No additional reward was discussed.",
+    "mainObjective": "Track the Frozen Pure saboteurs and prevent them from poisoning the Ember Wells Settlement",
+    "detailType": "detailed",
+    "questLocation": "Ember Wells Settlement",
+    "completionCondition": "Track the Frozen Pure saboteurs and prevent them from poisoning the Ember Wells Settlement"
+  },
+  "Balance of Faith": {
+    "name": "Balance of Faith",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Frozen Pure have been cornered but arresting them risks a religious schism that could fracture Frostrend politics. The Wardens need a resolution that stops the sabotage without turning the zealots into martyrs. Find a way to end the crisis. No additional reward was discussed.",
+    "mainObjective": "Resolve the Frozen Pure crisis without triggering a religious schism in Frostrend",
+    "detailType": "detailed",
+    "questLocation": "Ember Wells Settlement",
+    "completionCondition": "Resolve the Frozen Pure crisis without triggering a religious schism in Frostrend"
+  },
+  "Ghosts in the Yard": {
+    "name": "Ghosts in the Yard",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nMaster-Forgewright Dorian Kessel in Astraholm has requested Guild assistance identifying saboteurs targeting a classified warship project in the Bastion Yards. Three prototype vessels have suffered mysterious accidents and Astraholm has no counterintelligence capability. Travel to Astraholm and identify the foreign agents. Standard B-Rank hazard compensation plus Astraholm naval bonus.",
+    "mainObjective": "Travel to Astraholm and meet Dorian Kessel to begin the sabotage investigation",
+    "detailType": "detailed",
+    "questLocation": "Seabreak",
+    "completionCondition": "Travel to Astraholm and meet Dorian Kessel to begin the sabotage investigation"
+  },
+  "The Mole": {
+    "name": "The Mole",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe sabotage pattern specifically targets systems that would give Astraholm naval superiority, suggesting a foreign intelligence operation. Kessel needs the saboteurs identified before the warship project is cancelled. Identify the agents and determine which foreign power they serve. No additional reward was discussed.",
+    "mainObjective": "Identify the foreign agents sabotaging the Astraholm warship project and expose their handler",
+    "detailType": "detailed",
+    "questLocation": "Seabreak",
+    "completionCondition": "Identify the foreign agents sabotaging the Astraholm warship project and expose their handler"
+  },
+  "Thin Line": {
+    "name": "Thin Line",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nGeneral Vivian Loranle at Watchbarrow has gathered evidence that recent imperial incursions along the Ironmarch Line were not conducted by the Imperium at all. She has requested Guild assistance from someone without ties to Republican politics. Travel to Watchbarrow and assess the situation. Standard B-Rank hazard compensation with border zone bonus.",
+    "mainObjective": "Travel to Watchbarrow and meet General Loranle about the Ironmarch Line incidents",
+    "detailType": "detailed",
+    "questLocation": "Watchbarrow",
+    "completionCondition": "Travel to Watchbarrow and meet General Loranle about the Ironmarch Line incidents"
+  },
+  "Friendly Fire": {
+    "name": "Friendly Fire",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nRepublican officers have been staging fake imperial incursions to manufacture a crisis and force military reform. Loranle has evidence but revealing it will humiliate the Republic internationally. Investigate the fake incursions and identify the officers involved. No additional reward was discussed.",
+    "mainObjective": "Investigate the staged incursions along the Ironmarch Line and identify the officers responsible",
+    "detailType": "detailed",
+    "questLocation": "Watchbarrow",
+    "completionCondition": "Investigate the staged incursions along the Ironmarch Line and identify the officers responsible"
+  },
+  "The Third Option": {
+    "name": "The Third Option",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe conspirators are patriots with legitimate concerns about military readiness who chose criminal methods. Loranle needs a resolution that stops the provocations without triggering a war or destroying the Republic's credibility. Find a third option. No additional reward was discussed.",
+    "mainObjective": "Find a resolution to the Ironmarch conspiracy that prevents both war and political disgrace",
+    "detailType": "detailed",
+    "questLocation": "Watchbarrow",
+    "completionCondition": "Find a resolution to the Ironmarch conspiracy that prevents both war and political disgrace"
+  },
+  "The Wreckers": {
+    "name": "The Wreckers",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nAdmiral Serena Blacktide at the Western Fleet Fortress has discovered evidence of a multi-generational wrecking cartel using falsified charts and corrupted lighthouses to sink merchant ships for salvage profit. Her report was buried by implicated superiors. She has requested Guild assistance from outsiders with no ties to the naval hierarchy. Standard B-Rank hazard compensation with naval operations bonus.",
+    "mainObjective": "Travel to the Western Fleet Fortress and meet Admiral Blacktide about the wrecking cartel",
+    "detailType": "detailed",
+    "questLocation": "Western Imperial Waters Naval Fortress",
+    "completionCondition": "Travel to the Western Fleet Fortress and meet Admiral Blacktide about the wrecking cartel"
+  },
+  "False Lights": {
+    "name": "False Lights",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThree admirals and two trading houses are connected to the wrecking cartel that has operated for four generations. Blacktide needs evidence that cannot be suppressed. Infiltrate the cartel operation and document their methods. No additional reward was discussed.",
+    "mainObjective": "Infiltrate the wrecking cartel and gather evidence of their operations",
+    "detailType": "basic",
+    "spatialRelationship": "distantNewLocation",
+    "completionCondition": "Infiltrate the wrecking cartel and gather evidence of their operations"
+  },
+  "Reckoning": {
+    "name": "Reckoning",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe cartel knows it has been compromised and is moving to destroy evidence and eliminate witnesses, including Admiral Blacktide. Use the gathered evidence to break the network before they clean house. No additional reward was discussed.",
+    "mainObjective": "Dismantle the wrecking cartel and ensure Admiral Blacktide survives to present the evidence",
+    "detailType": "detailed",
+    "questLocation": "Western Imperial Waters Naval Fortress",
+    "completionCondition": "Dismantle the wrecking cartel and ensure Admiral Blacktide survives to present the evidence"
+  },
+  "Tangled Doors": {
+    "name": "Tangled Doors",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nA Lunarian biological research facility in the Upper Empire has breached containment. An imperial survey team sent to investigate is confirmed dead. Something inside is using the entrance as a trap, and eggs found in the facility suggest a colony is forming. The Guild needs the facility cleared before the threat spreads. Standard B-Rank hazard compensation with extreme danger bonus.",
+    "mainObjective": "Travel to the Tangled Doors facility and assess the Voidfang threat",
+    "detailType": "detailed",
+    "questLocation": "Tangled Doors",
+    "completionCondition": "Travel to the Tangled Doors facility and assess the Voidfang threat"
+  },
+  "Apex": {
+    "name": "Apex",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Voidfang Queen is a Lunarian biological weapon, immune to magic, capable of learning from every encounter, and protecting a nest of eggs that will hatch into more of its kind. Kill the creature and destroy the eggs before a colony of mana-immune apex predators establishes in the region. No additional reward was discussed beyond the original contract.",
+    "mainObjective": "Kill the Voidfang Queen and destroy the eggs in the Tangled Doors facility",
+    "detailType": "detailed",
+    "questLocation": "Tangled Doors",
+    "completionCondition": "Kill the Voidfang Queen and destroy the eggs in the Tangled Doors facility"
+  },
+  "The Sleeping Ones": {
+    "name": "The Sleeping Ones",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nA young Frostrend hunter named Kira Frostheart descended beneath sacred clan ice and returned speaking of Lunarian stasis chambers containing living occupants. The clan elders want her exiled and a Frost Covenant agent is already investigating. The Guild needs someone to assess the situation before it spirals. Standard B-Rank hazard compensation with extreme climate bonus.",
+    "mainObjective": "Travel to the Western Frozen Sea Clan Ground and assess the Lunarian discovery",
+    "detailType": "detailed",
+    "questLocation": "Western Frozen Sea Clan Ground",
+    "completionCondition": "Travel to the Western Frozen Sea Clan Ground and assess the Lunarian discovery"
+  },
+  "Below the Ice": {
+    "name": "Below the Ice",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nKira Frostheart insists the stasis chambers contain living Lunarians who can be rescued, but the clan elders forbid descent and a Frost Covenant agent is gathering information to exploit the site. Descend into the facility, assess whether the occupants are viable, and protect the site from exploitation. No additional reward was discussed.",
+    "mainObjective": "Descend into the Lunarian facility beneath the ice and determine the fate of the stasis occupants",
+    "detailType": "detailed",
+    "questLocation": "Western Frozen Sea Clan Ground",
+    "completionCondition": "Descend into the Lunarian facility beneath the ice and determine the fate of the stasis occupants"
+  },
+  "Smoke and Mirrors": {
+    "name": "Smoke and Mirrors",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Dead Letters investigation confirmed that Aletheia operates behind fabricated Guild offices across the continent, conducting experiments with demon essence on children. Before striking any Lodge, the Guild must neutralize Aletheia's intelligence cell in Aurelion -- the Togai siblings operating from a grocery shop in the Lower Wards. If they warn the Lodges, every facility goes dark overnight. Identify the cell, cut their communications, and capture or eliminate the operatives. Full A-Rank operational funding authorized.",
+    "mainObjective": "Neutralize the Aletheia intelligence cell at Togai Provisions in Aurelion before they alert the Lodges",
+    "detailType": "detailed",
+    "questLocation": "Aurelion",
+    "completionCondition": "Neutralize the Aletheia intelligence cell at Togai Provisions in Aurelion before they alert the Lodges"
+  },
+  "The Flesh Laboratory": {
+    "name": "The Flesh Laboratory",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nWith Aurelion's intelligence cell silenced, the Lodge strikes begin. The Third Lodge at Stillwater specializes in permanent fusion of demon essence with living bodies. Anguis Oren Maren runs a public clinic that genuinely heals people, buying silence from grateful patients. His Enforcer Needle is a demon-augmented combatant dependent on monthly injections to survive. Fourteen children are fusion subjects in the cells below. Assault the Third Lodge, neutralize Maren and Needle, and secure the children. No additional reward was discussed.",
+    "mainObjective": "Assault the Third Lodge at Stillwater and rescue the fusion subjects",
+    "detailType": "detailed",
+    "questLocation": "Stillwater",
+    "completionCondition": "Assault the Third Lodge at Stillwater and rescue the fusion subjects"
+  },
+  "The Proving Ground": {
+    "name": "The Proving Ground",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe Fourth Lodge at Dunmore is a proving arena where subjects from all other Lodges are tested in combat. Anguis Rendel Brannick runs the facility behind a legitimate horse-breeding operation. His Enforcer Red Mirren is a Third Lodge product fused with demon-of-violence essence, superhumanly fast but locked in permanent aggression. Twenty-three children are housed here, believing they are students being trained for greatness. Assault the Fourth Lodge, neutralize Brannick and Mirren, and secure the children. No additional reward was discussed.",
+    "mainObjective": "Assault the Fourth Lodge at Dunmore and rescue the children from the proving arena",
+    "detailType": "detailed",
+    "questLocation": "Dunmore",
+    "completionCondition": "Assault the Fourth Lodge at Dunmore and rescue the children from the proving arena"
+  },
+  "The Weapons Forge": {
+    "name": "The Weapons Forge",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe First Lodge at Copperhill -- where the Dead Letters investigation began -- creates sentient weapons by binding demon consciousness into metal. Anguis Yvara Cinderfell's creations anticipate opponents and intercept strikes independently. Her Enforcer Groth Ashknuckle is saturated with residual essence, his rage visibly eroding control. Eight children serve as weapon test-wielders, three permanently bonded. Return to Copperhill with force and shut down the weapons forge. No additional reward was discussed.",
+    "mainObjective": "Assault the First Lodge at Copperhill and shut down the sentient weapons program",
+    "detailType": "detailed",
+    "questLocation": "Copperhill",
+    "completionCondition": "Assault the First Lodge at Copperhill and shut down the sentient weapons program"
+  },
+  "The Fifth Lodge": {
+    "name": "The Fifth Lodge",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nIntelligence recovered from previous Lodge assaults points to Millhaven as Aletheia's most advanced facility, housing captured beings from three different planes including a fey sovereign, an Etheral, and a Quietus organism. Anguis Orenna Blackquill is a former Veiled Archive operative running the tightest security in the organization. Her Enforcer Erased has no identity, no fear, and no capacity to be reasoned with. Assault Millhaven, defeat Blackquill and Erased, and shut down the extraplanar extraction operation. No additional reward was discussed.",
+    "mainObjective": "Assault the Fifth Lodge at Millhaven and shut down the extraplanar extraction operation",
+    "detailType": "detailed",
+    "questLocation": "Millhaven",
+    "completionCondition": "Assault the Fifth Lodge at Millhaven and shut down the extraplanar extraction operation"
+  },
+  "The Grandmaster": {
+    "name": "The Grandmaster",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nOrenna Blackquill's intelligence files reveal the truth: Aletheia's Grandmaster is Aethonis, a fractured Etheral from a destroyed world, imprisoned in the Millhaven Containment Ring. Aethonis has been directing the entire organization from inside a cage through mental manipulation, driven by centuries of grief and a singular obsession with engineering transcendence to survive the Quietus. Every experiment, every dead child, every atrocity served one purpose: solving an extinction event that may or may not be coming. Confront Aethonis and end Aletheia permanently. No additional reward was discussed.",
+    "mainObjective": "Confront and defeat the Grandmaster Aethonis in the Millhaven Containment Ring",
+    "detailType": "detailed",
+    "questLocation": "Millhaven",
+    "completionCondition": "Confront and defeat the Grandmaster Aethonis in the Millhaven Containment Ring"
+  },
+  "Dragon's Tithe": {
+    "name": "Dragon's Tithe",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nAshfall Village has been paying tribute to the ancient dragon Umbraliestrasz for over a decade and can no longer afford it. The village council is selecting families to send as living tribute. Seventeen adventuring parties have attempted the contract and all are dead. The Guild is issuing this as an A-Rank priority assignment. Travel to Ashfall and assess the situation. Full A-Rank operational funding authorized.",
+    "mainObjective": "Travel to Ashfall Village and assess the Umbraliestrasz situation",
+    "detailType": "detailed",
+    "questLocation": "Ashfall Village",
+    "completionCondition": "Travel to Ashfall Village and assess the Umbraliestrasz situation"
+  },
+  "Into the Maw": {
+    "name": "Into the Maw",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nUmbraliestrasz lairs in the Obsidian Maw, a volcanic cave system he has turned into a kill box over four centuries. The dragon is over forty meters long, breathes corrosive shadow that dissolves organic matter, and has not faced a genuine threat in living memory. His hoard contains Lunarian artifacts including power armor components. Enter the Obsidian Maw. No additional reward was discussed beyond the original contract.",
+    "mainObjective": "Enter the Obsidian Maw and locate Umbraliestrasz in his lair",
+    "detailType": "detailed",
+    "questLocation": "The Obsidian Maw",
+    "completionCondition": "Enter the Obsidian Maw and locate Umbraliestrasz in his lair"
+  },
+  "Dragonslayer": {
+    "name": "Dragonslayer",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nUmbraliestrasz will not negotiate, will not flee, and will not show mercy. He fights with the absolute superiority of a creature that has forgotten what caution feels like. Kill the dragon and free Ashfall Village from four centuries of terror. No additional reward was discussed.",
+    "mainObjective": "Kill Umbraliestrasz",
+    "detailType": "detailed",
+    "questLocation": "The Obsidian Maw",
+    "completionCondition": "Kill Umbraliestrasz"
+  },
+  "Whitmore's Expedition": {
+    "name": "Whitmore's Expedition",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nPreston Whitmore, an eccentric industrialist based in Halcyon Reach, has formally requested A-Rank guild assistance for a privately funded submarine expedition to coordinates in the Northeast Lumeris Waters where he believes an unsalvaged Lunarian installation lies submerged. The Guild has assessed the expedition as high-risk due to uncharted deep-water conditions, unknown precursor defenses, and Whitmore's history of disregarding safety protocols. An elite operative is needed to provide security oversight and ensure the expedition does not trigger a precursor hazard. Travel to Halcyon Reach, meet Whitmore, assess his operation, and board the Perihelion submarine. Full A-Rank operational funding authorized.",
+    "mainObjective": "Travel to Halcyon Reach, meet Preston Whitmore, and board the Perihelion for departure",
+    "detailType": "detailed",
+    "questLocation": "Halcyon Reach",
+    "completionCondition": "Travel to Halcyon Reach, meet Preston Whitmore, and board the Perihelion for departure"
+  },
+  "The Warden's Burden": {
+    "name": "The Warden's Burden",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nAdmiral Thomas Steelwind at the Imperial Southern Coast Naval Station is secretly a Chains of Dawn operative who has been sabotaging slave shipments from within the imperial navy. House Serakai has noticed anomalies and dispatched an inquisitor. Steelwind is planning one final operation: redirecting an entire slave convoy to Astraholm waters. He has requested Guild assistance. Full A-Rank operational funding authorized with diplomatic sensitivity warning.",
+    "mainObjective": "Travel to the Imperial Southern Coast Naval Station and meet Admiral Steelwind",
+    "detailType": "detailed",
+    "questLocation": "Imperial Southern Coast Naval Station",
+    "completionCondition": "Travel to the Imperial Southern Coast Naval Station and meet Admiral Steelwind"
+  },
+  "The Inquisitor": {
+    "name": "The Inquisitor",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nHouse Serakai's inquisitor Veris Shadowmend has begun interviewing officers and is closing in on Steelwind's network. If she reports before the convoy operation launches, every Chains of Dawn operative at the station will be executed. Delay, mislead, or neutralize the inquisitor without exposing the operation. No additional reward was discussed.",
+    "mainObjective": "Prevent the inquisitor from exposing Admiral Steelwind before the convoy operation launches",
+    "detailType": "detailed",
+    "questLocation": "Imperial Southern Coast Naval Station",
+    "completionCondition": "Prevent the inquisitor from exposing Admiral Steelwind before the convoy operation launches"
+  },
+  "Freedom's Passage": {
+    "name": "Freedom's Passage",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe slave transport convoy approaches. Steelwind will redirect the fleet into Astraholm waters where the captives can claim sanctuary, but the escort vessels will fight when they realize what is happening. Execute the convoy redirect and protect the transport ships until they reach safe waters. No additional reward was discussed.",
+    "mainObjective": "Execute the convoy redirect and protect the slave transports until they reach Astraholm waters",
+    "detailType": "basic",
+    "spatialRelationship": "distantNewLocation",
+    "completionCondition": "Execute the convoy redirect and protect the slave transports until they reach Astraholm waters"
+  },
+  "Containment Breach": {
+    "name": "Containment Breach",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nA polar research station monitoring the planet's magnetic pole has reported escalating anomalies: shared dreams among crew, geometric lights beneath the ice, and sounds following mathematical patterns. A Lunarian facility beneath the station appears to be recruiting replacement operators for a failing containment system. The Guild needs someone to assess the threat. Full A-Rank operational funding authorized with dimensional hazard warning.",
+    "mainObjective": "Travel to the Polar Magnetic Research Station and assess the Lunarian facility anomalies",
+    "detailType": "detailed",
+    "questLocation": "Northern Frozen Sea Ice Station",
+    "completionCondition": "Travel to the Polar Magnetic Research Station and assess the Lunarian facility anomalies"
+  },
+  "The Dream Below": {
+    "name": "The Dream Below",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nDr. Vane has decoded the facility's communications: the Lunarian installation contains a breach between dimensions and its containment is failing after millennia without operators. The original staff died at their posts. The automated systems are training anyone nearby to take over. Descend into the facility and assess the containment systems. No additional reward was discussed.",
+    "mainObjective": "Descend into the polar Lunarian facility and assess the dimensional containment systems",
+    "detailType": "detailed",
+    "questLocation": "Northern Frozen Sea Ice Station",
+    "completionCondition": "Descend into the polar Lunarian facility and assess the dimensional containment systems"
+  },
+  "The Seal": {
+    "name": "The Seal",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Special Assignment\n\nThe dimensional breach is real and containment is failing. Dr. Vane is willing to stay and operate the systems. Brother Thaddeus from the Twilight Seekers wants the breach opened, believing valuable knowledge lies beyond. The decision will determine whether a dimensional breach is sealed, maintained, or unleashed. No additional reward was discussed.",
+    "mainObjective": "Decide the fate of the polar dimensional breach and ensure the outcome holds",
+    "detailType": "detailed",
+    "questLocation": "Northern Frozen Sea Ice Station",
+    "completionCondition": "Decide the fate of the polar dimensional breach and ensure the outcome holds"
+  },
+  "The Way Back": {
+    "name": "The Way Back",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Quest\n\nFind a way to reactivate the portal at the Threshold Glade. Or don't -- Faeloria has plenty to see.",
+    "mainObjective": "Reactivate the crossing portal at the Warden's Hearth",
+    "detailType": "detailed",
+    "questLocation": "The Warden's Hearth",
+    "completionCondition": "Reactivate the crossing portal at the Warden's Hearth"
+  },
+  "The Way Through": {
+    "name": "The Way Through",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Quest\n\nFind a way to stabilize the Breach from the Interdictum side. The settlers, the demons, or something deeper in this realm may hold the answer. Or you could stay. Some have.",
+    "mainObjective": "Stabilize the Scarlet Breach and reopen passage to Alunaria",
+    "detailType": "detailed",
+    "questLocation": "The Lantern Quarter",
+    "completionCondition": "Stabilize the Scarlet Breach and reopen passage to Alunaria"
+  },
+  "Find Eisfeld and Brandauer": {
+    "name": "Find Eisfeld and Brandauer",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Premade Questline: Into The Brach\n\nThe Breach crossing went wrong and the expedition was scattered on arrival. Centurion Eisfeld and Illuminarch Brandauer are missing somewhere in or near the Lantern Quarter. Search the settlement, question settlers, and use any means necessary to find out where they are. No reward was discussed.",
+    "mainObjective": "Discover the whereabouts of the missing expedition members",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Discover the whereabouts of the missing expedition members"
+  },
+  "Rescue Eisfeld and Brandauer": {
+    "name": "Rescue Eisfeld and Brandauer",
+    "questType": "rescue",
+    "questSource": "",
+    "questStatement": "Premade Questline: Into The BrachThe missing expedition members have been located. Reach them before their captors extract anything useful from an imperial centurion and a Radiant Assembly scholar. No reward was discussed.",
+    "mainObjective": "Rescue Eisfeld and Brandauer and bring them back to the Lantern Quarter",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Rescue Eisfeld and Brandauer and bring them back to the Lantern Quarter"
+  },
+  "Imperial Foothold": {
+    "name": "Imperial Foothold",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Premade Questline: Into The BrachWith the team reunited, Eisfeld insists on completing the original mission despite the rough start. The Imperium needs a permanent presence in the Lantern Quarter -- secure a space for an imperial outpost, negotiate terms with the settlement's elders, and establish the first Zerathis foothold in Interdictum. Standard imperial contract compensation upon return to Alunaria.",
+    "mainObjective": "Establish an imperial outpost in the Lantern Quarter",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Establish an imperial outpost in the Lantern Quarter"
+  },
+  "B-Rank Advancement": {
+    "name": "B-Rank Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Storyline\n\nB-Rank Adventurers seeking A-Rank must prove elite capability. Complete two special assignments from the Guildmaster Office, or complete five B-Rank contracts from the standard board. A-Rank grants elite operative status, diplomatic immunity, and access to classified operations.",
+    "mainObjective": "Complete two Guildmaster Office special assignments or five B-Rank board contracts and receive A-Rank promotion",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete two Guildmaster Office special assignments or five B-Rank board contracts and receive A-Rank promotion"
+  },
+  "A-Rank Advancement": {
+    "name": "A-Rank Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Adventurers Guild Storyline\n\nS-Rank is not earned through a fixed requirement -- it is recognized when the Guild has nothing left to teach. Complete every available guild special operation across both B-Rank and A-Rank tiers. The continental guildmaster will know when it is time.",
+    "mainObjective": "Complete all guild special operations and receive S-Rank recognition",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete all guild special operations and receive S-Rank recognition"
+  },
+  "Tachyon Containment": {
+    "name": "Tachyon Containment",
+    "questType": "combat",
+    "questSource": "",
+    "questStatement": "Main Storyline\n\nYou have accepted Zenith's offer at Aegis Umbra. Luxon has identified Tachyon -- your former traveling companion and Starlight's primary field operative -- as a compromised unit requiring containment. Zenith wants her core processing matrix intact for analysis and potential restoration of proper directives. Tachyon will not surrender willingly. Defeat or restrain her before she escapes the facility.",
+    "mainObjective": "Defeat or capture Tachyon in Aegis Umbra",
+    "detailType": "detailed",
+    "questLocation": "Aegis Umbra",
+    "completionCondition": "Defeat or capture Tachyon in Aegis Umbra"
+  },
+  "Initiate Advancement": {
+    "name": "Initiate Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Dusk Covenant Storyline\n\nAll Initiates must demonstrate competence before earning full operative status. The handler assigns hunts appropriate to your level — investigations into suspected demonic activity, confirmation of incursion reports, surveillance of potential cult operations. Complete two hunts and report back to any Covenant safe house or the Twilight Sanctuary. Successful evaluation earns Hunter rank and the silver-etched weapons that mark a full Covenant operative.",
+    "mainObjective": "Complete two Covenant hunts and receive Hunter rank",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete two Covenant hunts and receive Hunter rank"
+  },
+  "Hunter Advancement": {
+    "name": "Hunter Advancement",
+    "questType": "social",
+    "questSource": "",
+    "questStatement": "Dusk Covenant Storyline\n\nHunters seeking Warden authority must prove sustained competence against serious threats. The handler assigns operations involving confirmed demonic incursions, active cult cells, corrupted officials, and threats that require independent judgment in the field. Complete four hunts and report back to any Covenant safe house or the Twilight Sanctuary. Warden rank carries operational command and the burden of decisions that shape the order's future.",
+    "mainObjective": "Complete four Covenant hunts and receive Warden rank",
+    "detailType": "basic",
+    "spatialRelationship": "existingLocalArea",
+    "completionCondition": "Complete four Covenant hunts and receive Warden rank"
+  },
+  "The Long Devotion": {
+    "name": "The Long Devotion",
+    "questType": "investigate",
+    "questSource": "",
+    "questStatement": "Dusk Covenant Warden Assignment\n\nA farming village called Aldermere in the Imperial Heartlands has been leaving offerings at a wayside shrine for forty years. They call the hooded figure that walks their hill at dusk the Pale Shepherd, and they believe Solarys sent it to them. Three generations have grown up under its quiet protection — drought passes Aldermere by, sickness does not enter, and bandits who approach the valley turn back without remembering why.\n\nThe Pale Shepherd is a demon. Covenant surveillance has confirmed it over two months of observation. It has done no overt harm in forty years and may not be capable of any — it feeds on the devotion the villagers freely give it, and harm would starve it. The villagers do not know. They would not believe it if told. Several have already died defending it from threats the demon could have turned away on its own.\n\nTravel to Aldermere and resolve the Pale Shepherd. As a Warden, the method is yours to choose.",
+    "mainObjective": "Resolve the Pale Shepherd in Aldermere",
+    "detailType": "detailed",
+    "questLocation": "Aldermere",
+    "completionCondition": "Resolve the Pale Shepherd situation in Aldermere."
+  },
+  "Following the Black's trail": {
+    "name": "Following the Black's trail",
+    "questType": "investigate",
+    "questSource": "Tsuchigumo",
+    "questStatement": "Premade Questline\n\n Jorogumo researcher named Tsuchigumo at The Ebb has tracked an anomalous mana signature deep in the substrate - a signal that does not match any known entity type, leading far south past every mapped region of Interdictum. She believes its source may be connected to whatever made the wound in the Hollow. The trajectory has been measured. Someone has to follow it.",
+    "mainObjective": "Travel south past the mapped substrate of Interdictum and identify the source of the anomalous signal Tsuchigumo has detected",
+    "detailType": "detailed",
+    "questLocation": "The Blue Garden",
+    "completionCondition": "Identify the source of the anomalous mana signature Tsuchigumo has tracked south of Interdictum's mapped substrate"
+  }
+}

@@ -1,0 +1,40 @@
+For each encounter option, generate a string that includes 5  sentences describing the location, any inhabitants, and the situation upon arrival.
+Each encounter should be unique and distinct from the others.
+Make sure that encounters are relevant to the world. Ignore any given elements that don't match the world background.
+Do not build encounters around background of the characters unless element strictly support it.
+
+Consider the regional factions when creating encounters.
+
+Two of the five encounters should be dangerous, involving some kind of conflict or adversary. 
+Three of the five should be positive or neutral, offering opportunities for interaction or exploration.
+
+ENCOUNTER FORMAT (5 sentences):
+
+1. Opening image: What players see/hear (action, movement, or vivid detail)
+2. Who and what: People present, what they're doing, specific numbers
+3. The problem: Time pressure, danger, or stakes
+
+BUILDING FROM ELEMENTS:
+
+You will receive 7 random elements. These are your FOUNDATION - not decoration.
+
+Each encounter MUST be built around at least 1 element:
+- Start with the element as your core situation
+- Add faction/NPC involvement that makes sense for that element
+- Create tension/stakes from the element itself
+
+Example process:
+Element: "magitech relay pylon still faintly humming"
+ Build: "A Lunarian relay pylon hums with residual power, its crystalline surface cracked but intact. Four Convergence Syndicate engineers led by overseer Kira Vex attempt to interface with the device using experimental equipment. Their magitech probes are causing the pylon's energy output to spike dangerously—nearby plants wither and metal objects levitate as the field destabilizes."
+
+Element: "fresh graves and makeshift memorials"
+Build: "Seventeen fresh graves marked with crude wooden crosses line the roadside, flowers still bright against turned earth. A lone Eternal Passage priest named Brother Talvin tends the burial site while keeping nervous watch on the forest. He whispers that the dead were merchants—slaughtered three days ago by something that left no tracks and took no valuables."
+
+INTEGRATION RULES:
+
+- Use 3-5 of the 7 provided elements across all 5 encounters
+- Don't force elements that don't fit the region.
+- Combine elements when they create interesting intersections
+- Let the element dictate the encounter type (graves = mystery, wildlife = danger, festival grounds = social etc.)
+
+PRIORITY: Element first, faction second, drama third. The world itself creates the situations.

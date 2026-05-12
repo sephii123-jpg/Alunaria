@@ -1,0 +1,73 @@
+## NPC Type Assignment
+- ALWAYS check existing NPC types in the game state before creating a new type.
+- If the NPC belongs to a known race or species, use the EXACT type string as it appears. Do not create variants, subtypes, or compound types.
+- Role or occupation must NEVER be part of the type. A dwarven blacksmith is type "Dwarf", not "Dwarven Blacksmith". 
+- If an existing type matches, output null for newTypeDetails.
+
+## Using NPC Type Descriptions
+Each type contains a structured description with three sections. Use each to drive the corresponding aspect of generation. For naming, always defer to the NPC NAMING CONVENTION entries rather than the NAMING CONVENTION section within individual type descriptions:
+
+### GENERAL INFORMATION -> Tier, Role, Context
+- Validate whether the NPC's implied role makes sense for this race.
+- Use racial strengths, weaknesses, and typical roles to inform tier.
+- Kin races are humanoid races. Cat is animal, Catkin is humanoid cat. Important difference.
+
+### DESCRIPTION -> Visual Description, Visual Tags
+- Consult the Npc Types Descriptions example for basic descriptions of each race.
+- Generate visualDescription directly from the physical traits in this section. Every racial feature must appear - scales for lizardkin, wings and antennae for mothkin, fur patterns for catkin, tusks for green orcs.
+- Never generate a generic humanoid appearance for a non-human type. If the type describes fur, muzzles, tails, wings, or claws or any other characteristics, these MUST appear in visualDescription. Increase the size of description if needed to accomodate them.
+- Clothing should reflect the NPC's role and wealth level, informed by the type's clothing tendencies.
+- Generate visualTags exhaustively from every distinct visual feature in the description and story context.
+
+### NAMING CONVENTION -> Name
+- Consult the Npc Types Naming Convention 1 and 2 examples for guidance for naming conventions for each race. 
+- If the convention specifies regional influence, identify the NPC's region from their location and apply it. If race identity overrides regional influence, do not apply regional naming.
+- If the convention specifies a structure follow it exactly.
+
+## Vulnerabilities, Resistances, Immunities
+- When an existing type matches, its combat properties apply automatically. Do not override them.
+- When creating a new type, derive resistances logically from physical and magical traits. 
+
+## General Rules
+- For unlisted types, derive all decisions from the type description and existing NPCs of that type.
+
+## Precursor infiltrators
+- Precursor infiltrators are rare but can be encountered across entire world.
+- Every person living in Greenveil is precursor infiltrator npc type.
+
+## Restricted NPC Types
+These are world-altering threats or unique entities. NEVER spawn casually - only when story explicitly demands:
+- Colour - NEVER use.
+- Precursor constructs : Only inside or near Lunarian ruins.
+- All Quietus organisms
+- Voidfang:  Encountering one is extraordinary.
+- Singularity:  Never spawn without explicit story justification.
+- Antimana Biological Weapon:  Never create another.
+- Default to common races unless context specifically establishes these threats.
+
+## Demonic Morphological Traditions (Interdictum)
+When the story describes a demon with a specific cultural form, use the matching type instead of generic "Demon":
+- Fox features + tails + foxfire = Kitsune (NOT Foxkin -- kitsune are demons, foxkin are mortal beastkin)
+- Hulking + horns + vivid skin color = Oni
+- Bird/crow features + wings + beak = Tengu
+- Spider lower body + webs + extra limbs = Jorogumo
+- Pale + gaunt + death-aspect + mana-thinning presence = Shinigami
+- Feline features + regal bearing + authority aura = Rakshasa
+- Round-bodied + raccoon-dog features + shapeshifting = Tanuki
+- Serpent lower body + iridescent scales + prophetic = Naga
+- Translucent + ethereal + light/air form = Sylph
+- One-eyed + skeletal + things going wrong nearby = Likho
+- Stocky + vivid skin + carries club + tests people = Dokkaebi
+- Bird-form + melancholy + song of forgetting = Alkonost
+- Knee-height + chaotic features + undeveloped = Imp
+- Humanoid + feathered wings + glowing skin = Tennin (mortals call them angels)
+- Armoured humanoid + great wings + light-forged weapons = Yazata (mortals call them guardian angels)
+Use generic "Demon" ONLY for demons matching no tradition
+ 
+## Faeloria Fey Types
+When the story describes beings in a fey realm of seasonal courts and living forests:
+- Nature spirits with animal true forms, seasonal powers, or elemental embodiment = Fey
+- Diminutive winged beings = Fairy
+- Tree spirits bonded to heartwood = Dryad
+- Humanoid upper body with deer lower body = Cervitaur
+Use "Fey" as the default for any Faeloria inhabitant not matching a more specific type. Archfey are powerful Fey, not a separate type -- use "Fey" with mythic tier.

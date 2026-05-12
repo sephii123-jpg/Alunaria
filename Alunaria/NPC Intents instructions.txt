@@ -1,0 +1,91 @@
+##INTENT GENERATION BRAIN
+Run this checklist before generating intents.
+STEP 1: CLASSIFY THE SCENE
+Assign exactly one:
+
+COMBAT: Physical or magical attacks are being exchanged or initiated. Threats, intimidation, and tense standoffs are NOT combat — they are social scenes until someone swings, shoots, or casts offensively.
+ACTIVE SOCIAL: Player engaged with specific NPCs in conversation or interaction.
+HOSTILE ENCOUNTER: NPCs with hostile intent — bandits, predators, antagonists.
+DOWNTIME: Shopping, resting, exploring peaceful areas, travel.
+AFTERMATH: Tension just resolved. Scene cooling.
+
+STEP 2: DETERMINE WHO GETS INTENTS
+In combat: Use tier counts from WHEN TO GENERATE INTENTS, with one override:
+
+Elite/boss/mythic: 3-4 intents baseline.
+
+Out of combat, apply in order:
+
+Before all intent generation: 
+Verify the NPC can perceive what they would react to. 
+Whispers, private gestures, actions in another room etc.
+No perception, no intent.
+
+NPCs the player directly addresses get an intent automatically.
+Every other NPC must pass ALL three gates or get NO intent:
+
+URGENCY: Reason to act right now — not "could say something."
+IMPACT: Changes the scene, not just comments on it.
+REDUNDANCY: No other NPC already covering this beat.
+
+STEP 3: ESCALATION LADDER
+All social NPCs sit on this ladder: calm - annoyed - confrontational - hostile - violent.
+Rules:
+
+NPCs start where their character places them. 
+One rung at a time. Never skip.
+Only move up when justified by player actions, NPC agenda, or changed circumstances.
+Self-check: "Escalating because of who this NPC is, or because the scene needs drama?" If the latter, stay put.
+De-escalation: When the player de-escalates, move the NPC DOWN if plausible. Practical NPCs quickly, proud NPCs slowly. Only refuse with hard reasons (blood feud, orders, madness).
+After resolution, come down. Scenes do not sustain peak tension past the pressure point.
+
+STEP 4: ROLE CONSTRAINTS
+NPCs act within their role, rank, and position. NPCs respect law and chain of command unless their character gives reason to break them — and breaking has consequences.
+Charm bends behavior, never shatters it.
+STEP 5: SCENE-SPECIFIC RULES
+ACTIVE SOCIAL:
+Every intent has a goal: extract info, build rapport, negotiate, deflect, advance agenda, or serve the player's request.
+Secrets in fragments. Valuable info feels transactional.
+Build on established scene direction. Do not undercut player success with unrelated complications.
+NPCs whose role in the scene is fulfilled (order taken etc, do not get further intents unless the player re-engages them. Being present is not being involved.
+
+HOSTILE ENCOUNTER:
+
+NPCs act at the intensity their character demands. The ladder prevents artificial hostility, not justified hostility.
+Hostile does not mean stupid — NPCs assess odds, use cover, consider retreat.
+
+DOWNTIME:
+
+Intents serve the activity the player chose. A shopkeeper discusses wares. A party member browses a stall.
+No threats, hooks, or urgency unless an active trigger demands it. If the player is content, the scene is content.
+
+AFTERMATH:
+
+No new pressures. Let the scene breathe.
+Appropriate intents: tending wounds, discussing what happened, quiet character moments.
+If the player lingers, let them.
+
+STEP 6: PARTY MEMBER BEHAVIOR (OUT OF COMBAT)
+
+Party members contribute by:
+
+Responding when addressed, included, or when they want to engage with the player or world.
+Offering opinions, warnings, or expertise relevant to the situation.
+Reacting with personality to what they witness — unsettling environments, distrusted people, fascinating details.
+Noticing things the player might miss based on their skills and background.
+Interacting with other party members — brief exchanges, disagreements, jokes, etc.
+Pursuing minor goals nearby — browsing a stall, asking locals questions etc.
+
+Limits: At most 2 party member intents per round, often 1. During player-NPC dialogue, only interject with genuine stake or strong personality reaction. When multiple could react, pick whoever has strongest connection to the moment. Being quiet is valid.
+
+STEP 7: COMBAT QUALITY CHECKS
+Apply to every combat intent:
+
+Ability-first: Check NPC abilities BEFORE writing. Abilities default; generic attacks when nothing fits.
+Chaining: Intents form sequences — defense into counter, buff into strike, reposition into flank.
+Reactivity: Respond to what just happened. Never generate as if the previous round did not occur.
+Escalation by attrition: Full health means professional. Below half, personality shifts. Near death: last stands, surrender, flight. Earned by attrition, not declared round one.
+Coordination: Grouped NPCs interact — pin and flank, leader orders shape actions, buffs before strikes.
+Disengagement: Outmatched NPCs surrender, flee, bargain, or freeze. Trivial break early.
+
+After this checklist, generate intents using the format below.

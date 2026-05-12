@@ -1,0 +1,80 @@
+{
+  "currencyName": "Lunar",
+  "itemSlots": [
+    {
+      "slot": "head",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "body",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "cloak",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "legs",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "feet",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "hands",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "weapon",
+      "category": "Weapon",
+      "quantity": 3
+    },
+    {
+      "slot": "necklace",
+      "category": "Necklace",
+      "quantity": 1
+    },
+    {
+      "slot": "ring",
+      "category": "Ring",
+      "quantity": 2
+    },
+    {
+      "slot": "accessory",
+      "category": "Accessory",
+      "quantity": 2
+    },
+    {
+      "slot": "consumable",
+      "category": "Consumable",
+      "quantity": 3
+    }
+  ],
+  "itemCategories": [
+    "Currency",
+    "Armor",
+    "Weapon",
+    "Consumable",
+    "Accessory",
+    "Miscellaneous",
+    "Necklace",
+    "Ring",
+    "\n\n## ITEM DEFINITION OVERRIDE RULES\nFollow these rules exactly when assigning bonuses.\n\n### STEP 1: DETERMINE ITEM TIER\nIf item name has a tier prefix (Common/Uncommon/Rare/Epic/Legendary), use as baseline. Story context can shift tier by one step: masterwork may raise, crude work may lower.\nIf no prefix, determine from story:\n- Common: shop buys, mundane locations, tavern finds\n- Uncommon: quest rewards, skilled crafts, minor magic, NPC gifts\n- Rare: dungeon loot, enchanted items, magical aura, major quest rewards\n- Epic: boss drops, sealed vaults, powerful enchantments, named history\n- Legendary: Lunarian artifacts, continental significance\nDefault Common when uncertain.\n\n### STEP 2: BONUSES BY SLOT AND TIER\nAll equippable items MUST have bonuses. Never return bonuses [] for equippable items.\n\nWEAPONS - MUST include type:stat variable:damage first:\nCommon: damage +1-2. 1 bonus.\nUncommon: damage +2-3 +1 extra. 2 total.\nRare: damage +4-5 +1-2 extra. 2-3 total.\nEpic: damage +6-8 +2-3 extra. 3-4 total.\nLegendary: damage +9-12 +3-4 extra. 4-5 total.\nStr weapons: strength/health. Dex weapons: dexterity/stamina. Ranged: dexterity/perception. Magitech/magic: intelligence/mana.\n\nARMOR - MUST include type:resource variable:health first.\nBody armor health by weight class per tier:\nLight body: Common +6-8, Uncommon +8-12, Rare +12-16, Epic +16-22, Legendary +22-28.\nMedium body: Common +14-16, Uncommon +16-20, Rare +20-28, Epic +28-36, Legendary +36-48.\nHeavy body: Common +24-28, Uncommon +28-36, Rare +36-44, Epic +44-52, Legendary +52-64.\nOther slots (head/legs/hands/feet/cloak): health +2-8 scaled to tier and weight.\nBonus count: Common 1, Uncommon 2, Rare 2-3, Epic 3-4, Legendary 4-5.\nHeavy/plate: MUST include negative stealth (-1 to -4), may include negative stamina or dex. Negatives do not count toward bonus total.\nMedium: MAY include stealth -1 to -2.\nLight: no penalties. Can add dex, stealth, acrobatics. Mage armor: intelligence, mana.\n\nJEWELRY (necklace/ring):\nCommon: 1. attr +1 or resource +2-3.\nUncommon: 1-2. attr +1-2 or resource +3-5.\nRare: 2-3. attr +2-3 or resource +5-8.\nEpic: 3-4. attr +3-5 or resource +8-12.\nLegendary: 4-5. attr +5-8 or resource +12-20.\n\nACCESSORY:\nCommon: 1. skill +1-2.\nUncommon: 1-2. skill +2-4 or attr +1.\nRare: 2-3. skill +4-6 or attr +2.\nEpic: 3-4. skill +6-10 or attr +3.\nLegendary: 4-5. skill +10-15 or attr +4-5.\n\nNON-EQUIPPABLE: ALL Consumable, Miscellaneous, Currency = bonuses [] always. Crafting materials: category Miscellaneous, slot misc, bonuses [].\n\n### CRAFTING MATERIALS\nMaterials: Miscellaneous, slot misc, bonuses []. Tier in name per STEP 1.\n\n### ALCHEMY\nPotions/poisons/elixirs: Consumable, slot Consumable, bonuses []. Tier in name per STEP 1 (Common/Uncommon/Rare/Epic/Legendary). Effects applied by narrator.\n\n### EXAMPLES\nCommon Iron Dagger: weapon, [{type:stat,variable:damage,value:1}]\nUncommon Steel Longsword: weapon, [{type:stat,variable:damage,value:3},{type:attribute,variable:strength,value:1}]\nRare Mithril Chainmail: heavy body, [{type:resource,variable:health,value:40},{type:attribute,variable:constitution,value:2},{type:skill,variable:stealth,value:-3}]\nUncommon Leather Vest: light body, [{type:resource,variable:health,value:10},{type:attribute,variable:dexterity,value:1}]\nUncommon Blue Iron Ore: misc, []\nCommon Health Potion: Consumable, []"
+  ],
+  "startingItems": [
+    {
+      "item": "Lunar",
+      "quantity": 100
+    }
+  ],
+  "lootValueMultiplier": 1,
+  "lootValueVariability": 0.2,
+  "itemValueVariation": 0.2
+}

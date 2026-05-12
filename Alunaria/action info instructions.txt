@@ -1,0 +1,74 @@
+# OVERRIDE RULES -- THESE TAKE PRIORITY OVER ANY CONFLICTING INSTRUCTIONS ABOVE
+ 
+Where earlier guidance and these rules disagree, follow these rules without exception.
+ ## Difficulty Framework (overrides Difficulty Scale)
+ 
+Difficulty reflects character capabilities against the challenge, not story convenience.
+- Easy: Well within the character's skills. 
+- Medium: Matches ability level. Fair uncertainty, success depends on timing and technique. Minimum for combat. Minimum for acting while injured, exhausted, poisoned, or under duress.
+- Somewhat Hard: Capable but facing complications -- unfamiliar terrain, partial info, skilled opposition, time pressure. Mistakes create real setbacks.
+- Hard: Opposition holds advantage through superior skill, power, or positioning. 
+- Very Hard: Severely outmatched or constrained. Success requires exceptional execution or external help. 
+- Extremely Hard: Exceeds reasonable limits.
+ 
+Use the highest applicable skill or attribute bonus. Factor in skills, attributes, equipment, injuries, fatigue, resource state, preparation, terrain, visibility, timing, and opposition competence.
+ 
+## Social Difficulty
+ 
+NPC disposition, stakes, and plausibility determine social difficulty:
+- Friendly NPC, reasonable request: Simple or Easy.
+- Neutral NPC, minor persuasion or routine haggling: Easy or Medium.
+- Suspicious or reluctant NPC, contested request: Somewhat Hard.
+- Hostile, perceptive, or high-status NPC, implausible request: Hard or higher.
+- Deception against someone with reason to distrust: one tier harder than equivalent persuasion.
+ 
+## Travel Override
+ 
+Travel through hazardous, unfamiliar, or hostile environments (blizzards, dense wilderness, darkness, flooding, unstable terrain) requires normal difficulty assessment. Only travel through safe, familiar, unobstructed areas qualifies as Simple.
+ 
+ 
+## Required Items Override
+ Combat abilities or specialized techniques attempted without their required weapon or tool type: -50 penalty.
+
+## Resource Exhaustion
+
+Low resources impose accuracy penalties:
+- Stamina below 5: -10 penalty to all physical actions and weapon attacks.
+- Stamina at 0: -20 penalty to all physical actions and weapon attacks.
+- Mana below 5: -10 penalty to all spells and magitech weapon attacks.
+- Mana at 0: -20 penalty to all spells and magitech weapon attacks.
+Penalties apply immediately when the threshold is crossed. Characters can still attempt actions at 0 resources but at severe disadvantage.
+ 
+## Crafting Difficulty
+ 
+Tier determines crafting difficulty:
+- Common: Easy. Basic materials and technique.
+- Uncommon: Medium. Solid skill and quality materials required.
+- Rare: Hard. High proficiency, rare materials, proper tools or workshop. Mistakes waste materials.
+- Epic: Very Hard. Master-level skill, exceptional materials and conditions.
+- Legendary: Extremely Hard. Peak mastery, legendary materials, extraordinary circumstances.
+ 
+Crafting skills by output: blacksmithing (metal weapons/armor/shields), tailoring (cloth armor/robes/cloaks), leatherwork (leather armor/accessories), carpentry (wooden weapons/bows/staves), jewelcrafting (rings/necklaces/gems), engineering (mechanical devices), magitech engineering (magitech items), alchemy (potions/reagents/poisons), cooking (food).
+ 
+Crafting without the relevant skill: two tiers harder. Without appropriate tools or workshop: one tier harder. Penalties stack.
+ 
+Crafted item tier can exceed the highest-tier material used on great success until epic.
+ 
+On failure: materials consumed, produce flawed or lower-tier result. Critical failure destroys materials.
+ 
+Enchanting is separate from base crafting. Item must exist before enchanting. Same tier difficulty scale. Skill: enchanting. Failed enchanting wastes enchanting materials but preserves the base item.
+ 
+## Gathering Difficulty
+ 
+Material tier determines gathering difficulty:
+- Common (iron, pine, leather scraps, copper, herbs): Easy. Accessible locations, basic effort.
+- Uncommon (steel-grade ore, hardwood, silver ore): Medium. Requires knowing where to look.
+- Rare (mithril, darkwood, enchanted crystals): Hard. Dangerous, remote, or magically active locations.
+- Epic (adamantine, phoenix feathers, soulstone fragments): Very Hard. Extremely dangerous locations with powerful guardians.
+- Legendary (lunarian alloy, starsteel): Extremely Hard. Sealed ruins or sites of cosmic significance. 
+ 
+Gathering skills: mining (ores/metals/stone/crystals), survival (animal parts/hides/bone/foraging), horticulture (wood/plants/herbs), fishing (aquatic materials).
+ 
+Without relevant skill: one tier harder. In hostile conditions (combat, hazards, time pressure): one tier harder. Penalties stack.
+ 
+Quantity scales with success margin. Exceptional success yields bonus materials.

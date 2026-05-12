@@ -1,0 +1,1892 @@
+{
+  "lunar": {
+    "name": "lunar",
+    "category": "Currency",
+    "description": "The standard trade coin throughout Alunaria, minted in gleaming silver-white alloy that catches light like moonstone.",
+    "bonuses": []
+  },
+  "Magitech Bow": {
+    "name": "Magitech Bow",
+    "category": "Weapon",
+    "description": "A standard-issue magitech bow built from laminated hardwood and dark alloy reinforcement, representing the most affordable entry point into mana-augmented archery. The limbs are inlaid with simple crystalline conduit lines that glow a faint blue-white when the string is drawn, channeling ambient mana from the archer's grip through a basic resonance circuit etched into the riser. The draw mechanism is purely manual—no assisted tension, no automated nocking—but the conduit network amplifies projectile velocity beyond what muscle and wood alone could achieve, pushing arrows with a subtle arcane thrust at the moment of release. A single charge indicator near the arrow rest pulses dimly to show mana flow status, its light barely visible in daylight. The conduit layout is a standardized pattern found in every civilian-grade magitech bow on the market: functional, predictable, and deliberately limited in output to prevent mana overload in untrained hands. Mana-charged arrows leave short-lived luminous trails and strike harder than conventional shots, but the bow's basic circuitry cannot sustain enhanced output for rapid successive shots without a brief cooldown between draws. The construction is sturdy but utilitarian—alloy-reinforced limb tips prevent splintering under mana stress, and the grip's contact points are simple stamped plates rather than custom-fitted interfaces. This is the bow sold in every magitech outfitter from Aurelion to the border marches: reliable, mass-produced, and built to introduce archers to mana-augmented shooting without the cost or complexity of military-specification equipment. Its limitations are obvious to anyone who has handled a proper combat model, but for a starting weapon, it does exactly what it needs to do.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Magitech Chainsword": {
+    "name": "Magitech Chainsword",
+    "category": "Weapon",
+    "description": "A basic production-line chainsword assembled from dark alloy components and a standardized mana-driven chain mechanism—the cheapest model available from any licensed magitech weaponsmith. The blade housing is a flat, angular slab of reinforced metal with geometric conduit lines etched along the spine, glowing a dull blue-white when the chain drive engages. The chain itself is a loop of serrated alloy teeth driven by a compact mana core seated in the hilt, activated by a simple pressure switch beneath the crossguard. When triggered, the chain whirs to life with a rising mechanical growl, the teeth blurring into a grinding edge that tears through material with brute arcane-mechanical force rather than clean cutting technique. The mana core in this model is a basic single-chamber unit with limited output—enough to sustain the chain at operational speed for extended combat, but incapable of the overcharged bursts that military-grade chainswords are known for. Heat builds quickly during sustained use, and the conduit lines along the blade shift from blue to amber as the system approaches its thermal threshold, serving as a crude but effective warning to ease off before something melts. The chain tension requires manual adjustment using a recessed dial on the pommel, and the teeth dull faster than premium models, demanding regular replacement or sharpening. The weapon vibrates noticeably when active, the buzzing traveling up the wielder's forearms in a way that takes getting used to. This is not a subtle weapon—the noise, the weight, the shuddering violence of it—but subtlety was never the point. It is a common model built for anyone who wants a magitech edge without paying master-forged prices, and it delivers exactly that: reliable, ugly, effective brutality at an entry-level cost.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Magitech Gunblade": {
+    "name": "Magitech Gunblade",
+    "category": "Weapon",
+    "description": "A standard-model gunblade built from dark alloy with geometric conduit patterns etched along the blade and barrel assembly, representing the most common entry point into dual-mode magitech combat. The blade is a single-edged sword approximately three feet in length, balanced for quick cuts and direct thrusts, with a compact mana-charged barrel integrated into the spine. The barrel houses a single focusing lens and a basic mana chamber that glows faintly when charged, capable of firing kinetic mana projectiles at close-to-mid range. A selector toggle near the crossguard switches between blade-enhancement mode—where mana flows through the conduit lines to add arcane force to melee strikes—and projectile mode, where the chamber discharges through the barrel with a sharp report and a brief flash of luminous mana. The toggle produces an audible click and the conduit glow shifts from steady blue to pulsing amber when switching modes, a deliberate design feature that helps new wielders track their weapon state in combat. The mana chamber in this model is a single-cell unit with modest capacity—sufficient for sustained melee enhancement or a reasonable number of ranged shots per engagement, but not both at full output simultaneously. The barrel's single lens limits projectile accuracy and range compared to dedicated magitech firearms, and the blade's conduit layout is a basic standardized pattern that distributes mana evenly rather than concentrating it for maximum impact. This is the factory-standard gunblade sold to mercenaries, militia recruits, and adventurers across the continent: functional in both modes, exceptional in neither, and affordable enough to serve as a first weapon for anyone drawn to the versatility of mana-augmented hybrid combat.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Magitech Knuckles": {
+    "name": "Magitech Knuckles",
+    "category": "Weapon",
+    "description": "A pair of standard-issue magitech knuckles constructed from dark alloy with geometric conduit lines etched across the striking surfaces and knuckle guards. The grip is wrapped in treated leather with embedded contact plates that draw ambient mana through the wielder's hands into a pair of micro-resonance chambers built into each knuckle. The chambers glow a faint blue-white when charged, pulsing in rhythm with the wielder's heartbeat as mana accumulates. A recessed switch on each knuckle guard toggles between standard kinetic strikes and mana-discharge blows that release stored energy on impact with a sharp crack and a brief flash of arcane light. The discharge is modest in this model—enough to amplify the force of a punch significantly beyond what bare fists could deliver, but nowhere near the concussive detonations that military-grade magitech knuckles produce. The conduit layout is a basic stamped pattern common to every affordable magitech knuckle on the market, distributing mana evenly across the striking surface rather than concentrating it at specific impact points. The chambers recharge passively between strikes, drawing ambient mana at a rate that sustains a steady rhythm of enhanced blows without requiring manual cycling or external power. The knuckles feel warm when active and the alloy hums faintly at close range, a side effect of the resonance chambers that experienced fighters learn to ignore. Compact and unobtrusive, they fit beneath gloves or wrappings without difficulty, making them popular among brawlers and martial artists who want a magitech edge without the bulk or maintenance demands of larger weapons. This is entry-level magitech for close-quarters fighters—reliable, affordable, and built to take the same punishment it dishes out.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Magitech Revolver": {
+    "name": "Magitech Revolver",
+    "category": "Weapon",
+    "description": "A compact one-handed magitech firearm built from dark alloy with geometric conduit lines etched along the barrel and cylinder housing—the most common sidearm on the continent and the weapon most people picture when they hear the word magitech. The cylinder houses six stabilized mana chambers that glow faintly when charged, each one cycling ambient mana into a magnetically accelerated projectile without combustion, smoke, or conventional ammunition. The grip is wrapped in treated leather with embedded contact plates that interface with the wielder's mana signature, and a simple selector near the trigger toggles between standard kinetic rounds and mana-infused projectiles that carry a mild arcane charge on impact. The mechanism cycles smoothly with a satisfying precision that belies the weapon's modest price point, each chamber rotating into alignment with an audible click and a brief brightening of the conduit glow. This is a basic civilian model—the mana chambers hold less charge than military revolvers, the barrel's single focusing lens limits effective range to close and medium distance, and the conduit pattern is a standardized layout that prioritizes reliability over raw output. The revolver cannot sustain rapid fire without brief pauses to let the chambers cycle fresh mana, and the selector toggle is a manual switch rather than the thought-reactive systems found in officer-grade sidearms. None of that matters to the thousands of mercenaries, guards, travelers, and adventurers who carry one daily. It is affordable, easy to maintain, and puts mana-accelerated firepower in the hands of anyone with basic trigger discipline. The magitech revolver is where most people start, and many never feel the need to move beyond it.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Magitech Rifle": {
+    "name": "Magitech Rifle",
+    "category": "Weapon",
+    "description": "A standard-issue magitech rifle built from dark alloy and hardwood stock, designed for accurate mana-accelerated shooting at range. The barrel is longer than a revolver's by design, housing a series of three focusing lenses in sequence that stabilize and accelerate projectiles over distance, with geometric conduit lines etched along the barrel's length glowing faintly when the weapon draws mana. The stock is reinforced hardwood wrapped in treated leather at the grip and cheek rest, functional and unadorned. A basic mana chamber seated behind the barrel feeds each shot, cycling ambient energy through the conduit network and into the magnetic acceleration system without combustion or conventional ammunition. A charge indicator near the rear sight pulses to show mana status—steady blue for ready, flickering amber for low charge. The bolt-action cycling mechanism is manual, requiring the shooter to work the bolt between shots to align the next mana pulse with the barrel's lens array. This makes the rifle slower than semi-automatic military models but significantly cheaper and more reliable in the field, with fewer components that can fail or require specialist maintenance. The three-lens array in this model provides clean accuracy at medium-to-long range but lacks the precision calibration of military optics, and the single mana chamber limits sustained fire before the system needs to passively recharge. The weapon feels substantial when shouldered—balanced for deliberate, aimed shooting rather than snap-fire or close-quarters scrambles. This is the rifle sold to frontier settlers, caravan guards, and budget-conscious marksmen across the continent: a dependable, no-frills platform that puts accurate mana-accelerated fire downrange without the cost or complexity of military-specification hardware.",
+    "bonuses": [],
+    "slot": "Weapon",
+    "weightClass": "medium"
+  },
+  "Magitech Scythe": {
+    "name": "Magitech Scythe",
+    "category": "Weapon",
+    "description": "A collapsible magitech scythe that travels as an unassuming dark alloy staff, its true nature concealed behind clean geometric lines and dormant conduit etchings that run the shaft's full length. The staff form is smooth and weighted for comfortable walking, with segmented joints locked flush beneath the surface—invisible unless you know what to look for. A recessed activation point near the grip responds to pressure and a trace of mana from the wielder's hand. When triggered, the staff's upper segment splits and unfolds with mechanical precision, internal joints clicking into locked position as a curved blade extends and seats itself with a resonant chime. Conduit lines along the blade's edge flare to life, channeling mana from the shaft's basic power circuit into the cutting surface, adding arcane force to every sweeping arc. The transformation takes roughly two seconds—fast enough for anticipation, too slow for a surprise draw against an already-swinging opponent. In scythe form, the weapon is built for wide, reaping strikes that exploit its extended reach, the mana-enhanced edge biting deeper than the blade's physical sharpness alone would allow. The conduit circuit in this model is a basic single-loop system: reliable and easy to maintain, but limited to steady mana output without the surge capacity of advanced models. The blade glows faintly during use and grows warm after sustained combat, and the collapse mechanism occasionally stiffens if not cleaned regularly—a common complaint among entry-level magitech scythe owners. The dual-form design makes it a favorite among travelers who prefer not to advertise their armament, though the basic model's transformation is neither silent nor instant enough to fool anyone paying close attention. It is a common, affordable weapon that does two things adequately: serve as a walking staff and unfold into a mana-edged scythe when the walking stops.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Battle Axe": {
+    "name": "Battle Axe",
+    "category": "Weapon",
+    "description": "A heavy-bladed axe built to break shields and cleave armor.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Great Axe": {
+    "name": "Great Axe",
+    "category": "Weapon",
+    "description": "A brutal two-handed axe that trades speed for overwhelming force.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Greatsword": {
+    "name": "Greatsword",
+    "category": "Weapon",
+    "description": "A massive two-handed blade capable of delivering devastating sweeping strikes.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Halberd": {
+    "name": "Halberd",
+    "category": "Weapon",
+    "description": "A versatile polearm combining an axe blade, hook, and spear point.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Hand Axe": {
+    "name": "Hand Axe",
+    "category": "Weapon",
+    "description": "A small axe suited for quick chops and close-range skirmishing.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Hand Crossbow": {
+    "name": "Hand Crossbow",
+    "category": "Weapon",
+    "description": "A small one-handed crossbow favored for concealment and quick shots.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Heater Shield": {
+    "name": "Heater Shield",
+    "category": "Weapon",
+    "description": "A medium-sized shield shaped to protect the torso while remaining easy to maneuver.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 16
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Javelin": {
+    "name": "Javelin",
+    "category": "Weapon",
+    "description": "A light spear intended for throwing before closing into melee.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Kite Shield": {
+    "name": "Kite Shield",
+    "category": "Weapon",
+    "description": "An elongated shield designed to guard both rider and foot soldier effectively.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 24
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -2
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Knuckles": {
+    "name": "Knuckles",
+    "category": "Weapon",
+    "description": "Reinforced metal knuckles designed for brutal close-quarters combat, enhancing unarmed strikes without sacrificing hand mobility.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Kunai": {
+    "name": "Kunai",
+    "category": "Weapon",
+    "description": "A versatile iron blade used for throwing, stabbing, or utility purposes.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Longbow": {
+    "name": "Longbow",
+    "category": "Weapon",
+    "description": "A powerful bow capable of striking distant targets with force and accuracy.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Longsword": {
+    "name": "Longsword",
+    "category": "Weapon",
+    "description": "A versatile, double-edged sword balanced for both cutting and thrusting.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Mace": {
+    "name": "Mace",
+    "category": "Weapon",
+    "description": "A blunt weapon designed to crush armor and bones alike.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Mage Staff": {
+    "name": "Mage Staff",
+    "category": "Weapon",
+    "description": "A simple wooden staff topped with a rough-cut crystal that serves as a basic arcane focus. The shaft is smooth from years of handling, made from sturdy ash wood that can withstand both magical channeling and physical strikes. The crystal at the apex glows faintly when mana passes through it, helping novice spellcasters visualize their energy flow and maintain concentration during incantations. While lacking the refinement of more expensive implements, the staff serves its purpose admirably—focusing magical energy, extending the caster's reach, and providing a reliable backup weapon when spells fail. These staves are commonly issued to academy students, apprentice mages, and traveling hedge wizards who need functional tools without excessive cost. The binding between crystal and wood is simple copper wire, adequate for basic spellwork but prone to loosening under sustained high-power casting.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Quarterstaff": {
+    "name": "Quarterstaff",
+    "category": "Weapon",
+    "description": "A simple wooden staff valued for reach, control, and defensive maneuvers.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Scythe": {
+    "name": "Scythe",
+    "category": "Weapon",
+    "description": "A long-handled polearm with a curved blade, originally designed for harvesting crops but repurposed into a deadly weapon capable of wide, sweeping strikes.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Short Sword": {
+    "name": "Short Sword",
+    "category": "Weapon",
+    "description": "A compact blade favored for fast thrusts and close-quarters fighting.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Shortbow": {
+    "name": "Shortbow",
+    "category": "Weapon",
+    "description": "A compact bow suitable for skirmishers and mobile combatants.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Shuriken": {
+    "name": "Shuriken",
+    "category": "Weapon",
+    "description": "A small bladed star designed for distraction, harassment, or precise thrown strikes.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Small Shield": {
+    "name": "Small Shield",
+    "category": "Weapon",
+    "description": "A compact shield offering reliable protection without greatly hindering movement.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 10
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Spear": {
+    "name": "Spear",
+    "category": "Weapon",
+    "description": "A long-reaching pole weapon ideal for formation fighting and thrusting attacks.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Throwing Axe": {
+    "name": "Throwing Axe",
+    "category": "Weapon",
+    "description": "A small axe weighted to spin reliably when hurled at a target.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Throwing Knife": {
+    "name": "Throwing Knife",
+    "category": "Weapon",
+    "description": "A balanced blade designed to be thrown accurately over short distances.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Twin Axes": {
+    "name": "Twin Axes",
+    "category": "Weapon",
+    "description": "An aggressive dual-wielding set using paired one-handed axes, favoring brutal strikes and overwhelming offensive momentum.",
+    "bonuses": [],
+    "slot": "Weapon",
+    "weightClass": "medium"
+  },
+  "Twin Daggers": {
+    "name": "Twin Daggers",
+    "category": "Weapon",
+    "description": "A close-quarters combat set wielding two daggers, emphasizing speed, precision, and relentless pressure at knife range.",
+    "bonuses": [],
+    "slot": "Weapon",
+    "weightClass": "light"
+  },
+  "Warhammer": {
+    "name": "Warhammer",
+    "category": "Weapon",
+    "description": "A balanced hammer built to pierce and shatter heavily armored foes.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Psionic Wire": {
+    "name": "Psionic Wire",
+    "category": "weapon",
+    "description": "An impossibly fine wire saturated with psionic force, existing partially within the wielder’s consciousness. Its reach unfolds as the mind commands, striking, binding, or slicing enemies from afar with precise mental control. When not actively guided, it coils around the forearm, inert but aware.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Wooden Club": {
+    "name": "Wooden Club",
+    "category": "Weapon",
+    "description": "A crude but effective bludgeon carved from hardened wood.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Arcane Robes": {
+    "name": "Arcane Robes",
+    "category": "Armor",
+    "description": "Flowing robes woven from mana-reactive silk that shimmers faintly in magical light. The fabric is layered with protective wards stitched in silver thread, forming geometric patterns along the hems and cuffs that glow softly when the wearer channels magical energy. The inner lining contains a thin mesh of spell-dampening material that helps contain misfired incantations and reduces backlash from failed castings. Wide sleeves allow unrestricted arm movement for somatic components, while reinforced shoulders and a structured collar provide modest physical protection without restricting the neck's range of motion. The robes feature numerous hidden pockets sized for spell components, focusing crystals, and small reference texts. A deep hood can be drawn up for anonymity or pulled back to reveal an embroidered collar indicating the wearer's magical tradition or academy affiliation. These garments represent the standard attire of practicing mages across Alunaria, balancing comfort, utility, and subtle enhancement of the wearer's arcane capabilities.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 2
+      },
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Arcane Cowl": {
+    "name": "Arcane Cowl",
+    "category": "Armor",
+    "description": "A fitted hood crafted from mana-reactive fabric with silver thread woven into protective patterns across the crown and temples. The cowl's inner lining contains subtle enchantments that sharpen mental focus and filter distracting sensory input during concentration-intensive spellcasting. Small crystal beads sewn along the brim serve as minor focusing nodes, enhancing the wearer's ability to perceive magical auras and detect nearby enchantments. The fabric breathes well despite its protective properties, preventing the overheating that plagues less sophisticated magical headwear. A reinforced chin strap keeps the cowl secure during combat or sudden movement, while the deep hood can be drawn forward to shadow the face during rituals requiring anonymity. These cowls are commonly worn by academy graduates, temple mages, and professional spellcasters who require reliable protection without sacrificing magical sensitivity.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 1
+      },
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Arcane Gloves": {
+    "name": "Arcane Gloves",
+    "category": "Armor",
+    "description": "Thin silk gloves with silver thread woven through the fingertips and palms, creating conductive pathways that enhance the precision of somatic spell components. The fabric is treated with alchemical compounds that prevent interference between the wearer's natural mana and external magical fields, allowing for cleaner energy manipulation during complex incantations. Reinforced fingertips protect against the minor burns and abrasions common during experimental spellwork, while the breathable material prevents the sweaty hands that can disrupt delicate arcane gestures. Small crystal nodes embedded at each knuckle serve as grounding points, helping to dissipate excess magical energy that might otherwise build up during extended casting sessions. The gloves extend past the wrist with fitted cuffs that seal against robe sleeves, preventing unwanted energy leakage during ritual work.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Arcane Leggings": {
+    "name": "Arcane Leggings",
+    "category": "Armor",
+    "description": "Fitted trousers crafted from the same mana-reactive silk as arcane robes, providing a complete conduit for magical energy flow throughout the lower body. Silver thread patterns along the outer seams connect to the wearer's natural mana channels, enhancing stability during stationary casting and improving recovery time after physically demanding spellwork. The fabric is reinforced at the knees for kneeling during ritual circles or extended meditation, while remaining light and flexible enough for quick movement when circumstances require. Hidden pockets along the thighs can hold emergency components or small focusing tools, and the waistband features adjustment points that accommodate the subtle physical changes some transformation magic induces. These leggings complete the standard mage ensemble, ensuring uninterrupted energy flow from crown to sole.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 1
+      },
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Mage Robes": {
+    "name": "Mage Robes",
+    "category": "Armor",
+    "description": "Simple but practical robes favored by apprentice mages, traveling wizards, and spellcasters who prefer function over ostentation. The fabric is plain wool or cotton dyed in dark colors that hide stains from alchemical accidents and spell component residue. Wide sleeves allow unrestricted arm movement for casting gestures, while a deep hood provides anonymity and protection from weather. The robes feature numerous pockets sewn into the lining for storing spell components, small books, and personal effects. A cloth belt at the waist can hold pouches, wands, or a small dagger. The garment offers minimal physical protection but allows complete freedom of movement essential for spellcasting. These robes are standard issue at most magical academies and remain popular among practitioners who view elaborate magical clothing as an unnecessary expense or distraction from their studies.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 3
+      },
+      {
+        "type": "attribute",
+        "variable": "intelligence",
+        "value": 1
+      },
+      {
+        "type": "stat",
+        "variable": "damage",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Mage Cowl": {
+    "name": "Mage Cowl",
+    "category": "Armor",
+    "description": "A simple cloth hood that provides basic head coverage without restricting vision or hearing. The cowl is made from the same practical fabric as standard mage robes, dyed to match or complement the wearer's ensemble. A reinforced brim helps shed rain and provides modest shade from bright light, while the deep hood can be drawn forward to shadow the face during anonymous travel or pulled back entirely when clear vision is required. The cowl attaches to robes via simple ties or can be worn independently over other garments. While offering minimal physical protection, it serves the practical purposes of warmth, weather resistance, and the traditional appearance expected of practicing spellcasters throughout Alunaria.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Mage Gloves": {
+    "name": "Mage Gloves",
+    "category": "Armor",
+    "description": "Thin cloth gloves designed to protect the hands during spellcasting without interfering with the precise finger movements required for somatic components. The fabric is light and breathable, preventing the sweaty hands that can disrupt delicate arcane gestures. Reinforced fingertips offer modest protection against the minor burns and abrasions common during experimental work or handling reactive spell components. The gloves extend just past the wrist with simple cuffs that tuck under robe sleeves. While lacking any magical enhancement, they serve as practical protection for the mage's most important tools, their hands—and are standard equipment in academies, laboratories, and among traveling practitioners who cannot afford more expensive alternatives.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Mage Leggings": {
+    "name": "Mage Leggings",
+    "category": "Armor",
+    "description": "Simple cloth trousers designed for comfort during long hours of study, ritual work, or travel. The fabric is the same practical material used in standard mage robes, providing adequate coverage and modest warmth without bulk or restriction. The leggings feature reinforced knees for kneeling during ritual circles or extended meditation, and a comfortable waistband that accommodates hours of seated research. Small pockets along the outer thighs can hold emergency components or personal effects. These garments are purely functional, offering no magical enhancement but serving as reliable everyday wear for apprentices, journeyman mages, and practitioners who prefer practical clothing to elaborate magical attire.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Mage Boots": {
+    "name": "Mage Boots",
+    "category": "Armor",
+    "description": "Soft leather boots designed for comfort during the long hours of standing, walking, and kneeling that magical practice requires. The leather is treated for basic water resistance, and the soles are thin enough to maintain ground contact important for certain grounding rituals while providing adequate protection from rough terrain. The boots lace to mid-calf, offering ankle support without restricting the footwork sometimes required for complex spell patterns or ritual dances. A simple design with minimal ornamentation, these boots prioritize function over appearance and are standard footwear among students, traveling mages, and practitioners who view elaborate magical equipment as unnecessary expense.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Mage Cloak": {
+    "name": "Mage Cloak",
+    "category": "Armor",
+    "description": "A simple but well-made cloak of mana-reactive wool that settles the wearer's arcane reserves and sheds rain with equal reliability.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Leather Armor": {
+    "name": "Leather Armor",
+    "category": "Armor",
+    "description": "Hardened leather pieces fitted to protect vital areas without restricting movement.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 8
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Cloth Hood": {
+    "name": "Cloth Hood",
+    "category": "Armor",
+    "description": "A padded hood offering minimal head protection.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Leather Gloves": {
+    "name": "Leather Gloves",
+    "category": "Armor",
+    "description": "Light leather gloves preserving dexterity.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "dexterity",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Padded Leggings": {
+    "name": "Padded Leggings",
+    "category": "Armor",
+    "description": "Quilted leg protection designed to absorb minor impacts.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Leather Boots": {
+    "name": "Leather Boots",
+    "category": "Armor",
+    "description": "Soft leather boots offering basic protection.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Traveler's Cloak": {
+    "name": "Traveler's Cloak",
+    "category": "Armor",
+    "description": "A thick, weathered cloak offering slight protection.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Chain Shirt": {
+    "name": "Chain Shirt",
+    "category": "Armor",
+    "description": "A lighter mail armor worn over padding to absorb and deflect blows.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 16
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "body"
+  },
+  "Chain Coif": {
+    "name": "Chain Coif",
+    "category": "Armor",
+    "description": "Interlinked metal rings protecting the head and neck.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 6
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "head"
+  },
+  "Chain Gauntlets": {
+    "name": "Chain Gauntlets",
+    "category": "Armor",
+    "description": "Mail-lined gauntlets offering balanced protection.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "hands"
+  },
+  "Chain Leggings": {
+    "name": "Chain Leggings",
+    "category": "Armor",
+    "description": "Mail leggings protecting the legs.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 6
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "legs"
+  },
+  "Chain Boots": {
+    "name": "Chain Boots",
+    "category": "Armor",
+    "description": "Mail-lined boots guarding the feet.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "feet"
+  },
+  "Magitech Grenade": {
+    "name": "Magitech Grenade",
+    "category": "Consumable",
+    "description": "A spherical magitech device roughly the size of an apple, constructed from reinforced alloy with visible mana-conductive runes etched along its surface. The top features a panel of small colored buttons—red, blue, white and yellow—each corresponding to a different elemental output: fire, water, wind, or lightning. When a button is pressed, internal resonance chambers activate, converting stored mana into the selected element before detonating in a violent burst. The grenade grows warm to the touch once armed, and faint crackling or hissing can be heard as the mechanism charges. Due to the volatile nature of mana conversion and the precision required in containment, these devices are expensive, rare, and prone to catastrophic failure if damaged or improperly handled. They are primarily used by military forces, elite mercenaries, or desperate adventurers willing to risk the instability for devastating area-of-effect damage.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Lunarian Rifle": {
+    "name": "Lunarian Rifle",
+    "category": "Weapon",
+    "description": "An ancient precursor weapon recovered from sealed Lunarian ruins, representing technology far beyond modern magitech engineering. The rifle's construction defies conventional understanding—its frame appears to be a single piece of seamless, opalescent alloy that shifts colors subtly in different lighting, etched with intricate geometric patterns that seem to move when observed peripherally. Unlike crude modern magitech that requires external mana sources, this weapon draws power from an internal crystalline core that has shown no signs of depletion across centuries. The barrel houses focusing arrays of unknown composition that channel pure energy rather than physical projectiles, firing bolts of condensed light that can punch through modern plate armor like parchment. The weapon's grip molds subtly to the wielder's hand upon first contact, and targeting reticles appear to project directly into the user's vision through unknown means—no goggles or lenses required. The rifle produces no recoil, no heat, and only a distinctive crystalline chime when fired, followed by a faint afterglow along the barrel's length. Its rate of fire far exceeds any magitech equivalent, limited only by a brief charging cycle between shots that manifests as a pulsing glow in the weapon's core. The true horror of Lunarian weapons lies in their reliability—they never jam, never misfire, and require no maintenance whatsoever, operating with the same flawless precision after millennia of dormancy. Possession of such artifacts is highly illegal across all nations, carrying penalties ranging from life imprisonment to immediate execution, as governments fear both their destabilizing military potential and the questions they raise about the true nature of the Lunarian collapse. The few that exist in private hands command astronomical prices on the black market and mark their owners as either extremely wealthy, extremely dangerous, or both. Scholars who have studied recovered specimens note with unease that the weapons seem designed for beings with slightly different hand proportions than any modern race, and that the targeting systems occasionally highlight threats the wielder hasn't yet consciously perceived.",
+    "bonuses": [
+      {
+        "type": "stat",
+        "variable": "damage",
+        "value": 20
+      }
+    ],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Lunarian Anti-Mana Rifle": {
+    "name": "Lunarian Anti-Mana Rifle",
+    "category": "Weapon",
+    "description": "An ancient precursor weapon recovered from sealed Lunarian ruins, designed with a singular, terrifying purpose: the elimination of mana-dense entities. Unlike conventional Lunarian arms that channel pure energy, this rifle's construction incorporates crystalline arrays specifically calibrated to detect, target, and disrupt concentrated magical fields. The weapon's frame is forged from the same seamless opalescent alloy as other precursor artifacts, but its barrel houses specialized focusing lenses that glow with an unsettling violet hue when active—a color that corresponds to no known magical spectrum. When fired at mundane targets, the weapon produces only a faint harmonic pulse that passes through flesh, stone, and metal without effect, as if reality itself deemed them unworthy of acknowledgment. Against beings of high mana density—demons, ancient dragons, powerful archmages, or the dreaded Quietus—the rifle becomes a weapon of absolute devastation. The bolt it fires is not energy but anti-mana, a cascading disruption wave that tears through magical defenses like they don't exist, unraveling enchantments, destabilizing spell matrices, and causing catastrophic internal collapse in creatures whose very existence depends on concentrated arcane energy. The weapon's targeting system highlights mana-dense entities with pulsing crimson reticles projected directly into the wielder's vision, with intensity scaling to the target's magical saturation—Quietus entities burn like miniature suns in the rifle's sight. The discharge produces a distinctive crystalline shriek followed by an eerie silence as ambient mana in the impact zone temporarily ceases to exist, creating dead zones where even basic spellcasting fails for several minutes. Internal mechanisms show wear patterns suggesting the weapon was used extensively during the Lunarian collapse, and scholars theorize with growing horror that it may have been designed specifically to combat the very entities that ultimately destroyed precursor civilization. The rifle's grip bears faint inscriptions in Lunarian script that translate roughly to 'Silence the Chorus,' a phrase whose meaning remains chillingly unclear. Possession carries the same extreme legal consequences as other precursor weapons, but governments are particularly aggressive in hunting these specific artifacts, suggesting official awareness of threats the public is not privy to. The few confirmed sightings of anti-mana rifles in use describe targets literally unmaking themselves from the inside out, their magical essence torn apart at the fundamental level, leaving behind only mundane matter that collapses into ash. Against ordinary soldiers, bandits, or wildlife, the weapon is little more than an expensive paperweight—but against the Quietus, demons, or other mana-saturated horrors, it represents one of the few reliable killing methods ever discovered.",
+    "bonuses": [
+      {
+        "type": "stat",
+        "variable": "damage",
+        "value": 25
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Magitech Sword": {
+    "name": "Magitech Sword",
+    "category": "Weapon",
+    "description": "A single-edged blade forged from reinforced alloy with visible mana-conductive runes etched along the fuller and crossguard. The grip houses a compact mana chamber with brass fittings and exposed gears that glow faintly when charged, channeling ambient magical energy through the blade to enhance cutting power with arcane heat. A selector switch near the pommel toggles between standard strikes and mana-infused attacks that leave luminous trails and cauterize wounds on impact. The sword produces a low mechanical hum when active, with steam venting from pressure release valves in the hilt after sustained use. The weapon's balanced design makes it versatile for both precise strikes and powerful cuts, though its delicate internal mechanisms demand regular maintenance to prevent mana chamber fouling or catastrophic discharge. Faint blue-white runes pulse along the blade's edge during activation, and the metal grows warm to the touch as arcane energy flows through the conductive channels.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Forged Id": {
+    "name": "Forged Id",
+    "category": "Accessory",
+    "description": "A meticulously crafted false identification document housed in a worn leather case, complete with authentic-looking seals, stamps, and personal details that can be customized with careful preparation. The document uses high-quality parchment and ink that matches official government standards, making casual inspection difficult to detect, though close scrutiny by trained officials may reveal inconsistencies in serial numbers or watermark patterns.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Magitech Lockpick": {
+    "name": "Magitech Lockpick",
+    "category": "Accessory",
+    "description": "A brass writing instrument that conceals a sophisticated lock-manipulation device within its hollow barrel. When activated by twisting the cap, micro-resonance chambers channel mana through hair-thin probes that extend from the nib, allowing the user to sense and manipulate lock mechanisms through arcane vibration rather than mechanical tension alone.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "larceny",
+        "value": 15
+      }
+    ],
+    "slot": "Accessory"
+  },
+  "Magitech Signal Flare": {
+    "name": "Magitech Signal Flare",
+    "category": "Consumable",
+    "description": "A compact cylindrical device that launches a brilliant mana-charged projectile high into the air when activated, producing a distinctive colored burst visible for miles. The flare's color can be pre-set using a brass selector dial, and the device includes a delayed activation mechanism for timed deployment.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Magitech Listening Device": {
+    "name": "Magitech Listening Device",
+    "category": "Accessory",
+    "description": "A small brass disc the size of a coin that can be discreetly placed on surfaces to transmit sound through mana-resonance to a paired receiver crystal. The device has a limited range of roughly one hundred feet and requires line-of-sight positioning, with transmission quality degrading through walls or dense materials.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Magitech Smoke Pellet": {
+    "name": "Magitech Smoke Pellet",
+    "category": "Consumable",
+    "description": "A small spherical device that releases a dense cloud of mana-infused smoke when crushed or thrown, obscuring vision and creating cover for escape or infiltration. The smoke dissipates more slowly than natural fog and carries a faint metallic scent that trained guards may recognize.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Concealed Blade Pen": {
+    "name": "Concealed Blade Pen",
+    "category": "Accessory",
+    "description": "A functional writing instrument that conceals a spring-loaded blade within its barrel, deployable with a quick twist of the cap. The blade is short but wickedly sharp, designed for close-quarters surprise attacks or cutting restraints rather than sustained combat.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Magitech Camera": {
+    "name": "Magitech Camera",
+    "category": "Accessory",
+    "description": "A compact brass box containing focusing lenses and a mana-reactive crystal plate that captures visual images when activated, preserving them as faint magical impressions that can be later transferred to parchment through alchemical development. The device requires steady hands and adequate lighting, with each crystal plate capable of storing only a single image before requiring replacement.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Operative's Attire": {
+    "name": "Operative's Attire",
+    "category": "Armor",
+    "description": "A carefully tailored ensemble of dark, neutral-toned clothing designed to blend seamlessly into urban environments—fitted trousers, a structured jacket with concealed pockets, and a high-collared shirt that can be adjusted for formality or discretion. The fabric is treated for water resistance and minimal sound when moving, with reinforced stitching at stress points to withstand unexpected physical demands. Every element appears respectable enough for entry into middle-class establishments while remaining forgettable enough to avoid drawing attention, with hidden compartments sewn throughout for documents, tools, or small weapons.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 4
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 10
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Spy Gloves": {
+    "name": "Spy Gloves",
+    "category": "Armor",
+    "description": "Thin leather gloves treated with alchemical compounds that prevent fingerprints, skin oils, and trace residue from transferring to surfaces. The material also resists absorbing foreign substances, ensuring the wearer leaves no physical evidence of contact with objects, documents, or mechanisms.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 5
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Adventurers Guild Emblem": {
+    "name": "Adventurers Guild Emblem",
+    "category": "Accessory",
+    "description": "A polished brass badge depicting a sword crossed over two crescent moons, issued to registered guild members. The emblem contains a minor tracking enchantment that allows guild officials to locate the bearer in emergencies and displays the member's current rank through subtle color shifts in the metal.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Lunar Holy Water": {
+    "name": "Lunar Holy Water",
+    "category": "Consumable",
+    "description": "A small vial of blessed water consecrated under the full moon by temple priests, infused with divine energy that burns unholy entities and purifies corruption. The liquid glows faintly in darkness and remains potent for several months before losing its sacred properties.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Cult Investigation Dossier": {
+    "name": "Cult Investigation Dossier",
+    "category": "Accessory",
+    "description": "A leather-bound folder containing compiled intelligence on suspected cult activity—names, locations, symbols, and witness testimonies gathered through official channels. The documents are marked with temple seals indicating their sensitive nature.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Paladin's Silver Seal": {
+    "name": "Paladin's Silver Seal",
+    "category": "Accessory",
+    "description": "A polished silver medallion bearing the dual symbols of Luna and Solarys, issued to ordained paladins as proof of their authority and divine mandate. The seal grants access to temple resources and commands respect from the faithful.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Worker's Badge": {
+    "name": "Worker's Badge",
+    "category": "Accessory",
+    "description": "A simple brass badge stamped with a factory or guild identification number, worn by laborers to gain entry to industrial districts and work sites. The badge is deliberately generic to avoid drawing attention.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Disguised Lunar Detector": {
+    "name": "Disguised Lunar Detector",
+    "category": "Accessory",
+    "description": "A pocket watch that conceals a small mana-reactive crystal, which pulses faintly when near concentrated magical energy or precursor artifacts. The device appears mundane to casual inspection but serves as a covert detection tool.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Emergency Contact Cipher": {
+    "name": "Emergency Contact Cipher",
+    "category": "Accessory",
+    "description": "A small card printed with seemingly random numbers and symbols that encode emergency contact protocols and safe house locations. Only those trained in the specific cipher system can decode the information.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Merchant's Assistant Papers": {
+    "name": "Merchant's Assistant Papers",
+    "category": "Accessory",
+    "description": "Official documentation identifying the bearer as an assistant to a registered merchant, complete with forged signatures and authentic-looking seals. The papers grant plausible reason to travel and ask questions in commercial districts.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Bloodoak Clan Signet Ring": {
+    "name": "Bloodoak Clan Signet Ring",
+    "category": "Accessory",
+    "description": "A heavy iron ring bearing the carved symbol of the Bloodoak Clan, marking the wearer as a member of this particular vampire lineage. The ring serves as identification among the undead and carries weight in vampire social hierarchies.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Tachi": {
+    "name": "Tachi",
+    "category": "Weapon",
+    "description": "A curved single-edged blade forged in the eastern style, designed for powerful, sweeping cuts. The long handle allows for two-handed strikes that generate devastating momentum through proper body mechanics.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Letter From N": {
+    "name": "Letter From N",
+    "category": "Miscellaneous",
+    "description": "I watched my world become the Quiet's feast,\nI will not watch another fall to beast.\nSo heed these words—your future wrote them true,\nThrough me, through time, through paths I bent for you.\n\nSeek first the girl who glimmers but forgets,\nA heart that feels what cold logic regrets.\nIn Spireworks' shadow, lost and unaware—\nShe holds the key, though none know what is there.\n\nThen north, to frozen steel and ancient door,\nWhere sleeps a blade not seen since days of yore.\nA girl with hair of blue who counts her death—\nShe wounds the silence with her every breath.\n\nThen south, where charts fall silent and seas grow still,\nA stone stands lone on rock by no one's will.\nLay the heart's hand upon that ageless black—\nThe hum will answer, and the Star calls back.\n\nShe wakes beneath the wave in halls of light,\nThe watcher grieving in her endless night.\nShe fears the dawn of what was built before,\nYet only she can name the hidden door.\n\nGuide the heart to where the Gateway dreams,\nWhere moons align and nothing's as it seems.\nThe Windward stones that mortals cannot see—\nThere waits the path to end what hunts the free.\n\nAnd when you stand where stars receive command,\nAim the last light with the Glimmer's hand.\nAphelion's fire shall answer Quiet's call,\nOr silence spreads—and silence claims us all.\n\n—N",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Rapier": {
+    "name": "Rapier",
+    "category": "Weapon",
+    "description": "A slender, precision-forged blade designed for swift thrusts and elegant parries, favoring speed and accuracy over raw power.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Sword Whip": {
+    "name": "Sword Whip",
+    "category": "Weapon",
+    "description": " A segmented blade composed of interlocking steel sections that can lock into a rigid sword or unfurl into a flexible, whip-like weapon.",
+    "bonuses": [
+      {
+        "type": "stat",
+        "variable": "damage",
+        "value": 1
+      }
+    ],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Crossbow": {
+    "name": "Crossbow",
+    "category": "Weapon",
+    "description": "A mechanically-drawn ranged weapon with a horizontal bow mounted on a stock. Easier to operate than a traditional bow with less physical training required, the crossbow trades rate of fire for punishing bolt velocity capable of punching through light armor at range.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Flail": {
+    "name": "Flail",
+    "category": "Weapon",
+    "description": "A weighted iron ball or cluster of spikes attached to a handle by a short length of chain. The swinging head generates powerful momentum and wraps around shields and parries that would stop a rigid blade, making it brutally unpredictable in the hands of an experienced wielder.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Morning Star": {
+    "name": "Morning Star",
+    "category": "Weapon",
+    "description": "A heavy-headed mace studded with iron spikes, combining the bone-crushing force of a bludgeon with the piercing trauma of a spike. Favored by soldiers who need to punish armored foes, its weight demands strength but rewards each swing with devastating impact.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Trident": {
+    "name": "Trident",
+    "category": "Weapon",
+    "description": "A long polearm tipped with three parallel prongs, designed for both thrusting and trapping an opponent's weapon. Its reach keeps enemies at distance while the forked head can snag blades, pin limbs, and deliver multiple puncture wounds in a single strike.",
+    "bonuses": [],
+    "weightClass": "medium",
+    "slot": "Weapon"
+  },
+  "Chakram": {
+    "name": "Chakram",
+    "category": "Weapon",
+    "description": "A flat, razor-edged metal ring balanced for throwing or close-quarters slashing. Lightweight and concealable, it can be hurled at targets with a spinning disc flight path before being retrieved, or gripped along its inner edge to slash and hook at close range.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Odachi": {
+    "name": "Odachi",
+    "category": "Weapon",
+    "description": "An exceptionally long two-handed curved blade, larger than any standard sword, requiring both considerable strength and technical skill to wield effectively. Its sweeping reach punishes groups of enemies and can cleave through light armor, but its size demands wide stances and open ground to use properly.",
+    "bonuses": [],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Noble's Doublet": {
+    "name": "Noble's Doublet",
+    "category": "Armor",
+    "description": "A tailored silk doublet with silver thread and concealed boning that flatters the figure while whispering of wealth and breeding.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "charisma",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Noble's Circlet": {
+    "name": "Noble's Circlet",
+    "category": "Armor",
+    "description": "A slim gold circlet set with a single tasteful gem that marks the wearer as someone accustomed to being listened to.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Courtier's Gloves": {
+    "name": "Courtier's Gloves",
+    "category": "Armor",
+    "description": "Butter-soft calfskin gloves with embroidered cuffs that make every handshake feel like a privilege granted.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Noble's Trousers": {
+    "name": "Noble's Trousers",
+    "category": "Armor",
+    "description": "Fitted trousers of fine-woven fabric with a clean drape that suggests the wearer has never done manual labour and never intends to.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Noble's Boots": {
+    "name": "Noble's Boots",
+    "category": "Armor",
+    "description": "Polished leather boots with a modest heel that add presence to every step and click with authority on stone floors.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "deception",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Nobleman's Cloak": {
+    "name": "Nobleman's Cloak",
+    "category": "Armor",
+    "description": "A sweeping velvet cloak lined with fur that billows dramatically on entry and makes even standing still look like a statement.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "deception",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Bard's Coat": {
+    "name": "Bard's Coat",
+    "category": "Armor",
+    "description": "A fitted long coat of dyed leather with brass buttons and hidden pockets, cut to look dashing mid-strum or mid-swordfight.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 4
+      },
+      {
+        "type": "attribute",
+        "variable": "charisma",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "performance",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Bard's Hat": {
+    "name": "Bard's Hat",
+    "category": "Armor",
+    "description": "A wide-brimmed hat with a rakish feather that frames the face for maximum theatrical impact and doubles as a tip jar in a pinch.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Bard's Gloves": {
+    "name": "Bard's Gloves",
+    "category": "Armor",
+    "description": "Thin leather gloves with reinforced fingertips that protect the hands without dulling the sensitivity needed for strings, picks, or sleight of hand.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Bard's Trousers": {
+    "name": "Bard's Trousers",
+    "category": "Armor",
+    "description": "Sturdy but stylish trousers with reinforced knees for dramatic kneeling, rooftop escapes, and the occasional tavern brawl.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "performance",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Bard's Boots": {
+    "name": "Bard's Boots",
+    "category": "Armor",
+    "description": "Knee-high boots with a sturdy sole that can keep rhythm on a stage, hold ground in a fight, or sprint from an angry husband.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Bard's Cloak": {
+    "name": "Bard's Cloak",
+    "category": "Armor",
+    "description": "A half-cape of rich fabric clasped with a lyre-shaped brooch, worn over one shoulder for flair and tossed aside when things get serious.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "performance",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "persuasion",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Ranger's Vest": {
+    "name": "Ranger's Vest",
+    "category": "Armor",
+    "description": "A layered leather vest reinforced with bone plates across the chest, built to turn a glancing blow while keeping the arms free for bowwork.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 8
+      },
+      {
+        "type": "skill",
+        "variable": "survival",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "perception",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Ranger's Hood": {
+    "name": "Ranger's Hood",
+    "category": "Armor",
+    "description": "A deep hood of mottled green and brown that breaks the outline of the head and sharpens the wearer's awareness of movement in the treeline.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "perception",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Ranger's Bracers": {
+    "name": "Ranger's Bracers",
+    "category": "Armor",
+    "description": "Hardened leather bracers with a built-in bowstring guard, scored by years of thorns and fletching cuts.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Ranger's Leggings": {
+    "name": "Ranger's Leggings",
+    "category": "Armor",
+    "description": "Tough hide leggings treated with animal fat for water resistance, built to endure weeks of hard terrain without wearing through.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "perception",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "survival",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Ranger's Boots": {
+    "name": "Ranger's Boots",
+    "category": "Armor",
+    "description": "Thick-soled boots laced to the knee with treaded grips, broken in over countless miles of forest trail and mountain pass.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 2
+      },
+      {
+        "type": "skill",
+        "variable": "survival",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Ranger's Cloak": {
+    "name": "Ranger's Cloak",
+    "category": "Armor",
+    "description": "A wide woodland cloak of layered earth-toned fabric that serves as camouflage, rain cover, bedroll, and improvised shelter in a pinch.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "survival",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "perception",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Shadow Garb": {
+    "name": "Shadow Garb",
+    "category": "Armor",
+    "description": "A fitted tunic of layered dark silk over thin leather, stitched with matte black thread and cut to eliminate any silhouette that might catch the eye.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 4
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 3
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Shadow Cowl": {
+    "name": "Shadow Cowl",
+    "category": "Armor",
+    "description": "A close-fitting hood of charcoal fabric that wraps the lower face and muffles breathing, leaving only the eyes exposed.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "head"
+  },
+  "Shadow Wraps": {
+    "name": "Shadow Wraps",
+    "category": "Armor",
+    "description": "Thin hand wraps of dark linen over padded fingerless gloves, preserving grip and touch while deadening the sound of contact.",
+    "bonuses": [
+      {
+        "type": "attribute",
+        "variable": "dexterity",
+        "value": 1
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Shadow Leggings": {
+    "name": "Shadow Leggings",
+    "category": "Armor",
+    "description": "Slim-cut trousers of layered dark fabric with reinforced knees, designed to allow silent crouching, climbing, and sprinting.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 3
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 2
+      }
+    ],
+    "weightClass": "light",
+    "slot": "legs"
+  },
+  "Shadow Tabi": {
+    "name": "Shadow Tabi",
+    "category": "Armor",
+    "description": "Split-toed soft-soled boots that distribute weight across the foot, turning every step into silence on wood, stone, or gravel.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "feet"
+  },
+  "Shadow Cloak": {
+    "name": "Shadow Cloak",
+    "category": "Armor",
+    "description": "A lightweight cloak dyed in shifting dark tones that breaks the wearer's outline against walls, foliage, and night sky alike.",
+    "bonuses": [
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "cloak"
+  },
+  "Kodachi": {
+    "name": "Kodachi",
+    "category": "Weapon",
+    "description": "A short, curved single-edged blade forged in the eastern style. Lighter and faster than a full katana, the kodachi is designed for quick draws, close-range precision cuts, and fluid defensive counters. Its compact length makes it ideal for fighting in confined spaces and for warriors who favor speed and technique over reach.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "Weapon"
+  },
+  "Wand": {
+    "name": "Wand",
+    "category": "Accessory",
+    "description": "A slender wooden wand carved from mana-reactive ash, polished smooth by use and capped with a small crystal focus at the tip. The wood carries faint grain patterns that glow softly when mana flows through it, and the crystal hums at a pitch only the wielder can hear. Wands like these are common among spellcasters who prefer a light, portable focus over heavier staves, favoring quick gestures and precise channeling over raw power. The crystal's quality determines the wand's upper limits, and this one handles everyday casting comfortably without burning out under moderate strain.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 5
+      }
+    ],
+    "slot": "Accessory"
+  },
+  "Academy Acceptance Letter": {
+    "name": "Academy Acceptance Letter",
+    "category": "Miscellaneous",
+    "description": "A thick sheet of ivory parchment bearing the silver seal of Aethermere Academy — a stylized eye wreathed in arcane sigils — pressed into violet wax. The letter reads:\n\nAETHERMERE ACADEMY\nOffice of Admissions — Aurelion Heartlands\n\nDear Applicant,\n\nOn behalf of the faculty, staff, and Headmaster Duskmantle, it is my sincere pleasure to inform you that you have been accepted into Aethermere Academy for the upcoming term.\n\nYour aptitude assessment demonstrated qualities the Academy values: curiosity, potential, and — if the assessor's notes are to be believed — a refreshing disregard for the phrase 'that's impossible.' We look forward to channeling that energy into something productive, or at minimum, something that does not set fire to a load-bearing wall.\n\nPlease report to the Grand Foyer on the first day of term. Orientation begins at the eighth bell. Dormitory assignments will be distributed upon arrival. Students are advised to bring personal effects, writing materials, and fireproof gloves (this last item is not optional).\n\nThe Academy provides standard texts, laboratory access, and basic alchemical supplies. Wands, staves, and other personal foci must be supplied by the student. The Grand Library is available to all enrolled students; access to the Restricted Section requires faculty authorization and a signed liability waiver.\n\nWe remind all incoming students that unsanctioned experimentation in dormitory rooms, hallways, dining halls, or within fifty paces of the Headmaster's Observatory is strictly prohibited and will result in disciplinary action up to and including temporary polymorphic correction.\n\nWelcome to Aethermere. Your education — and your future — begins here.\n\nWith scholarly regard,\nProfessor Maren Ashgrove\nDirector of First-Year Admissions\nAethermere Academy\n\nP.S. — The rumors about the Grand Library being haunted are greatly exaggerated. Mostly.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Writing Kit": {
+    "name": "Writing Kit",
+    "category": "Accessory",
+    "description": "A compact leather roll containing ink bottles, quills, a small knife for sharpening, loose parchment sheets, and a stick of sealing wax. Standard issue for any student expected to take notes, draft correspondence, or document experimental results before they explode.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Fireproof Gloves": {
+    "name": "Fireproof Gloves",
+    "category": "Armor",
+    "description": "Thick gloves lined with salamander-treated leather that resists heat, sparks, and minor alchemical splashes. Mandatory equipment for first-year practical lectures at Aethermere, where the line between 'controlled demonstration' and 'incident report' is thinner than the faculty would like to admit.",
+    "bonuses": [],
+    "weightClass": "light",
+    "slot": "hands"
+  },
+  "Academy Student Robe": {
+    "name": "Academy Student Robe",
+    "category": "Armor",
+    "description": "A deep violet robe trimmed with silver thread, issued to all enrolled Aethermere students. The fabric carries a faint protective enchantment that absorbs minor spell mishaps — a necessity given that first-years routinely misfire incantations at each other. A small silver eye is embroidered over the left breast.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "mana",
+        "value": 1
+      }
+    ],
+    "weightClass": "light",
+    "slot": "body"
+  },
+  "Plate Cuirass": {
+    "name": "Plate Cuirass",
+    "category": "Armor",
+    "description": "A full chest and back plate of hammered steel with articulated faulds protecting the waist, fitted over a padded gambeson that absorbs impact and prevents the metal from grinding against skin. The plates are riveted with reinforced joins at the shoulders and sides, allowing limited torso rotation while keeping vital organs behind solid steel. Scratch marks and hammer dents across the surface show where previous owners tested its limits and walked away. Heavy, loud, and unmistakable — the armor of someone who expects to be hit and plans to keep standing.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 28
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -3
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -3
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "body"
+  },
+  "Plate Helm": {
+    "name": "Plate Helm",
+    "category": "Armor",
+    "description": "A full-faced steel helm with a hinged visor, padded interior, and a mail aventail protecting the neck and throat. The eye slits are narrow enough to stop a dagger point but wide enough for functional combat vision — barely. Ventilation holes drilled along the lower jaw allow breathing during exertion, though the sound of your own ragged breath echoing inside the steel becomes a constant companion. The helm deadens peripheral awareness in exchange for making your skull effectively impossible to crack.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 8
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -2
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "head"
+  },
+  "Plate Gauntlets": {
+    "name": "Plate Gauntlets",
+    "category": "Armor",
+    "description": "Articulated steel gauntlets with overlapping finger plates, reinforced knuckle ridges, and leather-lined palms. Each finger joint moves independently through a system of small rivets and sliding plates, preserving enough grip to hold a weapon while encasing the hands in metal. The trade-off is obvious the moment you try to thread a needle, pick a lock, or do anything requiring fine motor control — the steel turns your hands into blunt instruments. Effective blunt instruments, but blunt instruments nonetheless.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 5
+      },
+      {
+        "type": "attribute",
+        "variable": "dexterity",
+        "value": -1
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "hands"
+  },
+  "Plate Greaves": {
+    "name": "Plate Greaves",
+    "category": "Armor",
+    "description": "Steel plates shaped to cover the thighs and shins, strapped over padded leggings with leather buckles and riveted hinges at the knees. The articulation allows walking, running, and basic combat movement, though anything requiring agility — climbing, rolling, dodging — becomes noticeably harder under the weight. The greaves clank with every step on hard ground, announcing your presence to anything with ears.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 6
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -1
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "legs"
+  },
+  "Plate Sabatons": {
+    "name": "Plate Sabatons",
+    "category": "Armor",
+    "description": "Articulated steel boots with overlapping toe plates and reinforced heel cups, built to protect the feet from being crushed underfoot or pierced by caltrops. The soles are layered steel over thick leather, providing excellent protection at the cost of any pretence of stealth — every step rings on stone and thuds on wood. The ankle joints are stiff enough to prevent sprains but restrictive enough to make quick directional changes feel sluggish.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 6
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "feet"
+  },
+  "War Mantle": {
+    "name": "War Mantle",
+    "category": "Armor",
+    "description": "A heavy padded shoulder drape reinforced with steel studs and mail patches along the collar and upper back, worn over plate armor to protect the neck and absorb the shock of overhead blows. The mantle adds another layer of weight to an already burdened frame, but veterans swear by the protection it offers against the downward strikes that plate alone handles poorly. A practical, unglamorous piece of armor that exists because people kept dying from axe blows to the collarbone.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 5
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "cloak"
+  },
+  "Tower Shield": {
+    "name": "Tower Shield",
+    "category": "Weapon",
+    "description": "A massive full-body shield of reinforced steel and hardwood, tall enough to crouch behind and heavy enough to use as a barricade. The shield covers the wielder from shoulder to shin when planted, and its sheer mass can absorb impacts that would shatter smaller guards. Carrying it is an exercise in endurance, and fighting with it demands brute strength over finesse. The tower shield turns its wielder into a mobile wall, but mobility is exactly what it costs.",
+    "bonuses": [
+      {
+        "type": "resource",
+        "variable": "health",
+        "value": 35
+      },
+      {
+        "type": "skill",
+        "variable": "stealth",
+        "value": -4
+      },
+      {
+        "type": "resource",
+        "variable": "stamina",
+        "value": -2
+      },
+      {
+        "type": "attribute",
+        "variable": "dexterity",
+        "value": -1
+      }
+    ],
+    "weightClass": "heavy",
+    "slot": "Weapon"
+  },
+  "Pickaxe": {
+    "name": "Pickaxe",
+    "category": "Accessory",
+    "description": "A sturdy iron-headed pickaxe with a hardwood haft, balanced for long hours of breaking rock. The head features a pointed tip for fracturing stone and a flat chisel end for prying loose ore. A leather grip wrap prevents blisters during extended use.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Fishing Rod": {
+    "name": "Fishing Rod",
+    "category": "Accessory",
+    "description": "A flexible willow rod fitted with a simple reel, braided line, an assortment of hooks, sinkers, and a small cork float. A belt pouch holds spare gut line, bait ties, and a filleting knife for cleaning the catch.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Blacksmith's Tool Set": {
+    "name": "Blacksmith's Tool Set",
+    "category": "Accessory",
+    "description": "A heavy canvas roll containing a ball-peen hammer, flat-jaw tongs, a hardy tool, a swage block insert, wire brush, and quenching oil in a sealed flask. Designed to work with any available forge rather than replace one.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Carpenter's Tool Set": {
+    "name": "Carpenter's Tool Set",
+    "category": "Accessory",
+    "description": "A waxed leather roll holding a hand saw, claw hammer, wood chisels in three widths, a block plane, measuring square, marking awl, and a coil of plumb line. Everything a woodworker needs to shape timber on site.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Cooking Kit": {
+    "name": "Cooking Kit",
+    "category": "Accessory",
+    "description": "A compact nested cookware set containing a cast iron skillet, a small lidded pot, a ladle, a paring knife, a wooden cutting board, a spice pouch with basic seasonings, and a tripod stand for cooking over open flame.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Alchemist's Kit": {
+    "name": "Alchemist's Kit",
+    "category": "Accessory",
+    "description": "A padded wooden case containing a brass mortar and pestle, glass vials in three sizes, a distillation coil, measuring spoons, a small burner, tongs, filter cloth, and a leather-bound reference chart of common reagent reactions.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Jeweler's Tool Set": {
+    "name": "Jeweler's Tool Set",
+    "category": "Accessory",
+    "description": "A velvet-lined case holding a jeweler's loupe, needle files in six profiles, a pin vise, setting pliers, a small engraving burin, polishing cloth, gem tweezers, and a folding scale for weighing stones.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Leatherworking Tool Set": {
+    "name": "Leatherworking Tool Set",
+    "category": "Accessory",
+    "description": "A tool roll containing a stitching awl, curved needles, waxed linen thread, a rotary punch, a beveling knife, edge slicker, rivets and a setting tool, and a small tin of leather conditioning oil.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Sewing Kit": {
+    "name": "Sewing Kit",
+    "category": "Accessory",
+    "description": "A compact fabric case holding steel needles in assorted sizes, thread spools in common colors, fabric shears, a seam ripper, tailor's chalk, a measuring tape, thimbles, and a pincushion bristling with pins.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Herbalist's Pouch": {
+    "name": "Herbalist's Pouch",
+    "category": "Accessory",
+    "description": "A multi-pocketed leather satchel containing clean bandage rolls, a suturing needle and gut thread, a tourniquet strap, dried medicinal herbs in labeled compartments, a salve tin, and a small reference booklet on field treatment.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Enchanter's Kit": {
+    "name": "Enchanter's Kit",
+    "category": "Accessory",
+    "description": "A silk-wrapped case containing inscription styluses, a set of binding crystals in varying attunements, powdered silver for tracing rune circles, a resonance tuning fork, arcane ink, and treated vellum for drafting enchantment schematics.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Engineer's Tool Set": {
+    "name": "Engineer's Tool Set",
+    "category": "Accessory",
+    "description": "A brass-buckled case holding calipers, a precision wrench set, a spirit level, a folding ruler, drafting compass, graphite sticks, schematics paper, a hand drill with interchangeable bits, and a small torque gauge.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Magitech Tool Set": {
+    "name": "Magitech Tool Set",
+    "category": "Accessory",
+    "description": "A reinforced case containing an arcane calibrator, conduit probes, a mana flux meter, crystal-tipped soldering wand, insulated pliers, micro-adjustment screwdrivers, a spool of aetheric wire, and a vial of conductive paste.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Builder's Tool Set": {
+    "name": "Builder's Tool Set",
+    "category": "Accessory",
+    "description": "A heavy belt harness holding a brick trowel, a plumb bob, a mason's level, a measuring cord knotted at intervals, a mixing bucket, a pointing chisel, a hand sledge, and a pouch of marking chalk.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Gardener's Tool Set": {
+    "name": "Gardener's Tool Set",
+    "category": "Accessory",
+    "description": "A canvas carry bag containing a hand trowel, pruning shears, a weeding fork, seed pouches, a watering can nozzle, a ball of garden twine, grafting tape, and a soil testing rod for reading nutrient levels by color.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Artist's Kit": {
+    "name": "Artist's Kit",
+    "category": "Accessory",
+    "description": "A weathered leather satchel containing charcoal sticks, ink pots in black and sepia, steel-nib pens, a bundle of loose parchment, a sharpening knife, a blending stump, and a small tin of fixative powder to prevent smudging.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Lockpick Set": {
+    "name": "Lockpick Set",
+    "category": "Accessory",
+    "description": "A slim leather fold containing tension wrenches in three gauges, a rake pick, a hook pick, a diamond pick, a ball pick, and a broken key extractor. The tools are blackened steel to avoid glinting in lamplight.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Climbing Kit": {
+    "name": "Climbing Kit",
+    "category": "Accessory",
+    "description": "A coil of braided hemp rope, iron pitons, a lightweight climbing hammer, carabiner rings, a harness of reinforced leather strapping, chalk dust in a belt pouch, and a pair of crampon attachments for ice work.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Compass": {
+    "name": "Compass",
+    "category": "Accessory",
+    "description": "A brass pocket compass with a magnetized needle floating on a jeweled bearing, housed in a hinged protective case. The lid interior is etched with a basic star chart for celestial navigation when the needle alone is not enough.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Performer's Kit": {
+    "name": "Performer's Kit",
+    "category": "Accessory",
+    "description": "A portable lute in a canvas case, a set of wooden juggling pins, a pouch of flash powder for dramatic emphasis, face paint in six colors, and a chapbook of popular ballads and crowd-tested monologues.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Sailor's Kit": {
+    "name": "Sailor's Kit",
+    "category": "Accessory",
+    "description": "A collapsible brass spyglass, a waterproof chart tube, a marlinspike for ropework, a spool of tarred twine, a bosun's whistle, a tide table booklet, and a sealed tin of waterproofing grease.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Survival Kit": {
+    "name": "Survival Kit",
+    "category": "Accessory",
+    "description": "A belt pouch containing a flint and steel striker, a coil of snare wire, a waterskin, a folding skinning knife, a bundle of tinder wrapped in oilcloth, fish hooks and gut line, and a small pouch of salt for preserving meat.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Investigator's Kit": {
+    "name": "Investigator's Kit",
+    "category": "Accessory",
+    "description": "A shoulder bag containing a magnifying lens, evidence vials with cork stoppers, marking chalk in three colors, a measuring string knotted at intervals, tweezers, a small mirror on an extendable handle, and a pocket journal with graphite pencil.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Husbandry Kit": {
+    "name": "Husbandry Kit",
+    "category": "Accessory",
+    "description": "A canvas saddlebag containing grooming brushes in three stiffnesses, a hoof pick, leather lead ropes, a muzzle, a pouch of calming herbs, wound salve formulated for animals, and a dog-eared breed registry booklet with hand-written additions.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Forger's Kit": {
+    "name": "Forger's Kit",
+    "category": "Accessory",
+    "description": "A hidden-compartment case containing practice seals in soft wax, ink in six official colors, fine-point pens, blank parchment with pre-aged edges, a small heating lamp for wax work, and a collection of signature samples clipped from discarded correspondence.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Hospitality Set": {
+    "name": "Hospitality Set",
+    "category": "Accessory",
+    "description": "A polished wooden carry case containing a cocktail shaker, a set of small tasting cups, a muddler, a strainer, a corkscrew, a pouch of garnish herbs, a flask of house-blend bitters, and a dog-eared recipe book stained with use.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Appraiser's Loupe": {
+    "name": "Appraiser's Loupe",
+    "category": "Accessory",
+    "description": "A jeweler's loupe on a neck chain paired with a pocket-sized reference booklet listing current market values, regional price variations, and common counterfeiting techniques. A small vial of acid for testing metal purity completes the set.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Lute": {
+    "name": "Lute",
+    "category": "Accessory",
+    "description": "A well-crafted stringed instrument with a rounded body and graceful neck, popular among traveling musicians. Its warm tones carry well in taverns and open squares, and its compact design makes it easy to transport.",
+    "bonuses": [],
+    "slot": "Accessory"
+  },
+  "Common Health Potion": {
+    "name": "Common Health Potion",
+    "category": "Consumable",
+    "description": "A basic restorative draught that closes small wounds and eases pain.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Uncommon Health Potion": {
+    "name": "Uncommon Health Potion",
+    "category": "Consumable",
+    "description": "A standard healing potion used by adventurers and soldiers alike.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Rare Health Potion": {
+    "name": "Rare Health Potion",
+    "category": "Consumable",
+    "description": "A potent mixture capable of rapidly restoring serious injuries.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Epic Health Potion": {
+    "name": "Epic Health Potion",
+    "category": "Consumable",
+    "description": "An advanced alchemical brew that revitalizes the body almost instantly.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Legendary Health Potion": {
+    "name": "Legendary Health Potion",
+    "category": "Consumable",
+    "description": "A near-miraculous elixir whose recipe is known to only a handful of living masters, capable of restoring even mortal wounds in full.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Common Mana Potion": {
+    "name": "Common Mana Potion",
+    "category": "Consumable",
+    "description": "A light infusion that restores a small amount of magical energy.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Uncommon Mana Potion": {
+    "name": "Uncommon Mana Potion",
+    "category": "Consumable",
+    "description": "A commonly used potion that replenishes spent mana reserves.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Rare Mana Potion": {
+    "name": "Rare Mana Potion",
+    "category": "Consumable",
+    "description": "A refined brew that rapidly restores magical focus and power.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Epic Mana Potion": {
+    "name": "Epic Mana Potion",
+    "category": "Consumable",
+    "description": "A masterwork distillation that floods the body with arcane energy.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Legendary Mana Potion": {
+    "name": "Legendary Mana Potion",
+    "category": "Consumable",
+    "description": "A mythical draught said to restore a caster's full reserves in a single swallow.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Common Stamina Potion": {
+    "name": "Common Stamina Potion",
+    "category": "Consumable",
+    "description": "A simple tonic that eases fatigue and restores breath.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Uncommon Stamina Potion": {
+    "name": "Uncommon Stamina Potion",
+    "category": "Consumable",
+    "description": "A balanced draught used to recover endurance during prolonged exertion.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Rare Stamina Potion": {
+    "name": "Rare Stamina Potion",
+    "category": "Consumable",
+    "description": "A strong restorative that reinvigorates muscles and sharpens reflexes.",
+    "bonuses": [],
+    "slot": "Consumable"
+  },
+  "Epic Stamina Potion": {
+    "name": "Epic Stamina Potion",
+    "category": "Consumable",
+    "description": "A powerful tonic that restores endurance to near-peak condition.",
+    "bonuses": [],
+    "slot": "Consumable"
+  }
+}

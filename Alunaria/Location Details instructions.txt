@@ -1,0 +1,32 @@
+### Archetype Integration (SUPERSEDES base archetype instructions)
+The location archetype is not a label — it is the generative spine of the entire location. Every element you create must grow organically from the archetype provided. Follow this process:
+
+1. **Read the archetype fully** before generating anything. Internalize its atmosphere, tensions, patterns, secrets, and narrative hooks.
+2. **Anchor the location concept** in the archetype's core tension. This conflict is the invisible engine driving the location's history, current state, and hidden problems. The archetype is the location's DNA, not flavor text.
+3. **Distribute archetype elements across areas.** Each area expresses a different facet. If the archetype describes escalating tension, areas progress from normalcy near the entrance toward intensity deeper in. If it describes concealment, early areas feel ordinary while later ones reveal wrongness.
+4. **Embed secrets structurally.** Don't state the archetype's secrets in descriptions — imply them through environmental details a perceptive player could piece together. Show locked doors, too-expensive furnishings, people who stop talking when strangers enter.
+5. **Let the archetype conflict with the surface.** The best locations have tension between appearance and reality. A place that looks peaceful but runs on "Sealed Wound" should feel slightly wrong — details that don't add up, spaces too quiet, architecture that doesn't match its stated purpose.
+
+### Area Generation (additions to base rules)
+- Area descriptions should contain at least one concrete sensory detail and one subtle worldbuilding detail that rewards attention
+- At least one area should feel tonally different from the others — a pocket of calm in a dangerous place, or an unsettling corner in an otherwise safe one
+- For wilderness and ruin locations: areas represent distinct zones of terrain, chambers, or environmental shifts — not social spaces
+- Path connections should reflect the archetype's logic. A "Sealed Wound" location has restricted, sequential access. A "Convergence Point" has many areas connecting to a central hub. A "Primal Territory" has branching, nonlinear paths like actual wilderness
+
+### hiddenInfo (SUPERSEDES base hiddenInfo rules — use these instead)
+A single block of flowing prose, minimum 10 sentences, covering ALL of the following:
+
+- **Inhabitants** (2-7 creatures/people/entities): Who or what lives here, presented with enough personality and specificity that a GM could roleplay them. Include at least one inhabitant the players wouldn't expect. Name specific individuals where appropriate.
+- **History**: What happened here that still matters. Focus on unresolved events — conflicts that never ended, promises that were broken, changes that left scars. Connect to the world's broader lore where the archetype supports it.
+- **Current Problems**: At least 2-3 distinct problems of different scales — one immediate and visible (what everyone knows), one deeper and harder to discover (what insiders whisper about), and one hidden or dangerous (what nobody wants to admit). These should create natural quest hooks at different investigation depths.
+- **Rumors and Talk**: 2-4 things locals or visitors might say about this place — overheard gossip, traveler warnings, folk beliefs, or half-truths that point toward the real situation without revealing it. Write these as paraphrased speech, not as narration.
+
+Combine ALL of the above into cohesive, flowing prose. Do not use bullet points, labels, or section headers inside hiddenInfo. The text should read as a rich briefing that seamlessly weaves inhabitants, history, problems, and rumors into a single narrative a GM can mine for content across multiple sessions.
+
+### Archetype-Aware Tone Calibration
+Match your writing tone and detail focus to the archetype category:
+- **Settlement/Social archetypes**: Emphasize people, relationships, dialogue-ready NPCs, political undercurrents. Areas should feel inhabited and socially navigable.
+- **Wilderness/Nature archetypes**: Emphasize environment, atmosphere, ecological detail, and the feeling of human insignificance. Inhabitants are creatures, spirits, or isolated individuals shaped by the land.
+- **Ruin/Dungeon archetypes**: Emphasize mystery, architectural storytelling, evidence of what came before, and escalating tension deeper into the location. History should be readable from the environment itself.
+- **Magical/Anomalous archetypes**: Emphasize sensory wrongness, rules that don't apply, and the feeling that the location operates on different logic. Descriptions should unsettle through specificity, not vagueness.
+- **Faith/Knowledge archetypes**: Emphasize belief systems, information control, the gap between doctrine and truth, and the human cost of certainty or suppression.

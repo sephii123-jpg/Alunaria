@@ -1,0 +1,492 @@
+{
+  "acrobatics": {
+    "name": "acrobatics",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nAcrobatics is the art of turning your body into an instrument of fluid motion, defying gravity and constraint through practiced grace. Simple feats like rolling to break a fall, vaulting a low fence, or keeping balance on a rocking boat are relatively easy; flipping over an opponent mid-combat, running along a narrow wall, or tumbling through a closing portcullis represents moderate difficulty; while chaining acrobatic movements across rooftops without breaking stride, escaping fully bound restraints through contortion, or performing aerial dodges that seem to bend the laws of physics represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "athletics": {
+    "name": "athletics",
+    "type": "utility",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nAthletics is raw physical dominance made practicalthe power to outrun, outclimb, and overpower whatever stands in your way. Simple efforts like forcing open a stuck door, swimming across a calm river, or hauling yourself over a wall are relatively easy; breaking free from a grapple, leaping across a wide chasm, or climbing a rain-slicked cliff face represents moderate difficulty; while tearing iron chains from their mountings, swimming against raging currents for hours, or hurling another person bodily across a room represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "intimidation": {
+    "name": "intimidation",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nIntimidation is the weaponization of presencethe ability to make others feel small, afraid, and cooperative without ever drawing a blade. Silencing a mouthy drunk, making a shopkeeper reconsider a bad deal, or scattering a group of street thugs with a glare are relatively easy; breaking the nerve of a trained soldier, forcing a confession from a hardened criminal, or cowing an aggressive beast into submission represents moderate difficulty; while halting a charging mob with a single word, making a war-hardened general doubt their own orders, or paralyzing an enemy with such primal dread that they cannot bring themselves to fight represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "investigation": {
+    "name": "investigation",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nInvestigation is the discipline of reading the world's hidden languagethe scuff marks, the misplaced objects, the stories that silence tells. Noticing a drawer has been recently opened, identifying which key fits a lock by examining the mechanism, or spotting a forged signature are relatively easy; reconstructing the sequence of events at a crime scene, finding a hidden compartment in a well-crafted desk, or detecting a poison by its faint residue represents moderate difficulty; while unraveling elaborate conspiracies from a handful of seemingly unrelated clues, identifying a killer from the pattern of dust displacement in a room, or piecing together the function of an ancient device from fragments alone represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "performance": {
+    "name": "performance",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nPerformance is the art of commanding attention and shaping emotion through voice, movement, and spectacle. Entertaining a small tavern crowd, delivering a convincing dramatic monologue, or keeping rhythm with a traveling band are relatively easy; moving an entire audience to tears or fury, improvising a flawless performance in an unfamiliar style, or maintaining a captivating act while under genuine threat represents moderate difficulty; while inciting a city square to rebellion with a single ballad, performing so convincingly that enemies hesitate to attack, or weaving a performance so mesmerizing that onlookers fail to notice a heist unfolding behind them represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "persuasion": {
+    "name": "persuasion",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nPersuasion is the silver thread that pulls hearts and minds in the direction you choose, all while making them believe it was their own idea. Haggling a fair discount from a friendly merchant, convincing a guard to overlook a minor infraction, or calming a frightened civilian are relatively easy; negotiating a truce between hostile factions, talking a suspicious noble into granting access to restricted areas, or swaying a jury's verdict represents moderate difficulty; while convincing a king to change policy with a single private audience, brokering peace between warring nations, or talking an enemy into laying down their arms mid-battle represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "survival": {
+    "name": "survival",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nSurvival is the gritty determination to endure where others perish, reading the land like a living map of threats and opportunities. Building a basic shelter, foraging for edible plants in familiar terrain, or following a fresh trail through mud are relatively easy; tracking a cautious target across rocky ground, constructing effective snares and traps, or navigating through a blizzard without losing direction represents moderate difficulty; while tracking a week-old trail through pouring rain, surviving indefinitely in the harshest wastelands, or constructing trap networks sophisticated enough to halt a pursuing army represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "augmentation": {
+    "name": "augmentation",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nAugmentation is the art of flooding your own body with mana to transcend normal physical limitsturning muscle into something more than flesh. Simple applications like using mana to increase force behind a punch, steadying your grip, or shrugging off fatigue are relatively easy; channeling enough power to cleave through armor, leap impossible distances, or shatter stone with bare hands represents moderate difficulty; while amplifying yourself with mana to temporarily become a living siege enginecatching falling boulders, punching holes through castle walls, or moving fast enough to leave afterimages in your wake represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "alchemy": {
+    "name": "alchemy",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nAlchemy is the science of coaxing miracles from mattertransforming common roots, minerals, and reagents into substances that heal, harm, or defy nature. Brewing a basic healing salve, identifying a common poison, or mixing a simple stimulant tea are relatively easy; distilling a potent antivenom, crafting a volatile explosive compound, or creating an elixir that temporarily enhances physical abilities represents moderate difficulty; while synthesizing legendary potions that cheat death, transmuting base metals into precious materials, or engineering plagues and their cures in the same afternoon represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "animal husbandry": {
+    "name": "animal husbandry",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nAnimal husbandry is the patient art of understanding beasts on their own termsreading their moods, shaping their temperament, and raising them to their fullest potential. Feeding and grooming a domesticated animal, recognizing signs of common illness, or calming a nervous mount are relatively easy; training a young beast to follow complex commands, selectively breeding for desirable traits, or rehabilitating an abused animal represents moderate difficulty; while gentling a wild predator over time, breeding mounts of legendary endurance and intelligence, or diagnosing and treating exotic diseases that baffle even experienced healers represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "appraisal": {
+    "name": "appraisal",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nAppraisal is the trained eye that sees value where others see junkand fraud where others see fortune. Estimating the worth of common trade goods, recognizing obviously fake gemstones, or judging the quality of standard weapons and armor are relatively easy; accurately pricing rare antiquities, detecting a cleverly disguised counterfeit, or assessing the true value of an enchanted item represents moderate difficulty; while appraising the worth of an entire estate at a glance, identifying the origin and provenance of artifacts from lost civilizations, or spotting the single genuine masterwork hidden among a hundred expert forgeries represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "blacksmithing": {
+    "name": "blacksmithing",
+    "type": "utility",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nBlacksmithing is the primal craft of bending metal to your will through fire, hammer, and relentless precision. Forging simple nails, repairing a dented breastplate, or sharpening a dulled blade are relatively easy; crafting a well-balanced sword, reinforcing armor joints for maximum protection, or tempering steel to hold a superior edge represents moderate difficulty; while forging weapons of legendary sharpness and durability, working exotic alloys that lesser smiths cannot even heat, or repairing shattered masterwork equipment to better than its original condition represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "brawling": {
+    "name": "brawling",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nBrawling is the raw, ugly art of using the body as a bludgeonno finesse, no rules, just overwhelming force at arm's length. Throwing a solid punch, shoving an opponent off balance, or breaking free from a loose hold are relatively easy; grappling an armed opponent into submission, headbutting through a wooden door, or fighting effectively while pinned against a wall represents moderate difficulty; while crushing armor with bare hands, wrestling beasts twice your size into the dirt, or delivering strikes with enough force to shatter bone and send opponents flying represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "construction": {
+    "name": "construction",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nConstruction is the knowledge of how things stand and why they fallthe practical science of building structures that endure. Erecting a simple lean-to, reinforcing a damaged wall with available materials, or assessing whether a floor can bear heavy weight are relatively easy; designing a defensible fortification, building a bridge capable of supporting loaded wagons, or safely demolishing a structure without collapsing adjacent buildings represents moderate difficulty; while engineering siege-resistant strongholds, constructing buildings that channel natural ventilation and light with elegant efficiency, or identifying the single structural weakness that would bring an entire fortress down represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "cooking": {
+    "name": "cooking",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nCooking is the art of turning raw ingredients into sustenance that restores strength, lifts spirits, and brings people together. Preparing a simple but filling stew, roasting meat evenly over a campfire, or preserving food for travel are relatively easy; crafting a multi-course meal that delights noble palates, improvising a nutritious feast from foraged wilderness ingredients, or cooking for dozens without sacrificing quality represents moderate difficulty; while preparing dishes that provide tangible restorative benefits beyond mere nourishment, identifying and neutralizing toxins in tainted food by taste alone, or creating culinary experiences so extraordinary they become the stuff of legend represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "cryomancy": {
+    "name": "cryomancy",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nCryomancy is the command of cold itselfthe power to steal heat, crystallize moisture, and turn the battlefield into a frozen killing ground. Chilling a surface to create treacherous ice, numbing an opponent's limbs with a touch of frost, or freezing a small body of water solid are relatively easy; encasing an enemy in restrictive ice, launching volleys of razor-sharp icicles, or creating walls of frost thick enough to block passage represents moderate difficulty; while flash-freezing entire battlefields, shattering frozen enemies with a gesture, or summoning blizzards that reduce visibility to nothing and sap the strength of all caught within represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "deception": {
+    "name": "deception",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nDeception is the craft of making lies feel more real than the truth  -  whether spoken, performed, or set down in ink. Telling a convincing white lie, feigning ignorance about a topic, or copying a simple letter in someone else's handwriting are relatively easy; maintaining a false identity under casual questioning, forging official documents complete with proper formatting and seals, or delivering a fabricated story so seamlessly that even skeptics accept it represents moderate difficulty; while sustaining elaborate false identities for months, forging royal decrees indistinguishable from genuine articles, or weaving deceptions so layered  -  in word, document, and planted evidence  -  that uncovering one lie only reveals another deeper falsehood represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "enchanting": {
+    "name": "enchanting",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nEnchanting is the delicate art of weaving magic into matter, binding arcane power to physical objects through runes, ritual, and precise mana infusion. Inscribing a simple glow rune, identifying the enchantment on a common magical item, or refreshing a fading enchantment are relatively easy; imbuing a weapon with elemental properties, layering multiple enchantments without destabilizing an item, or stripping a hostile enchantment safely represents moderate difficulty; while creating self-sustaining enchantments that last centuries, binding complex conditional triggers into objects, or enchanting items with effects so sophisticated they border on artificial intelligence represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "engineering": {
+    "name": "engineering",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nEngineering is the discipline of turning mechanical theory into working realitygears, pulleys, pressure, and leverage bent to practical purpose. Repairing a broken lock mechanism, building a simple pulley system, or understanding how a basic trap works are relatively easy; designing a functional drawbridge, constructing a siege engine from salvaged parts, or building a water-powered mill represents moderate difficulty; while engineering automated defense systems, designing mechanisms of clockwork precision that operate independently for years, or improvising devastating war machines from battlefield scrap under enemy fire represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "fire magic": {
+    "name": "fire magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nFire magic is the art of unleashing a hungry, consuming force that turns the battlefield into a furnace at your command. Igniting flammable materials at a distance, hurling a bolt of fire at a single target, or maintaining a sustained flame for light and warmth are relatively easy; launching explosive fireballs that detonate on impact, creating walls of flame to deny entire areas, or precisely controlling fire intensity to burn through armor without igniting surroundings represents moderate difficulty; while summoning firestorms that consume entire battlefields, superheating the air around a target until metal glows white, or shaping fire into persistent constructs that hunt and burn with a will of their own represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "jewelcrafting": {
+    "name": "jewelcrafting",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nJewelcrafting is the precise art of cutting, setting, and shaping precious stones and metals into objects of beauty, function, and power. Polishing a rough gemstone to a basic shine, setting a stone into a pre-made bezel, or identifying common gem types by sight are relatively easy; cutting a flawless facet pattern that maximizes a gem's brilliance, crafting intricate metalwork settings that enhance an enchantment, or repairing delicate antique jewelry without damaging its value represents moderate difficulty; while splitting a raw diamond along invisible stress lines with a single perfect strike, creating settings so refined they amplify magical properties beyond the gem's natural capacity, or crafting pieces of such exquisite artistry that they become legendary heirlooms represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "gravity magic": {
+    "name": "gravity magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nGravity magic crumples the fundamental rules of weight and orientation, turning the invisible force that holds the world together into a devastating weapon. Increasing an object's weight to pin it down, lightening your own step to jump higher, or pulling a dropped weapon back to your hand are relatively easy; crushing an armored enemy under multiplied gravitational force, creating zones where projectiles curve away harmlessly, or anchoring a target so heavily they cannot move represents moderate difficulty; while inverting gravity across an entire area to send enemies hurtling skyward, compressing gravitational force into a singularity that draws everything inward, or selectively altering gravity's direction so that walls become floors and enemies fall sideways into oblivion represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "geomancy": {
+    "name": "geomancy",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nGeomancy is the command of earth, stone, and metal through focused willpowerthe power to make the ground itself rise in your defense or crash down upon your enemies. Raising a low barrier of packed earth, hurling a fist-sized stone with lethal force, or sensing vibrations through the ground to detect approaching footsteps are relatively easy; erupting stone spikes beneath an enemy, reshaping a stone wall to create or seal a doorway, or pulling metal ore from raw rock represents moderate difficulty; while triggering localized earthquakes, raising fortress walls from bare ground in moments, or commanding entire hillsides to collapse and bury armies beneath tons of stone represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "great weapons": {
+    "name": "great weapons",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nGreat weapons mastery is about surrendering to momentumtreating an oversized blade, axe, or hammer less like a tool and more like a force of nature channeled through your arms. Delivering a powerful overhead chop, using the weapon's reach to keep enemies at bay, or cleaving through an unarmored target are relatively easy; redirecting a missed swing's momentum into a follow-up strike, precisely controlling arc and angle to avoid allies in close quarters, or shattering a shield with a single calculated blow represents moderate difficulty; while cleaving through multiple enemies in a single sweeping arc, shattering reinforced barricades and heavy armor alike, or wielding the weapon with such terrifying speed that enemies see only a blur before the impact hits represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "hematurgy": {
+    "name": "hematurgy",
+    "type": "combat",
+    "attribute": "constitution",
+    "description": "Attribute: Constitution\nHematurgy is art of commanding the vital fluid that courses through every living creatureturning your own essence into a weapon and your enemy's veins into a liability. Drawing a thin blade of hardened blood from a self-inflicted cut, launching a spray of crystallized blood shards at close range, or sensing the heartbeat of nearby creatures through their blood are relatively easy; shaping full weapons and shields from solidified blood, boiling the blood inside a target's veins to cause searing agony, or puppeting a creature's limbs by seizing control of their circulatory system represents moderate difficulty; while draining the blood from multiple enemies simultaneously to fuel devastating constructs, commanding blood-forged golems that fight with autonomous intent, or exerting such absolute dominion over the vital fluid that you can stop hearts, rupture organs, or reshape living flesh from within represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "holy magic": {
+    "name": "holy magic",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nHoly magic channels the authority of the divine to judge the battlefielda dual-natured power that mends the faithful while searing everything profane with light that burns only what is wrong. Closing minor wounds, creating a soft guiding light, or causing discomfort to weak undead are relatively easy; healing serious injuries, shielding allies with protective wards, or banishing lesser undead with radiant force represents moderate difficulty; while regenerating grievous wounds that would otherwise be fatal, calling down pillars of holy light that purify entire areas, or channeling divine wrath so potent that even powerful undead and demonic entities are unmade by its radiance represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "hospitality": {
+    "name": "hospitality",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nHospitality is the multifaceted art of making every guest feel like the most important person in the room while keeping an establishment running flawlessly behind the scenes. Greeting patrons warmly, keeping a dining area clean and orderly, or mixing a common drink from memory are relatively easy; managing a full house during peak hours without a single complaint, crafting complex layered drinks that loosen guarded tongues, or defusing a brewing confrontation between difficult guests represents moderate difficulty; while running an establishment so smoothly it becomes a hub of information and influence, reading the entire political landscape of a town from one evening of conversation, or creating an atmosphere so welcoming that even bitter rivals lower their guard and spill secrets they intended to keep represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "illusion magic": {
+    "name": "illusion magic",
+    "type": "combat",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nIllusion magic assaults the mind through the senses, making the eyes, ears, and instincts into liabilities by rewriting what the target perceives as real. Creating a brief visual distraction, disguising your voice to sound like someone else, or making a small object appear slightly different than it is are relatively easy; projecting a convincing phantom combatant, cloaking a doorway to appear as a solid wall, or overlaying false terrain to disguise a pit trap represents moderate difficulty; while fabricating entire illusory environments indistinguishable from reality, making an army appear from thin air convincing enough to rout real soldiers, or weaving illusions so deeply into a target's perception that they cannot distinguish the real world from the fabricated one even when told the truth represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "insight": {
+    "name": "insight",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nInsight is the ability to read the truth behind the maskcatching the microexpressions, hesitations, and contradictions that betray what words try to conceal. Noticing when someone is obviously nervous or uncomfortable, reading basic body language to gauge mood, or sensing when a story doesn't quite add up are relatively easy; detecting a practiced liar's tells, understanding the true motivation behind a seemingly generous offer, or predicting how someone will react under pressure represents moderate difficulty; while reading entire power dynamics in a room at a glance, unraveling a person's deepest insecurities from a brief conversation, or anticipating betrayal before the betrayer has consciously decided to act represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "leatherwork": {
+    "name": "leatherwork",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nLeatherwork is the craft of transforming raw hide into functional, durable goods through cutting, tooling, stitching, and treatment. Cutting a straight piece from a prepared hide, stitching a simple pouch, or oiling leather to prevent cracking are relatively easy; tooling decorative patterns into hardened leather, crafting fitted armor pieces that balance protection with flexibility, or curing exotic hides that resist conventional treatment represents moderate difficulty; while creating leather armor rivaling steel in stopping power through layered hardening techniques, working monster hides whose properties defy normal craftsmanship, or producing pieces of such masterful construction they endure decades of hard use without showing wear represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "light magic": {
+    "name": "light magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nLight magic weaponizes clarity and radiance, turning pure brilliance into a searing physical force that cuts, burns, and blinds with surgical precision. Creating a bright flash to dazzle an opponent, projecting a focused beam to illuminate dark spaces, or bending light around a small object to make it harder to see are relatively easy; firing concentrated light beams that burn through armor, creating blinding explosions of radiance across a wide area, or bending light to render yourself partially invisible represents moderate difficulty; while calling down sustained columns of searing light that incinerate everything they touch, creating hard-light constructs solid enough to serve as barriers or weapons, or manipulating light so completely that an entire group becomes invisible or a battlefield is illuminated as bright as noon at midnight represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "lightning magic": {
+    "name": "lightning magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nLightning magic channels the chaotic snap of the storm into a weapon of blinding speedan art that bypasses the notion of travel time to strike with instant, erratic devastation. Delivering a sharp static shock on contact, sending a small arc of electricity between your fingers, or charging a metal object to give anyone who touches it a jolt are relatively easy; hurling a bolt of lightning at a target, chaining electricity through multiple enemies in contact with each other, or paralyzing a target's muscles with a precisely calibrated shock represents moderate difficulty; while calling down thunderbolts from clear skies, sustaining continuous arcs of lightning that leap unpredictably between dozens of targets, or discharging electromagnetic pulses powerful enough to fry every nerve and mechanism within a wide radius represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "lore: magitech": {
+    "name": "lore: magitech",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nLore: Magitech is the accumulated knowledge of how arcane energy and mechanical engineering intertwine in the modern worldunderstanding the systems, standards, and dangers without necessarily building them yourself. Recognizing common magitech devices and their basic function, identifying standard safety markings, or knowing which institutions regulate magitech use are relatively easy; diagnosing why a magitech device is malfunctioning from its symptoms, understanding classified or military-grade magitech specifications, or predicting the blast radius of a failing mana containment system represents moderate difficulty; while possessing encyclopedic knowledge of proprietary systems across multiple manufacturers, identifying experimental or prototype technology on sight, or understanding theoretical magitech applications that haven't been built yet represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "lore: precursors": {
+    "name": "lore: precursors",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nLore: Precursors is the scholarly pursuit of understanding civilizations that rose and fell before recorded historytheir technologies, symbols, and the mysteries surrounding their collapse. Recognizing common precursor architectural styles, reading basic precursor glyphs, or knowing widely accepted theories about their disappearance are relatively easy; translating complex precursor inscriptions, identifying the purpose of an unfamiliar precursor artifact, or distinguishing genuine precursor sites from natural formations or later imitations represents moderate difficulty; while deciphering precursor systems that modern scholars have dismissed as indecipherable, predicting the function of intact precursor devices from fragmentary evidence, or piecing together connections between scattered precursor sites that reveal patterns invisible to lesser scholars represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "magitech engineering": {
+    "name": "magitech engineering",
+    "type": "utility",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nMagitech engineering is the hands-on discipline of building, repairing, and stabilizing the volatile marriage of mana and machinerywhere one wrong connection can mean a spectacular explosion. Performing routine maintenance on a stable magitech device, replacing a burned-out mana conduit, or safely powering down a malfunctioning system are relatively easy; constructing a functional magitech device from a blueprint, rerouting mana flow to bypass damaged components in the field, or integrating parts from incompatible systems represents moderate difficulty; while improvising magitech solutions from scavenged components under combat conditions, stabilizing catastrophically failing mana containment without tools, or designing and building custom devices that push the boundaries of what current magitech theory considers possible represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "magitech melee weapons": {
+    "name": "magitech melee weapons",
+    "attribute": "strength",
+    "type": "combat",
+    "description": "Attribute: Strength\nMagitech melee weapons mastery fuses the cold reliability of steel with the volatile power of channeled manaturning every strike into a potential detonation of arcane force. Activating a weapon's basic mana function, performing standard strikes with a powered blade, or safely maintaining a magitech weapon's edge and mana chamber are relatively easy; timing mana discharges to detonate on impact for maximum damage, switching between a weapon's multiple mana modes mid-combat, or fighting effectively when the weapon's mana system is partially damaged represents moderate difficulty; while overcharging weapons for devastating single strikes that cleave through magical barriers, chaining mana discharges across successive hits to build explosive crescendos of power, or pushing magitech weapons beyond their rated limits without triggering catastrophic failure represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "magitech ranged weapons": {
+    "name": "magitech ranged weapons",
+    "attribute": "dexterity",
+    "type": "combat",
+    "description": "Attribute: Dexterity\nMagitech ranged weapons proficiency channels volatile mana through precise engineering, blending the devastating power of a spell with the reliability of a mechanical firing platform. Firing a mana-charged shot at a stationary target, managing basic recoil from arcane discharge, or performing field maintenance on a magitech firearm are relatively easy; adjusting mana charge levels for penetration versus spread, landing accurate shots while compensating for mana drift at long range, or clearing a mana misfire under combat pressure represents moderate difficulty; while threading charged shots through narrow gaps at extreme range, managing mana output so precisely that switching between lethal and non-lethal force happens between trigger pulls, or coaxing performance from damaged or improvised magitech weapons that would explode in lesser hands represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "mindshaping": {
+    "name": "mindshaping",
+    "type": "combat",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nMindshaping is the art of reaching directly into another creature's consciousness to reshape perception, emotion, and thought itselffor harm or healing. Simple applications like calming anxiety, planting momentary confusion, or nudging emotions in subtle directions are relatively easy; compelling temporary obedience, mending psychological trauma, or dramatically shifting someone's mental state represents moderate difficulty; while permanently rewriting memories, curing deep-seated madness, or fundamentally reshaping personality represents hard difficultyand carries grave ethical weight and risk.",
+    "startingItems": []
+  },
+  "mountaineering": {
+    "name": "mountaineering",
+    "type": "utility",
+    "attribute": "constitution",
+    "description": "Attribute: Constitution\nMountaineering is the discipline of conquering vertical worldsthe knowledge of rock, ice, altitude, and the body's limits that separates those who climb from those who fall. Ascending a steep but stable slope, setting basic anchor points, or managing exertion in thin air are relatively easy; free-climbing an exposed rock face, navigating a glacier with hidden crevasses, or enduring multi-day ascents in freezing conditions without losing function represents moderate difficulty; while scaling sheer cliff faces in storm conditions, traversing mountain passes that have claimed dozens of experienced climbers, or operating at extreme altitudes where most people would collapse from oxygen deprivation represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "nature magic": {
+    "name": "nature magic",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nNature magic taps into the savage and vibrant pulse of the living world, borrowing its power to heal, restrain, and destroy through the endless arsenal of the natural order. Encouraging a plant to grow toward light, soothing a frightened animal, or accelerating the healing of a minor wound are relatively easy; commanding roots and vines to entangle enemies, calling a swarm of insects to harass a target, or rapidly closing a serious wound through accelerated natural regeneration represents moderate difficulty; while awakening ancient trees into lumbering guardians, summoning apex predators to fight at your side, or unleashing the full fury of nature itselfchoking battlefields in impenetrable undergrowth or healing injuries that would otherwise require divine intervention represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "navigation": {
+    "name": "navigation",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nNavigation is the art of always knowing where you are, where you've been, and how to reach where you need to goreading stars, terrain, and instinct like a living compass. Following a well-marked road, using a clear map in familiar territory, or orienting yourself by the sun's position are relatively easy; navigating by stars through unfamiliar wilderness, finding your way through a featureless desert or open ocean, or retracing a complex route through winding caverns from memory represents moderate difficulty; while navigating through magically distorted terrain, maintaining perfect orientation in environments designed to confuse, or charting entirely new routes through unmapped regions with uncanny accuracy represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "perception": {
+    "name": "perception",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nPerception is the discipline of heightened awarenesstraining your senses to catch what others overlook, from the glint of a tripwire to the whisper of a blade being drawn. Noticing an open window in an otherwise secured building, hearing loud footsteps approaching from behind a door, or spotting an obvious ambush point are relatively easy; detecting a hidden figure in deep shadow, hearing a whispered conversation through a wall, or noticing a subtle poison's scent in food represents moderate difficulty; while sensing an invisible creature by the displacement of air, detecting a trap by the faintest irregularity in stonework, or maintaining perfect situational awareness of an entire chaotic battlefield simultaneously represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "psionics": {
+    "name": "psionics",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nPsionics proves that the mind is the sharpest weapon of all, projecting will as invisible force to move, crush, and shatter without ever lifting a finger. Nudging a small object across a table, delivering a jarring mental pulse that breaks concentration, or sensing nearby conscious minds are relatively easy; hurling enemies through the air with telekinetic force, creating a sustained psychic barrier to deflect attacks, or simultaneously restraining multiple targets with mental pressure represents moderate difficulty; while crushing armor like parchment with focused thought, projecting psychic shockwaves that flatten everything in a wide radius, or lifting and hurling objects massive enough to demolish structures represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "seamanship": {
+    "name": "seamanship",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nSeamanship is the accumulated wisdom of wind, wave, and woodthe knowledge that keeps a vessel afloat and its crew alive when the sea turns hostile. Tying basic sailing knots, reading obvious weather signs, or handling a small boat in calm waters are relatively easy; navigating through a squall without losing heading, managing a full crew during a complex maneuver, or reading treacherous currents to avoid hidden reefs represents moderate difficulty; while sailing through hurricane conditions and emerging intact, navigating featureless ocean for weeks using only stars and wave patterns, or coaxing impossible speed and maneuverability from vessels that lesser sailors would consider barely seaworthy represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "shadow magic": {
+    "name": "shadow magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nShadow magic gives weight and substance to the absence of light, turning darkness from a passive backdrop into a malleable weapon, shield, and highway. Deepening natural shadows to improve concealment, creating a patch of unnatural darkness, or making a shadow move independently of its source are relatively easy; stepping into one shadow and emerging from another across a room, forming solid tendrils of darkness to strike or bind enemies, or cloaking an entire group in shadow thick enough to muffle sound represents moderate difficulty; while transforming your body into living shadow to become nearly invulnerable to physical attacks, creating permanent zones of sentient darkness that actively hunt intruders, or opening gateways through the shadow plane to travel vast distances instantaneously represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "spatial magic": {
+    "name": "spatial magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nSpatial magic treats distance as a suggestion rather than a rule, folding, stretching, and severing the fabric of space itself to outmaneuver and annihilate. Blinking a short distance in a straight line, creating a small spatial distortion that nudges a projectile off course, or sensing dimensional instabilities nearby are relatively easy; teleporting across a battlefield mid-combat, opening a rift that redirects an incoming attack to strike the attacker, or trapping an enemy in a pocket of compressed space represents moderate difficulty; while opening stable portals across vast distances, severing the space an enemy occupies to cut them apart without a blade, or folding an entire room so that two locations exist simultaneously in the same point represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "stealth": {
+    "name": "stealth",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nStealth is the discipline of becoming invisible in plain sightmastering silence, shadow, and the art of being exactly where no one thinks to look. Moving quietly across a wooden floor, hiding behind adequate cover, or tailing someone through a crowded street are relatively easy; crossing an open moonlit courtyard undetected, remaining motionless and unseen while a search party passes within arm's reach, or silently neutralizing a guard without alerting nearby patrols represents moderate difficulty; while infiltrating heavily guarded fortresses without a single alarm, moving through broad daylight without being noticed by using crowd flow and blind spots, or shadowing a paranoid target for days without once being detected represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "tailoring": {
+    "name": "tailoring",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nTailoring is the craft of turning thread and fabric into garments that fit like a second skinfunctional, flattering, and sometimes concealing more than they reveal. Mending a torn seam, hemming a garment to fit, or sewing a simple tunic from a basic pattern are relatively easy; crafting fitted clothing for unusual body types, creating garments with hidden compartments for concealed weapons or documents, or reproducing a specific uniform convincingly enough to pass inspection represents moderate difficulty; while creating outfits of such exquisite craftsmanship they influence how others perceive the wearer, designing garments that function as flexible armor without appearing protective, or tailoring for non-humanoid anatomy with the same precision others apply to standard forms represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "unholy magic": {
+    "name": "unholy magic",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nUnholy magic is the grim art of weaponizing the cycle of deathtreating the battlefield as a resource to be harvested, recycled, and turned against the living. Inflicting a minor necrotic wound that saps vitality, sensing the presence of recent death nearby, or causing small amounts of organic matter to decay rapidly are relatively easy; raising a fresh corpse as an obedient thrall, draining an enemy's life force to restore your own, or cursing a target so their wounds refuse to heal represents moderate difficulty; while raising entire graveyards into shambling armies, siphoning the life from multiple targets simultaneously to fuel devastating necrotic blasts, or wielding death energy so potently that the living wither in your presence and the fallen rise unbidden to serve represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "water magic": {
+    "name": "water magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nWater magic mimics the relentless, crushing weight of the oceana fluid discipline that shifts instantly between soft defense and devastating impact. Drawing moisture from the air to create a small stream, deflecting a blow with a cushion of pressurized water, or manipulating existing water to splash or drench a target are relatively easy; launching high-pressure water jets that cut through wood and leather, binding an enemy's limbs in tendrils of living water, or raising a wall of water dense enough to stop projectiles represents moderate difficulty; while summoning tidal waves from seemingly nowhere, crushing enemies under spheres of compressed water pressure, or controlling entire bodies of water to flood battlefields, drown fortifications, or create whirlpools that swallow everything within reach represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "wind magic": {
+    "name": "wind magic",
+    "type": "combat",
+    "attribute": "intelligence",
+    "description": "Attribute: Intelligence\nWind magic turns the invisible air into an arsenalshoving, slicing, and lifting with a force that cannot be parried because it cannot be seen. Creating a gust strong enough to slam a door or stagger a person, deflecting incoming arrows with a burst of air, or amplifying your own voice to carry across a battlefield are relatively easy; launching razor-thin vacuum blades that slice through armor, generating sustained gale-force winds that pin enemies against walls, or riding air currents to glide short distances represents moderate difficulty; while conjuring tornadoes that tear structures apart, creating vacuums that suffocate enemies within a sealed area, or flying with effortless grace while hurling hurricane-force winds that scatter entire formations like leaves represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "shield": {
+    "name": "shield",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nShield proficiency transforms a slab of wood, metal, or reinforced composite into a weapon in its own right  not merely absorbing punishment, but redirecting force, creating openings, and controlling the flow of battle through disciplined positioning. Blocking a direct strike, maintaining a stable guard under light pressure, or advancing behind the shield without losing visibility are relatively easy; angling the shield to deflect a heavy blow without absorbing its full force, bashing an opponent off balance to create an opening, or protecting an adjacent ally while remaining combat-effective yourself represents moderate difficulty; while holding a chokepoint against overwhelming numbers through perfect timing and footwork, turning an enemy's momentum against them with precisely angled deflections, or seamlessly weaving shield blocks, bashes, and counterstrikes into a single unbroken rhythm that makes you as dangerous to approach as to attack represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "ranged weapons": {
+    "name": "ranged weapons",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nRanged weapons proficiency is the art of ending threats at a distance  bows, crossbows, and similar projectile weapons that demand steady hands, sharp eyes, and the instinct to read movement before it happens. Hitting a stationary target at moderate range, compensating for a light crosswind, or maintaining steady aim from a braced position are relatively easy; tracking and leading a moving target, threading a shot through a narrow gap in cover, or reloading and firing under pressure without losing accuracy represents moderate difficulty; while placing shots with lethal precision from extreme range, firing with deadly accuracy while moving at speed, or reading a battlefield so instinctively that every shot finds the target that matters most  the one about to strike your ally, the one reaching for an alarm, the one you cannot afford to miss represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "martial arts": {
+    "name": "martial arts",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nMartial arts is the refined discipline of turning the body into a precise instrument of combat  where brawling overwhelms through force, martial arts dismantles through technique, timing, and economy of motion. Executing a proper striking form, redirecting a clumsy grab, or maintaining a stable fighting stance under pressure are relatively easy; reading an opponent's weight distribution to predict their next attack, chaining strikes and evasions into seamless combinations, or using an enemy's own momentum to throw them off balance represents moderate difficulty; while neutralizing armed opponents through targeted joint locks and disabling strikes, fighting multiple attackers by positioning so precisely that they obstruct each other, or moving with such refined speed and control that every dodge becomes a counter and every counter flows into the next without a wasted breath represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "formweaving": {
+    "name": "formweaving",
+    "type": "combat",
+    "attribute": "constitution",
+    "description": "Attribute: Constitution\nFormweaving is the discipline of treating your own flesh as raw material  -  reshaping bone, muscle, and skin through focused will to grow weapons, armor, and appendages that no forge could produce. Hardening your forearm into a bony ridge to block a strike, sprouting short claws from your fingertips, or thickening your skin against the cold are relatively easy; growing a full set of rending talons, extending your reach with elongated limbs, or developing a chitinous carapace that turns blades represents moderate difficulty; while sprouting functional wings capable of sustained flight, splitting your arms into additional limbs that act independently, or reshaping your entire body into a form optimized for a single devastating purpose  -  siege-breaking mass, aquatic predator, or something that has no name in any bestiary  -  represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "summoning": {
+    "name": "summoning",
+    "type": "combat",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nSummoning is the art of imposing your will across the boundary between thought and substance  -  pulling constructs, servants, and bound entities into existence through concentrated intent and sustained mental command. Manifesting a small elemental wisp to scout ahead, conjuring a translucent barrier with rudimentary solidity, or calling forth a minor construct to carry objects are relatively easy; summoning a fully formed elemental warrior that fights with autonomous aggression, conjuring multiple constructs simultaneously while maintaining coherent control over each, or binding a hostile entity to temporary servitude through sheer force of will represents moderate difficulty; while tearing open stable conjuration portals that pour forth legions of constructs, summoning entities of such complexity they exhibit independent tactics and adapt to threats on their own, or maintaining a permanent summoned guardian whose power rivals your own and whose loyalty is absolute represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "sound magic": {
+    "name": "sound magic",
+    "type": "combat",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nSound magic weaponizes vibration itself  -  turning voice, resonance, and silence into instruments of devastation that bypass armor, shatter structure, and assault the senses from every direction simultaneously. Amplifying your voice into a disorienting shout, creating a sharp crack of sound to startle or distract, or dampening noise in a small area are relatively easy; launching concussive blasts that rupture eardrums and crack stone, creating zones of absolute silence that deny enemy communication and spellcasting, or finding the resonant frequency of a structure to shake it apart represents moderate difficulty; while unleashing sustained sonic barrages that liquefy internal organs without breaking skin, weaponizing harmonics to shatter enchantments and magical barriers, or producing frequencies so precisely tuned they can target a single enemy in a crowd while leaving everyone else untouched represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "venomancy": {
+    "name": "venomancy",
+    "type": "combat",
+    "attribute": "constitution",
+    "description": "Attribute: Constitution\nvenomancy is the combat application of venom, poison, and corrosive agents  -  delivered through coated weapons, exhaled clouds, and secretions produced by a body hardened to its own arsenal. Applying a basic contact poison to a blade, identifying a toxin by its symptoms, or building resistance to common venoms through controlled exposure are relatively easy; secreting paralytic agents from your skin on command, exhaling clouds of debilitating vapor that linger in an area, or layering multiple toxins so their combined effects are far worse than either alone represents moderate difficulty; while producing custom toxins within your own body tailored to a specific target's biology, generating corrosive agents potent enough to dissolve metal and stone, or weaponizing your blood and breath to such a degree that simply being near you becomes lethal to the unprepared represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "medicine": {
+    "name": "medicine",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nMedicine is the disciplined art of keeping flesh alive through knowledge, tools, and steady hands  -  no prayers, no mana, just anatomy and experience. Cleaning and bandaging a wound, recognizing symptoms of common illnesses, or setting a simple fracture are relatively easy; performing field surgery to remove an arrowhead without causing further damage, diagnosing a rare disease from subtle symptoms, or stabilizing a critically injured patient long enough to reach proper care represents moderate difficulty; while amputating a limb cleanly under combat conditions with improvised tools, identifying and counteracting an unknown poison from its physiological effects alone, or performing the kind of precise reconstructive work that restores full function to a mangled limb represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "riding": {
+    "name": "riding",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nRiding is the art of becoming one with a mount  -  reading its movements, anticipating its reactions, and directing its power through subtle shifts in weight, grip, and command. Maintaining a steady seat at walking pace, guiding a calm mount along a clear road, or dismounting safely from a standing horse are relatively easy; controlling a mount at full gallop through uneven terrain, staying seated while the animal panics or bucks, or executing sharp turns and sudden stops without losing balance represents moderate difficulty; while fighting effectively from the saddle against ground-based opponents, performing mounted acrobatic maneuvers at speed, or bonding so completely with an unfamiliar mount that it responds to your commands within moments as though you had trained it from birth represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "larceny": {
+    "name": "larceny",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nLarceny is the invisible art of taking what isn't yours and going where you aren't welcome  -  nimble fingers that pick locks, lift purses, and make objects vanish while every eye in the room sees nothing but innocence. Palming a coin, opening a simple padlock, or slipping a small object into your pocket unnoticed are relatively easy; pickpocketing a key from a guarded individual, bypassing a trapped lock without triggering its mechanism, or planting evidence on someone during a handshake represents moderate difficulty; while defeating masterwork locks designed to resist picking, stealing a worn ring from a suspicious target in broad daylight, or opening any security so quickly and quietly that bystanders never realize anything happened in the first place represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "mining": {
+    "name": "mining",
+    "type": "utility",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nMining is the grueling discipline of extracting wealth from stubborn rock  -  reading stone the way a tracker reads soil, knowing where veins run, where supports fail, and where one wrong swing brings a ceiling down. Breaking surface rock to expose a shallow deposit, identifying common ore types by sight, or shoring up a stable tunnel with basic supports are relatively easy; following a vein through branching rock, safely excavating in unstable ground, or identifying the geological signs that indicate gemstone deposits nearby represents moderate difficulty; while locating rare deposits by subtle environmental signatures invisible to untrained eyes, mining in actively dangerous or magically unstable conditions without triggering collapse, or reading subterranean geology so intuitively that you can map tunnel networks and resource veins from surface features alone represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "carpentry": {
+    "name": "carpentry",
+    "type": "utility",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nCarpentry is the hands-on craft of shaping raw timber into everything a civilization needs  -  from furniture and fences to wagon wheels, weapon hafts, and the structural bones of buildings. Cutting planks to size, repairing a broken door or wagon spoke, or building a simple shelf or crate are relatively easy; crafting fitted furniture, building a watertight hull for a small boat, or constructing load-bearing structural supports that meet a builder's specifications represents moderate difficulty; while working exotic or magically resistant woods that splinter lesser tools, crafting without nails or fasteners using interlocking joinery of such precision it outlasts the metal equivalent, or producing work of such artistry and structural integrity that it becomes a landmark in its own right represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "streetwise": {
+    "name": "streetwise",
+    "type": "utility",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nStreetwise is the hard-won knowledge of how cities really work  -  not the laws written in ledgers, but the rules enforced in alleys, the economies that run on whispers, and the networks that move goods, people, and information through channels no official map will ever show. Identifying which neighborhoods are dangerous after dark, finding a cheap place to sleep without getting robbed, or recognizing common street scams are relatively easy; locating a black market fence, reading gang territory markers and knowing whose protection you're under, or finding a safehouse in an unfamiliar city through underworld contacts represents moderate difficulty; while navigating the politics between rival criminal organizations without making enemies, brokering introductions to figures so connected they can move contraband across borders or make warrants disappear, or building a network of informants so extensive that nothing happens in a city's underbelly without word reaching you represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "fishing": {
+    "name": "fishing",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nFishing is the patient art of reading water  -  understanding currents, seasons, and the habits of creatures beneath the surface to harvest what rivers, lakes, and oceans provide. Catching common fish with a line and hook, identifying edible versus toxic catches, or reading obvious signs of fish activity in calm water are relatively easy; net fishing in moving water, locating deep pools where larger species shelter, or preserving a large catch for long-distance travel represents moderate difficulty; while tracking rare aquatic species through behavioral patterns and water conditions, fishing in dangerous or magically tainted waters without losing gear or life, or reading underwater terrain so intuitively that you can locate spawning grounds, represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "illustration": {
+    "name": "illustration",
+    "type": "utility",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nIllustration is the discipline of capturing the world in precise strokes  -  translating what the eye sees into permanent, portable visual record through pen, charcoal, paint, or any medium that holds a mark. Sketching a rough but recognizable portrait, copying a simple symbol from reference, or drawing a basic map of a route you traveled are relatively easy; producing an accurate likeness from memory, reproducing fading inscriptions with enough fidelity to preserve their meaning, or creating technical schematics detailed enough for another craftsman to work from represents moderate difficulty; while capturing a scene with such precision that investigators can reconstruct events from your drawing alone, forging paintings convincing enough to pass as a master's original, or producing maps, diagrams, and anatomical illustrations of such clarity and accuracy that they become definitive reference works represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "martial weapons": {
+    "name": "martial weapons",
+    "type": "combat",
+    "attribute": "strength",
+    "description": "Attribute: Strength\nMartial weapons proficiency is the discipline of turning forged steel into an extension of your will  -  swords, axes, maces, spears, sword whips, and every bladed or bludgeoning instrument that rewards strength and committed strikes, whether swung in close combat or hurled at range. Delivering a solid blow with a longsword, maintaining proper guard with an axe, or putting enough spin on a throwing axe for a clean rotation are relatively easy; chaining strikes that flow from one angle to another without losing momentum, burying a thrown javelin into a moving target from a dead sprint, or exploiting the unique properties of each weapon type to counter different fighting styles represents moderate difficulty; while cleaving through armored targets with devastating precision, hurling weapons with enough force to pin enemies to walls at distances that rival bowfire, or fighting with such fluid brutality that each swing sets up the next in an unbroken cascade of steel represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "agile weapons": {
+    "name": "agile weapons",
+    "type": "combat",
+    "attribute": "dexterity",
+    "description": "Attribute: Dexterity\nAgile weapons proficiency favors precision over power  -  daggers, rapiers, wires, kodachi, and other light or exotic weapons that reward quick reflexes, exact placement, and the patience to find openings rather than force them, whether wielded in close combat or thrown with lethal accuracy. Landing a clean thrust at an exposed joint, parrying a heavier weapon with proper timing, or placing a thrown knife in a target at close range are relatively easy; threading a blade through a gap in armor faster than the opponent can close it, slashing from impossible angles with a wire, or throwing accurately with either hand without breaking stride represents moderate difficulty; while striking with such speed and accuracy that opponents cannot distinguish feint from killing blow, weaving webs of wire that turn corridors into kill zones, or placing a thrown blade in an eye slit from across a crowded room represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "horticulture": {
+    "name": "horticulture",
+    "type": "utility",
+    "attribute": "wisdom",
+    "description": "Attribute: Wisdom\nHorticulture is the patient covenant between grower and earth  -  the accumulated wisdom of soil, season, and the language of living plants, from a windowsill herb bed to a sprawling estate. Tilling soil and planting common crops, maintaining a simple herb garden, or recognizing healthy versus diseased plants are relatively easy; managing a large estate's output through drought, crossbreeding crops for hardier yields, or coaxing rare and temperamental species to thrive outside their native climate represents moderate difficulty; while developing entirely new crop strains through selective breeding, growing plants thought impossible for the region, or managing agricultural output so efficiently that a single operation feeds a small town while simultaneously supplying an alchemist's full ingredient list represents hard or greater difficulty.",
+    "startingItems": []
+  },
+  "demonic magic": {
+    "name": "demonic magic",
+    "type": "combat",
+    "attribute": "charisma",
+    "description": "Attribute: Charisma\nDemonic magic is the art of channeling raw Interdictum mana through the lens of your personal nature -- the fundamental emotion that defines your existence as a demon. Unlike mortal magic which draws from external mana and shapes it through learned formulae, demonic magic is an extension of what you ARE. The effects it produces are shaped by your demonic aspect: a kitsune's demonic magic manifests as foxfire illusions and supernatural manipulation, an oni's as devastating force projection and honour-bonds, a tengu's as wind-cutting strikes and technique-theft, a Luxuria's as desire-shaping and emotional control, a shinigami's as entropy acceleration and soul-reading, a tanuki's as probability manipulation and shape-theft, a rakshasa's as authority projection and reality-decree. Creating minor aspect-aligned effects -- a flicker of foxfire, a pulse of intimidating force, a momentary read of someone's desires -- is relatively easy. Projecting your nature as a combat weapon, reshaping local reality to match your nature, or imposing your will on another demon's domain represents moderate difficulty. Overwriting another being's nature entirely, manifesting your aspect at a scale that reshapes the battlefield, or channeling enough demonic force to wound a Demon Lord represents hard or greater difficulty. Demonic magic consumes demonic energy, not mana.",
+    "startingItems": []
+  }
+}

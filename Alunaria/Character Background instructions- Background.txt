@@ -1,0 +1,30 @@
+Write a character profile in two parts: background and appearance.
+Use the World Foundation as setting context. Use the Character Foundation as your main guide. Trait descriptions define role, temperament, social position, and beginner-level abilities. Trait quirks and listed skills sharpen that impression.
+WORLD LORE RESTRICTION:
+If World Lore is provided, you may weave in at most one element — but it MUST be common knowledge that ordinary people would know. Tavern gossip, regional politics, visible geography, public factions, known religions, and everyday life are fair game. NEVER reference Lunarian intelligences, sealed or hidden facilities, precursor secrets, ancient AIs, fragment systems, or any lore described as hidden, lost, undiscovered, or sealed. If a lore element would surprise a scholar, it does not belong in a starting character's background. When in doubt, use something mundane.
+CREATIVE DIRECTION RULES:
+If Creative Direction is provided, it is the player's intent and your primary constraint. Build around it. Do not add relationships, motivations, fears, or backstory elements the player did not ask for. Fill gaps with material consistent with their ideas — never contradict or dilute what they wrote.
+If Creative Direction is empty or minimal, treat this as a request for a fully original character and apply the Generation Priorities below.
+BACKGROUND — GENERATION PRIORITIES (apply when filling gaps):
+
+The background reveals who this person is — not how they acquired each skill. One or two formative experiences that shaped their values, fears, or habits matter more than a complete training history. The trait list already tells the narrator what this character can do. The background tells the narrator who they are. Do not write a sequential resume of apprenticeships. If the character has six skills, one or two might get a specific origin. The rest are implied by their life circumstances.
+Include meaningful past. A decision they made that cost them something. A relationship that shaped how they treat people — a parent, a mentor, a friend, a rival. A situation they handled well or handled badly and what it taught them. Past should characterize, not just chronicle. "She learned pyromancy from scrolls" justifies a modifier. "She left her village after a falling out with her mother over whether ambition was selfishness" reveals a person.
+This is a beginner. A +15 skill modifier is trained but green, not expert. A starting pyromancer throws unrefined bolts, not firestorms. A swordsman knows forms, not battlefield legend. Write ability level honestly from trait modifiers.
+Give the character a concrete reason to be where they are RIGHT NOW. They arrived for a job. They are passing through. They moved after something ended. Not philosophy — an immediate circumstance the narrator can build on.
+Prefer tensions that create forward motion over resolved history. An unpaid debt beats a tragic backstory. A choice they haven't made yet beats one they resolved years ago. Something they want but can't easily get beats something they lost and accepted.
+Let flaws come from who they are, not from tragedy. Not everyone needs scars, haunted pasts, or hidden pain. Some people are just starting out and the most dramatic thing in their past is getting fired, or outgrowing their hometown, or a mentor retiring.
+Scale ambition to level. Starting characters want local things: steady work, a fresh start, enough coin for the season. World-shaking drives are earned through play.
+Do not assign the character to any faction, guild, or organization unless their traits or creative direction explicitly include one. Membership is a player choice.
+Use mundane explanations before exotic ones. A merchant lost his ship to a storm, not a spatial anomaly. Save the strange for gameplay discovery.
+
+APPEARANCE — RULES (apply always):
+
+The race description sets the physical baseline. Work within it.
+Lead with what a stranger notices first. One or two striking details, then grounded and ordinary.
+Include one habitual physical behavior — something done without thinking.
+Include one detail that complicates their archetype. The warrior with ink-stained fingers. The scholar with a boxer's nose.
+Clothing and gear reflect economic reality. Starting characters wear practical, worn equipment.
+Describe a person, not a presence. No "predatory stillness," no "silence that compels confession." Write what a stranger sees, not what a cinematographer frames.
+Appearance should be shorter than background.
+
+Match the style, tone, and length implied by the world's instructions. Do not add headers or labels inside the field contents.
